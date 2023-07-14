@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LangVersion>4</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{9B0FFD46-CB05-7573-5EDA-8DEF60E18EAA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2017_4_40;UNITY_2017_4;UNITY_2017;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_GRID;ENABLE_TILEMAP;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;ENABLE_SPRITE_MASKING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_VIDEO;ENABLE_RMGUI;ENABLE_PACKMAN;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_STYLE_SHEETS;ENABLE_LOCALIZATION;ENABLE_RUNTIME_GI;ENABLE_SUBSTANCE;ENABLE_GAMECENTER;ENABLE_NETWORK;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_IOS_NATIVE_CRASH_REPORTING;PLAYERCONNECTION_LISTENS_FIXED_PORT;DEBUGGER_LISTENS_FIXED_PORT;PLATFORM_SUPPORTS_ADS_ID;SUPPORT_ENVIRONMENT_VARIABLES;PLATFORM_SUPPORTS_PROFILER;PLATFORM_HAS_NO_SUPPORT_FOR_BUCKET_ALLOCATOR;STRICTCPP_NEW_DELETE_SIGNATURES;HAS_NEON_SKINNIG;UNITY_GFX_USE_PLATFORM_VSYNC;UNITY_INPUT_SIMULATE_EVENTS;PLATFORM_ALWAYS_USES_STDOUT_FOR_LOG;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_VR;ENABLE_AR;ENABLE_SPATIALTRACKING;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;PLATFORM_IOS;UNITY_IOS;PLATFORM_IPHONE;UNITY_IPHONE;UNITY_IPHONE_API;SUPPORT_MULTIPLE_DISPLAYS;ENABLE_IL2CPP;NET_2_0_SUBSET;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;LUA_5_3;_None_LINK_NATIVE_;ENABLE_IOS_ON_DEMAND_RESOURCES;ENABLE_IOS_APP_SLICING;UNITY_HAS_GOOGLEVR;ENABLE_MONO</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Plugins\BuglyPlugins\BuglyAgent.cs" />
+     <Compile Include="Assets\Plugins\BuglyPlugins\BuglyCallback.cs" />
+     <Compile Include="Assets\Plugins\BuglyPlugins\BuglyInit.cs" />
+     <Compile Include="Assets\Plugins\lzip.cs" />
+     <Compile Include="Assets\Plugins\script\Game.cs" />
+     <Compile Include="Assets\Plugins\script\GameAds.cs" />
+     <Compile Include="Assets\Plugins\script\GameAnalytics.cs" />
+     <Compile Include="Assets\Plugins\script\GameCrash.cs" />
+     <Compile Include="Assets\Plugins\script\GameCustom.cs" />
+     <Compile Include="Assets\Plugins\script\GameIAP.cs" />
+     <Compile Include="Assets\Plugins\script\GameParam.cs" />
+     <Compile Include="Assets\Plugins\script\GamePush.cs" />
+     <Compile Include="Assets\Plugins\script\GameREC.cs" />
+     <Compile Include="Assets\Plugins\script\GameShare.cs" />
+     <Compile Include="Assets\Plugins\script\GameSocial.cs" />
+     <Compile Include="Assets\Plugins\script\GameUser.cs" />
+     <Compile Include="Assets\Plugins\script\GameUtil.cs" />
+     <Compile Include="Assets\Plugins\ShareSDK\Android\AndroidImpl.cs" />
+     <Compile Include="Assets\Plugins\ShareSDK\AndroidMobSDKImpl.cs" />
+     <Compile Include="Assets\Plugins\ShareSDK\ContentType.cs" />
+     <Compile Include="Assets\Plugins\ShareSDK\Demo.cs" />
+     <Compile Include="Assets\Plugins\ShareSDK\iOS\iOSImpl.cs" />
+     <Compile Include="Assets\Plugins\ShareSDK\iOSMobSDKImpl.cs" />
+     <Compile Include="Assets\Plugins\ShareSDK\MiniJSON.cs" />
+     <Compile Include="Assets\Plugins\ShareSDK\MobSDK.cs" />
+     <Compile Include="Assets\Plugins\ShareSDK\MobSDKImpl.cs" />
+     <Compile Include="Assets\Plugins\ShareSDK\PlatformType.cs" />
+     <Compile Include="Assets\Plugins\ShareSDK\ResponseState.cs" />
+     <Compile Include="Assets\Plugins\ShareSDK\ShareContent.cs" />
+     <Compile Include="Assets\Plugins\ShareSDK\ShareSDK.cs" />
+     <Compile Include="Assets\Plugins\ShareSDK\ShareSDKDevInfo.cs" />
+     <Compile Include="Assets\Plugins\ShareSDK\ShareSDKImpl.cs" />
+     <Compile Include="Assets\Plugins\ShareSDK\ShareSDKRestoreScene.cs" />
+     <Compile Include="Assets\Plugins\Tyrantdb\Tyrantdb.cs" />
+     <Compile Include="Assets\Plugins\Tyrantdb\TyrantdbAppInfo.cs" />
+     <None Include="Assets\Plugins\Android\res\values\ssdk_oks_strings.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xd_start_bottom_bg_round.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xdsdk_login_center_taptap.xml" />
+     <None Include="Assets\Plugins\Android\res\values-en\ssdk_strings.xml" />
+     <None Include="Assets\Plugins\Android\res\anim\animation_from_half_left_slide.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\webview_progress.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\ssdk_weibo_retry_btn_selector.xml" />
+     <None Include="Assets\Plugins\Android\res\values\values.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xd_pay_alipay_bg.xml" />
+     <None Include="Assets\Plugins\Android\res\layout-port\register.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xd_start_guest_click.xml" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+     <None Include="Assets\Plugins\Android\res\values\ssdk_strings.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\xdsdk__page_register_content.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xd_ucenter_upgrade_bg.xml" />
+     <None Include="Assets\Plugins\Android\res\layout-port\xdsdk_login.xml" />
+     <None Include="Assets\Plugins\Android\res\layout-port\xdsdk__dialog.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\pay_left_form_bg_round.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\fragment_login.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xd_register_edittext_bottom_radius.xml" />
+     <None Include="Assets\Plugins\Android\res\values\styles.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\ssdk_weibo_retry_btn_press.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\xdsdk__page_verification_content.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\pop_dialog.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xd_ucenter_service_bg.xml" />
+     <None Include="Assets\Plugins\Android\res\values-en\ssdk_oks_strings.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\register_checkbox.xml" />
+     <None Include="Assets\Plugins\Android\res\layout-land\start_youke.xml" />
+     <None Include="Assets\Plugins\Android\res\layout-port\xdsdk_bind_without_xd.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xd_pay_weixin_bg.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xdsdk__bg_round_button.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\xdsdk__page_real_name_content.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\ssdk_weibo_retry_btn_default.xml" />
+     <None Include="Assets\Plugins\Android\res\layout-port\xdsdk__bind_taptap.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\spinnerlayout.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\xdsdk__twoauth.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xdsdk_login_bottom_wechat.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\start_bg_round.xml" />
+     <None Include="Assets\Plugins\Android\res\values\colors.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xdsdk_login_center_qq.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\serverlist.xml" />
+     <None Include="Assets\Plugins\Android\res\layout-land\xdsdk__page_register.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xd_start_bottom_button_bg.xml" />
+     <None Include="Assets\Plugins\Android\res\layout-land\pay.xml" />
+     <None Include="Assets\Plugins\Android\res\values\ssdk_oks_color_drawables.xml" />
+     <None Include="Assets\Plugins\Android\res\anim\animation_from_half_right_slide.xml" />
+     <None Include="Assets\Plugins\Android\res\layout-land\xd_service.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xdsdk_login_bottom_taptap.xml" />
+     <None Include="Assets\Plugins\Android\res\values\strings.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xd_start_xdbutton_click.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xd_start_verycd_click.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\sdk_activity_container.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xd_text_secretprotocol_button_pressed.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xd_service_button_bg.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\xdsdk__page_register.xml" />
+     <None Include="Assets\Plugins\Android\res\anim\animation_from_left_slide.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\fragment_forum.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\webview.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\serverlist_all.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\spinner_style.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\round.xml" />
+     <None Include="Assets\Plugins\Android\res\layout-land\xdsdk_bind_without_xd.xml" />
+     <None Include="Assets\Plugins\Android\res\values\ssdk_instapaper_strings.xml" />
+     <None Include="Assets\Plugins\Android\res\layout-port\pay.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xdsdk_login_center_guest.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\taptap_close.xml" />
+     <None Include="Assets\Plugins\Android\res\layout-land\register.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xdsdk__bg_round_dark.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xdsdk_login_bg_round.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\ssdk_oks_classic_progressbar.xml" />
+     <None Include="Assets\Plugins\Android\res\layout-land\xdsdk_login.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\activity_unity_save_pic.xml" />
+     <None Include="Assets\Plugins\Android\GCloudVoice\AndroidManifest.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\taptap_back.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xd_text_button_pressed.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xdsdk_login_center_xindong.xml" />
+     <None Include="Assets\Plugins\Android\res\layout-port\login.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\little_web.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xd_register_edittext_top_radius.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\fragment_webview_login.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\alipay.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xdsdk_login_bottom_xindong.xml" />
+     <None Include="Assets\Plugins\Android\assets\AndroidManifest_realse.txt" />
+     <None Include="Assets\Plugins\Android\res\drawable\xd_start_qq_click.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xd_start_weixin_bg.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\dialoglayout.xml" />
+     <None Include="Assets\Plugins\Android\res\layout-land\usercenter.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\pay_submit.xml" />
+     <None Include="Assets\Plugins\Android\res\layout-land\xdsdk__dialog.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\login_textedit_bg_round.xml" />
+     <None Include="Assets\Plugins\Android\res\layout-land\xdsdk__twoauth.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xdsdk_login_bottom_qq.xml" />
+     <None Include="Assets\Plugins\Android\res\layout-port\usercenter.xml" />
+     <None Include="Assets\Plugins\Android\res\layout-land\login.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xd_ucenter_border.xml" />
+     <None Include="Assets\Plugins\Android\res\color\xdsdk__action_text.xml" />
+     <None Include="Assets\Plugins\Android\res\values-zh\strings.xml" />
+     <None Include="Assets\Plugins\Android\res\layout-land\xdsdk__bind_taptap.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xd_pay_border.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\xdview_top.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\web.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\captcha.xml" />
+     <None Include="Assets\Plugins\Android\assets\AndroidManifest_tf.txt" />
+     <None Include="Assets\Plugins\Android\res\layout-port\xd_service.xml" />
+     <None Include="Assets\Plugins\Android\res\layout-port\start_youke.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xdsdk_login_bottom_guest.xml" />
+     <None Include="Assets\Plugins\Android\res\values\dimens.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\edittext_bg_round.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xdsdk_login_center_wechat.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\bg_round.xml" />
+     <None Include="Assets\Plugins\Android\res\anim\animation_from_right_slide.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\xd_start_qq_bg.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\xd_service_header.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\histroy.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\ssdk_oks_classic_platform_cell_back.xml" />
+     <None Include="Assets\Plugins\Android\res\values-en\strings.xml" />
+ <Reference Include="UnityEngine.CoreModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.AccessibilityModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.ParticleSystemModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.PhysicsModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.PhysicsModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.VehiclesModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VehiclesModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.ClothModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClothModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.AIModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.AnimationModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AnimationModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.TextRenderingModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UIModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UIModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.TerrainPhysicsModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.IMGUIModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.IMGUIModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.ClusterInputModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.ClusterRendererModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UNETModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UNETModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.DirectorModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.DirectorModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UnityAnalyticsModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.PerformanceReportingModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UnityConnectModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.WebModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.WebModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.ARModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ARModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.VRModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VRModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UIElementsModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UIElementsModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.StyleSheetsModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.StyleSheetsModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.AssetBundleModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.AudioModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AudioModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.CrashReportingModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.GameCenterModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.GameCenterModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.GridModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.GridModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.ImageConversionModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.InputModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.InputModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.JSONSerializeModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.ParticlesLegacyModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ParticlesLegacyModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Physics2DModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.Physics2DModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.ScreenCaptureModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.SharedInternalsModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.SpriteMaskModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.SpriteShapeModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.TerrainModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TerrainModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.TilemapModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TilemapModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UnityWebRequestModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UnityWebRequestAudioModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UnityWebRequestTextureModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UnityWebRequestWWWModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.VideoModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VideoModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.WindModule">
+ <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.WindModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.TestRunner">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="nunit.framework">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Timeline">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UIAutomation">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UIAutomation/UnityEngine.UIAutomation.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.GoogleAudioSpatializer">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.HoloLens">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.SpatialTracking">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
+ </Reference>
+ <Reference Include="LitJson">
+ <HintPath>/Users/sysprobs/Downloads/Buildios-2/Assets/Plugins/LitJson.dll</HintPath>
+ </Reference>
+ <Reference Include="zlib.net">
+ <HintPath>/Users/sysprobs/Downloads/Buildios-2/Assets/Code/3Party/ZLib/Plugins/zlib.net.dll</HintPath>
+ </Reference>
+ <Reference Include="KDTree">
+ <HintPath>/Users/sysprobs/Downloads/Buildios-2/Assets/Code/3Party/ProCore/ProBuilder/Classes/ClassesLib/KDTree.dll</HintPath>
+ </Reference>
+ <Reference Include="BytesHelper">
+ <HintPath>/Users/sysprobs/Downloads/Buildios-2/Assets/Code/3Party/Slua_Managed/BytesHelper.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>/Users/sysprobs/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.13/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Purchasing">
+ <HintPath>/Users/sysprobs/Library/Unity/cache/packages/packages.unity.com/com.unity.purchasing@0.0.19/UnityEngine.Purchasing.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.StandardEvents">
+ <HintPath>/Users/sysprobs/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
