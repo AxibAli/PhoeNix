@@ -1,0 +1,76 @@
+ManifestFileVersion: 0
+CRC: 4173198932
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7c7e6b9fba8be493a4eab319d88143c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc193d49e7d16f71ac778acf3c7bfc27
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/thing/thing_d/thing_glt_h_zhutai.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glt_outside_stone.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glt_outside_water.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glastham_diaoxiang.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glt_outside_nuche.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glt_h_ditan.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_get_fild12_jitai.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glt_2_tiejia.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_prontra_xiaoshengdanshu.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glastham_shiban.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glt_h_posun2.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glt_s_jixie2.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_gef_kobold_ditan.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glt_h_chuang.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glt_outside_zhangpeng.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_ro_zhaopian.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glt_outside_longchao.FBX
+- Assets/Art/Model/Scene/thing/thing_d/men.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glt_h_daoju.FBX
+- Assets/Art/Model/Scene/thing/thing_d/building_glt_h_shizidizuo.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_gf_fumo.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glt_h_dazhuan.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glt_h_louti3.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glt_2_shiban.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glt_h_shibei.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glastham_shitan.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glt_h_yuanpan3.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glastham_shijie.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glt_s_jixie1.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_room_library_shujia.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glt_h_posun.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_RO_shiwutan.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glt_outside_xiaoche.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glastham_huatan.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glt_h_taijie3.FBX
+- Assets/Art/Model/Scene/thing/thing_d/thing_glt_2_yizi1.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_m.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_d.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_f.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

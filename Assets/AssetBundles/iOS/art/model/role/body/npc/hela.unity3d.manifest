@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 960845451
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 310ad238d44c76f7bb98501416aab287
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Hela/die.anim
+- Assets/Art/Model/Role/Body/NPC/Hela/wait.anim
+- Assets/Art/Model/Role/Body/NPC/Hela/attack.anim
+- Assets/Art/Model/Role/Body/NPC/Hela/walk.anim
+- Assets/Art/Model/Role/Body/NPC/Hela/AC_Hela.controller
+- Assets/Art/Model/Role/Body/NPC/Hela/playshow.anim
+- Assets/Art/Model/Role/Body/NPC/Hela/Hela.png
+- Assets/Art/Model/Role/Body/NPC/Hela/skill_ready.anim
+- Assets/Art/Model/Role/Body/NPC/Hela/hit.anim
+- Assets/Art/Model/Role/Body/NPC/Hela/Hela.FBX
+- Assets/Art/Model/Role/Body/NPC/Hela/Hela_dead.mat
+- Assets/Art/Model/Role/Body/NPC/Hela/use_skill.anim
+- Assets/Art/Model/Role/Body/NPC/Hela/use_magic.anim
+- Assets/Art/Model/Role/Body/NPC/Hela/Hela.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

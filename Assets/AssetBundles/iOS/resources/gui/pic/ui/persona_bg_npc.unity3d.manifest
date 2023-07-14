@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1512589498
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 32caa8c7fd739c77d1fb3d95b1b546c9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/UI/persona_bg_npc.png
+Dependencies: []

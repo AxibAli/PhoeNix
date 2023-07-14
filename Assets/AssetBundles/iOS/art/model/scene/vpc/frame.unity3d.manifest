@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2048297871
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: efabab8d8fff1b02acd72050b5b58c9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc193d49e7d16f71ac778acf3c7bfc27
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/VPC/frame/Frame1.FBX
+- Assets/Art/Model/Scene/VPC/frame/Frame1.mat
+- Assets/Art/Model/Scene/VPC/frame/Frame1.tga
+- Assets/Art/Model/Scene/VPC/frame/Frame2.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_a.unity3d

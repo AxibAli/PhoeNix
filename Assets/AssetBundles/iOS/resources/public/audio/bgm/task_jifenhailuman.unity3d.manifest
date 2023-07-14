@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4035502304
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29006456a1c385b4e118c5f4ab90f56f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/BGM/Task_jifenhailuman.mp3
+Dependencies: []

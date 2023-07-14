@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1945107160
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 989a1b4380de12cfdf4f5d6c62f859fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6502f62e03b1602181a892a09e9bc51e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d436cc15a736149a1b4b25049e7af1f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Effect/UI/7danger.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/ui.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/effect.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader/ui.unity3d

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 548958273
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b8ae5b436dd7a5ce69d69feb216831a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/General/Falloff.psd
+- Assets/Art/Public/Texture/General/Shadow.psd
+- Assets/Art/Public/Texture/General/ScreenMask2.png
+- Assets/Art/Public/Texture/General/ScreenMask.png
+- Assets/Art/Public/Texture/General/Shadow Plane.png
+- Assets/Art/Public/Texture/General/JoystickCenter.png
+- Assets/Art/Public/Texture/General/Occupy.png
+- Assets/Art/Public/Texture/General/JoystickButton.png
+Dependencies: []

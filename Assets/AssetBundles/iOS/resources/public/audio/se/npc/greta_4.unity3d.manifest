@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1609439359
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9a25a56ac94b11a52607557983ab94b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Npc/Greta_4.wav
+Dependencies: []

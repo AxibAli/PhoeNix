@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2594590483
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 66756a93c747943881346d55a6678745
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Monster/Rocker_damage.wav
+Dependencies: []

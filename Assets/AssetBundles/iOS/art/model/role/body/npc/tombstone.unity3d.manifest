@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 394499134
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eed8294f89df03d48b290e0891061592
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27e3e79efd8a310f81d9b03e1734e5fa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Tombstone/Tombstone.anim
+- Assets/Art/Model/Role/Body/NPC/Tombstone/AC_Tombstone.controller
+- Assets/Art/Model/Role/Body/NPC/Tombstone/Tombstone.tga
+- Assets/Art/Model/Role/Body/NPC/Tombstone/Tombstone_.FBX
+- Assets/Art/Model/Role/Body/NPC/Tombstone/Tombstone.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_a.unity3d

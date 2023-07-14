@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2571902518
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60ff724b7dbae3db1a5aa52b912ca990
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Monster/Skeleton_Pirate_damage.wav
+Dependencies: []

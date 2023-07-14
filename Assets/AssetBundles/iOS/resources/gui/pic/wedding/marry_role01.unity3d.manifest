@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 5512775
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aec5886c1a52fcd7d2277b73a56ad213
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/Wedding/marry_role01.png
+Dependencies: []

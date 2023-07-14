@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2400790929
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0324be93f83546b12291de3ba134b098
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d746f6f1e18fda1a5b9f6e5133f354c5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 628d4ffce76dc41e992218ed300f2dd5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Role/Weapon/63411.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/weapon.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/glow.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/trail.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/wuti.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/wenli.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/mesh.unity3d

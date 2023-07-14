@@ -1,0 +1,119 @@
+ManifestFileVersion: 0
+CRC: 1799271013
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a15eeafebc2c70140704a71db524cac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/ting_izdun2_jianzhu.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun_zhuwu_5.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_mudi_2.TGA
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_jiaotang_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/building_glt_outside_chengmen_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun_tingzi_1.TGA
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_mudi_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_mudib_b.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_guild_base_Dqiang3.png
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_weiqiang_a.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/building_glt_outside_chengmen_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_jiaotang_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_mudi_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_Magic organ_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun_talou_a.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/thing_huayuan_caocong.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_shiqiao_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/thing_iz_dun_2_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/building_glt_outside_chengmen_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_guild_base_Dqiang.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun_tingzi_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun_zhuwu_2.TGA
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_Church
+  door_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_chukou_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_Magic organ_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun_tingzi_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_Church
+  door_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_weiqiang_c.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_shiqiao_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_Magic organ_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun_zhuwu_5.TGA
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/ting_izdun2_jianzhu.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_jiaotang_2
+  .tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_pay_dun_rukou.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_mudi_1.TGA
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_mudia_a.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/thing_huayuan_caocong.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun_zhuwu_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_mudia_a.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun_zhuwu_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_jiaotang_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_chukou_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_chukou_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_guild_base_Dqiang2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_chukou_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun_talou_c.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun_talou_b.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_mudib_b.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun_talou_b.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/surface_roomt2_ground1.png
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_shiqiao_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/building_Guild_battle1_damen_01.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun_talou_c.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_guild_base_Dqiang3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/building_Guild_battle1_damen_02.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_weiqiang_a.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/thing_iz_dun_2_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_Church
+  door_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun_tingzi_2.TGA
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_Church
+  door_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_jiaotang_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/surface_roomt2_ground1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_jiaotang_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_guild_base_Dqiang.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_Magic organ_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/pay_dun_mubei.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun_zhuwu_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/pay_dun_mubei.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/building_Guild_battle1_damen_01.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_shiqiao_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/building_glt_outside_chengmen_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_weiqiang_b.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun_zhuwu_3.TGA
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/thing_yizhi.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_Church
+  door_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun_zhuwu_1.TGA
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_shiqiao_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_jiaotang_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_guild_base_Dqiang2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_jiaotang_2_.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_shiqiao_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/building_Guild_battle1_damen_02.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/building_glt_outside_chengmen_1b.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun_talou_a.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun_zhuwu_4.TGA
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_weiqiang_c.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_Church
+  door_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/building_Guild_battle1_damen_03.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun1_weiqiang_b.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/buliding_gef_dun_zhuwu_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_g/building_Guild_battle1_damen_03.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_l.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

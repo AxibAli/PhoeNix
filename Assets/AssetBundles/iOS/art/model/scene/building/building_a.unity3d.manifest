@@ -1,0 +1,153 @@
+ManifestFileVersion: 0
+CRC: 772206273
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4de582ae5e11490ef0a1ec67e2b22c11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc193d49e7d16f71ac778acf3c7bfc27
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/building/building_a/buliding_izlude_mingju1.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_izlude_diaoxiang1.FBX
+- Assets/Art/Model/Scene/building/building_a/building_leyuantuan1_tanpu.FBX
+- Assets/Art/Model/Scene/building/building_a/building_prontra_minju1G.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_prontra_tiejiangpu.FBX
+- Assets/Art/Model/Scene/building/building_a/building_izlude_big ship_2.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_xiashuidao_rukou.FBX
+- Assets/Art/Model/Scene/building/building_a/building_leyuantuan1_lanziB.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_prontra_CQa1.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_izlude_kongting.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_prontra_fangwu3G.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_taijie1.FBX
+- Assets/Art/Model/Scene/building/building_a/building_zhangpeng_4.FBX
+- Assets/Art/Model/Scene/building/building_a/building_prontra_minju2G.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_prontra_judian.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_izlude_jiudian.FBX
+- Assets/Art/Model/Scene/building/building_a/building_prt_1_talou.FBX
+- Assets/Art/Model/Scene/building/building_a/building_zahuopu.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_prontra_shiti.FBX
+- Assets/Art/Model/Scene/building/building_a/building_huayuanmen.FBX
+- Assets/Art/Model/Scene/building/building_a/building_prontra_mingju3G.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_izlude_mingju2.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_prontra_huanggong.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_caofang1.FBX
+- Assets/Art/Model/Scene/building/building_a/building_shoulong_lan.FBX
+- Assets/Art/Model/Scene/building/building_a/building_izlude_GVG building.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_izlude_Ghost ship.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_izlude_mumatou.FBX
+- Assets/Art/Model/Scene/building/building_a/building_xiashuidao_zhu.FBX
+- Assets/Art/Model/Scene/building/building_a/building_zhangpeng_1.FBX
+- Assets/Art/Model/Scene/building/building_a/building_leyuantuan1_lanzi.FBX
+- Assets/Art/Model/Scene/building/building_a/building_zuoqi1_che.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_prontra_chengmen.FBX
+- Assets/Art/Model/Scene/building/building_a/building_daqiao_qiaodun2.FBX
+- Assets/Art/Model/Scene/building/building_a/building_leyuantuan1_qiqiu.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_izlude_dixing.FBX
+- Assets/Art/Model/Scene/building/building_a/building_prt_1_king_dizuo.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_izlude_zhangpeng.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_prontra_jiaotang.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_prontra_fengche.FBX
+- Assets/Art/Model/Scene/building/building_a/thing_prt_1_zhangpengs.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_prontra_chengta.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_xiashuidao_weilan.FBX
+- Assets/Art/Model/Scene/building/building_a/building_prt_2_judian1.FBX
+- Assets/Art/Model/Scene/building/building_a/building_shoulong_lan_2.FBX
+- Assets/Art/Model/Scene/building/building_a/prt_1_thing_found.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_bianmen1_zhu.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_prontra_windows_1th.FBX
+- Assets/Art/Model/Scene/building/building_a/building_kongdao_yizhi.FBX
+- Assets/Art/Model/Scene/building/building_a/building_leyuantuan1_budai.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_prontra_xinchengmen.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_izlude_zpeng_tan1.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_izlude_diaoji.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_prontra_deng_1th.FBX
+- Assets/Art/Model/Scene/building/building_a/building_daqiao_qiaotou.FBX
+- Assets/Art/Model/Scene/building/building_a/building_daqiao_qiaodun1.FBX
+- Assets/Art/Model/Scene/building/building_a/building_leyuantuan1_qiu1.FBX
+- Assets/Art/Model/Scene/building/building_a/thing_prt_1_enclosure.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_prontra_fangwu2G.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_prontra_duota2.FBX
+- Assets/Art/Model/Scene/building/building_a/thing_prt_1_tanwei1.FBX
+- Assets/Art/Model/Scene/building/building_a/building_huayuandizhuan.FBX
+- Assets/Art/Model/Scene/building/building_a/building_izlude_big ship.FBX
+- Assets/Art/Model/Scene/building/building_a/building_zhangpeng_3.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_prontra_Observatory.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_fengche1.FBX
+- Assets/Art/Model/Scene/building/building_a/building_tiejiangpu1_jiqi2.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_shiweilan_3.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_prontra_aichengqiang.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_prontra_shangpu1.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_izlude_dengta.FBX
+- Assets/Art/Model/Scene/building/building_a/building_kongdao_langgan.FBX
+- Assets/Art/Model/Scene/building/building_a/prt_thing_taizi.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_prontra_deng_1th.mat
+- Assets/Art/Model/Scene/building/building_a/thing_prt_1_zhadan.FBX
+- Assets/Art/Model/Scene/building/building_a/building_tingzi.FBX
+- Assets/Art/Model/Scene/building/building_a/thing_prt_1_xiaopao.FBX
+- Assets/Art/Model/Scene/building/building_a/building_leyuantuan1_weibu.FBX
+- Assets/Art/Model/Scene/building/building_a/building_huayuanting001.FBX
+- Assets/Art/Model/Scene/building/building_a/building_daqiao_tamen.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_shiweilan_2.FBX
+- Assets/Art/Model/Scene/building/building_a/building_leyuantuan1_pu.FBX
+- Assets/Art/Model/Scene/building/building_a/building_prt_2_kongdao_wanyuanjin.FBX
+- Assets/Art/Model/Scene/building/building_a/building_shoulong_lan02.FBX
+- Assets/Art/Model/Scene/building/building_a/building_prt_1_wtbj.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_izlude_PVP.FBX
+- Assets/Art/Model/Scene/building/building_a/building_chengmen1.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_prontra_qiao.FBX
+- Assets/Art/Model/Scene/building/building_a/building_prt_2_mache.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_xiashuidao_pozhuzi.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_pengquan2.FBX
+- Assets/Art/Model/Scene/building/building_a/building_shoulong.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_xiashuidao_jinggai.FBX
+- Assets/Art/Model/Scene/building/building_a/building_kongdao_tengman3.FBX
+- Assets/Art/Model/Scene/building/building_a/prt_1_thing_shuzhuang.FBX
+- Assets/Art/Model/Scene/building/building_a/building_prt_2_kongdao_zhongxin.FBX
+- Assets/Art/Model/Scene/building/building_a/building_muqiao1.FBX
+- Assets/Art/Model/Scene/building/building_a/building_zhangpeng_2.FBX
+- Assets/Art/Model/Scene/building/building_a/buliding_prontra_fashitan.FBX
+- Assets/Art/Model/Scene/building/building_a/building_kongdao_yizhi2.FBX
+- Assets/Art/Model/Scene/building/building_a/building_xiashuidao_tiemen.FBX
+- Assets/Art/Model/Scene/building/building_a/building_xiaohuatan.FBX
+- Assets/Art/Model/Scene/building/building_a/building_dahuatan.FBX
+- Assets/Art/Model/Scene/building/building_a/building_leyuantuan1_qiu2.FBX
+- Assets/Art/Model/Scene/building/building_a/building_daqiao_ludeng.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_f.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/rock/rock_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_n.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/materials.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_a.unity3d

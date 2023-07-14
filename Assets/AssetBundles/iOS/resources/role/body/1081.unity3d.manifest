@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 440894308
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 513fc10c71d7c26130b2d5fa9a76efc5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0c2cc0d6aa872e7be82b67e74ee4df14
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29ac9fc10cdea4d93aa5094926603242, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Role/Body/1081.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/ring.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/star.unity3d

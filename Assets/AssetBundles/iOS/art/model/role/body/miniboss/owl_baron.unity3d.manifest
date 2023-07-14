@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 575499537
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a9c2f8e6b64908c3417aca5d5da7a74
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/MiniBoss/Owl_Baron/Owl_Baron_dead.mat
+- Assets/Art/Model/Role/Body/MiniBoss/Owl_Baron/Walking_Stick2.mat
+- Assets/Art/Model/Role/Body/MiniBoss/Owl_Baron/Walking_Stick2.png
+- Assets/Art/Model/Role/Body/MiniBoss/Owl_Baron/Owl_Baron.mat
+- Assets/Art/Model/Role/Body/MiniBoss/Owl_Baron/AC_Owl_Baron.controller
+- Assets/Art/Model/Role/Body/MiniBoss/Owl_Baron/Owl_Baron.png
+- Assets/Art/Model/Role/Body/MiniBoss/Owl_Baron/Owl_Baron.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/body/monster/owl_duke.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/animation/body/owl_duke.unity3d

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 412924902
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4612098589a7e5b8eddb7169028ed2c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/BGM/Wheel _of_Freyja.mp3
+Dependencies: []

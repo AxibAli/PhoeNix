@@ -1,0 +1,96 @@
+ManifestFileVersion: 0
+CRC: 1328116920
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c75269622f98206cb4b5fa1d2b880ba7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_library_dituyi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_org_village_langyan_02.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_xmas2_02.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_prt_1_zixiang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_class_chuang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_T5_bizhi02.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_xmas2_02.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_library_shu.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_gef_xiaozhuo.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_library_damuzhuo.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_guild_base_zhuoyi1-01.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_gef_shugui.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_library_muban.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_guild_base_zhuoyi2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_org_village_tuteng_02.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_library_shujia3.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_glt_2_diaoxiang.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_glt_2_dizuo.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_guild_battle_zalan.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_guild_battle_huakuang.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_prt_1_jinshu.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_library_muban.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_gef_top_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_library_shujia2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_gef_xiaozhuo.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_prt_1_qiqiu.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_prt_1_jinshu.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_prt_1_wanju.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_library_shujia3.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_guild_battle_huakuang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_guild_battle_zalan.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_xmas2_01.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_org_village_langyan_01.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_library_damuzhuo.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_guild_base_zhuoyi1-01_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_guild_base_zhuoyi1-01.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_guild_base_zhuoyi1-02_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_gef_yizi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_guild_base_zhuoyi1-02.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_glt_2_shiban.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_library_shujia.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_org_village_tuteng_01.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_org_village_tuteng_01.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_prt_1_qiuqiu.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_glt_2_taijie.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_library_yin.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_library_shujia.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_prt_1_zixiang.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_gef_top.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_xmas2_01.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_guild_battle_budai.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_class_chuang.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_prt_1_qiuqiu.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_library_shu.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_guild_base_zhuoyi2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_prt_1_wanju.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_pengquan2_light1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_org_village_langyan_02.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_pengquan2_light1b.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_gef_huapen.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_glt_2_diaoxiang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_gef_huapen.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_prt_1_qiqiu.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_glt_2_taijie.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_library_dituyi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_org_village_langyan_01.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_guild_battle_budai.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_guild_base_zhuoyi1-02.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_gef_yizi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_org_village_tuteng_02.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_pengquan2_light1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_library_yin.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_gef_shugui.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_glt_2_shiban.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_library_shujia2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_e/thing_room_gef_top.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

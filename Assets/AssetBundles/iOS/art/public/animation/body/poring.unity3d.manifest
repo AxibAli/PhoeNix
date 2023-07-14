@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3832982164
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c0bb1daa6c0bd57ef3ec08c16cdce27e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Body/Poring/functional_action.anim
+- Assets/Art/Public/Animation/Body/Poring/wait_BeHold.anim
+- Assets/Art/Public/Animation/Body/Poring/wait.anim
+- Assets/Art/Public/Animation/Body/Poring/attack.anim
+- Assets/Art/Public/Animation/Body/Poring/use_skill.anim
+- Assets/Art/Public/Animation/Body/Poring/use_skill3.anim
+- Assets/Art/Public/Animation/Body/Poring/walk_BeHold.anim
+- Assets/Art/Public/Animation/Body/Poring/happy.anim
+- Assets/Art/Public/Animation/Body/Poring/be_touch.anim
+- Assets/Art/Public/Animation/Body/Poring/functional_action2.anim
+- Assets/Art/Public/Animation/Body/Poring/hit.anim
+- Assets/Art/Public/Animation/Body/Poring/use_skill2.anim
+- Assets/Art/Public/Animation/Body/Poring/walk.anim
+- Assets/Art/Public/Animation/Body/Poring/skill_ready.anim
+- Assets/Art/Public/Animation/Body/Poring/eat.anim
+- Assets/Art/Public/Animation/Body/Poring/die.anim
+Dependencies: []

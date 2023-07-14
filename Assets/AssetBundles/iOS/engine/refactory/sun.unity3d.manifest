@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1627799599
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8ee7798ed1ee299c2e33393f801a4a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d9ff4be75de9227f285494b8575526d0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54e94ca623f4a45d7a63e92000444976, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Engine/Refactory/Sun.prefab
+Dependencies: []

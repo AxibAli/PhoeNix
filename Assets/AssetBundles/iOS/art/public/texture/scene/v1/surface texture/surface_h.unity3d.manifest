@@ -1,0 +1,118 @@
+ManifestFileVersion: 0
+CRC: 1617596896
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 241bbb60580fa18cb15752e24c761d64
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_amatsu_suishi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_yuno_dizhuan2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surfac_rome_card_qiang02.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_amatsu_shuimian3.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_yuno_shanshi2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_kafrawar_dimian.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_amatsu_zxlumian.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_room_molab_002.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_amatsu_dizhuan2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_honeymoon_shuichi.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_room_molab_zhuan002.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_kafrawar_road.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_lava_ground3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surfac_rome_card_zhuzi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_room_molab_zhuan001.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_room_card_xingkongqiang.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_lava_dun1_lava.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_room_molab_002.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_lava_boss_rongyan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surfac_rome_card_yuanpan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_ghjs_dizhuan3.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_lava_dun1_lava.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_honeymoon_shuichi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surfac_rome_card_qiang02.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_yuno_zxdizhuan2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_room_molab_zhuan003.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surfac_rome_card_qiang.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_ghjs_dizhuan3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_yuno_dizhuan4.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_honeycar_caodi1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_amatsu_shuimian.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_yuno_dizhuan4.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_honeycar_shibandi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_kafrawar_dizhuan3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_lava_ground4.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_yuno_shanshi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_ghjs_dizhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_yuno_fild1_caodi2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_ghjs_dizhuan2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_nif_fild2_ground2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_yuno_tuxiangdizhuan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_lava_dun2_dimian.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_yuno_dizhuan1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_yuno_zxdizhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_ghjs_dizhuan2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_amatsu_shuimian.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_ghjs_ditan_b.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_amatsu_shuimian2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_yuno_tuxiangdizhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surfac_rome_card_shitai.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surfac_rome_card_zhuzi.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_ghjs_ditan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_yuno_zxdizhuan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_room_molab_zhuan001.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_yuno_dizhuan1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surfac_rome_card_shitai.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_amatsu_suishi2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_kafrawar_dizhuan3.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_room_card_yuanshitou.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_ghjs_ditan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_room_card_xingkongqiang.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_room_molab_zhuan002.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_lava_dun1_liefeng.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_lava_dun2_dimian.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_amatsu_shuimian3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_kafrawar_dimian2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surfac_rome_card_qiang.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_amatsu_zxlumian.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_amatsu_dizhuan2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_lava_ground2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_amatsu_shuimian2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_lava_boss_rongyan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_kafrawar_dizhuan1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surfac_rome_card_yuanpan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_kafrawar_dizhuan2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_ghjs_dizhuan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_lava_dun1_liefeng.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_kafrawar_dizhuan1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_kafrawar_dimian.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_kafrawar_road.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_ghjs_dizhuan4.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_yuno_dizhuan2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_room_card_yuanshitou.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_lava_dun1_dibiao1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_kafrawar_dizhuan2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_ghjs_dizhuan4.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_kafrawar_dimian2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_yuno_dizhuan5.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_yuno_zxdguangchang.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_yuno_zxdguangchang.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_yuno_dizhuan3.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_room_molab_zhuan003.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_yuno_zxdizhuan2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_h/surface_yuno_dizhuan3.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_i.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

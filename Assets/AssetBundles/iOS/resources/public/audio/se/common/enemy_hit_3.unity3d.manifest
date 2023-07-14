@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1458046390
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 821cd7913114d68fff0d4a46f55006db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Common/enemy_hit_3.wav
+Dependencies: []

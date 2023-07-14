@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 364688800
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d29cda29831027a9318d9f2775ce7dcb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9ff01e3a2bbc359607cdb2752d90b8b8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 98968e4fba1554177a936ff707c6201b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Engine/Refactory/ResourceManager.prefab
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2115205619
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7b6c476b3f09b5d3fec84cf09edcec58
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 964894c6c3477b577f14a63c14c1b2a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Mouth/Infinite_mouth/Infinite_mouth_.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/mouth/infinite_mouth/infinite_mouth.unity3d

@@ -1,0 +1,96 @@
+ManifestFileVersion: 0
+CRC: 2056981942
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5487f6a423fe7aeb691571f7112022ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_moc_fild1_caolvshi.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_IZpay1_shanshi_x.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_iz_dun1_sj1.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_prt_1_Ashi_1.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_IZmjr_1_shandong.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_iz_dun1_lsj.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_iz_dun1_sjs1.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_fristarea_shitou2.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/ant_dun1_stone.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_prt_1_Cshi.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/prt_2_kongdao_shitou.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_IZpay1_shanshi.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_prt_1_Ashi.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_prt_2_kongdao_stair.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/brck_morocc_shashi2.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_gef_dun1.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_prt_2_kongdao_stair.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_gef_dun1c.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_iz_dun1_stone.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_prt_1_Cshi_1.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/brick_shi_2.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/brck_morocc_shashi1.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/brck_morocc_shashi1_b.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_IZmjr_1_shandong.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_iz_dun1_sjrk1.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_prt_1_Bshi.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/gef_dun_1_shuishi.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/thing_duankou.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_gef_dun1.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/brick_dashi.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/brick_shi_3.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/brck_morocc_shashi2.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_prt_1_Cshi 1.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_IZpay1_shanshi.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/brck_morocc_shashi1_b.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/thing_duankou.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_prt_1_Bshi_1.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_iz_dun1_shanhushi.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/surface_gef_dun1_shuijing2.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/surface_gef_dun1_shuijing.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_iz_dun1_sj1.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_iz_dun1_sjs1.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_prt_1_Cshi.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_prt_1_Cshi_x.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/brick_shi_2.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/brick_prt_1_menkou.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_prt_2_iz_dun1_stair.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_iz_dun1_lsj.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_prt_1_Bshi.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/prt_2_kongdao_shitou.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_moc_fild1_shashi.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/surface_gef_dun1_shuijingB.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_prt_1_Ashi.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_moc_fild1_caolvshi.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_prt_1_Bshi 1.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/thing_iz_dun_2-yabi_01.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_iz_dun1_sjrk1.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_iz_dun1_stone.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/brck_morocc_shashi2_b.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/brick_dashi.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_gef_dun1b.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/brck_morocc_shashi1.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_moc_fild1_shashi.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_fristarea_shitou2.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/brck_morocc_shashi2_b.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_prt_1_Ashi 1.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/thing_iz_dun_2-yabi_02.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_prt_1_Ashi yanse.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_IZpay1_shanshi_x.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_prt_2_iz_dun1_stair.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_prt_1_Cshi_x.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/ant_dun1_stone.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/rock_iz_dun1_shanhushi.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_a/surface_gef_dun1_shuijing2.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/rock/rock_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

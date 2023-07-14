@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3874478467
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dfc4b641f291fa10eecbefa04d384f03
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/HugeCake/HugeCake2/AC_HugeCake2.controller
+- Assets/Art/Model/Role/Body/NPC/HugeCake/HugeCake2/wait.anim
+Dependencies: []

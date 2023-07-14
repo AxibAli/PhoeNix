@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1175587513
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec876084c7f4d670163e80ff20ead22a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Scene/mjolnir/bus_line_2/line2.anim
+- Assets/Art/Public/Animation/Scene/mjolnir/bus_line_2/buswait.anim
+- Assets/Art/Public/Animation/Scene/mjolnir/bus_line_2/bus_line_2.controller
+- Assets/Art/Public/Animation/Scene/mjolnir/bus_line_2/line1.anim
+Dependencies: []

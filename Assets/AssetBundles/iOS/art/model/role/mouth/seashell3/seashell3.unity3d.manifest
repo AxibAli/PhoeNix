@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2398717268
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a790204b03cdb669e8bf66c74f332b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f84b1edfdf1ac21393e8856b31bcead6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Mouth/Seashell3/Seashell3.FBX
+- Assets/Art/Model/Role/Mouth/Seashell3/Seashell3.png
+- Assets/Art/Model/Role/Mouth/Seashell3/Seashell3.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

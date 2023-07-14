@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 639172648
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c4f0c6e614a74a7bd6cca988c627676
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Monster/Poring_die.wav
+Dependencies: []

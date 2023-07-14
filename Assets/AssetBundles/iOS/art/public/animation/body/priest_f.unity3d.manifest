@@ -1,0 +1,81 @@
+ManifestFileVersion: 0
+CRC: 790777423
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15aa2c3cd8dbebb59c09a60bba88495b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Body/Priest_F/wait_HoldPet.anim
+- Assets/Art/Public/Animation/Body/Priest_F/play_sleep.anim
+- Assets/Art/Public/Animation/Body/Priest_F/play_clap.anim
+- Assets/Art/Public/Animation/Body/Priest_F/play_kiss.anim
+- Assets/Art/Public/Animation/Body/Priest_F/play_handheart.anim
+- Assets/Art/Public/Animation/Body/Priest_F/play_wave.anim
+- Assets/Art/Public/Animation/Body/Priest_F/pose_S8.anim
+- Assets/Art/Public/Animation/Body/Priest_F/pose_S6.anim
+- Assets/Art/Public/Animation/Body/Priest_F/wait_HandIn.anim
+- Assets/Art/Public/Animation/Body/Priest_F/eat_end2.anim
+- Assets/Art/Public/Animation/Body/Priest_F/walk_InHand.anim
+- Assets/Art/Public/Animation/Body/Priest_F/reading.anim
+- Assets/Art/Public/Animation/Body/Priest_F/playshow.anim
+- Assets/Art/Public/Animation/Body/Priest_F/pose2_m.anim
+- Assets/Art/Public/Animation/Body/Priest_F/ride_collect.anim
+- Assets/Art/Public/Animation/Body/Priest_F/eat_end1.anim
+- Assets/Art/Public/Animation/Body/Priest_F/play_lazysleep.anim
+- Assets/Art/Public/Animation/Body/Priest_F/wait_InHand.anim
+- Assets/Art/Public/Animation/Body/Priest_F/walk_HandIn.anim
+- Assets/Art/Public/Animation/Body/Priest_F/collect.anim
+- Assets/Art/Public/Animation/Body/Priest_F/victory.anim
+- Assets/Art/Public/Animation/Body/Priest_F/pose_showweapon.anim
+- Assets/Art/Public/Animation/Body/Priest_F/attack_wait.anim
+- Assets/Art/Public/Animation/Body/Priest_F/touch_high.anim
+- Assets/Art/Public/Animation/Body/Priest_F/feign_death.anim
+- Assets/Art/Public/Animation/Body/Priest_F/wait.anim
+- Assets/Art/Public/Animation/Body/Priest_F/be_HeightRaise.anim
+- Assets/Art/Public/Animation/Body/Priest_F/play_onekneeldown.anim
+- Assets/Art/Public/Animation/Body/Priest_F/walk_HoldPet.anim
+- Assets/Art/Public/Animation/Body/Priest_F/touch_low.anim
+- Assets/Art/Public/Animation/Body/Priest_F/sit_down.anim
+- Assets/Art/Public/Animation/Body/Priest_F/sit_down2.anim
+- Assets/Art/Public/Animation/Body/Priest_F/pose2.anim
+- Assets/Art/Public/Animation/Body/Priest_F/pose_S7.anim
+- Assets/Art/Public/Animation/Body/Priest_F/posejob1.anim
+- Assets/Art/Public/Animation/Body/Priest_F/hit.anim
+- Assets/Art/Public/Animation/Body/Priest_F/use_magic.anim
+- Assets/Art/Public/Animation/Body/Priest_F/pose1_m.anim
+- Assets/Art/Public/Animation/Body/Priest_F/walk.anim
+- Assets/Art/Public/Animation/Body/Priest_F/pose_S12.anim
+- Assets/Art/Public/Animation/Body/Priest_F/attack.anim
+- Assets/Art/Public/Animation/Body/Priest_F/pose_S1.anim
+- Assets/Art/Public/Animation/Body/Priest_F/be_KissEmbracen.anim
+- Assets/Art/Public/Animation/Body/Priest_F/sit_down3.anim
+- Assets/Art/Public/Animation/Body/Priest_F/pose_S2.anim
+- Assets/Art/Public/Animation/Body/Priest_F/pose_S10.anim
+- Assets/Art/Public/Animation/Body/Priest_F/throwing.anim
+- Assets/Art/Public/Animation/Body/Priest_F/eat1.anim
+- Assets/Art/Public/Animation/Body/Priest_F/cook_ing.anim
+- Assets/Art/Public/Animation/Body/Priest_F/pose_S4.anim
+- Assets/Art/Public/Animation/Body/Priest_F/pose_S3.anim
+- Assets/Art/Public/Animation/Body/Priest_F/shooting.anim
+- Assets/Art/Public/Animation/Body/Priest_F/eat_end3.anim
+- Assets/Art/Public/Animation/Body/Priest_F/eat3.anim
+- Assets/Art/Public/Animation/Body/Priest_F/cook_ready.anim
+- Assets/Art/Public/Animation/Body/Priest_F/pose1.anim
+- Assets/Art/Public/Animation/Body/Priest_F/cook_fail.anim
+- Assets/Art/Public/Animation/Body/Priest_F/pose_S9.anim
+- Assets/Art/Public/Animation/Body/Priest_F/eat2.anim
+- Assets/Art/Public/Animation/Body/Priest_F/ride_walk.anim
+- Assets/Art/Public/Animation/Body/Priest_F/play_bow.anim
+- Assets/Art/Public/Animation/Body/Priest_F/pose_S11.anim
+- Assets/Art/Public/Animation/Body/Priest_F/pose_3.anim
+- Assets/Art/Public/Animation/Body/Priest_F/ride_wait.anim
+- Assets/Art/Public/Animation/Body/Priest_F/die.anim
+- Assets/Art/Public/Animation/Body/Priest_F/pose_S5.anim
+Dependencies: []

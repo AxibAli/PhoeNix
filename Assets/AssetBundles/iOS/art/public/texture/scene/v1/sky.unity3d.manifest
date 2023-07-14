@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3807277581
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebcadb33ab8b1362d054d6f47525d62f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/sky/sky_room_clock1_xingdian.mat
+- Assets/Art/Public/Texture/Scene/v1/sky/sky_FerrisWheel_xingkong.tga
+- Assets/Art/Public/Texture/Scene/v1/sky/sky_kafrawar_sky.tga
+- Assets/Art/Public/Texture/Scene/v1/sky/sky_honeyCar_yekong.tga
+- Assets/Art/Public/Texture/Scene/v1/sky/sky_room_clock1_xingdian.tga
+- Assets/Art/Public/Texture/Scene/v1/sky/sky_end2_tiankong_b.png
+- Assets/Art/Public/Texture/Scene/v1/sky/sky_honeyCar_yekong.mat
+- Assets/Art/Public/Texture/Scene/v1/sky/sky_room_clock1_tiankong.mat
+- Assets/Art/Public/Texture/Scene/v1/sky/sky_room_clock1_tiankong.tga
+- Assets/Art/Public/Texture/Scene/v1/sky/sky_kafrawar_sky.mat
+- Assets/Art/Public/Texture/Scene/v1/sky/sky_end2_tiankong_a.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

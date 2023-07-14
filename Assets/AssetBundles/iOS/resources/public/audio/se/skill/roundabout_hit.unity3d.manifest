@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 151602430
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9de31e9c3a62dbd3aec44808277a21ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/Roundabout_hit.wav
+Dependencies: []

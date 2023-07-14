@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 4101642059
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f671dad798396e73b88843b6835b5c1a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Chepet/use_skill.anim
+- Assets/Art/Model/Role/Body/Monster/Chepet/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Chepet/Chepet.mat
+- Assets/Art/Model/Role/Body/Monster/Chepet/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Chepet/AC_Chepet.controller
+- Assets/Art/Model/Role/Body/Monster/Chepet/Chepet.png
+- Assets/Art/Model/Role/Body/Monster/Chepet/walk.anim
+- Assets/Art/Model/Role/Body/Monster/Chepet/Chepet.FBX
+- Assets/Art/Model/Role/Body/Monster/Chepet/skill_ready.anim
+- Assets/Art/Model/Role/Body/Monster/Chepet/die.anim
+- Assets/Art/Model/Role/Body/Monster/Chepet/hit.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

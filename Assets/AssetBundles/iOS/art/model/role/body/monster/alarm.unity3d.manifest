@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2845846663
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cdbfc24e55805919107366d38d1ed7bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Alarm/AC_Alarm.controller
+- Assets/Art/Model/Role/Body/Monster/Alarm/Alarm.FBX
+- Assets/Art/Model/Role/Body/Monster/Alarm/Alarm_Face.mat
+- Assets/Art/Model/Role/Body/Monster/Alarm/die.anim
+- Assets/Art/Model/Role/Body/Monster/Alarm/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Alarm/walk.anim
+- Assets/Art/Model/Role/Body/Monster/Alarm/Alarm.mat
+- Assets/Art/Model/Role/Body/Monster/Alarm/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Alarm/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Alarm/Alarm.png
+- Assets/Art/Model/Role/Body/Monster/Alarm/Alarm_Face.png
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

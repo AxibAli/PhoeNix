@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2894310204
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0821b06e1dabd8a94fa5edb3530924f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/Star/letter_icon_aries.png
+Dependencies: []

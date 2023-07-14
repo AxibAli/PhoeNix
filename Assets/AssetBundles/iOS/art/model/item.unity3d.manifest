@@ -1,0 +1,86 @@
+ManifestFileVersion: 0
+CRC: 1576573110
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 480e08ba03613afb4b97d35ee7d632b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Item/ItemBag/ItemBorn.anim
+- Assets/Art/Model/Item/Skill/Skill.png
+- Assets/Art/Model/Item/Card/ItemBorn.anim
+- Assets/Art/Model/Item/Skill/ItemBorn.anim
+- Assets/Art/Model/Item/Coin/Coin.FBX
+- Assets/Art/Model/Item/GoldApple/ItemBorn.anim
+- Assets/Art/Model/Item/ItemBox/ItemOpen.anim
+- Assets/Art/Model/Item/GoldApple/Apple_.FBX
+- Assets/Art/Model/Item/Card/Card.mat
+- Assets/Art/Model/Item/Skill/ItemWait.anim
+- Assets/Art/Model/Item/Skill/ItemWrong.anim
+- Assets/Art/Model/Item/ItemBox/ItemWait.anim
+- Assets/Art/Model/Item/Coin/Gold.mat
+- Assets/Art/Model/Item/Skill/skill.FBX
+- Assets/Art/Model/Item/Skill/AC_Skill.controller
+- Assets/Art/Model/Item/Card/ItemWrong.anim
+- Assets/Art/Model/Item/Coin/ItemWrong.anim
+- Assets/Art/Model/Item/GoldApple/ItemOpen.anim
+- Assets/Art/Model/Item/ItemBag/ItemOpen.anim
+- Assets/Art/Model/Item/Card/ItemWait.anim
+- Assets/Art/Model/Item/ItemBox/AC_ItemBox.controller
+- Assets/Art/Model/Item/GoldApple/AC_GoldApple.controller
+- Assets/Art/Model/Item/Card/ItemOpen.anim
+- Assets/Art/Model/Item/Coin/AC_Coin.controller
+- Assets/Art/Model/Item/GoldApple/GoldApple.mat
+- Assets/Art/Model/Item/Card/AC_Card.controller
+- Assets/Art/Model/Item/Skill/Skill.mat
+- Assets/Art/Model/Item/ItemBox/ItemBorn.anim
+- Assets/Art/Model/Item/Coin/Silver.png
+- Assets/Art/Model/Item/ItemBag/ItemWrong.anim
+- Assets/Art/Model/Item/GoldApple/ItemWait.anim
+- Assets/Art/Model/Item/ItemBox/ItemBox.FBX
+- Assets/Art/Model/Item/Skill/ItemOpen.anim
+- Assets/Art/Model/Item/Card/Card.FBX
+- Assets/Art/Model/Item/Coin/Silver.mat
+- Assets/Art/Model/Item/ItemBag/ItemBag.png
+- Assets/Art/Model/Item/GoldApple/GoldApple.png
+- Assets/Art/Model/Item/Card/Card.png
+- Assets/Art/Model/Item/ItemBag/AC_ItemBag.controller
+- Assets/Art/Model/Item/GoldApple/ItemWrong.anim
+- Assets/Art/Model/Item/ItemBag/ItemBag.mat
+- Assets/Art/Model/Item/ItemBox/ItemBox.png
+- Assets/Art/Model/Item/ItemBag/ItemBag.FBX
+- Assets/Art/Model/Item/Coin/ItemBorn.anim
+- Assets/Art/Model/Item/ItemBox/ItemBox.mat
+- Assets/Art/Model/Item/ItemBox/ItemWrong.anim
+- Assets/Art/Model/Item/ItemBag/ItemWait.anim
+- Assets/Art/Model/Item/Coin/ItemOpen.anim
+- Assets/Art/Model/Item/Coin/Gold.png
+- Assets/Art/Model/Item/Coin/ItemWait.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

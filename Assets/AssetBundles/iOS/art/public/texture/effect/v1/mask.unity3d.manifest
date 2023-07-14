@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3132342135
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56791faea06e16348406d30887432f86
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/effect/v1/mask/pic_wing_star_mask1.mat
+- Assets/Art/Public/Texture/effect/v1/mask/pic_wing_star_mask2.mat
+- Assets/Art/Public/Texture/effect/v1/mask/e_TZY_nq09_add_mask2.mat
+- Assets/Art/Public/Texture/effect/v1/mask/e_TZY_nq09_alp_Mask1.mat
+- Assets/Art/Public/Texture/effect/v1/mask/pic_wing_star.png
+- Assets/Art/Public/Texture/effect/v1/mask/star1_mask.mat
+- Assets/Art/Public/Texture/effect/v1/mask/ice_add_07_add_mask1.mat
+- Assets/Art/Public/Texture/effect/v1/mask/star2_mask.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/glow.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/wenli.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/point.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

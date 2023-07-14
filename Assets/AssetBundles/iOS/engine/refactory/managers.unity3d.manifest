@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1604887546
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7db83e73751d96aecf443f514aa0c298
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 722e79c7adeca62b3e485bc41350090f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10d9f3e1a2c074a5b84ead98888f6ff6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa1c2d2237ef847c08289ef4e5606f08, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d519a885fa63d41a980a811134ac9e4f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6fd090dbe902d4980985ece67937d418, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 83997c3de9e56449ea925b9c5df2f7dd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cbf0319ec944b41e29ab7fec196780e9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 788760cf937854022a2c9405cb283d3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8bc8ddef18aca4ec2949c2b96c8e4f09, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Engine/Refactory/Managers.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

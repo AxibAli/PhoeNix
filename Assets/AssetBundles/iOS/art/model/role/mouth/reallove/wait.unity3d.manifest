@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3645194363
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d1ed443cf9a9a25e0bc5a0a47dfc4f29
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Mouth/RealLove/wait.anim
+Dependencies: []

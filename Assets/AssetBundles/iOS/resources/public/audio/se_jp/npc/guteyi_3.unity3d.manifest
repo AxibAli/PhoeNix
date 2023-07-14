@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1819165439
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1d20dc21be1c70acab332cff3b64cff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE_JP/Npc/Guteyi_3.wav
+Dependencies: []

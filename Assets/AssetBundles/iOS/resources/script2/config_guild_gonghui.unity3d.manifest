@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2507304035
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04e58fc2bc956d7fc86ed0873ba4d887
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/Config_Guild_GongHui/Table_Artifact.bytes
+- Assets/Resources/Script2/Config_Guild_GongHui/Table_GuildBuilding.bytes
+- Assets/Resources/Script2/Config_Guild_GongHui/Table_Guild.bytes
+- Assets/Resources/Script2/Config_Guild_GongHui/Table_Authority.bytes
+- Assets/Resources/Script2/Config_Guild_GongHui/Table_Guild_StrongHold.bytes
+- Assets/Resources/Script2/Config_Guild_GongHui/Table_GuildJob.bytes
+- Assets/Resources/Script2/Config_Guild_GongHui/Table_Guild_Quest.bytes
+- Assets/Resources/Script2/Config_Guild_GongHui/Table_Guild_Dojo.bytes
+- Assets/Resources/Script2/Config_Guild_GongHui/Table_GuildBuildingMaterial.bytes
+- Assets/Resources/Script2/Config_Guild_GongHui/Table_Guild_Icon.bytes
+- Assets/Resources/Script2/Config_Guild_GongHui/Table_Guild_Treasure.bytes
+- Assets/Resources/Script2/Config_Guild_GongHui/Table_Guild_Faith.bytes
+- Assets/Resources/Script2/Config_Guild_GongHui/Table_GuildFunction.bytes
+- Assets/Resources/Script2/Config_Guild_GongHui/Table_Guild_Incident.bytes
+- Assets/Resources/Script2/Config_Guild_GongHui/Table_GuildChallenge.bytes
+- Assets/Resources/Script2/Config_Guild_GongHui/Table_GuildPVE_Monster.bytes
+Dependencies: []

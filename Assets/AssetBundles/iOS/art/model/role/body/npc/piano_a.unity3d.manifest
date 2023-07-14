@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1816378982
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2e03d3ef6f63d65572e01758b14f8b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc193d49e7d16f71ac778acf3c7bfc27
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Piano_A/Piano_A.FBX
+- Assets/Art/Model/Role/Body/NPC/Piano_A/Piano_A.png
+- Assets/Art/Model/Role/Body/NPC/Piano_A/Piano_A.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_a.unity3d

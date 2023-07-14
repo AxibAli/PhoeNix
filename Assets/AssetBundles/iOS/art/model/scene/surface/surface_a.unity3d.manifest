@@ -1,0 +1,118 @@
+ManifestFileVersion: 0
+CRC: 3308006028
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3696b327a20601d7d21f053f466f8647
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc193d49e7d16f71ac778acf3c7bfc27
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/Surface/surface_a/surface_nif_fild_shibanl1.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_prontra_yuanjing.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/prt_1_shanqiu_a.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_water1.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/sky_end2_tiankong_b.mat
+- Assets/Art/Model/Scene/Surface/surface_a/surface_endless.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_pay_dun1_water.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/ground_izdun_1_yuanshu_2.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_fristarea_dixing.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/prt_1_dibiao_3_2.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_room_adv_xingzou1.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/water_izdun_1_1.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/prt_1_dibiao_2.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_researchlab_diji.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_pay_dun1_03.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_pay_dun1_water_1.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/sunface_prt_1_BJshan.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_prontra_shanqiu.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/sky_end2_tiankong.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_endless_dimianzhen.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_FerrisWheel_bg.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_pay_dun_2.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/rock__clocktower_dim1_rock.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/ant_dun1.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/prt_1_dibiao_3_1.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/iz_dun1_water_1.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_prontra 0926_fudiao.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_prontra_waidimian.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_iz_dunl_sjdml.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_endless_ding.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_zhuan2_1.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/thing_geffen_shuijing.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_2_iz_dun1.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_pay_dun_1.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_prontra_dixing.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/rock_mjolnir_shitou.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/sky_end_yewan.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/water_izdun_1.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_prontra_yewaidxing.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/prt_1_shuimian.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_end_shuimian.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_room_test_2.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_prontra_fudiao.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/brick_shiyan1_0.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_end_sky1.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_geffen_dixia_4.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/sky_end2_tiankong_a.mat
+- Assets/Art/Model/Scene/Surface/surface_a/surface_room_water.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_geffen_huawen.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/building_geffen_dizuo.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/prt_2_water.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_water2.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_end_dimian.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_geffen_yuanshan_1.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_prontra_taijie1.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_baylan.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/ground_2_iz_dun1.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_gef_goblin_city.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/building_hulang.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/surface_endless_2.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/prt_1_dibiao_3.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/IZprt_sewb_shui_3.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/prt_1_shanqiu.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/prt_1_dibiao_1.FBX
+- Assets/Art/Model/Scene/Surface/surface_a/No Name.mat
+- Assets/Art/Model/Scene/Surface/surface_a/sunface_prt_1_BJdimian.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_f.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_d.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_j.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_d.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/sky.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/materials.unity3d

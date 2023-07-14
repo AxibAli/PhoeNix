@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4065832105
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 07f9a9830b4d0da998af6506c8423690
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Scene/yuno/thing_yuno_kt_luoxunajiang1/thing_yuno_kt_luoxuanjiang1.controller
+- Assets/Art/Public/Animation/Scene/yuno/thing_yuno_kt_luoxunajiang1/wait.anim
+Dependencies: []

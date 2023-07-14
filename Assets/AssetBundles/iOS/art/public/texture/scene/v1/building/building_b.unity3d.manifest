@@ -1,0 +1,98 @@
+ManifestFileVersion: 0
+CRC: 3065855786
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7127c464f3d3bd5d16d02a690969a6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_qidiaoji_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_izlude_big ship_03.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/ant_dun1_stone_zhuzi.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_kongting_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_izlude_big ship_02.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_izlude_GVG building_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_kongting_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_zahuopu_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_PVP_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/ant_dun1_wall.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_PVP_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_Ghost ship_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_qidiaoji_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_qidiaoji_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_iz_dun1_tingzi1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_izlude_GVG building_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/ant_dun1_wujian.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_qiao.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_qidiaoji_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_zahuopu_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_izlude_GVG building_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/ant_dun1_stone_zhuzi.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/ant_dun1_chuansong.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_Ghost ship_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_baylan_rukou.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_Ghost ship_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_PVP_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_kongting_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_izlude_zhangpeng.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_diaoxiang1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_shidun.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_izlude_GVG building_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_qiao.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_izdun1_tzdizuo.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_Ghost ship_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_izlude_big ship_03.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_qiang_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_Ghost ship_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_baylan_rukou1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_kongting_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_iz_dun1_dkou1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_iz_dun1_dkou2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_izlude_big ship_02.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_izlude_zhangpeng.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_PVP_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_izlude_big ship_01.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_Ghost ship_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_kongting_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_baylan_rukou.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_PVP_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/ant_dun1_guancai.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_PVP_wa.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_kongting_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_izlude_big ship_01.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_zahuopu_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_Ghost ship_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/ant_dun1_wujian.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_iz_dun1_dkou2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_Ghost ship_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_PVP_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_baylan_rukou1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_kongting_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_diaoxiang1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_zahuopu_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_kongting_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_izdun1_tzdizuo.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/ant_dun1_chuansong.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_iz_dun1_tingzi1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_shidun.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_zahuopu_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_qiang_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_izlude_GVG building_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/ant_dun1_guancai.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/buliding_izlude_PVP_wa.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/ant_dun1_wall.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_zahuopu_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_iz_dun1_dkou1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_b/building_izlude_GVG building_3.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

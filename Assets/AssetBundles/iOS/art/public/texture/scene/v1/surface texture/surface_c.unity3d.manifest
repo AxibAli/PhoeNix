@@ -1,0 +1,100 @@
+ManifestFileVersion: 0
+CRC: 490673645
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 071c15122da4793fcbc1145da89b5506
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/thing_room_T5_ditan02.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_grassland_3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_land_4_gan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_izdun_2_3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_iz_dun1_caod.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_water_room2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_iz_dun1_shibl.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/water.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_izlude_mudiban.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_mjolnir_BJshantou.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_izdun1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_land_5.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_mjolnir_BJshanlan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_iz_dun1_shil.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_IZpay1_pubudibiao.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_guild_out_fenditan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_land_7.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_grassland_2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_izdun1_3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_IZpay1_pubudibiao.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_izdun3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_land_2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/water.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_water_1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_land_5.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_water_3.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_water_lava.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/thing_room_T5_ditan02.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_water_iz_poring.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_grassland_3_lan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_izlude_dizhuan2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_glt_outside_grassland.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_land_2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_grassland_7.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_grassland_6.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_moc_fild1_shui.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_land_3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_IZpay1_shilu.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_izlude_mudiban.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_grassland_1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_grassland_8.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_mjolnir_BJshanlan.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_iz_dun1_tud2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_ghostship_kengshui.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_izdun_2_land_3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_iz_Poring_water02.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_water_nif_fild2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_grassland_3.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_ghostship_kengshui.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_water_kafrawar.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_iz_Poring_water01.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_mjolnir_BJshantou.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_grassland_3_lan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_water_5a.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/water_1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_izdun2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_grassland_4.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_izdun1_3.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_water_4.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_izlude_dizhuan2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_guild_out_fenditan.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_IZpay1_shitou.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_water_2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/Tasharen Water.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_iz_dun_2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_land_3.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_land_6.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_guild_out_hongditan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_water_lighttower.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_grassland_7.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_grassland_3_lanB.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_water_5.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_c/surface_guild_out_hongditan.png
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_h.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_d.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/wenli.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

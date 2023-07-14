@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 84741184
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e79cbc2c208bdce4b9f51c2723871485
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Monster/Savage_attack.wav
+Dependencies: []

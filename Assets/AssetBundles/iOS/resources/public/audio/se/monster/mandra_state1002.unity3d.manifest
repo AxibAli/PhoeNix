@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4049389449
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22476cdb503f6b22154cdda15bad91d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Monster/Mandra_state1002.wav
+Dependencies: []

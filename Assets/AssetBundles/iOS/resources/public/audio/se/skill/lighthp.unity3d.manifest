@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 412159809
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9af1a0f1e8d14f7404a2aa595d41c9fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/LightHP.wav
+Dependencies: []

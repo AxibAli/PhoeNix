@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1968841411
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c83cafe83fdaaa8bd0d2c1bbbd143c6c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Wing/WingHelm_Of_Stars.png
+- Assets/Art/Public/Texture/Wing/WingHelm_Of_Sun.png
+- Assets/Art/Public/Texture/Wing/WingHelm_Of_Stars_L.png
+- Assets/Art/Public/Texture/Wing/WingHelm_Of_Sun_L.png
+- Assets/Art/Public/Texture/Wing/WingHelm_Of_Moon_L.png
+- Assets/Art/Public/Texture/Wing/WingHelm_Of_Sun_H.png
+- Assets/Art/Public/Texture/Wing/WingHelm_Of_Stars_H.png
+- Assets/Art/Public/Texture/Wing/WingHelm_Of_Moon.png
+- Assets/Art/Public/Texture/Wing/WingHelm_Of_Moon_H.png
+Dependencies: []

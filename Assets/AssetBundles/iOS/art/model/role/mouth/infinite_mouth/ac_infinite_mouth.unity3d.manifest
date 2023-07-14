@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2798589206
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9a21b3536552a80a2c07fb4aba11382
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Mouth/Infinite_mouth/AC_Infinite_mouth.controller
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/mouth/infinite_mouth/walk.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/mouth/infinite_mouth/wait.unity3d

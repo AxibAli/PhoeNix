@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2014070974
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 806621a8e2355099041baec780e9b0d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Mouth/Seashell3/AC_Seashell3.controller
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/mouth/seashell3/walk.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/mouth/seashell3/wait.unity3d

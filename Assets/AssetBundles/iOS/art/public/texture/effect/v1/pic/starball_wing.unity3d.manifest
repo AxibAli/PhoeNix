@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 319293133
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0bb839b68113d5f0799e4515d09c3613
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/NPC_starball_wing_mask3.png
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/NPC_starball_wing_mask5.png
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/NPC_starball_wing_mask2.png
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/NPC_starball_wing_mask4_2.mat
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/NPC_starball_wing_mask4.png
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/NPC_starball_wing_mask6_1.mat
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/NPC_starball_wing_mask6.png
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/storm_energytile01.png
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/xingkong006.png
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/NPC_starball_wing_mask7_1.mat
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/storm_energytile01_mask.mat
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/NPC_starball_wing_mask5_1.mat
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/storm_smoketile9.png
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/NPC_starball_wing_mask8_2.mat
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/NPC_starball_wing_mask2_1.mat
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/storm_energyring4bluea_tc.png
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/NPC_starball_wing_mask1_1.mat
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/xingkong005.png
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/storm_doodad_nexus_planetsflyby_vortexwarp.png
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/NPC_starball_wing_mask7.png
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/NPC_starball_wing_mask1_3.mat
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/NPC_starball_wing_mask8_1.mat
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/NPC_starball_wing.tga
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/storm_doodad_nexus_planetsflyby_vortexwarp_ad.mat
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/NPC_starball_wing.mat
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/NPC_starball_wing_mask3_2.mat
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/NPC_starball_wing_mask8.png
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/smoke_11_alpha_order70_2000.mat
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/NPC_starball_wing_mask1.png
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/storm_flare1_purple3.png
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/NPC_starball_wing_mask4_1.mat
+- Assets/Art/Public/Texture/effect/v1/pic/starball_wing/NPC_starball_wing_mask1_2.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/pic.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/line.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/wenli.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/smoke.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

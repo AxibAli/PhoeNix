@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 725839222
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 493764a1b2e5f0eb149f3b1310396233
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/walk_BeHold.anim
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/AC_DancingDragon.controller
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/DancingDragon.mat
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/Dancing_Gloden_Dragon.png
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/die.anim
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/wait.anim
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/Dancing_Yellow_Dragon.mat
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/be_touch.anim
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/DancingDragon.tga
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/hit.anim
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/walk.anim
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/Dancing_Green_Dragon.mat
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/Dancing_Blue_Dragon.mat
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/Dancing_Gloden_Dragon_.FBX
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/Dancing_Yellow_Dragon_.FBX
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/Dancing_Red_Dragon.mat
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/Dancing_Gloden_Dragon.mat
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/attack.anim
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/wait_BeHold.anim
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/happy.anim
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/DancingDragon.FBX
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/Dancing_Silver_Dragon.mat
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/Dancing_Yellow_Dragon.png
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/eat.anim
+- Assets/Art/Model/Role/Body/Monster/DancingDragon/DD_Pet.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

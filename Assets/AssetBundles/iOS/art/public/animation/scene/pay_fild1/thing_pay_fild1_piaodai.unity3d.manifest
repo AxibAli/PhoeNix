@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3613070760
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb8154d0541d84ed4c2b379255c1e474
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Scene/pay_fild1/thing_pay_fild1_piaodai/wait.anim
+- Assets/Art/Public/Animation/Scene/pay_fild1/thing_pay_fild1_piaodai/thing_pay_fild1_piaodai.controller
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3929216782
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3856d85821c5e53f16cbec4009407d2f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/CrossBlade_attack.wav
+Dependencies: []

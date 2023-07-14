@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 853649550
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6bd99b57cc76b740bd6740dff9134673
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4f47b4ca7218926e7ab1219cfdd298
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Spine/Emoji/atlas/ro_expression.mat
+- Assets/Art/Public/Texture/Spine/Emoji/atlas/ro_expression.png
+- Assets/Art/Public/Texture/Spine/Emoji/atlas/ro_expression.asset
+- Assets/Art/Public/Texture/Spine/Emoji/atlas/ro_expression.txt
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader/ui.unity3d

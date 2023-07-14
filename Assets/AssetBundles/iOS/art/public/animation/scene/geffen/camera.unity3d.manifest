@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1599406264
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4538e2a4047f97aad23f6bb42354d8c9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Scene/geffen/Camera/Camera.controller
+- Assets/Art/Public/Animation/Scene/geffen/Camera/Camera2.anim
+- Assets/Art/Public/Animation/Scene/geffen/Camera/Camera1.anim
+- Assets/Art/Public/Animation/Scene/geffen/Camera/Camera3.anim
+Dependencies: []

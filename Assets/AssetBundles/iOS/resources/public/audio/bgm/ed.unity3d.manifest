@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1831885625
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8205c16ef92f6d21b43374ff7e0cfe15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/BGM/ED.mp3
+Dependencies: []

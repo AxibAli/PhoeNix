@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 4272746121
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16ad64e29c2dde5715b928b02c169181
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb96948b47ad6ca1df035de75994dde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/building/building_m/building_umbala_muqiao2.FBX
+- Assets/Art/Model/Scene/building/building_m/building_edmund_neil_zhu.FBX
+- Assets/Art/Model/Scene/building/building_m/building_iz_poring_mgl.FBX
+- Assets/Art/Model/Scene/building/building_m/building_edmund_neil_ditan.FBX
+- Assets/Art/Model/Scene/building/building_m/building_iz_poring_xfz.FBX
+- Assets/Art/Model/Scene/building/building_m/building_umbala_shuwu2_new.FBX
+- Assets/Art/Model/Scene/building/building_m/building_edmund_neil_jianzhu1.FBX
+- Assets/Art/Model/Scene/building/building_m/building_umbala_mujieti.FBX
+- Assets/Art/Model/Scene/building/building_m/building_edmund_neil_gongdian.FBX
+- Assets/Art/Model/Scene/building/building_m/building_edmund_neil_jianzhu2.FBX
+- Assets/Art/Model/Scene/building/building_m/building_umbala_diban_01.FBX
+- Assets/Art/Model/Scene/building/building_m/building_umbala_diban.FBX
+- Assets/Art/Model/Scene/building/building_m/building_edmund_neil_shi.FBX
+- Assets/Art/Model/Scene/building/building_m/building_iz_poring_moshu.FBX
+- Assets/Art/Model/Scene/building/building_m/building_umbala_shuwu1_new.FBX
+- Assets/Art/Model/Scene/building/building_m/building_edmund_neil_dibiao1.FBX
+- Assets/Art/Model/Scene/building/building_m/building_umbala_muqiao.FBX
+- Assets/Art/Model/Scene/building/building_m/building_umbala_shuwu3.FBX
+- Assets/Art/Model/Scene/building/building_m/building_umbala_yjmuban.FBX
+- Assets/Art/Model/Scene/building/building_m/building_iz_poring_gongmen.FBX
+- Assets/Art/Model/Scene/building/building_m/building_edmund_neil_qiang.FBX
+- Assets/Art/Model/Scene/building/building_m/building_edmund_neil_jz.FBX
+- Assets/Art/Model/Scene/building/building_m/building_umbala_jitan.FBX
+- Assets/Art/Model/Scene/building/building_m/building_edmund_neil_wangzuo.FBX
+- Assets/Art/Model/Scene/building/building_m/building_room_happy_xinjin.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_o.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_k.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_m.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_p.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building.unity3d

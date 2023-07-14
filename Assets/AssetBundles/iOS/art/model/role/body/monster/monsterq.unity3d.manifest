@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 3006810394
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0db3e32f474c6d7633ba31d93c579269
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/MonsterQ/die.anim
+- Assets/Art/Model/Role/Body/Monster/MonsterQ/MonsterQ.png
+- Assets/Art/Model/Role/Body/Monster/MonsterQ/MonsterQ.mat
+- Assets/Art/Model/Role/Body/Monster/MonsterQ/be_touch.anim
+- Assets/Art/Model/Role/Body/Monster/MonsterQ/wait_BeHold.anim
+- Assets/Art/Model/Role/Body/Monster/MonsterQ/MonsterQ.FBX
+- Assets/Art/Model/Role/Body/Monster/MonsterQ/walk_BeHold.anim
+- Assets/Art/Model/Role/Body/Monster/MonsterQ/attack.anim
+- Assets/Art/Model/Role/Body/Monster/MonsterQ/wait.anim
+- Assets/Art/Model/Role/Body/Monster/MonsterQ/walk.anim
+- Assets/Art/Model/Role/Body/Monster/MonsterQ/AC_MonsterQ.controller
+- Assets/Art/Model/Role/Body/Monster/MonsterQ/use_skill.anim
+- Assets/Art/Model/Role/Body/Monster/MonsterQ/eat.anim
+- Assets/Art/Model/Role/Body/Monster/MonsterQ/hit.anim
+- Assets/Art/Model/Role/Body/Monster/MonsterQ/happy.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

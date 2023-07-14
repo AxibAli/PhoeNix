@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4175123125
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cd4f0b4dc105fa9ec6ad322503283b60
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/atlas/picture/Skill_lm.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3316970959
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68cf38b21d058e3541061d07072e576c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Monster/Dark_Lord_attack.wav
+Dependencies: []

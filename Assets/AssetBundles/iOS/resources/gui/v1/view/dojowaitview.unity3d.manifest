@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2662238751
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a21c2c3f43fa382cc35c282f98df824
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ab9b99642ef7c75abb91c66938fd0529
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/view/DojoWaitView.prefab
+Dependencies: []

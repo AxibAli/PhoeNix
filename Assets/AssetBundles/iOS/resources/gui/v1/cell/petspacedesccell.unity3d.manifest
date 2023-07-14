@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 895077432
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f5df10857692558f03fd046deac638b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3ea3bdea457efc02acab5860068ff10d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66ca9c6e5cbd4544ab22016a27d817a4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/cell/PetSpaceDescCell.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/gui/new/atlas/fonts.unity3d

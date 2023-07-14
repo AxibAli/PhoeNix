@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 287784807
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80149d2c4ad0227af619ec98ca80c99b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8175df7db2f4c565428b19ad67040602
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d166255cacf07b4292b8402b3ddefc5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/cell/ChatBarrageCell.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/gui/new/atlas/fonts.unity3d

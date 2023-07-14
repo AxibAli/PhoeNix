@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2801396718
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 117e41eebe098bb0604c439e2a52c40d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1330b8d51f6e3d145ee247ac8d5636d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Standard/VignetteMask.png
+- Assets/Art/Public/Standard/Flare50mm.psd
+- Assets/Art/Public/Standard/BrightPassFilter2.shader
+- Assets/Art/Public/Standard/LensFlareCreate.shader
+- Assets/Art/Public/Standard/BlurAndFlares.shader
+- Assets/Art/Public/Standard/BlendForBloom.shader
+Dependencies: []

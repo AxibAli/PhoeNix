@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2155294307
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67fed873c6b6579ff5f9254eff5edcc8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc193d49e7d16f71ac778acf3c7bfc27
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/DreamMirror/DreamMirror_flower3.mat
+- Assets/Art/Model/Role/Body/NPC/DreamMirror/DreamMirror_flower3.tga
+- Assets/Art/Model/Role/Body/NPC/DreamMirror/DreamMirror_Wheel2.tga
+- Assets/Art/Model/Role/Body/NPC/DreamMirror/DreamMirror.FBX
+- Assets/Art/Model/Role/Body/NPC/DreamMirror/DreamMirror_Wheel2.mat
+- Assets/Art/Model/Role/Body/NPC/DreamMirror/DreamMirror.mat
+- Assets/Art/Model/Role/Body/NPC/DreamMirror/DreamMirror.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_e.unity3d

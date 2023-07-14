@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 803525011
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7b57874b4e6a8dab9b0b664ccfc4c3de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/BGM/Music_Niren.mp3
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1216808797
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f624305b59afd08d281192de7fe977ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/BGM/nef_hg.mp3
+Dependencies: []

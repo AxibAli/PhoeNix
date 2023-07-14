@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 594401268
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d449cfd65068d2f25f450fd1a1ad8f1b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE_JP/Npc/Messenger_1.wav
+Dependencies: []

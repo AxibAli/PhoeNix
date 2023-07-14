@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2245619786
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6fe0783093cfadb3896dd4d00e7725a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46713cf43a26de744a6327d7f10abac9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec9b42846e33f44b4b591d97661304da, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/root/UILayer.prefab
+Dependencies: []

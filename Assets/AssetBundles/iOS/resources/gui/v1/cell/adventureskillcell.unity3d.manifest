@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2896232473
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99f824129a96621654b1494e357f997d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3a220b47cde10893f1eb31bb0d358755
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 70b69813d9a75409cbeb04295d6d927c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f02842fa4878db54f9587ff4de7d9f2d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/cell/AdventureSkillCell.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/gui/atlas/preferb/skill_1.unity3d

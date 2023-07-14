@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3707781567
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6717e08b8dfc08a346a7df8cc46e235b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Eye/Eye_M/AC_Eye_M.controller
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/animation/eye/eye_m.unity3d

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2696288953
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5a4fd5c8504ee781b8a7d464c4cec6a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_biaoqinggif.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2676661784
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 377cb245abc5a67479cfe98e7bfd2a0b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/DevelopScene/Terrains/Texture/surface_yuno_dixing2.png
+Dependencies: []

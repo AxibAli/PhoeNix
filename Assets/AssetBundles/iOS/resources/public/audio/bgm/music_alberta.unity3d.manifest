@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2614935380
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a3856278606727ae8c0d1c270f30528
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/BGM/Music_Alberta.mp3
+Dependencies: []

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 646602201
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56ee70d108745c3dac3952eb3f6391ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 99a83672bace7540b9c41c6c27cf40d3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d436cc15a736149a1b4b25049e7af1f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 85949cbda41bd4ac18354c60fded5e33, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Head/Rain_Cloud/Rain_Cloud.prefab
+- Assets/Resources/Public/Effect/Skill/Rain_Cloud.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/shandian.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/smoke.unity3d

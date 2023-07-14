@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 3544199920
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72c228b9ccdf2746fa1efd7be1afe847
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Pushcart/wait.anim
+- Assets/Art/Model/Role/Body/NPC/Pushcart/AC_Pushcart.controller
+- Assets/Art/Model/Role/Body/NPC/Pushcart/Pushcart.FBX
+- Assets/Art/Model/Role/Body/NPC/Pushcart/Pushcart.tga
+- Assets/Art/Model/Role/Body/NPC/Pushcart/sprint.anim
+- Assets/Art/Model/Role/Body/NPC/Pushcart/walk.anim
+- Assets/Art/Model/Role/Body/NPC/Pushcart/Pushcart.mat
+- Assets/Art/Model/Role/Body/NPC/Pushcart/attack.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

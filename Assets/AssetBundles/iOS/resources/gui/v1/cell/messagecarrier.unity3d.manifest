@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 577231902
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0d42d99d98dd8fd13570409c891971e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21d861885fe4b80c3606b5a578364be9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/cell/MessageCarrier.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/gui/new/atlas/fonts.unity3d

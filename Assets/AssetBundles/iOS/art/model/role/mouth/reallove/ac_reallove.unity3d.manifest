@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1075339282
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ac48a659c4c4b901790183fe3967e0f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Mouth/RealLove/AC_RealLove.controller
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/mouth/reallove/wait.unity3d

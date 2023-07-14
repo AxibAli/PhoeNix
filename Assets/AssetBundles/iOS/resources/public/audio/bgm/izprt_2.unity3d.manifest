@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1643462653
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e116de3f935532fa2853b79e24726242
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/BGM/IZprt_2.mp3
+Dependencies: []

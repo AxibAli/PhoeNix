@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2473387112
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee29184f26dc8bd954abc9f53d52874f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1abe16fe2e312e2ad491c1fca19ee1ac
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/plant/botany_pay_fild02_xiaomai1.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/mplant.unity3d

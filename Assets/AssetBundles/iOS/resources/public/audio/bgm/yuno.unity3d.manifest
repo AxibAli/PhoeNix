@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3967156524
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e2532a7876d2d459223eff64d08c2d89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/BGM/yuno.mp3
+Dependencies: []

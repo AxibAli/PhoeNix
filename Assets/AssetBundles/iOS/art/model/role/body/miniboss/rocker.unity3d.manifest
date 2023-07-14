@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 560843965
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 25830f176878b97f4fa14d341887ed84
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/MiniBoss/Rocker/wait.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Rocker/walk_InHand.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Rocker/skill_ready.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Rocker/Rocker.FBX
+- Assets/Art/Model/Role/Body/MiniBoss/Rocker/Metaller.png
+- Assets/Art/Model/Role/Body/MiniBoss/Rocker/attack.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Rocker/die.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Rocker/Metaller.mat
+- Assets/Art/Model/Role/Body/MiniBoss/Rocker/walk.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Rocker/eat.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Rocker/be_touch.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Rocker/happy.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Rocker/Rocker.mat
+- Assets/Art/Model/Role/Body/MiniBoss/Rocker/hit.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Rocker/wait_InHand.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Rocker/AC_Rocker.controller
+- Assets/Art/Model/Role/Body/MiniBoss/Rocker/use_skill.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Rocker/Rocker.png
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

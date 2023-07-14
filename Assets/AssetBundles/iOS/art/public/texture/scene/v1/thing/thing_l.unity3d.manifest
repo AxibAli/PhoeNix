@@ -1,0 +1,116 @@
+ManifestFileVersion: 0
+CRC: 375424076
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f7bce69d72bd3a4fbbe492ea9622e2b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_mianpian03.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_zhizhuwang2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif2_zhuzi_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_nif_fild_shiguan.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif1_yijia1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_mubei_b.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_mubei_b.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif1_chuang.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_huashu.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif1_ditan.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_ludeng.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif1_chuang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif_fild2_saozhou01.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing nif_fild_qiang1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif1_wujian02.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_muxiang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif1_guizi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif1_photo.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif1_photo.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif2_wanou_tou.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_zhizhuwang1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_fengche.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_nif_fild2_wujian01.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_yueliang.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_Jarm.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_fild2_luzi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_mianpian01b.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_mubei_a.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_muguan.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_Hela.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif1_yijia2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif2_daogaotai.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_huopen.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif1_yijia1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_nanguatou.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_nangual.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_muguan.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing room_nif1_gangqin.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_gutou1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_yueliang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif1_wujian01.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_nangual.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif1_yijia2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif2_zhuzi_2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_nif_fild_qiao.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_mianpian02b.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif1_yijia3.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing nif_fild_qiang1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_mianpian02.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing room_nif1_batai.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif1_guizi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_mianpian01.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_Jarm.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif2_zhuzi_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing room_nif1_gangqin_stone.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif1_chuanghu.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_huashu.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif2_wanou_shenti.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_mubei_a.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_mianpian03b.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_zhizhuwang1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_nif_fild2_ditan.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_fild2_nanguatou.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_nif_fild_qiao.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif1_yijia3.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing room_nif1_gangqin_stone.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_nanguatou.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_muxiang.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif1_chuanghu.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif1_wujian01.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_mianpian03.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_nif_fild2_yuanpan.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_fild2_nanguatou.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_nif_fild2_ditan.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif2_wanou_tou.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing room_nif1_gangqin.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_mianpian01a.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_nif_fild2_wujian01.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif_fild2_saozhou01.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_Hela.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif2_wanou_shenti.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif2_zhuzi_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_fengche.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing room_nif1_batai.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_fild2_luzi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_nif_fild_shiguan.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_nif_fild2_yuanpan.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_mianpian01.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif2_daogaotai.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_zhizhuwang2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_huopen.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_ludeng.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_gutou1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_niflhem_mianpian02.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif1_ditan.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_l/thing_room_nif1_wujian02.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

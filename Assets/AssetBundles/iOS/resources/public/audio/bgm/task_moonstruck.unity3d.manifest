@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1126696381
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7a5e9446ac7f001284d3eeea5668651
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/BGM/Task_Moonstruck.mp3
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2902100339
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0654a6d0be39a975a0667e98f1102130
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Obstacle/state1001.anim
+- Assets/Art/Model/Role/Body/NPC/Obstacle/AC_Obstacle.controller
+- Assets/Art/Model/Role/Body/NPC/Obstacle/state1002.anim
+Dependencies: []

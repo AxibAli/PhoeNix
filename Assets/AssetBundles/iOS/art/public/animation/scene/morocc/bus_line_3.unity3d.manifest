@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1181382138
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5863451421deaa9b02876d627abde75c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Scene/morocc/bus_line_3/buswait.anim
+- Assets/Art/Public/Animation/Scene/morocc/bus_line_3/line2.anim
+- Assets/Art/Public/Animation/Scene/morocc/bus_line_3/line1.anim
+- Assets/Art/Public/Animation/Scene/morocc/bus_line_3/bus_line_3.controller
+Dependencies: []

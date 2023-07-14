@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3580835941
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f1e87a5a3fc7c152afc7385d1674487
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Player/Swordman_M/Swordman_M.mat
+- Assets/Art/Model/Role/Body/Player/Swordman_M/AC_Swordman_M.controller
+- Assets/Art/Model/Role/Body/Player/Swordman_M/Swordman_M_dead.mat
+- Assets/Art/Model/Role/Body/Player/Swordman_M/Swordman_M.png
+- Assets/Art/Model/Role/Body/Player/Swordman_M/Swordman_M.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/animation/body/knight_m.unity3d

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3186379145
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94ca03620442e60b2723184855bde6e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/BGM/Room_T.mp3
+Dependencies: []

@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 1058041081
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f2ae018ccc0e0f9e6fc969caf7349e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Bus/bus_YoyoPlay/bus_YoyoPlay_3.png
+- Assets/Art/Model/Bus/bus_YoyoPlay/ried_wait.anim
+- Assets/Art/Model/Bus/bus_YoyoPlay/bus_YoyoPlay_3.mat
+- Assets/Art/Model/Bus/bus_YoyoPlay/bus_YoyoPlay_1.mat
+- Assets/Art/Model/Bus/bus_YoyoPlay/wait.anim
+- Assets/Art/Model/Bus/bus_YoyoPlay/bus_YoyoPlay.FBX
+- Assets/Art/Model/Bus/bus_YoyoPlay/bus_YoyoPlay_4.png
+- Assets/Art/Model/Bus/bus_YoyoPlay/bus_YoyoPlay_2.png
+- Assets/Art/Model/Bus/bus_YoyoPlay/bus_YoyoPlay_4.mat
+- Assets/Art/Model/Bus/bus_YoyoPlay/AC_bus_YoyoPlay.controller
+- Assets/Art/Model/Bus/bus_YoyoPlay/bus_YoyoPlay_1.png
+- Assets/Art/Model/Bus/bus_YoyoPlay/bus_YoyoPlay_2.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

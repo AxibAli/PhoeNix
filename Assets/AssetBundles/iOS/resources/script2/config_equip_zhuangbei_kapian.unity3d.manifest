@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3663202926
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10c0ced897b5e06b1d837c9de982c743
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/Config_Equip_ZhuangBei_KaPian/Table_Equip.bytes
+- Assets/Resources/Script2/Config_Equip_ZhuangBei_KaPian/Table_recommend_reason.bytes
+- Assets/Resources/Script2/Config_Equip_ZhuangBei_KaPian/Table_Exchange.bytes
+- Assets/Resources/Script2/Config_Equip_ZhuangBei_KaPian/Table_Equip_recommend.bytes
+- Assets/Resources/Script2/Config_Equip_ZhuangBei_KaPian/Table_EquipEnchantPrice.bytes
+- Assets/Resources/Script2/Config_Equip_ZhuangBei_KaPian/Table_EquipSuit.bytes
+- Assets/Resources/Script2/Config_Equip_ZhuangBei_KaPian/Table_EquipCompose.bytes
+- Assets/Resources/Script2/Config_Equip_ZhuangBei_KaPian/Table_EquipGender.bytes
+- Assets/Resources/Script2/Config_Equip_ZhuangBei_KaPian/Table_CardRate.bytes
+- Assets/Resources/Script2/Config_Equip_ZhuangBei_KaPian/Table_EquipUpgrade.bytes
+- Assets/Resources/Script2/Config_Equip_ZhuangBei_KaPian/Table_HighRefineMatCompose.bytes
+- Assets/Resources/Script2/Config_Equip_ZhuangBei_KaPian/Table_EquipEnchant.bytes
+- Assets/Resources/Script2/Config_Equip_ZhuangBei_KaPian/Table_HighRefine.bytes
+- Assets/Resources/Script2/Config_Equip_ZhuangBei_KaPian/Table_EquipFake.bytes
+- Assets/Resources/Script2/Config_Equip_ZhuangBei_KaPian/Table_EquipDecompose.bytes
+- Assets/Resources/Script2/Config_Equip_ZhuangBei_KaPian/Table_EquipRefine.bytes
+- Assets/Resources/Script2/Config_Equip_ZhuangBei_KaPian/Table_Card.bytes
+Dependencies: []

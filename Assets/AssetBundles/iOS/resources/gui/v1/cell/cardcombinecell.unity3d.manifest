@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 631325944
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ebadfd04e89baad676f3ef8dfe48d38
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: eb61f70cdf9c03698b288dc39ca36bec
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07c4de3b4b6fe9045b059ee627c100df, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/cell/CardCombineCell.prefab
+Dependencies: []

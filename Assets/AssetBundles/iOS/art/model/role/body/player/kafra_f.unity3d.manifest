@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1800132407
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ecacadb366a88c74493d520292e69e3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Player/Kafra_F/wait.anim
+- Assets/Art/Model/Role/Body/Player/Kafra_F/playshow.anim
+- Assets/Art/Model/Role/Body/Player/Kafra_F/Kafra_F.mat
+- Assets/Art/Model/Role/Body/Player/Kafra_F/Kafra_F.png
+- Assets/Art/Model/Role/Body/Player/Kafra_F/Kafra_F_dead.mat
+- Assets/Art/Model/Role/Body/Player/Kafra_F/Kafra_F.FBX
+- Assets/Art/Model/Role/Body/Player/Kafra_F/AC_Kafra_F.controller
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/animation/body/skin_f.unity3d

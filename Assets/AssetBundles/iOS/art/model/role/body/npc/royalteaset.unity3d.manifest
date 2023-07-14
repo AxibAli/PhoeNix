@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 3329789732
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f862ea1aebd0f5dcfc5e50b5cd607bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/RoyalTeaSet/state6002.anim
+- Assets/Art/Model/Role/Body/NPC/RoyalTeaSet/state1001.anim
+- Assets/Art/Model/Role/Body/NPC/RoyalTeaSet/state5001.anim
+- Assets/Art/Model/Role/Body/NPC/RoyalTeaSet/state5002.anim
+- Assets/Art/Model/Role/Body/NPC/RoyalTeaSet/state3001.anim
+- Assets/Art/Model/Role/Body/NPC/RoyalTeaSet/state3002.anim
+- Assets/Art/Model/Role/Body/NPC/RoyalTeaSet/RoyalTeaSet.mat
+- Assets/Art/Model/Role/Body/NPC/RoyalTeaSet/state6001.anim
+- Assets/Art/Model/Role/Body/NPC/RoyalTeaSet/state2001.anim
+- Assets/Art/Model/Role/Body/NPC/RoyalTeaSet/state1002.anim
+- Assets/Art/Model/Role/Body/NPC/RoyalTeaSet/state4002.anim
+- Assets/Art/Model/Role/Body/NPC/RoyalTeaSet/state2002.anim
+- Assets/Art/Model/Role/Body/NPC/RoyalTeaSet/RoyalTeaSet.FBX
+- Assets/Art/Model/Role/Body/NPC/RoyalTeaSet/state4001.anim
+- Assets/Art/Model/Role/Body/NPC/RoyalTeaSet/AC_RoyalTeaSet.controller
+- Assets/Art/Model/Role/Body/NPC/RoyalTeaSet/RoyalTeaSet.png
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

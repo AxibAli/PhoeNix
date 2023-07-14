@@ -1,0 +1,79 @@
+ManifestFileVersion: 0
+CRC: 3166025620
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aca7a8612b0bb11ea71e76401749736a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c10acd9a3178400405f7b42b6b9785f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/Test/thing_amatsu_fangche.FBX
+- Assets/Art/Model/Scene/Test/Empelium_a.FBX
+- Assets/Art/Model/Scene/Test/building_clocktower2_xingpan_01.FBX
+- Assets/Art/Model/Scene/Test/morocc_under2.FBX
+- Assets/Art/Model/Scene/Test/thing_amatsu_yuqi.FBX
+- Assets/Art/Model/Scene/Test/thing_catufo_jiqi03a.FBX
+- Assets/Art/Model/Scene/Test/thing_prt_1_qiqiu.FBX
+- Assets/Art/Model/Scene/Test/building_prt_2_shujia1.FBX
+- Assets/Art/Model/Scene/Test/buliding_prontra_fengche.FBX
+- Assets/Art/Model/Scene/Test/building_C_Tower_1F_dimianzhong3.FBX
+- Assets/Art/Model/Scene/Test/building_C_Tower_1F_dimianzhong4.FBX
+- Assets/Art/Model/Scene/Test/surface_clocktower2_zhizheng.FBX
+- Assets/Art/Model/Scene/Test/thing_room_happy_piaobu.mat
+- Assets/Art/Model/Scene/Test/end.FBX
+- Assets/Art/Model/Scene/Test/thing_room_happy_piaobu.FBX
+- Assets/Art/Model/Scene/Test/thing_pay_fild1_piaodai.FBX
+- Assets/Art/Model/Scene/Test/buliding_prontra_Observatory.FBX
+- Assets/Art/Model/Scene/Test/thing_yuno_kt_luoxuanjiang2.FBX
+- Assets/Art/Model/Scene/Test/building_clocktower1_chuansongzhen.FBX
+- Assets/Art/Model/Scene/Test/thing_iz_poring_jingyu.FBX
+- Assets/Art/Model/Scene/Test/building_clocktower2_xingpan_02.FBX
+- Assets/Art/Model/Scene/Test/building_aldebaran_kafeiguan05.FBX
+- Assets/Art/Model/Scene/Test/thing_yuno_kt_luoxuanjiang1.FBX
+- Assets/Art/Model/Scene/Test/building_lightower_deng.FBX
+- Assets/Art/Model/Scene/Test/thing_catufo_jiqi02a.FBX
+- Assets/Art/Model/Scene/Test/thing_honeymoon_zhutong.FBX
+- Assets/Art/Model/Scene/Test/thing_catufo_jiqi01a.FBX
+- Assets/Art/Model/Scene/Test/building_prt_1_tlqizhi.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_m.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_h.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_o.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_i.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_j.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_d.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_l.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_d.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_h.unity3d

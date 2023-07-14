@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 542626432
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b7eb8d565dade4b4f3e3685ee3f1ecb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 964894c6c3477b577f14a63c14c1b2a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Mouth/RoseMask/RoseMask_.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/mouth/rosemask/rosemask.unity3d

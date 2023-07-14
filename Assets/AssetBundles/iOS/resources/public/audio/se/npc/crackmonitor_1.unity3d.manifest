@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 589130887
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5715dc5d6e6321bc3bfb2b5d5c00302
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Npc/CrackMonitor_1.wav
+Dependencies: []

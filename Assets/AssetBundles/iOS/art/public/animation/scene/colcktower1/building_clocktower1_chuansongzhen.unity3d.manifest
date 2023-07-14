@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2554768629
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 34753d0f8de47e2cd9c36ebbdbe0a80e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Scene/colcktower1/building_clocktower1_chuansongzhen/building_clocktower1_chuansongzhen.controller
+- Assets/Art/Public/Animation/Scene/colcktower1/building_clocktower1_chuansongzhen/wait.anim
+Dependencies: []

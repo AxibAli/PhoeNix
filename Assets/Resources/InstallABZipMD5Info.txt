@@ -1,0 +1,1 @@
+﻿{"ZipFileName":"Install.zip","Infos":[{"FileName":"iOS/iOS","MD5":"9065990dd0657244467207296923afc3","Size":833710},{"FileName":"iOS/iOS.manifest","MD5":"547d98432cea3dc048e535e93008149e","Size":2204539}]}

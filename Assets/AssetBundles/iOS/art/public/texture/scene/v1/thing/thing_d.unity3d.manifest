@@ -1,0 +1,89 @@
+ManifestFileVersion: 0
+CRC: 2967584970
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f555e2f43be0e777eedf937f084924d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_kugu2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_under_diaoxiang2_2.TGA
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_moc_pyd2_she.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_moc_fild1_shadong.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_moc_fild1_shadong.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_under_fengyin_3.TGA
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_glt_outside_nuche.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_under_fengyin_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_Dog Statue_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_Dog Statue_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_A Nubies_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_moc_pyd2_guangcai.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_moc_pyd2_zhuansong.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_kugu.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_under_diaoxiang1_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_under_men.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_kugu.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_glt_outside_stone.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_moc_pyd2_shitai.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_moc_pyd2_she.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_glt_outside_xiaoche_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_moc_pyd2_guangcai.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_glt_outside_xiaoche_2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_under_fengyin_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_A Nubies_3.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_Dog Statue_2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_glt_outside_longchao_02.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_moc_pyd2_shitai.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_glt_outside_longchao_01.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_Dog Statue_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_A Nubies_3.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_glt_outside_stone.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_A Nubies_1.TGA
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_moc_pyd2_zhuansong.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_glt_outside_xiaoche_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_under_diaoxiang1_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_glt_outside_water.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_A Nubies_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_under_diaoxiang2_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_under_fengyin_2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_glt_outside_zhangpeng.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_glt_outside_longchao_02.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_xiaotan1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_xiaotan2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_under_shizuo.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_under_fengyin_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_xiaotan1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_A Nubies_2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_under_diaoxiang2_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_glt_outside_nuche.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_under_diaoxiang2_1.TGA
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_moc1_dun_zhudeng.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_moc1_dun_zhudeng.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_xiaotan2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_glt_outside_longchao_01.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_moc1_dun_zhutai.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_under_fengyin_3.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_under_diaoxiang1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_xiaotan3.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_under_shizuo.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_kugu2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_glt_outside_xiaoche_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_under_diaoxiang1_2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_xiaotan3.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_moc1_dun_zhutai.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_morocc_under_men.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_glt_outside_water.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_glt_outside_longchao_01a.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_d/thing_glt_outside_zhangpeng.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

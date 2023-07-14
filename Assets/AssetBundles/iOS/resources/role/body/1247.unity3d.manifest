@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 262161692
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f0a2ff03435b7bc34d1e06bc965cb87
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b3e4836a1b23dcf939e0054ceb8c219e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29ac9fc10cdea4d93aa5094926603242, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 105f6ec9854bd400497c3209018fb141, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Role/Body/1247.prefab
+Dependencies: []

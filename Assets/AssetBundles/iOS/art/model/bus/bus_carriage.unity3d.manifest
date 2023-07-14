@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 4270962972
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ad59a97416f005a58fc96a78de666de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Bus/bus_Carriage/wait.anim
+- Assets/Art/Model/Bus/bus_Carriage/AC_bus_Carriage.controller
+- Assets/Art/Model/Bus/bus_Carriage/bus_Carriage_1.mat
+- Assets/Art/Model/Bus/bus_Carriage/walk.anim
+- Assets/Art/Model/Bus/bus_Carriage/bus_Carriage.FBX
+- Assets/Art/Model/Bus/bus_Carriage/bus_Carriage.mat
+- Assets/Art/Model/Bus/bus_Carriage/bus_Carriage.tga
+- Assets/Art/Model/Bus/bus_Carriage/bus_Carriage_1.png
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

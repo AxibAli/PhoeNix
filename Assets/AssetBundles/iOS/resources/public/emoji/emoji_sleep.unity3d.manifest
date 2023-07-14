@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3926240638
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: afc664958252c39a6b53782203a3ef83
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f74e22a6a96147de4b376c1f9666b1a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea8876c5583994a14a5d702063e02a16, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ab6106ed23e54d0999b98f470909ce0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Emoji/Emoji_sleep.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/spine/emoji/atlas.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/spine/emoji/skeleton.unity3d

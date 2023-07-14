@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2870760931
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b7cbb2bf6f1643a379650704b5a85f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/UI/login_bg_bottom.png
+Dependencies: []

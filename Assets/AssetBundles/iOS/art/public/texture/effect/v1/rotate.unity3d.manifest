@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 1642961420
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77fd7a55439c21c6ea0ef3870660f751
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/effect/v1/rotate/glow_00079_add_F_order121.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/blood01_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/Gameart8_810_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/roate_36_add_F.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/Gameart8.png
+- Assets/Art/Public/Texture/effect/v1/rotate/glow_00083.png
+- Assets/Art/Public/Texture/effect/v1/rotate/Gameart8_810.png
+- Assets/Art/Public/Texture/effect/v1/rotate/Gameart8_add.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/water09.png
+- Assets/Art/Public/Texture/effect/v1/rotate/roate_01_add_order22.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/E_wenli_483.png
+- Assets/Art/Public/Texture/effect/v1/rotate/ring_63_-1.png
+- Assets/Art/Public/Texture/effect/v1/rotate/blood01_alpha_F.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/blood01.png
+- Assets/Art/Public/Texture/effect/v1/rotate/E_wenli_483_add.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/roate_37_alpha_F.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/ring_63.png
+- Assets/Art/Public/Texture/effect/v1/rotate/uPlayerNero_171-1_add_F.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/roate_36_add.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/flash_arcane_05_add.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/shui08_4845_add_F.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/947593e7_add_F.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/Roate_02.png
+- Assets/Art/Public/Texture/effect/v1/rotate/glow_00079.png
+- Assets/Art/Public/Texture/effect/v1/rotate/Gameart9_add.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/Roate_03_add_order36.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/water09_add.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/glow_00083_add.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/Gameart9.png
+- Assets/Art/Public/Texture/effect/v1/rotate/947593e7_add.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/roate_01_add_F.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/947593e7.png
+- Assets/Art/Public/Texture/effect/v1/rotate/roate_01.png
+- Assets/Art/Public/Texture/effect/v1/rotate/Blastwave220_W.png
+- Assets/Art/Public/Texture/effect/v1/rotate/flash_arcane_05.png
+- Assets/Art/Public/Texture/effect/v1/rotate/glow_00079_add_F_order121_h.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/roate_36.tga
+- Assets/Art/Public/Texture/effect/v1/rotate/Gameart9_add_f.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/Roate_03.png
+- Assets/Art/Public/Texture/effect/v1/rotate/Blastwave220_W_add.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/ring_63_add_02.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/roate_37.png
+- Assets/Art/Public/Texture/effect/v1/rotate/Roate_02_add_order77.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/Roate_02_add_F.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/Gameart9_add_mask.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/uPlayerNero_171-1.png
+- Assets/Art/Public/Texture/effect/v1/rotate/shui08_4845.png
+- Assets/Art/Public/Texture/effect/v1/rotate/ring_63_add_order123.mat
+- Assets/Art/Public/Texture/effect/v1/rotate/shui08_4845_add.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/wenli.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

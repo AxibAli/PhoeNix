@@ -1,0 +1,119 @@
+ManifestFileVersion: 0
+CRC: 3565899618
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2961d71abc964cf50c67a3370260a279
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/gef_dun1_zhuzi.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_leyuantuan3_book.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/gef_dun1_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_shoulong2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_leyuantuan4_lazhu.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_stone.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_kongdao_wujian.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/gef_dun1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/baylan_jianzhu.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/botany_gef_dun_kushu_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_huayuandizhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/botany_gef_dun_kushu_1.TGA
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/gef_dun_hua.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_xiashuidao_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_muqiao1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_huayuan_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_wall_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_kongdao_yizhi.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_kongdao_yizhi2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_shoulong1.png
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_leyuantuan1_7.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_huayuan_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_tingzi.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_leyuantuan1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_leyuantuan1_5.png
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_leyuantuan3_book.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_kongdao_yizhi2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_daqiao_dibiao.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/buliding_huangcheng1_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_iz_dun_statue1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_tower.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_kongdao_yezhi.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_xiashuidao_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/gef_dun1_zhuzi.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_shoulong1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/buliding_huangcheng1_10.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_daqiao_ludeng.png
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_daqiao_tamen.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_daqiao_qiaodun.png
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_muqiao1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_leyuantuan1_5b.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_stone.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_daqiao_fushou.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/botany_gef_dun_kushu_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_kongdao_yezhi.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_huayuandizhuan.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_dahuatan.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_leyuantuan2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_tingzi.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_leyuantuan1_6.png
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_gef_dun_dizhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_kongdao_wujian.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_iz_dun_statue1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_leyuantuan2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_leyuantuan1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_shoulong2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/baylan_langgang.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_IZmjr_1_men.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_leyuantuan1_5.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/botany_gef_dun_kushu_2.TGA
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_kongdao_dimian_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_tower.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/buliding_huangcheng1_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_dahuatan.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_kongdao_yizhi.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_leyuantuan1_6.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_prt_2_kongdao_wanyuanjin.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/botany_gef_dun_kushu_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/gef_dun_hua.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_daqiao_ludeng.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_huayuan_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_daqiao_dibiao.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_xiashuidao_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_wall_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_xiashuidao_1.png
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_kongdao_flower.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_leyuantuan1_7.png
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_kongdao_flower.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_daqiao_tamen.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/buliding_huangcheng1_10.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_leyuantuan4_lazhu.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_daqiao_dizx.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_IZmjr_1_men.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_leyuantuan4_lazhu_b.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_daqiao_qiaodun.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_kongdao_dimian_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/gef_dun1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_daqiao_fushou.png
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_mudiaoqiao.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_daqiao_dizx.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_kongdao_shujia.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_huayuan_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/gef_dun1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_mudiaoqiao.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/gef_dun_1_shuishi.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/botany_gef_dun_kushu_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_kongdao_shujia.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_c/building_gef_dun_dizhuan.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/rock/rock_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

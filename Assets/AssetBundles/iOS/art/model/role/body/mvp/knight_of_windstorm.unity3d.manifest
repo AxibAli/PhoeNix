@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 341929792
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47e669d4cf8913be00bc520731538034
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/MVP/Knight_Of_Windstorm/attack.anim
+- Assets/Art/Model/Role/Body/MVP/Knight_Of_Windstorm/Knight_Of_Windstorm_Weapon.png
+- Assets/Art/Model/Role/Body/MVP/Knight_Of_Windstorm/knight_of_windstorm.mat
+- Assets/Art/Model/Role/Body/MVP/Knight_Of_Windstorm/Knight_Of_Windstorm.FBX
+- Assets/Art/Model/Role/Body/MVP/Knight_Of_Windstorm/walk.anim
+- Assets/Art/Model/Role/Body/MVP/Knight_Of_Windstorm/use_skill.anim
+- Assets/Art/Model/Role/Body/MVP/Knight_Of_Windstorm/AC_Knight_Of_Windstorm.controller
+- Assets/Art/Model/Role/Body/MVP/Knight_Of_Windstorm/skill_ready.anim
+- Assets/Art/Model/Role/Body/MVP/Knight_Of_Windstorm/knight_of_windstorm_Sheild.mat
+- Assets/Art/Model/Role/Body/MVP/Knight_Of_Windstorm/hit.anim
+- Assets/Art/Model/Role/Body/MVP/Knight_Of_Windstorm/Knight_Of_Windstorm.png
+- Assets/Art/Model/Role/Body/MVP/Knight_Of_Windstorm/die.anim
+- Assets/Art/Model/Role/Body/MVP/Knight_Of_Windstorm/Knight_Of_Windstorm_Sheild.png
+- Assets/Art/Model/Role/Body/MVP/Knight_Of_Windstorm/playshow.anim
+- Assets/Art/Model/Role/Body/MVP/Knight_Of_Windstorm/knight_of_windstorm_Weapon.mat
+- Assets/Art/Model/Role/Body/MVP/Knight_Of_Windstorm/wait.anim
+- Assets/Art/Model/Role/Body/MVP/Knight_Of_Windstorm/use_magic.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

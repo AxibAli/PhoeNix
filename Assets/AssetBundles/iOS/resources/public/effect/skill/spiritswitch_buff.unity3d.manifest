@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4075354204
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bac9ac70a2f70d4766bceebcd2556b74
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fec5bff144dfccf5fef0518021be0cca
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d436cc15a736149a1b4b25049e7af1f9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Effect/Skill/SpiritSwitch_buff.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/line.unity3d

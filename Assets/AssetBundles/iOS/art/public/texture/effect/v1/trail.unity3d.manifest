@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 3293926395
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 034ce6f0d1eb17e27d476edabe4e5c39
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/effect/v1/trail/daoguang02.png
+- Assets/Art/Public/Texture/effect/v1/trail/daoguang02_add.mat
+- Assets/Art/Public/Texture/effect/v1/trail/wuti_00033.mat
+- Assets/Art/Public/Texture/effect/v1/trail/daoguang006_add.mat
+- Assets/Art/Public/Texture/effect/v1/trail/BC_Daoguang01_add.mat
+- Assets/Art/Public/Texture/effect/v1/trail/tex_trail05.mat
+- Assets/Art/Public/Texture/effect/v1/trail/HalfRing002.png
+- Assets/Art/Public/Texture/effect/v1/trail/daoguang01_add-1X1.mat
+- Assets/Art/Public/Texture/effect/v1/trail/quan_bai.png
+- Assets/Art/Public/Texture/effect/v1/trail/daoguang03_add_order31.mat
+- Assets/Art/Public/Texture/effect/v1/trail/daoguang006.png
+- Assets/Art/Public/Texture/effect/v1/trail/SF4_dds_0283_t_blend.mat
+- Assets/Art/Public/Texture/effect/v1/trail/SF4_dds_0283_t_add.mat
+- Assets/Art/Public/Texture/effect/v1/trail/ring_32.png
+- Assets/Art/Public/Texture/effect/v1/trail/Iceboxsao_add.mat
+- Assets/Art/Public/Texture/effect/v1/trail/tex_trail05.tga
+- Assets/Art/Public/Texture/effect/v1/trail/path_00109.png
+- Assets/Art/Public/Texture/effect/v1/trail/BC_Daoguang01.png
+- Assets/Art/Public/Texture/effect/v1/trail/daoguang05_add.mat
+- Assets/Art/Public/Texture/effect/v1/trail/SF4_dds_0283_t_blend_h.mat
+- Assets/Art/Public/Texture/effect/v1/trail/YUELIANG_ADD.mat
+- Assets/Art/Public/Texture/effect/v1/trail/e_TZY_gd04_h.mat
+- Assets/Art/Public/Texture/effect/v1/trail/path_00109_hong.mat
+- Assets/Art/Public/Texture/effect/v1/trail/tex_trail06.png
+- Assets/Art/Public/Texture/effect/v1/trail/daoguang01_add.mat
+- Assets/Art/Public/Texture/effect/v1/trail/quan_bai_add_order62.mat
+- Assets/Art/Public/Texture/effect/v1/trail/daoguang05.png
+- Assets/Art/Public/Texture/effect/v1/trail/daoguang04_add.mat
+- Assets/Art/Public/Texture/effect/v1/trail/path_00109_a.png
+- Assets/Art/Public/Texture/effect/v1/trail/quan_blue_add.mat
+- Assets/Art/Public/Texture/effect/v1/trail/path_00295.mat
+- Assets/Art/Public/Texture/effect/v1/trail/quan_blue.png
+- Assets/Art/Public/Texture/effect/v1/trail/daoguang01.png
+- Assets/Art/Public/Texture/effect/v1/trail/purpleslash.tga
+- Assets/Art/Public/Texture/effect/v1/trail/path_00295_blend.mat
+- Assets/Art/Public/Texture/effect/v1/trail/e_TZY_gd04.tga
+- Assets/Art/Public/Texture/effect/v1/trail/yueliang_0100.mat
+- Assets/Art/Public/Texture/effect/v1/trail/e_TZY_gd04.mat
+- Assets/Art/Public/Texture/effect/v1/trail/path_00109_a.mat
+- Assets/Art/Public/Texture/effect/v1/trail/path_00109_a_blend.mat
+- Assets/Art/Public/Texture/effect/v1/trail/path_00109.mat
+- Assets/Art/Public/Texture/effect/v1/trail/Iceboxsao.png
+- Assets/Art/Public/Texture/effect/v1/trail/yueliang.png
+- Assets/Art/Public/Texture/effect/v1/trail/daoguang04.png
+- Assets/Art/Public/Texture/effect/v1/trail/SF4_dds_0283_t.tga
+- Assets/Art/Public/Texture/effect/v1/trail/yueliang010.png
+- Assets/Art/Public/Texture/effect/v1/trail/ring_32_add.mat
+- Assets/Art/Public/Texture/effect/v1/trail/daoguang03.png
+- Assets/Art/Public/Texture/effect/v1/trail/tex_trail06_add.mat
+- Assets/Art/Public/Texture/effect/v1/trail/purpleslash_alpha_1.mat
+- Assets/Art/Public/Texture/effect/v1/trail/daoguang03_add_order32_f.mat
+- Assets/Art/Public/Texture/effect/v1/trail/purpleslash2_add.mat
+- Assets/Art/Public/Texture/effect/v1/trail/HalfRing002_add.mat
+- Assets/Art/Public/Texture/effect/v1/trail/path_00295.png
+- Assets/Art/Public/Texture/effect/v1/trail/purpleslash_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/trail/path_00109_hong.png
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/point.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

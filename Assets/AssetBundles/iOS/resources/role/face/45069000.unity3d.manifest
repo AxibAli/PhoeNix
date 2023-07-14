@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1478797163
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ff2e2dbfb7280e01951280938084577
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6b302c57006f5779ce4ca22d189fdd9b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 628d4ffce76dc41e992218ed300f2dd5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Role/Face/45069000.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/head.unity3d

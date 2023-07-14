@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1405638667
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b219732674994a1be4fb1c01b6f5405
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7db9f19a236bbc1c73c2ef5a3d195479
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1de9a2737eac244ae9bdb104b007afd6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Role/Hair/71.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/hair.unity3d

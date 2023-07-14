@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 4092797327
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 21a32a52c36745cdf75042ea0b963efb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Body/Isis/walk.anim
+- Assets/Art/Public/Animation/Body/Isis/be_touch.anim
+- Assets/Art/Public/Animation/Body/Isis/eat.anim
+- Assets/Art/Public/Animation/Body/Isis/happy.anim
+- Assets/Art/Public/Animation/Body/Isis/wait.anim
+- Assets/Art/Public/Animation/Body/Isis/walk_InHand.anim
+- Assets/Art/Public/Animation/Body/Isis/wait_InHand.anim
+- Assets/Art/Public/Animation/Body/Isis/die.anim
+Dependencies: []

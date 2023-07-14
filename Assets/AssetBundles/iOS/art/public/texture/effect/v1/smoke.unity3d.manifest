@@ -1,0 +1,152 @@
+ManifestFileVersion: 0
+CRC: 1213288443
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56b58ff034a192cabf31f4bab1098b01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/effect/v1/smoke/yanhuo_00002.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/Smoke051_1_add.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/Fbk_Hdk_Aura01.png
+- Assets/Art/Public/Texture/effect/v1/smoke/circlewave02_add 1.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/GGxrd_Texture_byGG (36)_blend.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/Normal_qing001_top002_alpha_01.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yanhuo_00003_add_F.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yanwu010_alpha_order115.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_01.png
+- Assets/Art/Public/Texture/effect/v1/smoke/xulie_yan094_2x2_add.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yanhuo_00002_alpha_F.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yanwu010_add_order43.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/Smoke003_1_alpha_order111.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/xulie_yan080_4x4_add_order118.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_04.png
+- Assets/Art/Public/Texture/effect/v1/smoke/xulie_yan080_4x4.png
+- Assets/Art/Public/Texture/effect/v1/smoke/Smoke014_HB_add.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/E_xulie_185_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/circlewave02_add01.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yanwusi_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_12_alpha_mask.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yanhuo_00022_alpha_f.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yanhuo_000002_blend.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yanwomoxing.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_12.png
+- Assets/Art/Public/Texture/effect/v1/smoke/te_cpl_smoke_one.png
+- Assets/Art/Public/Texture/effect/v1/smoke/yanwu010.png
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_06.png
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_10.png
+- Assets/Art/Public/Texture/effect/v1/smoke/somke01_add_EE.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/Smoke003_1_alpha_order110.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yanhuo_00022_alpha_S.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yanwu004.png
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_07.png
+- Assets/Art/Public/Texture/effect/v1/smoke/xulie_yan089_5x5.png
+- Assets/Art/Public/Texture/effect/v1/smoke/Smoke_Clouds_2x3_add_F.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_04_add.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/SFX_Smoke_4.png
+- Assets/Art/Public/Texture/effect/v1/smoke/Smoke_Clouds_2x2.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_11_alpha_order69.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_96_add_order74.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yanhuo_00022_alpha_order17.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yanwusi.png
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_10_blend_order167.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yanwusi_add.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yansha_add_order11.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_04_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yanhuo_00022.png
+- Assets/Art/Public/Texture/effect/v1/smoke/circlewave03.png
+- Assets/Art/Public/Texture/effect/v1/smoke/yanhuo_000002_add_order15.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/xulie_yan094_2x2.png
+- Assets/Art/Public/Texture/effect/v1/smoke/xulie_yan089_5x5_add_order79.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/Smoke_Clouds_2x2_blend_F.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yanhuo_00044_90.tga
+- Assets/Art/Public/Texture/effect/v1/smoke/xulie_yan094_2x2_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_09.png
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke19_add.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yanwomoxing.png
+- Assets/Art/Public/Texture/effect/v1/smoke/Smoke_Clouds_2x2_add_EE1.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/Smoke003_1.png
+- Assets/Art/Public/Texture/effect/v1/smoke/Normal_qing001_top002_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yanhuo_00044.tga
+- Assets/Art/Public/Texture/effect/v1/smoke/Smoke_Clouds_2x2_blend.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_03_add_order97.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_04_alpha_blend_F.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yanhuo_00002_alpha_order51.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/te_cpl_smoke_one_add.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/E_xulie_185_alp_F.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_10_add.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/SFX_Smoke_4_add.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/Smoke_Clouds_2x2.png
+- Assets/Art/Public/Texture/effect/v1/smoke/E_xulie_185.png
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_06_add.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/SFX_Smoke_4_add_F.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/Smoke051_1.png
+- Assets/Art/Public/Texture/effect/v1/smoke/yanwusi_alpha_F_S.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/eye_fxl_smkoe_012.png
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_03.bmp
+- Assets/Art/Public/Texture/effect/v1/smoke/xulie_yan089_5x5_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/Smoke014_HB.png
+- Assets/Art/Public/Texture/effect/v1/smoke/xulie_yan080_4x4_alpha_order117.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yanhuo_00002_alpha_S.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_02.png
+- Assets/Art/Public/Texture/effect/v1/smoke/eye_fxl_smkoe_012_add.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/te_cpl_smoke_one_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_01_add_order5.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yansha_alpha_order126.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/circlewave03_add.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/GGxrd_Texture_byGG (36).tga
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_08.bmp
+- Assets/Art/Public/Texture/effect/v1/smoke/yanhuo_00022_fan.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/Smoke_001.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/simpleSmoke3.png
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_07_add.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_08_add.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/somke01_add.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yanwu004_add_F_S.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_02_add_order107.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yansha_alpha_F_order103.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/circlewave02_add.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/circlewave02.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yanhuo_00044_90.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_11.png
+- Assets/Art/Public/Texture/effect/v1/smoke/yansha.png
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_09_add_order2.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_01_alpha_order104.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yanhuo_00002.png
+- Assets/Art/Public/Texture/effect/v1/smoke/Fbk_Hdk_Aura01_add_EE1.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/xulie_yan089_5x5_add_EE1.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/simpleSmoke3_alpha_F.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/Smoke.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/te_cpl_smoke_one_alpha_F.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_11_add_F.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/hanqi01.png
+- Assets/Art/Public/Texture/effect/v1/smoke/somke01_add_EE2.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/hanqi01_add.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/yanhuo_000002.png
+- Assets/Art/Public/Texture/effect/v1/smoke/yanwu004_add_order116.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/Smoke014_HB_alpha_order159.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/Normal_qing001_top002.png
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_06_add_F.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_04_alpha_blend_h.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/circlewave02_blend.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/somke01.png
+- Assets/Art/Public/Texture/effect/v1/smoke/yanwusi_add_F_S.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/E_xulie_185_add.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_96.png
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke19.png
+- Assets/Art/Public/Texture/effect/v1/smoke/xulie_yan080_4x4_add_F_S.mat
+- Assets/Art/Public/Texture/effect/v1/smoke/smoke_11_alpha_F.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/line.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/wenli.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

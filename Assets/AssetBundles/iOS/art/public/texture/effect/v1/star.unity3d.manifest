@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 1732974570
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7b914a33480829d34a220978c92256a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/effect/v1/star/glow000.png
+- Assets/Art/Public/Texture/effect/v1/star/star_005_add_mask_01.mat
+- Assets/Art/Public/Texture/effect/v1/star/glow000_ADD.mat
+- Assets/Art/Public/Texture/effect/v1/star/wujiaoxing02.png
+- Assets/Art/Public/Texture/effect/v1/star/xingxing_002_add.mat
+- Assets/Art/Public/Texture/effect/v1/star/star_006.png
+- Assets/Art/Public/Texture/effect/v1/star/48c1b5b5_add_F.mat
+- Assets/Art/Public/Texture/effect/v1/star/star_005.png
+- Assets/Art/Public/Texture/effect/v1/star/star_002_add_order16.mat
+- Assets/Art/Public/Texture/effect/v1/star/star_002_add_F.mat
+- Assets/Art/Public/Texture/effect/v1/star/star_006_add_F.mat
+- Assets/Art/Public/Texture/effect/v1/star/xingxing_003_add.mat
+- Assets/Art/Public/Texture/effect/v1/star/star_003.png
+- Assets/Art/Public/Texture/effect/v1/star/storm_hero_melee_impact3.png
+- Assets/Art/Public/Texture/effect/v1/star/star_005_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/star/star_007.png
+- Assets/Art/Public/Texture/effect/v1/star/star_005_add1.mat
+- Assets/Art/Public/Texture/effect/v1/star/star_003_add.mat
+- Assets/Art/Public/Texture/effect/v1/star/5d967bb9_add.mat
+- Assets/Art/Public/Texture/effect/v1/star/5d967bb8.png
+- Assets/Art/Public/Texture/effect/v1/star/star_001_add.mat
+- Assets/Art/Public/Texture/effect/v1/star/48c1b5b5.png
+- Assets/Art/Public/Texture/effect/v1/star/star_005_Alpha_2.mat
+- Assets/Art/Public/Texture/effect/v1/star/star_0001_add.mat
+- Assets/Art/Public/Texture/effect/v1/star/48c1b5b5_ADD.mat
+- Assets/Art/Public/Texture/effect/v1/star/star_002.png
+- Assets/Art/Public/Texture/effect/v1/star/star_001.png
+- Assets/Art/Public/Texture/effect/v1/star/star_005_add_01.mat
+- Assets/Art/Public/Texture/effect/v1/star/star_005_add_order_144.mat
+- Assets/Art/Public/Texture/effect/v1/star/star_005_add.mat
+- Assets/Art/Public/Texture/effect/v1/star/star_0001.png
+- Assets/Art/Public/Texture/effect/v1/star/5d967bb8_add.mat
+- Assets/Art/Public/Texture/effect/v1/star/glow_008_add.mat
+- Assets/Art/Public/Texture/effect/v1/star/5d967bb8_add2.mat
+- Assets/Art/Public/Texture/effect/v1/star/star_002.mat
+- Assets/Art/Public/Texture/effect/v1/star/star_004_add_order112.mat
+- Assets/Art/Public/Texture/effect/v1/star/5d967bb9.png
+- Assets/Art/Public/Texture/effect/v1/star/storm_hero_melee_impact3_ADD.mat
+- Assets/Art/Public/Texture/effect/v1/star/star_007_add_F_order148.mat
+- Assets/Art/Public/Texture/effect/v1/star/star_004_add_F_order49.mat
+- Assets/Art/Public/Texture/effect/v1/star/wujiaoxing02_add_order52.mat
+- Assets/Art/Public/Texture/effect/v1/star/star_004.png
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/glow.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/pic.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/wenli.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

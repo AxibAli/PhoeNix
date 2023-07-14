@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1369967136
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc3d99f749c9d2c69442025221095c31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE_JP/Npc/Ludeweixi_03.wav
+Dependencies: []

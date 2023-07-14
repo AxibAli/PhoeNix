@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3639017892
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b45c482129ebd7aca379b760af626f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a5c4eeb2e5b50eff761af490e6d230da
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8578ab873ef694adab93fa80039432d5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/AudioOneShot.prefab
+Dependencies: []

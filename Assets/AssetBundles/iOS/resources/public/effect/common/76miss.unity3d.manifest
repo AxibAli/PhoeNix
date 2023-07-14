@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3547709456
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9cfefb102b8c6f02c0ea47159d2a8e50
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3970a814c133a16a77be17f9daaa2e05
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d436cc15a736149a1b4b25049e7af1f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 78fe64e69820f4e068fc470ba098ccf3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Effect/Common/76Miss.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/gui/new/atlas/fonts.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/animation/effect/common.unity3d

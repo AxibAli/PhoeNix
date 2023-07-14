@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 654915301
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 34c814a3147b7c3a5bbf4c187d7d4fb8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Npc/MusicBox_5.wav
+Dependencies: []

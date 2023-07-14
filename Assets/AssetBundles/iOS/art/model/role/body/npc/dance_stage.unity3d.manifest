@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2902242374
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b7ea4b2742019dbd86cf10f07871809
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f84b1edfdf1ac21393e8856b31bcead6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Dance_stage/Dance_stage.FBX
+- Assets/Art/Model/Role/Body/NPC/Dance_stage/Dance_stage.png
+- Assets/Art/Model/Role/Body/NPC/Dance_stage/Dance_stage.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_a.unity3d

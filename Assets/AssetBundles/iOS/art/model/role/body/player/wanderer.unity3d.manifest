@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 3658971229
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 584b85dc491f0aabc87ce4f3223c5a51
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Player/Wanderer/Wanderer_6.mat
+- Assets/Art/Model/Role/Body/Player/Wanderer/Wanderer.FBX
+- Assets/Art/Model/Role/Body/Player/Wanderer/Wanderer_12.mat
+- Assets/Art/Model/Role/Body/Player/Wanderer/Wanderer_11.mat
+- Assets/Art/Model/Role/Body/Player/Wanderer/Wanderer_dead.mat
+- Assets/Art/Model/Role/Body/Player/Wanderer/wait.anim
+- Assets/Art/Model/Role/Body/Player/Wanderer/Wanderer_15.mat
+- Assets/Art/Model/Role/Body/Player/Wanderer/Wanderer_8.mat
+- Assets/Art/Model/Role/Body/Player/Wanderer/Wanderer_13.mat
+- Assets/Art/Model/Role/Body/Player/Wanderer/Wanderer_1.mat
+- Assets/Art/Model/Role/Body/Player/Wanderer/Wanderer_7.mat
+- Assets/Art/Model/Role/Body/Player/Wanderer/Wanderer_2.mat
+- Assets/Art/Model/Role/Body/Player/Wanderer/playshow.anim
+- Assets/Art/Model/Role/Body/Player/Wanderer/Wanderer_5.mat
+- Assets/Art/Model/Role/Body/Player/Wanderer/Wanderer.mat
+- Assets/Art/Model/Role/Body/Player/Wanderer/Wanderer_3.mat
+- Assets/Art/Model/Role/Body/Player/Wanderer/Wanderer_4.mat
+- Assets/Art/Model/Role/Body/Player/Wanderer/Wanderer_16.mat
+- Assets/Art/Model/Role/Body/Player/Wanderer/Wanderer_14.mat
+- Assets/Art/Model/Role/Body/Player/Wanderer/Wanderer.tga
+- Assets/Art/Model/Role/Body/Player/Wanderer/Wanderer_9.mat
+- Assets/Art/Model/Role/Body/Player/Wanderer/Wanderer_10.mat
+- Assets/Art/Model/Role/Body/Player/Wanderer/AC_Wanderer.controller
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/animation/body/skin_f.unity3d

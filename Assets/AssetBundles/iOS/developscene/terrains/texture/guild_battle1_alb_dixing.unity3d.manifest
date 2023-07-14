@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1066601378
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e745bac885f2a6693631c3b0fb8440d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/DevelopScene/Terrains/Texture/Guild_battle1_alb_dixing.png
+Dependencies: []

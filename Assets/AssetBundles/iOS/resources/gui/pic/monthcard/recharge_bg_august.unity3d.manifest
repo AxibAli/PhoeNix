@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1894667680
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 505bfa1d326f84d639c15f443e845f6b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/MonthCard/recharge_bg_August.png
+Dependencies: []

@@ -1,0 +1,151 @@
+ManifestFileVersion: 0
+CRC: 1111676416
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fca681dabe4579f5965828b65d577730
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ec52db577b9a327c3f473871268fd48e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/thing/thing_b/thing_guild_base_chuanghu.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_guan_4.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_guild_base_jiandun.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_iz_dun1_coral1.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_morocc_xiaotan2.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_jianshidiaoxiang.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_iz_dun1_pearl1.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_iz_dun1_dizuo1.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_researchlab_yizi.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_mianju.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_ghjs_xinqizhi.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_tiewang_2.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_iz_dun1_seaweed1.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_guild_base_wujian.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_iz_dun_2.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_pozhuzi.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_guild_base_tuiqizhuo.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_iz_dun1_temple.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_researchlab_luzhang.FBX
+- Assets/Art/Model/Scene/thing/thing_b/ting_izdun2_jianzhu.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_izdun2_qiangbi.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_iz_dun1_lanni.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_tietizi_1.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_moc_pyd2_dazhu.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_iz_dun1_xzz1.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_tietizi_2.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_izdun2_jiaju.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_2_wujian.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_muzhu_2.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_diantifang.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_pay_fild02_daocao.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_pay_fild02_mubanjia.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_iz_dun1_xdeng1.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_popingzhi.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_morocc_xiaotan1.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_zudang.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_iz_dun1_dz1.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_mjolnir_langan.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_tietizi_3.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_guan_5.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_payon_Tiger stone.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_guan_3.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_payon_shenweng.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_morocc_Dog Statue.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_izdun_baowu.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_researchlab_yiqi.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_dengzuo.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_tiewang_3.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_guan_2.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_moc1_dun_shizuo.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_kaibaoxiang.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_guild_base_xiangkuang.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_IZprt_muzu.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_guild_base_penzhai.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_diandeng.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_qizi2.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_jingai.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_researchlab_kongzhitai2.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_moc1_dun_zhu.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_guan_6.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_upgrade_p1_huopeng.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_payon_wuqijia.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_ghjs_baoshibaoxiang.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_iz_dun1_shikuai2.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_upgrade_p1_zhuzi3.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_zhuizhu.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_guild_base_shugui.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_morocc_kugu.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_gongmao.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_upgrade_p1_zhuzi2.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_iz_dun1_qiaozhu1.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_payon_zahuopu.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_researchlab_zhuzi.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_morocc_A Nubies.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_morocc_Dog Statue2.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_moc1_dun_huopen.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_pay_fild02_shuiche.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_2_wujian_2.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_powuding.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_guild_base_zhuoyi.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_pay_fild2_shenta.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_researchlab_kongzhitai.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_iz_dun1_diaoxiang.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_researchlab_monster jar.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_guan_1.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_guild_base_huiqi.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_payon_tanpu1.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_room_adv_men.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_guizi.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_upgrade_p1_zhuzi1.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_iz_dun1_light.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_payon_jianba.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_guild_base_shafa.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_tiewang_011.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_moc1_dun_zhutai.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_muzhu_1.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_moc_pyd2_wangzuose.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_guild_base_huaban.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_shabao.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_mjolnir_kuangitem.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_moc_pyd2_shiguan.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_pay_fild_kujing.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_izdun_shuijing.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_prt_sewb_tiewang_1.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_iz_dun1_brick.FBX
+- Assets/Art/Model/Scene/thing/thing_b/thing_payon_jiutan.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_h.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_d.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_f.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/rock/rock_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_i.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_d.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_j.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_a.unity3d

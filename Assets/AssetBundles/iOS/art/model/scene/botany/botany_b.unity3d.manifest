@@ -1,0 +1,94 @@
+ManifestFileVersion: 0
+CRC: 2788314137
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2e567d905c6c0633e96b25d0060c3d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc193d49e7d16f71ac778acf3c7bfc27
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/botany/botany_b/botany_flowersea_shu.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_glt_2_huashu.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_guildgarden_enter_guanmu2.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_gef_kobold_shu2.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_glastham_hongshu.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_gef_kobold_manten.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_iz_Poring_shuidao_cao1.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_iz_Poring_tree_ye01.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_iz_Poring_shuidao_gan3.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_xmas_songshu.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_org_village_hua.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_iz_Poring_tree_ye02.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_iz_Poring_shuidao_cao2.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_glt_k_zhiwu.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_aldebaran_zhiwu1.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_xmas_dashu.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_glt_outside_bajiao.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_iz_Poring_tree_gan02.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_xmas_dashu.tga
+- Assets/Art/Model/Scene/botany/botany_b/botany_xmas_kushu.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_iz_Poring_shuidao_ye3.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_hugecat_huacao1.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_prt_4_luwei.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_gef_kobold_shuye.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_aldebaran_shu.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_iz_Poring_shuidao_cao3.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_guildgarden_bt2_chuicao.png
+- Assets/Art/Model/Scene/botany/botany_b/botany_hugecat_huacao3.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_hugecat_lanling1.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_aldebaran_zhiwu2.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_iz_Poring_shuidao_gan1.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_op_huacao.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_org_village_song.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_gef_kobold_xiaoshu.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_guildgarden_bt2_cao.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_gef_kobold_shu1.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_guildgarden_bt2_chuicao.mat
+- Assets/Art/Model/Scene/botany/botany_b/botany_guildgarden_bt2_chuicao.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_glastham_pashanhu.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_xmas_shupian.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_iz_Poring_thicket1.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_org_village_cao.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_iz_Poring_shuidao_ye2.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_org_village_guanmu.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_room_prt_church_hua1.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_iz_Poring_shuidao_ye1.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_glt_2_guanmu.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_iz_Poring_shuidao_gan2.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_gef_kobold_hua1.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_hugecat_huacao2.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_mdgb_yinghuashu.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_gef_kobold_citen2.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_flowersea_BJhua.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_guildgarden_enter_guanmu3.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_op_qianhua.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_xmas_shu.FBX
+- Assets/Art/Model/Scene/botany/botany_b/botany_iz_Poring_tree_gan01.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_i.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_d.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

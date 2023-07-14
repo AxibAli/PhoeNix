@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2082300252
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca2dd06ca14e1bbec95990e1035255a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 89010fa122ffffe6344faa21dd7249a1
+HashAppended: 0
+ClassTypes:
+- Class: 84
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/Model/UIModelTexture3.renderTexture
+Dependencies: []

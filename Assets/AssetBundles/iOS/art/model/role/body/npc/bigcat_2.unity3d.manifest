@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 218874455
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dfe16b6cd525911a074d51888ec73458
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6321d8d57f359fbaaa0117e14642ce72
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/BigCat_2/thing_qiandai.mat
+- Assets/Art/Model/Role/Body/NPC/BigCat_2/AC_BigCat_2.controller
+- Assets/Art/Model/Role/Body/NPC/BigCat_2/BigCat.mat
+- Assets/Art/Model/Role/Body/NPC/BigCat_2/BigCat_2@_.FBX
+- Assets/Art/Model/Role/Body/NPC/BigCat_2/functional_action.anim
+- Assets/Art/Model/Role/Body/NPC/BigCat_2/BigCat_2_.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/body.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/body/npc/bigcat_1.unity3d

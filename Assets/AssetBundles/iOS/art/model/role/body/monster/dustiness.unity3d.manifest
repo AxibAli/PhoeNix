@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 4286100767
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee914ccba040bd2fda1779068d8a2a22
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Dustiness/die.anim
+- Assets/Art/Model/Role/Body/Monster/Dustiness/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Dustiness/Dustiness.mat
+- Assets/Art/Model/Role/Body/Monster/Dustiness/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Dustiness/Dustiness.png
+- Assets/Art/Model/Role/Body/Monster/Dustiness/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Dustiness/Dustiness.FBX
+- Assets/Art/Model/Role/Body/Monster/Dustiness/AC_Dustiness.controller
+- Assets/Art/Model/Role/Body/Monster/Dustiness/walk.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

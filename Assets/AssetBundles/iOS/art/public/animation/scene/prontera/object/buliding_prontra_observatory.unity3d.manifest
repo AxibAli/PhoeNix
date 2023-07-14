@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3336792227
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3956818710bdb623bea62a8692509964
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Scene/Prontera/Object/buliding_prontra_Observatory/buliding_prontra_Observatory.controller
+- Assets/Art/Public/Animation/Scene/Prontera/Object/buliding_prontra_Observatory/wait.anim
+Dependencies: []

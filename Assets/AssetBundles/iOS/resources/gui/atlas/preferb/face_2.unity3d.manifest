@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1925327262
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d752a060ae183b446d1f4baac93b0ea9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 10df304355517f1b3addff786f7a0435
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/atlas/preferb/face_2.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/gui/atlas/material/face_2.unity3d

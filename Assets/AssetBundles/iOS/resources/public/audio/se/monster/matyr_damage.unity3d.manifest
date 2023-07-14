@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2491791004
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 32680a3bc6f9ff2aebc4b79819f9a5b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Monster/Matyr_damage.wav
+Dependencies: []

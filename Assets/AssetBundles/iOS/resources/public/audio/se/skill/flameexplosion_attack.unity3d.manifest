@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 44889358
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0e8810b61051fb201189a9bfb9ddb89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/FlameExplosion_attack.wav
+Dependencies: []

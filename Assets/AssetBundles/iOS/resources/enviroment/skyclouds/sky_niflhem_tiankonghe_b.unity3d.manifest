@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 800539725
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b012bb1965f370ece4f9d9cae3b33b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1024d6c57be65da4c28a45bd200b486
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Enviroment/skyclouds/sky_niflhem_tiankonghe_b.tga
+- Assets/Resources/Enviroment/skyclouds/sky_niflhem_tiankonghe_b.png
+Dependencies: []

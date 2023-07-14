@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1602415348
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53367fdf2402f8b46fab2fc5a1d29b8c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/BigCat_Money/attack.anim
+- Assets/Art/Model/Role/Body/NPC/BigCat_Money/BigCat_Money.mat
+- Assets/Art/Model/Role/Body/NPC/BigCat_Money/BigCat_Money.FBX
+- Assets/Art/Model/Role/Body/NPC/BigCat_Money/use_skill.anim
+- Assets/Art/Model/Role/Body/NPC/BigCat_Money/playshow.anim
+- Assets/Art/Model/Role/Body/NPC/BigCat_Money/AC_BigCat_Money.controller
+- Assets/Art/Model/Role/Body/NPC/BigCat_Money/wait.anim
+- Assets/Art/Model/Role/Body/NPC/BigCat_Money/BigCat_Money_Weapon.png
+- Assets/Art/Model/Role/Body/NPC/BigCat_Money/BigCat_Money.png
+- Assets/Art/Model/Role/Body/NPC/BigCat_Money/BigCat_Money_Weapon.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

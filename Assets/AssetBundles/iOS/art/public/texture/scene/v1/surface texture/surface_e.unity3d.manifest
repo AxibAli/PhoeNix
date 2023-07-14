@@ -1,0 +1,100 @@
+ManifestFileVersion: 0
+CRC: 2619061457
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b6664badcc8519e0fe8191626f5e356
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_iz_Poring_pr_caodi5.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_room_adv_qiang.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_yuno_fild1_tudi2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_yuno_fild1_dizhuan3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_upgrade_p1_pingtai_3.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_room_class_dingzhuan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_upgrade_p1_pingtai_5.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_room_adv_qiang.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_yuno_fild1_caodi_lv1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_yuno_fild1_caodi1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_iz_Poring_pr_nitu2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_room_test_1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_iz_Poring_pr_nitu1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_org_village_tudi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_org_dun_shi3b.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_org_dun_nitu2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_yuno_fild1_caodi2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_yuno_fild1_dizhuan3.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_upgrade_p1_pingtai_4.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_org_village_shanshi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_guild_battle_dizhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_yuno_fild2_yuno1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/thing_clocktower2_dengpao.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_iz_Poring_pr_caodi3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_org_dun_shi2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_upgrade_p1_pingtai_5.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_yuno_fild1_caodi_lv2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_org_dun_shi4.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_yuno_fild2_yuno1.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_prt_1_yanse1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_prt_1_BJpenquanG.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_iz_Poring_pr_caodi2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_guild_battle_dizhuan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_room_class_mofatan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_org_village_cao2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_room_T5_dizhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_iz_Poring_pr_caodi5.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_room_test_1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_org_dun_shi3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_prt_1_BJpenquanG.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_iz_Poring_pr_shadi3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_org_village_cao1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_rock_18.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_upgrade_p1_pingtai_2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_org_dun_nitu.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_yuno_fild1_dizhuan2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_upgrade_p1_pingtai_1.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_room_class_dingzhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_upgrade_p1_pingtai_3.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_iz_Poring_pr_caodi4.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_upgrade_p1_pingtai_4.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_iz_Poring_pr_shadi2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_org_dun_shi4.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_room_class_mofatan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_room_class_diban.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_yuno_fild2_st1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_yuno_fild1_dizhuan2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_yuno_fild1_caodi1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_iz_Poring_pr_shadi1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_Guild_battle2_alb_weiqiang.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_prt_1_BJchengshi.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_org_dun_nitu2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_room_class_mofatan
+  1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_prt_1_BJchengshi.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_upgrade_p1_pingtai_2.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_iz_Poring_pr_caodi1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_yuno_fild1_caodi2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_yuno_fild1_dizhuan1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_upgrade_p1_pingtai_1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_room_class_diban.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_yuno_fild1_dizhuan1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/thing_clocktower2_dengtai.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_room_T5_dizhuan02.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_e/surface_yuno_fild1_tudi1.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_i.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

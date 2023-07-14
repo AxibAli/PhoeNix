@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2239598267
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cdb17224550e5e6857185fa0adc791dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/DevelopScene/Terrains/Texture/prt_1_dibiao_3.png
+Dependencies: []

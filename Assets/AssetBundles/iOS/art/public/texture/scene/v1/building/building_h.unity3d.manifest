@@ -1,0 +1,130 @@
+ManifestFileVersion: 0
+CRC: 556041293
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2a48624841b54ebc5b0c50ac0b5c3bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_iz_dun02_dadian_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_under_qiang_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/building_iz_poring_penquan.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_iz_dun02_chengqian_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_chengmen_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_fangwu1_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_moc1_dun_biqiang1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_iz_dun02_dadian_5.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_huisuo_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/building_iz_Poring_castle_shadow.png
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_iz_dun02_chengmen_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_moc1_dun_biqiang1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_jinzita_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/building_iz_Poring_castle.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_huisuo_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_moc1_dun_shizhu.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_iz_dun02_dadian_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_shiqiao_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_moc1_dun_Qdizuo.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_iz_dun02_dadian_5.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_fangwu1_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_huisuo_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/building_iz_poring_shhuidao_e.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_shiqiao_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_jinzita_5.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_fangwu1_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_iz_dun02_dadian_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/building_guild_base_yuantai.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/building_guild_base_wall_01.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_jinzita_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_jinzita_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_under_qiang_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_fangwu1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/building_iz_poring_shhuidao_e.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/building_iz_poring_penquan_shadow.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_under_qiang_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_jinzita_5.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/surface_guild_base_wall_01.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_gongdian_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_gongdian_2.TGA
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_under_qiang_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/building_iz_poring_shhuidao_a.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_iz_dun02_chengqian_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_gongdian_5.TGA
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_moc1_dun_heizhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_fangwu1_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_fangwu2_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_iz_dun02_chengqian_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_Obelisk_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/building_iz_poring_penquan_shadow.png
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_fangwu2_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_moc1_dun_heizhuan.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_jinzita_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_moc1_dun_biqiang2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_chengmen_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/surface_guild_base_wall_01.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_shiqiao_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_jinzita_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_huisuo_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_fangwu2_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/building_iz_Poring_castle_shadow.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_moc1_dun_zhuanqiang.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_huisuo_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_iz_dun02_chengmen_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_iz_dun02_dadian_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_Obelisk_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_gongdian_3.TGA
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_moc_pyd2_qiang.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_iz_dun02_chengmen_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_moc1_dun_shizhu.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_gongdian_5.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_moc_pyd2_qiang.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_iz_dun02_dadian_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_Obelisk_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/building_iz_poring_shhuidao_a.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_moc1_dun_zhuanqiang.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_fangwu1_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_gongdian_4.TGA
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_gongdian_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_chengmen_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_jinzita_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_iz_dun02_chengmen_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_moc1_dun_biqiang2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_iz_dun02_chengqian_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_fangwu2_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_fangwu2_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_fangwu2_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/building_iz_Poring_castle.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/building_guild_base_door_01.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_gongdian_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_under_qiang_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_Obelisk_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_iz_dun02_chengqian_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_iz_dun02_dadian_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_huisuo_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_iz_dun02_chengqian_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/building_iz_poring_penquan.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_gongdian_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_huisuo_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/building_guild_base_yuantai.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/building_guild_base_door_01.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_under_qiang_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_iz_dun02_dadian_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_chengmen_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_shiqiao_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_iz_dun02_dadian_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/building_guild_base_wall_01.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_huisuo_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_moc1_dun_Qdizuo.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_h/buliding_morocc_gongdian_1.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

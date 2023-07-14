@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1201308742
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c115f2b5c2cf9e8486d06fefbfd6ffac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/Map/map.png
+Dependencies: []

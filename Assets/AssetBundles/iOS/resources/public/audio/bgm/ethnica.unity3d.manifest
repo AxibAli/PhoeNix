@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2875649909
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b94a2272b7149e832173fe03f9ba29dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/BGM/Ethnica.mp3
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3390841458
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70e68c7ccedd5b15ca0dd55fd9057623
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/GUI/New/result/result_bg_02.png
+- Assets/Art/Public/Texture/GUI/New/result/result_bg_03.png
+Dependencies: []

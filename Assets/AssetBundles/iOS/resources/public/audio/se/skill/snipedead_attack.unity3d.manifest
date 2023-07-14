@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1611666780
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62c8b4a681384c43ad4656a2a0ee20c9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/SnipeDead_attack.wav
+Dependencies: []

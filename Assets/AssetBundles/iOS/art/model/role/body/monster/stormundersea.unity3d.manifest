@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1948719070
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d23befcbfacb6e14bbeb79ba8ff320c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/StormUnderSea/AC_StormUnderSea.controller
+- Assets/Art/Model/Role/Body/Monster/StormUnderSea/die.anim
+- Assets/Art/Model/Role/Body/Monster/StormUnderSea/birth.anim
+- Assets/Art/Model/Role/Body/Monster/StormUnderSea/wait.anim
+- Assets/Art/Model/Role/Body/Monster/StormUnderSea/use_magic.anim
+Dependencies: []

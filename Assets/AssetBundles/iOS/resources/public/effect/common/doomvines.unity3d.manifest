@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1474593233
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00ad4ace9cf96fe7618079f465babfd2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ab0283cdc76d68aa778fae1a8f59f763
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Effect/Common/DoomVines.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/glow.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/smoke.unity3d

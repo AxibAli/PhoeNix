@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 3242746430
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 454816d650a8b5896bc5449830bfe827
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6321d8d57f359fbaaa0117e14642ce72
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Mimic/Mimic.png
+- Assets/Art/Model/Role/Body/Monster/Mimic/Mimic_mouth_effect.mat
+- Assets/Art/Model/Role/Body/Monster/Mimic/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Mimic/Mimic.mat
+- Assets/Art/Model/Role/Body/Monster/Mimic/Mimic_mouth_effect.png
+- Assets/Art/Model/Role/Body/Monster/Mimic/Mimic.FBX
+- Assets/Art/Model/Role/Body/Monster/Mimic/Mimic@_.FBX
+- Assets/Art/Model/Role/Body/Monster/Mimic/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Mimic/AC_Mimic.controller
+- Assets/Art/Model/Role/Body/Monster/Mimic/die.anim
+- Assets/Art/Model/Role/Body/Monster/Mimic/walk.anim
+- Assets/Art/Model/Role/Body/Monster/Mimic/hit.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

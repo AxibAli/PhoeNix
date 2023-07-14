@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3042721574
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4379614cc7d1c70c6443d49dd286adf6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46ed43a49857802e6f199da82eef6768
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 121
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Enviroment/50mmZoom.flare
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/standard.unity3d

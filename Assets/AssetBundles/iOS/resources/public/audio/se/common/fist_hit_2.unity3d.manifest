@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3773026556
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 96bdfaa4f966c8373ae75723e0b74b2b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Common/fist_hit_2.wav
+Dependencies: []

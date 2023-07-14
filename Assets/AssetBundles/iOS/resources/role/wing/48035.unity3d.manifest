@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2917980228
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 320dd68bd5f14b534ab0f88e9bf8fab6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5d0286a0357cc330063b33d0a4cbd680
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 628d4ffce76dc41e992218ed300f2dd5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Role/Wing/48035.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/wing.unity3d

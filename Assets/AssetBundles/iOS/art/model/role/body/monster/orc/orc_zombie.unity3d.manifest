@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1722924106
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a791c2d8f5defa75edcf02ca488d2a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Orc/Orc_Zombie/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Orc/Orc_Zombie/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Orc/Orc_Zombie/die.anim
+- Assets/Art/Model/Role/Body/Monster/Orc/Orc_Zombie/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Orc/Orc_Zombie/AC_Orc_Zombie.controller
+- Assets/Art/Model/Role/Body/Monster/Orc/Orc_Zombie/walk.anim
+Dependencies: []

@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 1119643309
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 393efa367a808680a0ae7142336f6a1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/BlackWitch/hit.anim
+- Assets/Art/Model/Role/Body/Monster/BlackWitch/BlackWitch.FBX
+- Assets/Art/Model/Role/Body/Monster/BlackWitch/happy.anim
+- Assets/Art/Model/Role/Body/Monster/BlackWitch/eat.anim
+- Assets/Art/Model/Role/Body/Monster/BlackWitch/Witch_Pet.png
+- Assets/Art/Model/Role/Body/Monster/BlackWitch/walk.anim
+- Assets/Art/Model/Role/Body/Monster/BlackWitch/walk_InHand.anim
+- Assets/Art/Model/Role/Body/Monster/BlackWitch/be_touch.anim
+- Assets/Art/Model/Role/Body/Monster/BlackWitch/attack.anim
+- Assets/Art/Model/Role/Body/Monster/BlackWitch/wait_InHand.anim
+- Assets/Art/Model/Role/Body/Monster/BlackWitch/die.anim
+- Assets/Art/Model/Role/Body/Monster/BlackWitch/BlackWitch.png
+- Assets/Art/Model/Role/Body/Monster/BlackWitch/Witch_Pet.mat
+- Assets/Art/Model/Role/Body/Monster/BlackWitch/BlackWitch.mat
+- Assets/Art/Model/Role/Body/Monster/BlackWitch/AC_BlackWitch.controller
+- Assets/Art/Model/Role/Body/Monster/BlackWitch/wait.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

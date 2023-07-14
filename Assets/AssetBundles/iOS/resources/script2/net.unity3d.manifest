@@ -1,0 +1,81 @@
+ManifestFileVersion: 0
+CRC: 244092030
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e01878d3b13f20eac741ce7dd782692b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/Net/Protos/SessionSociality_pb.bytes
+- Assets/Resources/Script2/Net/Protobuf/descriptor.bytes
+- Assets/Resources/Script2/Net/ProtobufPool.bytes
+- Assets/Resources/Script2/Net/Protos/ErrorUserCmd_pb.bytes
+- Assets/Resources/Script2/Net/Protos/SceneItem_pb.bytes
+- Assets/Resources/Script2/Net/Protos/SceneBeing_pb.bytes
+- Assets/Resources/Script2/Net/Protos/SceneSeal_pb.bytes
+- Assets/Resources/Script2/Net/Protos/TeamRaidCmd_pb.bytes
+- Assets/Resources/Script2/Net/NetMonitor.bytes
+- Assets/Resources/Script2/Net/NetProtocol.bytes
+- Assets/Resources/Script2/Net/Protos/SceneMap_pb.bytes
+- Assets/Resources/Script2/Net/Protos/SessionTeam_pb.bytes
+- Assets/Resources/Script2/Net/Protos/SessionShop_pb.bytes
+- Assets/Resources/Script2/Net/Test/TestNetMain.bytes
+- Assets/Resources/Script2/Net/Protos/RecordTrade_pb.bytes
+- Assets/Resources/Script2/Net/Protos/BossCmd_pb.bytes
+- Assets/Resources/Script2/Net/Protos/ClientPrivateChatIO_pb.bytes
+- Assets/Resources/Script2/Net/Protos/PhotoCmd_pb.bytes
+- Assets/Resources/Script2/Net/Protos/LoginUserCmd_pb.bytes
+- Assets/Resources/Script2/Net/Protos/CarrierCmd_pb.bytes
+- Assets/Resources/Script2/Net/Protos/SceneAugury_pb.bytes
+- Assets/Resources/Script2/Net/Protos/PveCard_pb.bytes
+- Assets/Resources/Script2/Net/Test/TestNetProtocolVSPb.bytes
+- Assets/Resources/Script2/Net/NetConfig.bytes
+- Assets/Resources/Script2/Net/Test/person_pb.bytes
+- Assets/Resources/Script2/Net/Protos/WeddingCCmd_pb.bytes
+- Assets/Resources/Script2/Net/Protos/AstrolabeCmd_pb.bytes
+- Assets/Resources/Script2/Net/Protobuf/decoder.bytes
+- Assets/Resources/Script2/Net/Protos/SceneInterlocution_pb.bytes
+- Assets/Resources/Script2/Net/Protos/SceneChatRoom_pb.bytes
+- Assets/Resources/Script2/Net/Protos/Proto_Include.bytes
+- Assets/Resources/Script2/Net/Protos/SceneFood_pb.bytes
+- Assets/Resources/Script2/Net/Protobuf/encoder.bytes
+- Assets/Resources/Script2/Net/Protos/AchieveCmd_pb.bytes
+- Assets/Resources/Script2/Net/Protobuf/text_format.bytes
+- Assets/Resources/Script2/Net/Protos/SessionWeather_pb.bytes
+- Assets/Resources/Script2/Net/NetPrefix.bytes
+- Assets/Resources/Script2/Net/Protos/InfiniteTower_pb.bytes
+- Assets/Resources/Script2/Net/Protos/ChatCmd_pb.bytes
+- Assets/Resources/Script2/Net/Protos/MatchCCmd_pb.bytes
+- Assets/Resources/Script2/Net/Protos/ScenePet_pb.bytes
+- Assets/Resources/Script2/Net/Protos/SysMsg_pb.bytes
+- Assets/Resources/Script2/Net/Protos/xCmd_pb.bytes
+- Assets/Resources/Script2/Net/Protos/SceneManual_pb.bytes
+- Assets/Resources/Script2/Net/Protos/ActivityEvent_pb.bytes
+- Assets/Resources/Script2/Net/Protobuf/protobuf.bytes
+- Assets/Resources/Script2/Net/Protos/Dojo_pb.bytes
+- Assets/Resources/Script2/Net/Protos/SceneSkill_pb.bytes
+- Assets/Resources/Script2/Net/Protos/FuBenCmd_pb.bytes
+- Assets/Resources/Script2/Net/Protobuf/wire_format.bytes
+- Assets/Resources/Script2/Net/Protobuf/containers.bytes
+- Assets/Resources/Script2/Net/Protos/AuctionCCmd_pb.bytes
+- Assets/Resources/Script2/Net/Protos/SceneQuest_pb.bytes
+- Assets/Resources/Script2/Net/Protos/Authorize_pb.bytes
+- Assets/Resources/Script2/Net/Protos/SceneUser_pb.bytes
+- Assets/Resources/Script2/Net/Protos/ProtoCommon_pb.bytes
+- Assets/Resources/Script2/Net/Protobuf/listener.bytes
+- Assets/Resources/Script2/Net/Protos/SessionMail_pb.bytes
+- Assets/Resources/Script2/Net/Protobuf/type_checkers.bytes
+- Assets/Resources/Script2/Net/Protos/UserEvent_pb.bytes
+- Assets/Resources/Script2/Net/Protos/GuildCmd_pb.bytes
+- Assets/Resources/Script2/Net/Protos/SceneTip_pb.bytes
+- Assets/Resources/Script2/Net/Protos/SceneUser2_pb.bytes
+- Assets/Resources/Script2/Net/Protos/Var_pb.bytes
+- Assets/Resources/Script2/Net/Protos/Tutor_pb.bytes
+- Assets/Resources/Script2/Net/Protos/ActivityCmd_pb.bytes
+Dependencies: []

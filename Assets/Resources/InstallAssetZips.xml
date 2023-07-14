@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InstallAssetZips xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ZipSize="1505706769" UnZipSize="3448081889" UnZipFilesCount="19730">
+  <names>
+    <InstallAssetZips ZipName="assets0.zip" ZipSize="58024581" UnZipSize="147008189" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets1.zip" ZipSize="59124402" UnZipSize="146212056" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets10.zip" ZipSize="66208663" UnZipSize="135627793" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets11.zip" ZipSize="68423574" UnZipSize="135448538" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets12.zip" ZipSize="57942143" UnZipSize="135448538" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets13.zip" ZipSize="60906686" UnZipSize="135448538" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets14.zip" ZipSize="59343688" UnZipSize="135448537" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets15.zip" ZipSize="55911833" UnZipSize="135448537" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets16.zip" ZipSize="61157114" UnZipSize="133693856" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets17.zip" ZipSize="64058965" UnZipSize="133693862" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets18.zip" ZipSize="65169793" UnZipSize="133693861" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets19.zip" ZipSize="54513083" UnZipSize="133693515" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets2.zip" ZipSize="63588563" UnZipSize="144796613" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets20.zip" ZipSize="53691231" UnZipSize="133693515" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets21.zip" ZipSize="62690062" UnZipSize="133693863" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets22.zip" ZipSize="58818758" UnZipSize="133693515" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets23.zip" ZipSize="62451337" UnZipSize="133693861" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets24.zip" ZipSize="55159984" UnZipSize="133693515" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets3.zip" ZipSize="62836747" UnZipSize="144044009" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets4.zip" ZipSize="60477369" UnZipSize="144019957" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets5.zip" ZipSize="59440364" UnZipSize="143177468" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets6.zip" ZipSize="63136174" UnZipSize="143177464" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets7.zip" ZipSize="58100936" UnZipSize="141064292" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets8.zip" ZipSize="56101622" UnZipSize="140436699" UnZipFilesCount="0" />
+    <InstallAssetZips ZipName="assets9.zip" ZipSize="58429097" UnZipSize="138031298" UnZipFilesCount="0" />
+  </names>
+</InstallAssetZips>

@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1398571204
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45c16f4fbb4eb621a9fe921f0a09ad48
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8c7cb9b3852160fc57942467b82dea1c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/view/HireCatInfoView.prefab
+Dependencies: []

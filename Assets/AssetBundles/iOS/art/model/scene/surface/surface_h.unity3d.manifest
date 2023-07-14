@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2654724936
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2c0b92ee388580f5f056e5bcc5c865b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb96948b47ad6ca1df035de75994dde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/Surface/surface_h/surface_room_happy_wxz.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_n.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_g.unity3d

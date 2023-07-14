@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 196821210
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ce33b44cb08a1a09c28e3f7c19b340d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0e9f1b95c98b0123d30ed119c8e0d292
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57bab452724524f1499aada05649b58d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0c08ec5a0d8d416383fbebc2532ae82, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb7a4af75767942589dd16173bdc2921, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e250fa9a7b6cc4c25a622a054d048021, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ae4f6eba788942b8a73e9434b9b1ac5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c32cb3c8874a40b8b7ec5e991b1f540, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4915fd3c881ee4c91a9d8dff249491ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 428f691d8290c4eeb8695bfa64774be1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdb058cdf23ba4f8380b8ceccec47d3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd0496be2a7764459b5d97e99e9f4e11, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Engine/Refactory/LuaLuauncherSwitchRole.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/general.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/engine/refactory/scenephoto.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/engine/refactory/sittarget.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/engine/refactory/sceneguildicon.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/engine/refactory/rolecomplete.unity3d

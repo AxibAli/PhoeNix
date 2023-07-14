@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2872895744
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88dfa5b082c5a584c21da729b9773b8f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE_JP/Npc/Arielle_1.wav
+Dependencies: []

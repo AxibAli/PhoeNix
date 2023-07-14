@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 601966127
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae9f21e366993f9ffd79ada03c2231d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb96948b47ad6ca1df035de75994dde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/StageParts/Part2/Part2_8/Part2_8_.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/stageparts/part2/part2_8/part2_8.unity3d

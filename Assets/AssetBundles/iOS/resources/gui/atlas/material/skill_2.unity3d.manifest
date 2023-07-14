@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3016690232
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4847cdacc63d5d11eb392d12fd22a820
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/atlas/material/Skill_2.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/gui/atlas/picture/skill_2.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader/ui.unity3d

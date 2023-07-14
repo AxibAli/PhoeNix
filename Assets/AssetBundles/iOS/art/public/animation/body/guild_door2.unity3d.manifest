@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1006172119
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dca699826e4cae81107a472726302b4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Body/Guild_Door2/state1002.anim
+- Assets/Art/Public/Animation/Body/Guild_Door2/state3002.anim
+- Assets/Art/Public/Animation/Body/Guild_Door2/state3001.anim
+- Assets/Art/Public/Animation/Body/Guild_Door2/state1001.anim
+- Assets/Art/Public/Animation/Body/Guild_Door2/state2002.anim
+- Assets/Art/Public/Animation/Body/Guild_Door2/state2001.anim
+Dependencies: []

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3075906424
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 61e6ae557bc46f6dd088239c0a925423
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 10df304355517f1b3addff786f7a0435
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/atlas/preferb/Skill_szj.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/gui/atlas/material/skill_szj.unity3d

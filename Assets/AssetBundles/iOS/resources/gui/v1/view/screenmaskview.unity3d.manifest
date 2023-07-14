@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3798701085
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b654b05e1a53fa7516e5552a43667b6e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f2ff01f86012d6c2ff649086053d546
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/view/ScreenMaskView.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/gui/new/atlas/com.unity3d

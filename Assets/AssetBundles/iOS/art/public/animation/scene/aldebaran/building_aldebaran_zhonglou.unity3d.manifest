@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4131999944
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e3e1b63f5ab66120a865bde7896c3ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Scene/aldebaran/building_aldebaran_zhonglou/wait.anim
+- Assets/Art/Public/Animation/Scene/aldebaran/building_aldebaran_zhonglou/building_C_Tower_1F_dimianzhong3.controller
+- Assets/Art/Public/Animation/Scene/aldebaran/building_aldebaran_zhonglou/building_C_Tower_1F_dimianzhong4.controller
+Dependencies: []

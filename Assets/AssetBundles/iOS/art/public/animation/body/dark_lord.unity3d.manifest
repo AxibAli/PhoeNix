@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3330031008
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe1d248697a2367c3093f306e5edd54d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Body/Dark_Lord/die.anim
+- Assets/Art/Public/Animation/Body/Dark_Lord/skill_ready.anim
+- Assets/Art/Public/Animation/Body/Dark_Lord/attack.anim
+- Assets/Art/Public/Animation/Body/Dark_Lord/walk.anim
+- Assets/Art/Public/Animation/Body/Dark_Lord/use_skill.anim
+- Assets/Art/Public/Animation/Body/Dark_Lord/playshow.anim
+- Assets/Art/Public/Animation/Body/Dark_Lord/hit.anim
+- Assets/Art/Public/Animation/Body/Dark_Lord/wait.anim
+- Assets/Art/Public/Animation/Body/Dark_Lord/use_magic.anim
+Dependencies: []

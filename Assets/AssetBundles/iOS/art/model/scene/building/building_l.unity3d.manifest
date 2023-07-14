@@ -1,0 +1,101 @@
+ManifestFileVersion: 0
+CRC: 880762262
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 647116db636360572ae8e5dbaa3e9b11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb96948b47ad6ca1df035de75994dde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/building/building_l/building_niflhem_shiqiang.FBX
+- Assets/Art/Model/Scene/building/building_l/building_TeamVs_diji.FBX
+- Assets/Art/Model/Scene/building/building_l/building_szz_cangku_po.FBX
+- Assets/Art/Model/Scene/building/building_l/building_TeamVs_miaomen.FBX
+- Assets/Art/Model/Scene/building/building_l/building_0006.FBX
+- Assets/Art/Model/Scene/building/building_l/building_lighttower_beijing.FBX
+- Assets/Art/Model/Scene/building/building_l/building_niflhem_diyuanpan.FBX
+- Assets/Art/Model/Scene/building/building_l/building_szz_shop1.FBX
+- Assets/Art/Model/Scene/building/building_l/building_room_T8_ground.FBX
+- Assets/Art/Model/Scene/building/building_l/building_teamvs_mubei.FBX
+- Assets/Art/Model/Scene/building/building_l/building_0005_c.FBX
+- Assets/Art/Model/Scene/building/building_l/building_TeamVs_leitai.FBX
+- Assets/Art/Model/Scene/building/building_l/building_teamvs_ding1.FBX
+- Assets/Art/Model/Scene/building/building_l/building_upgrade_l.FBX
+- Assets/Art/Model/Scene/building/building_l/building_szz_shop3.FBX
+- Assets/Art/Model/Scene/building/building_l/building_room_T8_ding.FBX
+- Assets/Art/Model/Scene/building/building_l/building_szz_cangku.FBX
+- Assets/Art/Model/Scene/building/building_l/building_lightower_dengta.FBX
+- Assets/Art/Model/Scene/building/building_l/building_0005_a.FBX
+- Assets/Art/Model/Scene/building/building_l/building_szz_minju3.FBX
+- Assets/Art/Model/Scene/building/building_l/building_lightower_xiaowu.FBX
+- Assets/Art/Model/Scene/building/building_l/building_room_happy_qiangti.FBX
+- Assets/Art/Model/Scene/building/building_l/building_niflhem_mvxw.FBX
+- Assets/Art/Model/Scene/building/building_l/building_szz_bangonglou_a.FBX
+- Assets/Art/Model/Scene/building/building_l/building_room_happy_gongding.FBX
+- Assets/Art/Model/Scene/building/building_l/building_upgrade_gb.FBX
+- Assets/Art/Model/Scene/building/building_l/buliding_lighttower_fangwu.FBX
+- Assets/Art/Model/Scene/building/building_l/building_room_nif2_chuanghu.FBX
+- Assets/Art/Model/Scene/building/building_l/building_niflhem_damen.FBX
+- Assets/Art/Model/Scene/building/building_l/building_szz_shop4.FBX
+- Assets/Art/Model/Scene/building/building_l/building_niflhem_zxdizuo.FBX
+- Assets/Art/Model/Scene/building/building_l/building_yuno_damen.FBX
+- Assets/Art/Model/Scene/building/building_l/building_niflhem_zxdizuo2.FBX
+- Assets/Art/Model/Scene/building/building_l/building_szz_syxiaowu.FBX
+- Assets/Art/Model/Scene/building/building_l/building_nif_fild_Tombstone.FBX
+- Assets/Art/Model/Scene/building/building_l/building_niflhem_jitai.FBX
+- Assets/Art/Model/Scene/building/building_l/building_room_happy_qt2.FBX
+- Assets/Art/Model/Scene/building/building_l/building_0005_b.FBX
+- Assets/Art/Model/Scene/building/building_l/building_szz_bangonglou_po_bc.FBX
+- Assets/Art/Model/Scene/building/building_l/building_niflhem_yiliaozhan1.FBX
+- Assets/Art/Model/Scene/building/building_l/building_niflhem_JTdamen.FBX
+- Assets/Art/Model/Scene/building/building_l/building_szz_shop2_b.FBX
+- Assets/Art/Model/Scene/building/building_l/building_upgrade_gb_po.FBX
+- Assets/Art/Model/Scene/building/building_l/building_niflhem_kzlumian.FBX
+- Assets/Art/Model/Scene/building/building_l/building_niflhem_ylz_muguan.FBX
+- Assets/Art/Model/Scene/building/building_l/building_upgrade_007.FBX
+- Assets/Art/Model/Scene/building/building_l/building_niflhem_shiqiao.FBX
+- Assets/Art/Model/Scene/building/building_l/building_szz_bangonglou_bc.FBX
+- Assets/Art/Model/Scene/building/building_l/buliding_lighttower_bei.FBX
+- Assets/Art/Model/Scene/building/building_l/building_niflhem_lumian.FBX
+- Assets/Art/Model/Scene/building/building_l/building_room_nif2_yizi01.FBX
+- Assets/Art/Model/Scene/building/building_l/building_teamvs_zhanlan.FBX
+- Assets/Art/Model/Scene/building/building_l/building_niflhem_shenmiao.FBX
+- Assets/Art/Model/Scene/building/building_l/building_teamvs_jianzhu1.FBX
+- Assets/Art/Model/Scene/building/building_l/building_niflhem_yiliaozhan2.FBX
+- Assets/Art/Model/Scene/building/building_l/building_szz_syxiaowu02.FBX
+- Assets/Art/Model/Scene/building/building_l/building_niflhem_jiuguan.FBX
+- Assets/Art/Model/Scene/building/building_l/building_niflhem_gyfangwu.FBX
+- Assets/Art/Model/Scene/building/building_l/building_niflhem_new_fw.FBX
+- Assets/Art/Model/Scene/building/building_l/building_room_T8_room.FBX
+- Assets/Art/Model/Scene/building/building_l/building_room_happy_ding.FBX
+- Assets/Art/Model/Scene/building/building_l/building_teamvs_qiangbi.FBX
+- Assets/Art/Model/Scene/building/building_l/building_niflhem_wuqidian.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_h.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_o.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_k.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_h.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/rock/rock_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_n.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_l.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_i.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_p.unity3d

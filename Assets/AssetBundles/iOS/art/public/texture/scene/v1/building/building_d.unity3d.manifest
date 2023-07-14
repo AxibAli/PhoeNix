@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 3940229893
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42041015e637bf9ade774211977374d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_zhangpeng2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_zhuzi_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_FerrisWheel_motianlun_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_FerrisWheel_motianlun_1s.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_FerrisWheel_adv_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_pengquan.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_pengquang_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_zhangpeng_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_zhuzi.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_FerrisWheel_motianlun_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_huatan.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_FerrisWheel_deng1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_zhangpeng.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_pengquan_battle.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_pengquang_2_battle.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_inwall_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_zhuzi.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_zhangpeng.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_FerrisWheel_motianlun_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_pengquan.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_FerrisWheel_deng2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_ta.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_pengquang_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_ta.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_FerrisWheel_motianlun_1s.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_daqiao.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_FerrisWheel_deng2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_ta 1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_FerrisWheel_deng1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_daqiao.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_FerrisWheel_motianlun_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_zhangpeng2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_FerrisWheel_motianlun_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_zhuzi_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_FerrisWheel_motianlun_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_inwall_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_zhuzi_2_battle.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_zhangpeng_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_FerrisWheel_adv_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_d/building_geffen_huatan.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

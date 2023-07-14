@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 2746368461
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 34e93abdafa37286d6399e6bbee54fe1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/SoldierCat3/AC_SoldierCat3.controller
+- Assets/Art/Model/Role/Body/NPC/SoldierCat3/SoldierCat3_weapon.png
+- Assets/Art/Model/Role/Body/NPC/SoldierCat3/attack.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat3/soldiercat3_functional_action.controller
+- Assets/Art/Model/Role/Body/NPC/SoldierCat3/hit.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat3/walk.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat3/SoldierCat3.mat
+- Assets/Art/Model/Role/Body/NPC/SoldierCat3/wait.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat3/walk_InHand.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat3/functional_action2.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat3/SoldierCat3.png
+- Assets/Art/Model/Role/Body/NPC/SoldierCat3/use_skill.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat3/born.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat3/SoldierCat3.FBX
+- Assets/Art/Model/Role/Body/NPC/SoldierCat3/SoldierCat3_weapon.mat
+- Assets/Art/Model/Role/Body/NPC/SoldierCat3/skill_ready.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat3/die.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat3/functional_action.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat3/sit_down.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat3/wait_InHand.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

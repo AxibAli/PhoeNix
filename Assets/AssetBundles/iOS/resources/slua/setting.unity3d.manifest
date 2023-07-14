@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 4113512142
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0319323c70005cd080fce5a49e27896
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0763f1e3a4b9171cb396a8b3f6a442a6
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: aa35f0feac8a2f2459bb9b0f11233a7e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Slua/setting.asset
+Dependencies: []

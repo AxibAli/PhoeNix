@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2376411502
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 685c0c140d7e3a9d3d020b0dd8ede34d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/WNhit.wav
+Dependencies: []

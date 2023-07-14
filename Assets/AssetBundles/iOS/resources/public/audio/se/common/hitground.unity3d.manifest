@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3536840498
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a26a6dba2564f655becabfd981dce546
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Common/HitGround.wav
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 82505567
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 96929b127da8cf6a7bb52f7b5e4769a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Npc/Ayrui_5.wav
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2395288789
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13ea5f7193ab6ed7f2bdbe273e93cc1b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/DevelopScene/Terrains/Texture/surface_yuno_fild1_ground1.png
+Dependencies: []

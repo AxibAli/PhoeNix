@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2102856627
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df85c2f8bd069c3830e5c2e67346910b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Monster/Spore_die.wav
+Dependencies: []

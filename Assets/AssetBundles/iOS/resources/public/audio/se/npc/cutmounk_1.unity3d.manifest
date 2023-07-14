@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3739751339
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a693726e0236eb446bb85a7938d2cb4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Npc/Cutmounk_1.wav
+Dependencies: []

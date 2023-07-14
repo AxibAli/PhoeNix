@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 21177324
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 548a7ad5ec0684dae1f64c54e3572c11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e82800fad6a74f87561e1d2489e0d562
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29ac9fc10cdea4d93aa5094926603242, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Role/Body/1134.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/body/npc/old_statue.unity3d

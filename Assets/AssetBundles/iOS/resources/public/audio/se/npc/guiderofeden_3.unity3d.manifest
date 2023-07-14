@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1077206621
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e11c0d672ef3ad483b8f1d8d356310dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Npc/GuiderOfEden_3.wav
+Dependencies: []

@@ -1,0 +1,72 @@
+ManifestFileVersion: 0
+CRC: 2028259866
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c40ead6ee3356d44a2fcb7105ef940dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Player/Warlock_M/wait.anim
+- Assets/Art/Model/Role/Body/Player/Warlock_M/Warlock_M_3.mat
+- Assets/Art/Model/Role/Body/Player/Warlock_M/Warlock_M_7.mat
+- Assets/Art/Model/Role/Body/Player/Warlock_M/Warlock_M_16.mat
+- Assets/Art/Model/Role/Body/Player/Warlock_M/sit_down.anim
+- Assets/Art/Model/Role/Body/Player/Warlock_M/play_lazysleep.anim
+- Assets/Art/Model/Role/Body/Player/Warlock_M/Warlock_M_10.mat
+- Assets/Art/Model/Role/Body/Player/Warlock_M/Warlock_M_9.mat
+- Assets/Art/Model/Role/Body/Player/Warlock_M/Warlock_M_15.mat
+- Assets/Art/Model/Role/Body/Player/Warlock_M/Warlock_M.FBX
+- Assets/Art/Model/Role/Body/Player/Warlock_M/wait_HandIn.anim
+- Assets/Art/Model/Role/Body/Player/Warlock_M/walk_HandIn.anim
+- Assets/Art/Model/Role/Body/Player/Warlock_M/Warlock_M_dead.mat
+- Assets/Art/Model/Role/Body/Player/Warlock_M/Warlock_M_14.mat
+- Assets/Art/Model/Role/Body/Player/Warlock_M/Warlock_M_11.mat
+- Assets/Art/Model/Role/Body/Player/Warlock_M/Warlock_M.tga
+- Assets/Art/Model/Role/Body/Player/Warlock_M/play_sleep.anim
+- Assets/Art/Model/Role/Body/Player/Warlock_M/wait_InHand.anim
+- Assets/Art/Model/Role/Body/Player/Warlock_M/AC_Warlock_M.controller
+- Assets/Art/Model/Role/Body/Player/Warlock_M/playshow.anim
+- Assets/Art/Model/Role/Body/Player/Warlock_M/Warlock_M_8.mat
+- Assets/Art/Model/Role/Body/Player/Warlock_M/Warlock_M.mat
+- Assets/Art/Model/Role/Body/Player/Warlock_M/Warlock_M_2.mat
+- Assets/Art/Model/Role/Body/Player/Warlock_M/Warlock_M_6.mat
+- Assets/Art/Model/Role/Body/Player/Warlock_M/walk_InHand.anim
+- Assets/Art/Model/Role/Body/Player/Warlock_M/shooting.anim
+- Assets/Art/Model/Role/Body/Player/Warlock_M/die.anim
+- Assets/Art/Model/Role/Body/Player/Warlock_M/Warlock_M_12.mat
+- Assets/Art/Model/Role/Body/Player/Warlock_M/Warlock_M_4.mat
+- Assets/Art/Model/Role/Body/Player/Warlock_M/walk.anim
+- Assets/Art/Model/Role/Body/Player/Warlock_M/play_bow.anim
+- Assets/Art/Model/Role/Body/Player/Warlock_M/Warlock_M_13.mat
+- Assets/Art/Model/Role/Body/Player/Warlock_M/Warlock_M_1.mat
+- Assets/Art/Model/Role/Body/Player/Warlock_M/play_wave.anim
+- Assets/Art/Model/Role/Body/Player/Warlock_M/Warlock_M_5.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/animation/body/wizard_m.unity3d

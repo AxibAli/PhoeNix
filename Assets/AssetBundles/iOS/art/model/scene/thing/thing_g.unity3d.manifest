@@ -1,0 +1,150 @@
+ManifestFileVersion: 0
+CRC: 2437113086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f856e03736524d39b710f872ae69e138
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3c9ee638191e22dbd8fe2ac5db11ec41
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/thing/thing_g/thing_niflhem_deng1.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif1_wujian04.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif2_saozhou01.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif1_yijia2.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_szz_zhongkache.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_niflhem_mianpian01.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_szz_lanqiujia.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif2_daogaotai.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_court_lajixiang.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_nif_fild2_ditan.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif2_men.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_niflhem_zhalan1a.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_happy_men.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_szz_sdpai.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_upgrade_ludeng_po.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_fild2_luzi.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_happy_zuodian.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_happy_shuibo.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_niflhem_huashu.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_T7_wujian.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_jf_newcat4.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_niflhem_muguan.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_niflhem_zhalan1b.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_happy_shafa2.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif2_wanou.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_jf_chexiang2.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_zlj_zhuanqiang.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif2_jiangbei.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif1_wujian02.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_jf_ship2.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_happy_shuijing.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_niflhem_zhizhuwang.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_niflhem_muban.fbx
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif1_yijia1.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_niflhem_mianpian02.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_happy_shafa3.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing nif_fild_qiang.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_niflhem_nanguatou.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_nif_fild2_mubeipian.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_happy_huapen.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_yggdrasil_sky.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_jf_ship1.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_niflhem_muxiang.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_happy_tyshafa.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_niflhem_hilaJarm.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_court_zhishideng.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_happy_huaban.mat
+- Assets/Art/Model/Scene/thing/thing_g/thing_nif_fild_qiao.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_upgrade_chuangG.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_niflhem_muxiang1.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_zlj_weiqian.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_happy_diaodeng.mat
+- Assets/Art/Model/Scene/thing/thing_g/thing_niflhem_ludeng.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif2_yuanpan.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_szz_changyi.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_happy_shafa1.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_niflhem_lazhu.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_fild2_luzi_01.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif2_guizi02.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif1_wujian03.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_szz_sd_paizi.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif1_wujian05.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_jf_newcat3.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_niflhem_fengche.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_yuno_jinshi.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif1_wujian01.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_fild2_nanguatou.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_happy_xin.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_T8_weilan.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_niflhem_nangual.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_T8_shafa.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_happy_xunxiang.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_niflhem_muban_01.mat
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_happy_diaodeng.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_zlj_zaji.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_niflhem_gutou1c.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_niflhem_huopen.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif2_huodui.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif1_wujian06.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif1_yijia3.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif1_ditan.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_happy_huapen.mat
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_happy_hlshafa.mat
+- Assets/Art/Model/Scene/thing/thing_g/thing_teamvs_huopen.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_niflhem_shiti.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif1_kulou.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif1_jiutong.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_jf_newcat1.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif2_zhuzi.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif2_guizi.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_nif_fild_shiguan.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_jf_ship3.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_lighttower_huoba.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif1_photo.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_niflhem_mianpian03.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_nif2_wujian01.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_szz_tiesiqiang.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_jf_newcat2.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_upgrade_ludeng.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_room_happy_hlshafa.FBX
+- Assets/Art/Model/Scene/thing/thing_g/thing_niflhem_mubei_b.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_o.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_i.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_j.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_k.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_k.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_m.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_i.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_l.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_a.unity3d

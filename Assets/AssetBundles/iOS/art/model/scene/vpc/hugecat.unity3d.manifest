@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 2720146451
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0df353064e7294985bdbc6627da5990
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c24bde404dfacb787c1d05f70beaab0c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54e94ca623f4a45d7a63e92000444976, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/VPC/Hugecat/Hugecat.FBX
+- Assets/Art/Model/Scene/VPC/Hugecat/Hugecat.controller
+- Assets/Art/Model/Scene/VPC/Hugecat/Hugecat.prefab
+- Assets/Art/Model/Scene/VPC/Hugecat/Hugecat_Head.prefab
+- Assets/Art/Model/Scene/VPC/Hugecat/state2002.anim
+- Assets/Art/Model/Scene/VPC/Hugecat/Hugecat_Hand.FBX
+- Assets/Art/Model/Scene/VPC/Hugecat/Hugecat_Hand.controller
+- Assets/Art/Model/Scene/VPC/Hugecat/Hugecat_Head.FBX
+- Assets/Art/Model/Scene/VPC/Hugecat/Hugecat_Tail.controller
+- Assets/Art/Model/Scene/VPC/Hugecat/state1001.anim
+- Assets/Art/Model/Scene/VPC/Hugecat/state2001.anim
+- Assets/Art/Model/Scene/VPC/Hugecat/Hugecat_Head.controller
+- Assets/Art/Model/Scene/VPC/Hugecat/state1002.anim
+- Assets/Art/Model/Scene/VPC/Hugecat/Hugecat_Tail.FBX
+- Assets/Art/Model/Scene/VPC/Hugecat/Hugecat_Hand.prefab
+- Assets/Art/Model/Scene/VPC/Hugecat/Hugecat_Tail.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/body/npc/hugecat_n.unity3d

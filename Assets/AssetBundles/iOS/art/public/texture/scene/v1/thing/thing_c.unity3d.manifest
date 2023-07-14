@@ -1,0 +1,91 @@
+ManifestFileVersion: 0
+CRC: 2379884923
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f1fae35115badccf22cc315010a16ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_izdun_baowu.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_guild_base_shafa.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_gouhuo_1.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_guild_base_ditu.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_gouhuo_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_ghostship_mutouDM1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_guild_base_shafa.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_pay_fild02_shuiche.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_guild_base_xiangkuang.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_ghostship_zhusi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_ghostship_zuozi1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_guild_base_ditu.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_IZ_ghostship_pao.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_pay_fild02_mubanjia.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_ghostship_shafa.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_IZ_ghostship_pao.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_gonggaopai1_1.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_ghostship_shujia.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_pay_fild_kujing_2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_ghostship_mutouDM1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_guild_base_tuiqizhuo.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_payon_jianba.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_payon_jiutan.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_guild_base_huiqi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_payon_Tiger stone_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_guild_base_wujian.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_guild_base_chuang.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_ghostship_xiangzi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_ghostship_shujia.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_ghostship_jiaju.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_ghostship_xiangzi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_pay_fild_kujing_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_payon_Tiger stone_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_guild_base_shugui.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_ghjs_baoshibaoxiang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_ghostship_jiaju.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_IZmjr_1_fengchao.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_guild_base_shugui.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_pay_fild_kujing_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_pay_fild02_daocao.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_payon_jiutan.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_ghostship_zuozi1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_guild_base_wujian.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_guild_base_zhuoyi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_ghjs_xinqizhi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_payon_Tiger stone_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_payon_Tiger stone_2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_ghjs_baoshibaoxiang.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_gonggaopai1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_payon_shenweng.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_payon_zahuopu.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_guild_base_zhuoyi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_payon_tanpu1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_payon_zahuopu.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_guild_base_huaban.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_payon_tanpu1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_guild_base_huiqi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_guild_base_xiangkuang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_payon_shenweng.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_ghjs_xinqizhi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_guild_base_tuiqizhuo.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_pay_fild02_mubanjia.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_pay_fild_kujing_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_guild_base_chuang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_guild_base_huaban.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_pay_fild02_shuiche.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_izdun_baowu.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_ghostship_shafa.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_payon_jianba.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_pay_fild02_daocao.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_c/thing_ghostship_zhusi.png
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4280660975
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c3874d8b71c62e430885d38ce993eea5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/AutoGenerate/pathIdMap.xml
+Dependencies: []

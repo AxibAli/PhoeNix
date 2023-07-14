@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1856131814
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8af354b189520f04914dc23432dc9219
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/BGM/MemoryOfEternalLove.mp3
+Dependencies: []

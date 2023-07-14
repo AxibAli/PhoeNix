@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1466514352
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee05b38f825a47902967d3c7dbc10aea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Npc/RAID_DestructionNight_84353.wav
+Dependencies: []

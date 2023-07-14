@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1926358986
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bdfc0a89720b8a99047fdf55dd62be92
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Monster/Rocker_die.wav
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 540938532
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 25cbf7cb53a054e820e98a21275d8f27
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Broth/Head/wait.anim
+- Assets/Art/Model/Role/Body/NPC/Broth/Head/AC_Head.controller
+Dependencies: []

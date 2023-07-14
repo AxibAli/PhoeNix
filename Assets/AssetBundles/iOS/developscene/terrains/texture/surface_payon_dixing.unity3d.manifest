@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 611004738
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a0511f5984563759e1b78cf2eef7e48
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/DevelopScene/Terrains/Texture/surface_payon_dixing.png
+Dependencies: []

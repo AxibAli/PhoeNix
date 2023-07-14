@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 614302613
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d1bbaa1f908c33f12f4512035ad1d476
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Monster/Poring_move.wav
+Dependencies: []

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1326044299
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a98b1dee4ee9cf163129148023f83425
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Orc/Orc_Archer/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Orc/Orc_Archer/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Orc/Orc_Archer/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Orc/Orc_Archer/die.anim
+- Assets/Art/Model/Role/Body/Monster/Orc/Orc_Archer/AC_Orc_Archer.controller
+- Assets/Art/Model/Role/Body/Monster/Orc/Orc_Archer/walk.anim
+Dependencies: []

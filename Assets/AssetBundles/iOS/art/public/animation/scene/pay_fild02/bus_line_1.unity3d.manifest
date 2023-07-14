@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2914099223
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4734d233efa42b841b52615ceca5c1ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Scene/pay_fild02/bus_line_1/bus_line_1.controller
+- Assets/Art/Public/Animation/Scene/pay_fild02/bus_line_1/buswait.anim
+- Assets/Art/Public/Animation/Scene/pay_fild02/bus_line_1/line1.anim
+Dependencies: []

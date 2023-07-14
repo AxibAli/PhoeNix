@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1884109329
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eaff4ed1e0dfb68c58a004942c944393
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/ScenicSpotsPhoto/ScenicSpotPhoto.bytes
+- Assets/Resources/Script2/ScenicSpotsPhoto/LocalScenicSpotPhotoNew.bytes
+- Assets/Resources/Script2/ScenicSpotsPhoto/LocalScenicSpotPhoto.bytes
+- Assets/Resources/Script2/ScenicSpotsPhoto/SSPUploadStatusManager.bytes
+- Assets/Resources/Script2/ScenicSpotsPhoto/NetIngScenicSpotPhotoNew.bytes
+- Assets/Resources/Script2/ScenicSpotsPhoto/ScenicSpotPhotoHelperNew.bytes
+- Assets/Resources/Script2/ScenicSpotsPhoto/ScenicSpotPhotoCallback.bytes
+- Assets/Resources/Script2/ScenicSpotsPhoto/ScenicSpotPhotoNew.bytes
+- Assets/Resources/Script2/ScenicSpotsPhoto/ScenicSpotPhotoHelper.bytes
+- Assets/Resources/Script2/ScenicSpotsPhoto/NetIngScenicSpotPhoto.bytes
+Dependencies: []

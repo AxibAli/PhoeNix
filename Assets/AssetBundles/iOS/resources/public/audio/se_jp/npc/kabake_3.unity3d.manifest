@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2938328548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e20c9ca431adbac729032124a2fe9c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE_JP/Npc/Kabake_3.wav
+Dependencies: []

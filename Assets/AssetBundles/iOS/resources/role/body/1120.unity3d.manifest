@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 4061963090
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86aac90b086ea4d9fc4ebfaf8182b715
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5fa40e085852cd1fdf3a4e195181b00c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29ac9fc10cdea4d93aa5094926603242, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 208
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Role/Body/1120.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/body/npc/airwall.unity3d

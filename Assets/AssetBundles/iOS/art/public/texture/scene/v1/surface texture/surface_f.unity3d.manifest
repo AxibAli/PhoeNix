@@ -1,0 +1,86 @@
+ManifestFileVersion: 0
+CRC: 2980189779
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4453e820d9cd44a89c25683d9081ff24
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_gef_kobold_nitudi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_room_library_mudiban.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_room_T5_mudiban.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_gef_kobold_zhuan1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_room_prt_church_floor05.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_room_library_ditan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_guild_battle_yanse.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_Guild_battle2_zhuan5.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_Guild_battle2_zhuan6.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_room_prt_church_floor04.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_Guild_battle2_zhuan6.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_gef_kobold_caodi4.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_end2_water.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_Guild_battle2_zhuan5.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_room_class_ditan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_Guild_battle2_zhuan3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_gef_kobold_nitudi2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_gef_kobold_zhuan2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_gef_kobold_zhuan2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_room_prt_church_floor03.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_Guild_battle2_zhuan4.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_cc_caodi3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_gef_kobold_nitudi_b.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_glt_2_zoudao.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_Guild_battle2_zhuan7.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_room_prt_church_floor01.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_gef_kobold_shuimian.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_room_prt_church_floor02.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_glt_2_dimian1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_gef_kobold_shuimian.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_room_prt_church_floor02.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_Guild_battle2_zhuan2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_glt_h_tu.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_gef_kobold_caodi3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_Guild_battle2_zhuan3.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_Guild_battle2_zhuan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_room_prt_church_floor01_prt1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_room_prt_church_floor03.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_Guild_battle2_zhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_room_prt_church_floor01.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_gef_kobold_nitudi2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_Guild_battle2_zhuan8.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_Guild_battle2_zhuan4.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_room_library_mudiban.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_Guild_battle2_zhuan7.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_room_prt_church_floor05.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_gef_kobold_zhuan1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_glt_2_dimian2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_cc_caodi2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_glt_2_zoudao.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_glt_2_zhonxinpan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_room_T5_mudiban.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_Guild_battle2_zhuan8.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_glt_2_zhonxinpan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_room_library_ditan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_glt_2_dimian2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_gef_kobold_caodi1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_room_prt_church_floor04.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_Guild_battle2_zhuan2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_room_class_ditan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_guildgarden_bt2_tu.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_cc_caodi1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_glt_2_dimian1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_f/surface_gef_kobold_caodi1b.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

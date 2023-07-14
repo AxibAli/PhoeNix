@@ -1,0 +1,103 @@
+ManifestFileVersion: 0
+CRC: 1626180419
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cde050b83547a9f57c19aafcfd63b52c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Body/Ranger_M/attack_wait.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/pose_S1.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/pose_S5.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/ride_attack_Knife.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/sit_down2.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/die.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/ride_walk.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/skill_ready_Knife.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/HeightRaise.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/ride_use_magic_Knife.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/pose_S6.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/use_skill.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/sit_down3.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/walk_HoldPet.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/wait_InHand.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/ride_attack_wait_Knife.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/play_bow.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/hit_Knife.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/pose_showweapon.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/pose2.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/play_sleep.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/victory.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/pose_S11.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/eat3.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/play_kiss.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/shooting.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/eat_end3.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/posejob1.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/play_onekneeldown.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/eat_end2.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/pose_S2.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/walk_InHand.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/ride_skill_ready.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/ride_hit.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/die_Knife.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/touch_low.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/pose1_m.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/pose_S9.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/cook_fail.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/sit_down.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/pose_S3.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/wait.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/ride_attack_wait.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/pose2_m.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/pose_S4.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/ride_use_skill_Knife.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/use_skill_Knife.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/ride_reading_Knife.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/KissEmbracen.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/reading.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/walk_HandIn.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/ride_use_magic.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/attack_Knife.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/ride_wait.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/wait_HandIn.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/throwing.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/ride_playshow.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/eat2.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/pose_3.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/ride_attack.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/ride_use_skill.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/walk.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/use_magic.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/playshow.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/wait_HoldPet.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/play_clap.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/skill_ready.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/pose_S7.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/touch_high.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/attack.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/play_lazysleep.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/ride_reading.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/eat_end1.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/hit.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/eat1.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/attack_wait_Knife.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/pose_S8.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/collect.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/pose_S12.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/pose1.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/play_handheart.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/ride_hit_Knife.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/pose_S10.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/ride_collect.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/play_wave.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/cook_ready.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/ride_skill_ready_Knife.anim
+- Assets/Art/Public/Animation/Body/Ranger_M/cook_ing.anim
+Dependencies: []

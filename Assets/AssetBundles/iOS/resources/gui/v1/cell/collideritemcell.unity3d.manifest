@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2484379677
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 361714db143ac26b902c7237030fc520
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f0dad190bd28fe5304dd5e5e53fd3a5d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f02842fa4878db54f9587ff4de7d9f2d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/cell/ColliderItemCell.prefab
+Dependencies: []

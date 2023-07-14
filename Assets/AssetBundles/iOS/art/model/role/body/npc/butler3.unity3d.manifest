@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2799933511
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d62040f3aba3f1e0d774890f4d80f264
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/butler3/butler3.FBX
+- Assets/Art/Model/Role/Body/NPC/butler3/butler3.mat
+- Assets/Art/Model/Role/Body/NPC/butler3/butler3_dead.mat
+- Assets/Art/Model/Role/Body/NPC/butler3/butler3.png
+- Assets/Art/Model/Role/Body/NPC/butler3/playshow.anim
+- Assets/Art/Model/Role/Body/NPC/butler3/AC_butler3.controller
+- Assets/Art/Model/Role/Body/NPC/butler3/wait.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/body/npc/maid3.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

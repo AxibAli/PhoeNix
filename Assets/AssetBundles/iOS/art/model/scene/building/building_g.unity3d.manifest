@@ -1,0 +1,99 @@
+ManifestFileVersion: 0
+CRC: 4115222694
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 696105e254e97ab15b613479d11e3d06
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb96948b47ad6ca1df035de75994dde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/building/building_g/buliding_pay_dun_pailou.FBX
+- Assets/Art/Model/Scene/building/building_g/building_pay_dun1_wujian.FBX
+- Assets/Art/Model/Scene/building/building_g/building_guild_battle_fengding.FBX
+- Assets/Art/Model/Scene/building/building_g/room_tower1.FBX
+- Assets/Art/Model/Scene/building/building_g/building_pay_dun_wujian.FBX
+- Assets/Art/Model/Scene/building/building_g/building_glt_2_shizhu.FBX
+- Assets/Art/Model/Scene/building/building_g/buliding_pay_dun_jianzhu1.FBX
+- Assets/Art/Model/Scene/building/building_g/buliding_pay_dun_minju3_po.FBX
+- Assets/Art/Model/Scene/building/building_g/building_glt_h_yuanpan2.FBX
+- Assets/Art/Model/Scene/building/building_g/buliding_pay_dun_minju4.FBX
+- Assets/Art/Model/Scene/building/building_g/buliding_pay_dun_minju1.FBX
+- Assets/Art/Model/Scene/building/building_g/pay_dun_2_taizi.FBX
+- Assets/Art/Model/Scene/building/building_g/building_room_library_tushuguan.FBX
+- Assets/Art/Model/Scene/building/building_g/thing_glt_h_louti2.FBX
+- Assets/Art/Model/Scene/building/building_g/thing_pay_dun_zszhu_po.FBX
+- Assets/Art/Model/Scene/building/building_g/buliding_pay_dun_weiqiang.FBX
+- Assets/Art/Model/Scene/building/building_g/building_glt_2_dizuo.FBX
+- Assets/Art/Model/Scene/building/building_g/buliding_pay_dun_weilan.FBX
+- Assets/Art/Model/Scene/building/building_g/buliding_pay_dun_rukou.FBX
+- Assets/Art/Model/Scene/building/building_g/building_glt_2_shimen.FBX
+- Assets/Art/Model/Scene/building/building_g/Guild_battle_2.FBX
+- Assets/Art/Model/Scene/building/building_g/building_room_tower1.FBX
+- Assets/Art/Model/Scene/building/building_g/building_Guild_battle1_dame.FBX
+- Assets/Art/Model/Scene/building/building_g/building_get_fild12_shentai.FBX
+- Assets/Art/Model/Scene/building/building_g/building_room_class_mofatan.FBX
+- Assets/Art/Model/Scene/building/building_g/building_org_dun_powo.FBX
+- Assets/Art/Model/Scene/building/building_g/building_glt_h_qiangti.FBX
+- Assets/Art/Model/Scene/building/building_g/buliding_pay_dun_chengmen001.FBX
+- Assets/Art/Model/Scene/building/building_g/buliding_pay_dun_zhonglou.FBX
+- Assets/Art/Model/Scene/building/building_g/pay_dun_2_weiqiang.FBX
+- Assets/Art/Model/Scene/building/building_g/buliding_pay_dun_jianzhu1_po.FBX
+- Assets/Art/Model/Scene/building/building_g/thing_pay_dun_zszhu.FBX
+- Assets/Art/Model/Scene/building/building_g/Guild_battle_box.FBX
+- Assets/Art/Model/Scene/building/building_g/building_glt_2_shimen2.FBX
+- Assets/Art/Model/Scene/building/building_g/building_gef_dun1_ke.FBX
+- Assets/Art/Model/Scene/building/building_g/thing_pay_dun_foxiang.FBX
+- Assets/Art/Model/Scene/building/building_g/buliding_pay_dun_xiaota.FBX
+- Assets/Art/Model/Scene/building/building_g/building_guild_battle_zhanchang1.FBX
+- Assets/Art/Model/Scene/building/building_g/building_glt_2_shimen3.FBX
+- Assets/Art/Model/Scene/building/building_g/buliding_pay_dun_minju2_p.FBX
+- Assets/Art/Model/Scene/building/building_g/thing_glt_h_louti1.FBX
+- Assets/Art/Model/Scene/building/building_g/building_glt_outside_chengmen.FBX
+- Assets/Art/Model/Scene/building/building_g/thing_pay_fild_kujing_1.FBX
+- Assets/Art/Model/Scene/building/building_g/building_get_fild12_jianzhu.FBX
+- Assets/Art/Model/Scene/building/building_g/building_room_gef_top_fangjian.FBX
+- Assets/Art/Model/Scene/building/building_g/building_room_class_fangjian.FBX
+- Assets/Art/Model/Scene/building/building_g/building_glt_h_zhuzi.FBX
+- Assets/Art/Model/Scene/building/building_g/buliding_pay_dun_chengmen002_po.FBX
+- Assets/Art/Model/Scene/building/building_g/buliding_pay_dun_minju1_2_po.FBX
+- Assets/Art/Model/Scene/building/building_g/buliding_pay_dun_minju3.FBX
+- Assets/Art/Model/Scene/building/building_g/thing_pay_dun_foxiang_po.FBX
+- Assets/Art/Model/Scene/building/building_g/buliding_pay_dun_minju2.FBX
+- Assets/Art/Model/Scene/building/building_g/building_glt_h_qiangbi.FBX
+- Assets/Art/Model/Scene/building/building_g/building_glt_h_wangzuo.FBX
+- Assets/Art/Model/Scene/building/building_g/pay_dun_mubei.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_m.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_f.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_k.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_l.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_d.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_j.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_l/materials.unity3d

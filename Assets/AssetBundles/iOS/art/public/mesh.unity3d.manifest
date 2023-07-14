@@ -1,0 +1,262 @@
+ManifestFileVersion: 0
+CRC: 1922938365
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 335539e2ac5d42578a6b76416253e465
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f9a9a87b782bc3ebea0ad61bed94325
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/mesh/jiangqiong/Helix_5030100_1.5quan_uv.FBX
+- Assets/Art/Public/mesh/jiangqiong/xuanwo_daoguang_chu.FBX
+- Assets/Art/Public/mesh/jiangqiong/Helix_1530100_1quan_uv.FBX
+- Assets/Art/Public/mesh/Knife_a.FBX
+- Assets/Art/Public/mesh/Pivot_Plane.FBX
+- Assets/Art/Public/mesh/light04.FBX
+- Assets/Art/Public/mesh/light03.FBX
+- Assets/Art/Public/mesh/jiangqiong/plan_Cylinder10030_uv_wave360.FBX
+- Assets/Art/Public/mesh/quan005.FBX
+- Assets/Art/Public/mesh/tiaodai06.FBX
+- Assets/Art/Public/mesh/light10.FBX
+- Assets/Art/Public/mesh/ailiudeniergongdian_heliu.FBX
+- Assets/Art/Public/mesh/200-1.mat
+- Assets/Art/Public/mesh/jiangqiong/Helix_5015100_1quan_uv.FBX
+- Assets/Art/Public/mesh/Quater_Ring.FBX
+- Assets/Art/Public/mesh/jiangqiong/plan_Cylinder10050_h30_uv_west.FBX
+- Assets/Art/Public/mesh/modal_heart_02.FBX
+- Assets/Art/Public/mesh/jiangqiong/Helix_duoge_04.FBX
+- Assets/Art/Public/mesh/wenli_06.mat
+- Assets/Art/Public/mesh/lizi0003.mat
+- Assets/Art/Public/mesh/majiao.FBX
+- Assets/Art/Public/mesh/Ring.FBX
+- Assets/Art/Public/mesh/jiangqiong/plan_Cylinder10030.FBX
+- Assets/Art/Public/mesh/bowen_kuosan002.FBX
+- Assets/Art/Public/mesh/light06.FBX
+- Assets/Art/Public/mesh/effect_FrostTrap_mesh.mat
+- Assets/Art/Public/mesh/tiaodai20.FBX
+- Assets/Art/Public/mesh/Plane002-02.FBX
+- Assets/Art/Public/mesh/effect_mesh_box1.FBX
+- Assets/Art/Public/mesh/Book_Of_Billows.FBX
+- Assets/Art/Public/mesh/gu.FBX
+- Assets/Art/Public/mesh/fg.FBX
+- Assets/Art/Public/mesh/Billows_line.FBX
+- Assets/Art/Public/mesh/jiangqiong/Plane_100100.FBX
+- Assets/Art/Public/mesh/jiangqiong/wenli_pl.FBX
+- Assets/Art/Public/mesh/tiaodai07.FBX
+- Assets/Art/Public/mesh/wenli_00069.mat
+- Assets/Art/Public/mesh/banyuan007.FBX
+- Assets/Art/Public/mesh/boli01.FBX
+- Assets/Art/Public/mesh/building_qiu.FBX
+- Assets/Art/Public/mesh/aixing_moxing1.FBX
+- Assets/Art/Public/mesh/banqiu.FBX
+- Assets/Art/Public/mesh/quan004.FBX
+- Assets/Art/Public/mesh/kuloutou001.FBX
+- Assets/Art/Public/mesh/jiangqiong/xuanwo_daoguang_xi.FBX
+- Assets/Art/Public/mesh/tiaodai15.FBX
+- Assets/Art/Public/mesh/jiangqiong/c_ray402a.mat
+- Assets/Art/Public/mesh/jiangqiong/plan_Cylinder50100_h100_uv_west.FBX
+- Assets/Art/Public/mesh/banyuan_010.FBX
+- Assets/Art/Public/mesh/kao.FBX
+- Assets/Art/Public/mesh/aixing01.FBX
+- Assets/Art/Public/mesh/jiangqiong/thing_honeyCar_star01.FBX
+- Assets/Art/Public/mesh/HUAN.FBX
+- Assets/Art/Public/mesh/jiangqiong/Helix_0100100_1.5quan_uv.FBX
+- Assets/Art/Public/mesh/Soldier_book_1.FBX
+- Assets/Art/Public/mesh/jiangqiong/w_spray013a.mat
+- Assets/Art/Public/mesh/jiangqiong/000000000000022d.mat
+- "Assets/Art/Public/mesh/\u4E91\u5F69.mat"
+- Assets/Art/Public/mesh/yanhua01.FBX
+- Assets/Art/Public/mesh/aixin01.mat
+- Assets/Art/Public/mesh/tiaodai13.FBX
+- Assets/Art/Public/mesh/jiangqiong/Cylinder_50x30x15.FBX
+- Assets/Art/Public/mesh/mesh_nanguazui.FBX
+- Assets/Art/Public/mesh/banyuan06.FBX
+- Assets/Art/Public/mesh/effect_fishlujing001_mesh.FBX
+- Assets/Art/Public/mesh/jiangqiong/plan_Cylinder30100_h100_uv_west.FBX
+- Assets/Art/Public/mesh/effect_Cylinder001.FBX
+- Assets/Art/Public/mesh/jiangqiong/plan_Cylinder100100_h100_uv_west.FBX
+- Assets/Art/Public/mesh/tiaodai003.FBX
+- Assets/Art/Public/mesh/caihong001.mat
+- Assets/Art/Public/mesh/tiaodai.FBX
+- Assets/Art/Public/mesh/effect_light12.FBX
+- Assets/Art/Public/mesh/Helix.FBX
+- Assets/Art/Public/mesh/3039ae47.mat
+- Assets/Art/Public/mesh/jiangqiong/plan_Cylinder10030_wave360.FBX
+- Assets/Art/Public/mesh/Starry_face.FBX
+- Assets/Art/Public/mesh/jiangqiong/plan_Cylinder100100_h100.FBX
+- Assets/Art/Public/mesh/jiangqiong/huan.FBX
+- Assets/Art/Public/mesh/effect_Hairpin.FBX
+- Assets/Art/Public/mesh/yuan01.FBX
+- Assets/Art/Public/mesh/mianpian05.FBX
+- Assets/Art/Public/mesh/quan003.FBX
+- Assets/Art/Public/mesh/jiangqiong/plan_Cylinder10050.FBX
+- Assets/Art/Public/mesh/jiantoumoxing01.FBX
+- Assets/Art/Public/mesh/aixing_moxing2.FBX
+- Assets/Art/Public/mesh/jiangqiong/07 - Default.mat
+- Assets/Art/Public/mesh/path_00340.mat
+- Assets/Art/Public/mesh/yuanzhu003.FBX
+- Assets/Art/Public/mesh/kulou_2.mat
+- Assets/Art/Public/mesh/zhuzi01.FBX
+- Assets/Art/Public/mesh/effect_scencemesh_hailang.FBX
+- Assets/Art/Public/mesh/jiangqiong/Helix_5015100_1.5quan_uv.FBX
+- Assets/Art/Public/mesh/jiangqiong/Helix_300100_1quan_uv.FBX
+- Assets/Art/Public/mesh/tiaodai03.FBX
+- Assets/Art/Public/mesh/Cylinder.FBX
+- Assets/Art/Public/mesh/aixin_moxing03.FBX
+- Assets/Art/Public/mesh/tiaodai14.FBX
+- Assets/Art/Public/mesh/tiaodai02.FBX
+- Assets/Art/Public/mesh/daoguang01.FBX
+- Assets/Art/Public/mesh/jiangqiong/pian_shizi_10050.FBX
+- Assets/Art/Public/mesh/effect_FrostTrap_mesh.FBX
+- Assets/Art/Public/mesh/tiedun.mat
+- Assets/Art/Public/mesh/jiangqiong/body_sphere_4x1_uv.FBX
+- Assets/Art/Public/mesh/banyuan.FBX
+- Assets/Art/Public/mesh/light05.FBX
+- Assets/Art/Public/mesh/huan_tiaodai02.FBX
+- Assets/Art/Public/mesh/Sphere001.FBX
+- Assets/Art/Public/mesh/Wave_Ground.FBX
+- Assets/Art/Public/mesh/jiangqiong/body_sphere.FBX
+- Assets/Art/Public/mesh/jiangqiong/banqiu.FBX
+- Assets/Art/Public/mesh/jiangqiong/wenli_00370.mat
+- Assets/Art/Public/mesh/jiangqiong/plan_Cylinder10030_uv_west.FBX
+- Assets/Art/Public/mesh/tiaodai21.FBX
+- Assets/Art/Public/mesh/tiaodai16.FBX
+- Assets/Art/Public/mesh/kapian.mat
+- "Assets/Art/Public/mesh/\u0E34\u0E26\u0E12\u0E2A.mat"
+- Assets/Art/Public/mesh/huanhuan01.FBX
+- Assets/Art/Public/mesh/bowen_huan02.FBX
+- Assets/Art/Public/mesh/huan04.FBX
+- Assets/Art/Public/mesh/jiangqiong/body_sphere_half.FBX
+- Assets/Art/Public/mesh/jiangqiong/Helix_duoge_03.FBX
+- Assets/Art/Public/mesh/tiaodai11.FBX
+- Assets/Art/Public/mesh/tiaodai012.FBX
+- Assets/Art/Public/mesh/mizi_mianpian02.FBX
+- Assets/Art/Public/mesh/yanyuan01.FBX
+- Assets/Art/Public/mesh/light02.FBX
+- Assets/Art/Public/mesh/tiaodai22.FBX
+- Assets/Art/Public/mesh/SitTarget/SitTarget.mat
+- Assets/Art/Public/mesh/tiaodai_002.FBX
+- Assets/Art/Public/mesh/Book_Of_Gust_Of_Wind.FBX
+- Assets/Art/Public/mesh/dilie_01.FBX
+- Assets/Art/Public/mesh/jiangqiong/yan_moxing_l.FBX
+- Assets/Art/Public/mesh/modal_heart.FBX
+- Assets/Art/Public/mesh/modal_heart_03.FBX
+- Assets/Art/Public/mesh/bingkuai02.FBX
+- Assets/Art/Public/mesh/jiangqiong/Cylinder100x100h.FBX
+- Assets/Art/Public/mesh/effect_luoxuan01.FBX
+- Assets/Art/Public/mesh/jiangqiong/plan_Cylinder10030_uv_west2.FBX
+- Assets/Art/Public/mesh/Siegfried_atk.FBX
+- Assets/Art/Public/mesh/tiaodai10.FBX
+- Assets/Art/Public/mesh/huan02.FBX
+- Assets/Art/Public/mesh/tiaodai08.FBX
+- Assets/Art/Public/mesh/dunpai.FBX
+- Assets/Art/Public/mesh/jiangqiong/w_waterlines050.mat
+- Assets/Art/Public/mesh/jiangqiong/body_sphere_w90_uv.FBX
+- Assets/Art/Public/mesh/effect_Sphere002.FBX
+- Assets/Art/Public/mesh/jiangqiong/c_linlight503a.mat
+- Assets/Art/Public/mesh/pian.FBX
+- Assets/Art/Public/mesh/effect_mesh_roate01.FBX
+- Assets/Art/Public/mesh/banyuan_chang01.FBX
+- Assets/Art/Public/mesh/jiangqiong/Helix_duoge_02.FBX
+- Assets/Art/Public/mesh/jiangqiong/plan_Cylinder10050_uv_west.FBX
+- Assets/Art/Public/mesh/effect_mesh_egg.FBX
+- Assets/Art/Public/mesh/banyuan005.FBX
+- Assets/Art/Public/mesh/bolang03.FBX
+- Assets/Art/Public/mesh/skyball.FBX
+- Assets/Art/Public/mesh/altar_fuwen.FBX
+- Assets/Art/Public/mesh/jiangqiong/hundun.FBX
+- Assets/Art/Public/mesh/banyuan05.FBX
+- Assets/Art/Public/mesh/sphere006.FBX
+- Assets/Art/Public/mesh/caihong001.FBX
+- Assets/Art/Public/mesh/Huan05.FBX
+- Assets/Art/Public/mesh/dun_common_effect.FBX
+- Assets/Art/Public/mesh/light07.FBX
+- Assets/Art/Public/mesh/huan07.FBX
+- Assets/Art/Public/mesh/HUAN010.FBX
+- Assets/Art/Public/mesh/kapian.FBX
+- Assets/Art/Public/mesh/shizi_mianpian03.FBX
+- Assets/Art/Public/mesh/effect_mesh_fire.FBX
+- Assets/Art/Public/mesh/banyuan02.FBX
+- Assets/Art/Public/mesh/tiedun.FBX
+- Assets/Art/Public/mesh/wujiaoxing.FBX
+- Assets/Art/Public/mesh/yanyuan02.FBX
+- Assets/Art/Public/mesh/tiaodai010.FBX
+- Assets/Art/Public/mesh/jiangqiong/Helix_5030100_1quan_uv.FBX
+- Assets/Art/Public/mesh/tiaodai01.FBX
+- Assets/Art/Public/mesh/yanhua_01.mat
+- Assets/Art/Public/mesh/jiangqiong/yan_moxing.FBX
+- Assets/Art/Public/mesh/dun2.FBX
+- Assets/Art/Public/mesh/light08.FBX
+- Assets/Art/Public/mesh/plane003.FBX
+- Assets/Art/Public/mesh/HUAN03.FBX
+- Assets/Art/Public/mesh/SitTarget/SitTarget.png
+- Assets/Art/Public/mesh/effect_mesh111.FBX
+- Assets/Art/Public/mesh/thing_researchlab_zamen.FBX
+- Assets/Art/Public/mesh/plane.FBX
+- Assets/Art/Public/mesh/pengquan_001.FBX
+- Assets/Art/Public/mesh/Starry_face_single.FBX
+- Assets/Art/Public/mesh/jiangqiong/yuanquan_shizimianpian.FBX
+- Assets/Art/Public/mesh/02 - Default.mat
+- Assets/Art/Public/mesh/Capra2_Weapon_a.FBX
+- Assets/Art/Public/mesh/01 - Default.mat
+- Assets/Art/Public/mesh/AssaultBeast_stompPower_sweep.mat
+- Assets/Art/Public/mesh/effect_fishlujing002_mesh.FBX
+- Assets/Art/Public/mesh/effect_mesh_guangdao.FBX
+- Assets/Art/Public/mesh/zhaozi001.FBX
+- Assets/Art/Public/mesh/effect_mesh_guolu.FBX
+- Assets/Art/Public/mesh/shuqing01.FBX
+- Assets/Art/Public/mesh/ice_add_07.mat
+- Assets/Art/Public/mesh/light001.FBX
+- Assets/Art/Public/mesh/jiangqiong/c_ray456a.mat
+- Assets/Art/Public/mesh/jiangqiong/plan_Cylinder50100_h100.FBX
+- Assets/Art/Public/mesh/tiaodai09.FBX
+- Assets/Art/Public/mesh/SitTarget/SitTarget.FBX
+- Assets/Art/Public/mesh/effect_luoxuan02.FBX
+- Assets/Art/Public/mesh/jiangqiong/body_sphere_half_uv_west.FBX
+- Assets/Art/Public/mesh/chibang04.FBX
+- Assets/Art/Public/mesh/jiangqiong/Helix_duoge.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/weapon.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/head.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_m.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/glow.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/pic.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/pic/starball_wing.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/line.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/body/mount.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/wenli.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/smoke.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/body/npc/irondoor.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_e.unity3d

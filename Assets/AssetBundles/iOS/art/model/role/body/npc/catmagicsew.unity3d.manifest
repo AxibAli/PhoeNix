@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 2363226188
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7750b4d27ea9cdfb2a772164e46b27c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3191b4b48bbc915fd625960e32f560b0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/CATMagicSew/state3002.anim
+- Assets/Art/Model/Role/Body/NPC/CATMagicSew/AC_CATMagicSew.controller
+- Assets/Art/Model/Role/Body/NPC/CATMagicSew/state1002.anim
+- Assets/Art/Model/Role/Body/NPC/CATMagicSew/weilan.mat
+- Assets/Art/Model/Role/Body/NPC/CATMagicSew/state3001.anim
+- Assets/Art/Model/Role/Body/NPC/CATMagicSew/weilan.png
+- Assets/Art/Model/Role/Body/NPC/CATMagicSew/CATMagicSew.mat
+- Assets/Art/Model/Role/Body/NPC/CATMagicSew/CATMagicSew_.FBX
+- Assets/Art/Model/Role/Body/NPC/CATMagicSew/CATMagicSew.png
+- Assets/Art/Model/Role/Body/NPC/CATMagicSew/state2002.anim
+- Assets/Art/Model/Role/Body/NPC/CATMagicSew/state2001.anim
+- Assets/Art/Model/Role/Body/NPC/CATMagicSew/state1001.anim
+- Assets/Art/Model/Role/Body/NPC/CATMagicSew/CATMagicSew1.mat
+- Assets/Art/Model/Role/Body/NPC/CATMagicSew/CATMagicSew2.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/body.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_a.unity3d

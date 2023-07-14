@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 1625287731
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 117eabe4565ca67e4da07aa96bb09fe0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Obeaune/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Obeaune/eat.anim
+- Assets/Art/Model/Role/Body/Monster/Obeaune/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Obeaune/playshow.anim
+- Assets/Art/Model/Role/Body/Monster/Obeaune/Obeaune.png
+- Assets/Art/Model/Role/Body/Monster/Obeaune/Obeaune.FBX
+- Assets/Art/Model/Role/Body/Monster/Obeaune/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Obeaune/wait_InHand.anim
+- Assets/Art/Model/Role/Body/Monster/Obeaune/walk_InHand.anim
+- Assets/Art/Model/Role/Body/Monster/Obeaune/skill_ready.anim
+- Assets/Art/Model/Role/Body/Monster/Obeaune/be_touch.anim
+- Assets/Art/Model/Role/Body/Monster/Obeaune/happy.anim
+- Assets/Art/Model/Role/Body/Monster/Obeaune/die.anim
+- Assets/Art/Model/Role/Body/Monster/Obeaune/walk.anim
+- Assets/Art/Model/Role/Body/Monster/Obeaune/AC_Obeaune.controller
+- Assets/Art/Model/Role/Body/Monster/Obeaune/Obeaune.mat
+- Assets/Art/Model/Role/Body/Monster/Obeaune/use_skill.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

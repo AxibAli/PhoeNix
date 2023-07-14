@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3156479087
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b43c4046624835e2af7518d52bf09f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Mouth/Dragon_flute/wait.anim
+Dependencies: []

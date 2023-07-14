@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2710008257
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70358362a6c35c71fdd7aa625bda7d89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE_JP/Npc/Duheta_2.wav
+Dependencies: []

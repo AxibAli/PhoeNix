@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 1949551479
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9547fa446e9a7a519598419fd117a00a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_endless_ground6.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_FerrisWheel_bg2_b.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_FerrisWheel_caodi.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_endless_dimianzhen.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_FerrisWheel_bg2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_endless_ground3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_FerrisWheel_bg1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_end_shuimian.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_endless_ground1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_endless_ground1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_endless_wallbrik.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_endless_ground5.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_FristArea_dixing.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_FerrisWheel_bg2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_endless_ground3.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_gef_dun1_cao_1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_end_BJyunajing.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_endless_wallbrik.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_endless_ground4.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_gef_dun1_cao.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_gef_dun1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_pay_dun1_1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_geffen_yuanshan.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_guildgarden_caodi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_endless_ground5.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_end_BJyunajing.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_endless_zhuzi.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_gefeen_city.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_gef_dun1_shuijing.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_gef_dun1_lumian.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_endless_ground2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_end_sky1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_gef_dun1_1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_endless_ground6.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_FerrisWheel_bg1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_FerrisWheel_caodi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_geffen_yuanshan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_end_sky1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_FristArea_dixing.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_geffen_huawen.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_FerrisWheel_bg1_b.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_end_shuimian.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_endless_dimianzhen.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_gefeen_city.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_endless_zhuzi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_gef_dun1_2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_di_biao_cao_001.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_endless_ground4.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_b/surface_endless_ground2.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/rock/rock_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_j.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

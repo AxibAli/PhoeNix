@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 559876814
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb7008a4f6a413bcfa9ff3bc0ebe3908
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/Test/TestEffects.bytes
+- Assets/Resources/Script2/Test/TestSystem.bytes
+Dependencies: []

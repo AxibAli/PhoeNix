@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2721029912
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50ab30d332dc05f052b07aa368eaadb5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/DragonPrance_buff.wav
+Dependencies: []

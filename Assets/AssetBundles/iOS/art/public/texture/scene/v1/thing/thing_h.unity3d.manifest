@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 2941310154
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4285fb0030d36cd98bdb95713877c24
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_prt_1_zb.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_ant_dun2_tengman.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/zhangpeng1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_catufo_jiqi01_3.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_ant_dun2_dan.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_glastham_baojian.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_xmas_bag.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_catufo_jiqi03.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_ant_dun2_shuijing.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_xmas_chetan3.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_ant_dun2_shuijing.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_xmas_tong.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_prt_1_zb_1th.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_ant_dun2_yiqiu.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_prt_1_zb.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_ant_dun2_LHdui.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/zhangpeng1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_ant_dun2_liusha.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_ant_dun2_gutou2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_ant_dun2_shitou.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_prt_1_zbzhangpeng.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_catufo_jiqi01_6.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_catufo_jiqi02_3.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_ant_dun2_liusha.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_prt_1_zbzhangpeng.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_xmas_tong.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_ant_dun2_LHdui.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_ant_dun2_gutou1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_ant_dun2_tengman.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_ant_dun2_dan.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_ant_dun2_yiqiu.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/zhangpeng1_1th.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_catufo_jiqi01_6.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_ant_dun2_gutou2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_ant_dun2_shitou.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_glastham_baojian.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_catufo_jiqi01_3.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_ant_dun2_gutou1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_catufo_jiqi02_3.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_ant_dun2_mogu.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_ant_dun2_liuhuang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_catufo_jiqi03.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_ant_dun2_LHdui_UnLit.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_ant_dun2_mogu.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_ant_dun2_liuhuang.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_h/thing_xmas_chetan1.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_i.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3293144683
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6493c1307dbbe7bbd9c38c5a045ce4f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/HeavenDrive.wav
+Dependencies: []

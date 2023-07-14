@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 3621338641
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7fe416d28ad93dbdec01285e0d906dcc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Rib/Rib.FBX
+- Assets/Art/Model/Role/Body/NPC/Rib/state4002.anim
+- Assets/Art/Model/Role/Body/NPC/Rib/state5001.anim
+- Assets/Art/Model/Role/Body/NPC/Rib/state2002.anim
+- Assets/Art/Model/Role/Body/NPC/Rib/state5002.anim
+- Assets/Art/Model/Role/Body/NPC/Rib/state2001.anim
+- Assets/Art/Model/Role/Body/NPC/Rib/Rib.mat
+- Assets/Art/Model/Role/Body/NPC/Rib/Rib.png
+- Assets/Art/Model/Role/Body/NPC/Rib/AC_Rib.controller
+- Assets/Art/Model/Role/Body/NPC/Rib/state3002.anim
+- Assets/Art/Model/Role/Body/NPC/Rib/state1002.anim
+- Assets/Art/Model/Role/Body/NPC/Rib/state6001.anim
+- Assets/Art/Model/Role/Body/NPC/Rib/state6002.anim
+- Assets/Art/Model/Role/Body/NPC/Rib/state1001.anim
+- Assets/Art/Model/Role/Body/NPC/Rib/state3001.anim
+- Assets/Art/Model/Role/Body/NPC/Rib/state4001.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

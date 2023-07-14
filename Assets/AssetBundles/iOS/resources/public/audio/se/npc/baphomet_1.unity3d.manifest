@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2783238107
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4eff35d6fb16d6620c8fc2bcb9092cde
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Npc/Baphomet_1.wav
+Dependencies: []

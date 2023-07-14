@@ -1,0 +1,158 @@
+ManifestFileVersion: 0
+CRC: 2605768632
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b7202c55642d5ee27f69819fd75e99c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a0be4af3980ba47a91ee745c7d1d323a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_ground3_3.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_ground5.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_ground4.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/Guild_battle2_gef_fangzi.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_yuno_fild2_yuno1.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/sky_room_clock1_tiankong.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_room_T5_diban05.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/Guild_battle2_gef_langan.mat
+- Assets/Art/Model/Scene/Surface/surface_e/surface_iz_Poring_pr_caokeng.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_room_xmas1_ditan.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_prt_4_sidi.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_dizhuan1.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_ground8.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/srface_xmas_dun01_ground3_0.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_yuno_fild2_cd1.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_ground1_0.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_ground2.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_guild_battle_pay_zhong.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_cemian01D.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_clocktower2_tiewang.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_iz_Poring_pr_03.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_prt_4_dimian.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/Guild_battle2_gef_zhuzi.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/02 - Default.mat
+- Assets/Art/Model/Scene/Surface/surface_e/surface_Guild_battle1_alb_pingtai.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_iz_Poring_pr_new.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/Guild_battle2_alb_fengding.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_ground1_2.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_ground1_1.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_clocktower2_huopen.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_clocktower_dim1_water.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_clocktower2_wujian.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_prt_4_waterplane.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_yuno_fild1_dizhuan1.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_yuno_fild1_dizhuan3.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_cemian02D.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/shengdan.mat
+- Assets/Art/Model/Scene/Surface/surface_e/surface_iz_Poring_water01.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_iz_Poring_pr_04.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_prontra 0926_caodi.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/srface_xmas_dun01_ground3_1.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_ground7.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_dimian004.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_ground1_3.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_yuno_fild2_ground1.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_room_prt1.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_room_clock1_ground8.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/Guild_battle2_gef_fengding.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_clocktower2_zhongxin.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/sky_room_clock1_xingdian.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_prontra 0926_shitoulu.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/srface_xmas_dun01_ground3_2.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/colcktower2_box1.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_Guild_battle1_alb_xiaojian.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_room_T5_diban03.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_clocktower2_zhong.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_clocktower_dim1_1.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_Guild_battle2_pay_ground.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_room_T5_2.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/Guild_battle2_pay_fengding.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_room_T5_diban04.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_iz_Poring_pr_tukeng.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/Guild_battle1_pay_dixing.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_iz_Poring_pr_02.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_clocktower_dim1_2.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_ground6.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_yuno_fild2_ground2.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_clocktower2_shitai.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/Guild_battle1_pay_xinjia.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_yuno_fild2_dizhuan1.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_guild_battle_zoulang.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_iz_Poring_pr_cao.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_ground9.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_yuno_fild1_ground1.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_guild_base_cedi2.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_iz_Poring_pr_01.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_room_T5_diban01.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/Surface_Guild_battle2_alb.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_cemian03D.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_prt_4_shui.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_clocktower2_luopan.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_louti.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_dimian003.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_dimian001.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_cemian04D.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_clocktower_dim1_shitou.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_Guild_battle1_alb_dixing.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_room_clock1_ground.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_room_clock1_ground7.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_dimian005.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_iz_Poring_water02.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_dimian002.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_dun01_hezi.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_water.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_xmas_ground.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_yuno_fild1_ground2.FBX
+- Assets/Art/Model/Scene/Surface/surface_e/surface_room_T5_diban02.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_m.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_i.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_f.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_k.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_i.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_j.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_i.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_d.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/sky.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/developscene/terrains/texture/surface_aldebaran_ground.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/materials.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_a.unity3d

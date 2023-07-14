@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1559204627
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2e946a691843ad5848c7ee4de90b4c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 656b479b7175fee12cc3c49f0aa442e8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e87c7c5b19b0a49d48938388a395a1bf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Engine/Refactory/SitTarget.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/mesh.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/animation/scene/object.unity3d

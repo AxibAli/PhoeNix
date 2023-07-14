@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 837854794
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec0b01093a9b93ab460d1a4eda5ca305
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Helm_Of_Stars/Helm_Of_Stars_H.mat
+- Assets/Art/Model/Role/Body/NPC/Helm_Of_Stars/state1001.anim
+- Assets/Art/Model/Role/Body/NPC/Helm_Of_Stars/Helm_Of_Stars_.FBX
+- Assets/Art/Model/Role/Body/NPC/Helm_Of_Stars/Helm_Of_Stars.mat
+- Assets/Art/Model/Role/Body/NPC/Helm_Of_Stars/state3001.anim
+- Assets/Art/Model/Role/Body/NPC/Helm_Of_Stars/AC_Helm_Of_Stars.controller
+- Assets/Art/Model/Role/Body/NPC/Helm_Of_Stars/state3002.anim
+- Assets/Art/Model/Role/Body/NPC/Helm_Of_Stars/Helm_Of_Stars_L.mat
+- Assets/Art/Model/Role/Body/NPC/Helm_Of_Stars/state2001.anim
+- Assets/Art/Model/Role/Body/NPC/Helm_Of_Stars/state2002.anim
+- Assets/Art/Model/Role/Body/NPC/Helm_Of_Stars/state1002.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/head.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

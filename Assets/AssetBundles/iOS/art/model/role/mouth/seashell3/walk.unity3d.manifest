@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1858962621
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 521e04c79d61bcf763bd2b5e4abadc08
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Mouth/Seashell3/walk.anim
+Dependencies: []

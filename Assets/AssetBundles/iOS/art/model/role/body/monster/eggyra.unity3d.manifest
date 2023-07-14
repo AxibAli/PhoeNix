@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3841513278
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2cbc8f90add6836ddb0302f64cb3d5a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Eggyra/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Eggyra/AC_Eggyra.controller
+- Assets/Art/Model/Role/Body/Monster/Eggyra/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Eggyra/Eggyra.png
+- Assets/Art/Model/Role/Body/Monster/Eggyra/Eggyra.FBX
+- Assets/Art/Model/Role/Body/Monster/Eggyra/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Eggyra/Eggyra.mat
+- Assets/Art/Model/Role/Body/Monster/Eggyra/die.anim
+- Assets/Art/Model/Role/Body/Monster/Eggyra/walk.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

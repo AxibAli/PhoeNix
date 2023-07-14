@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1418061927
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 82985e32ae1bb14f543711d27b3b4e7b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ba2b311401088948c79f3e29fa9e45bb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f02842fa4878db54f9587ff4de7d9f2d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07c4de3b4b6fe9045b059ee627c100df, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/cell/CardRandomGetCombineCell.prefab
+Dependencies: []

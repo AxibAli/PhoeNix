@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2317800528
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05c1f42d7096e8d76b58443a22385841
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 581847d6331b8619c62f2e69ffd60077
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07c4de3b4b6fe9045b059ee627c100df, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/view/InviteConfirmView.prefab
+Dependencies: []

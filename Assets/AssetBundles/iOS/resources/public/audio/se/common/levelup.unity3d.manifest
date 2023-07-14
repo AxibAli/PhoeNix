@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4091408110
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f32da8e8a2eabe9946dfecefc241b794
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Common/LevelUp.wav
+Dependencies: []

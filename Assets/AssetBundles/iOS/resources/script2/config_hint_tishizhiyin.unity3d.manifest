@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 116691412
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 897d9f6d8ec0b89d4a183c4a6b23fc3d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/Config_Hint_TiShiZhiYin/Table_InterfaceOpen.bytes
+- Assets/Resources/Script2/Config_Hint_TiShiZhiYin/Table_MainViewButton.bytes
+- Assets/Resources/Script2/Config_Hint_TiShiZhiYin/Table_ScreenFilter.bytes
+- Assets/Resources/Script2/Config_Hint_TiShiZhiYin/Table_RedTip.bytes
+- Assets/Resources/Script2/Config_Hint_TiShiZhiYin/Table_SecuritySetting.bytes
+- Assets/Resources/Script2/Config_Hint_TiShiZhiYin/Table_Sysmsg.bytes
+- Assets/Resources/Script2/Config_Hint_TiShiZhiYin/Table_Menu.bytes
+- Assets/Resources/Script2/Config_Hint_TiShiZhiYin/Table_Help.bytes
+- Assets/Resources/Script2/Config_Hint_TiShiZhiYin/Table_GuideID.bytes
+- Assets/Resources/Script2/Config_Hint_TiShiZhiYin/Table_GameFunction.bytes
+- Assets/Resources/Script2/Config_Hint_TiShiZhiYin/Table_Tips.bytes
+- Assets/Resources/Script2/Config_Hint_TiShiZhiYin/Table_TeamGoals.bytes
+- Assets/Resources/Script2/Config_Hint_TiShiZhiYin/Table_GuideOption.bytes
+- Assets/Resources/Script2/Config_Hint_TiShiZhiYin/Table_NetError.bytes
+- Assets/Resources/Script2/Config_Hint_TiShiZhiYin/Table_ShortcutPower.bytes
+Dependencies: []

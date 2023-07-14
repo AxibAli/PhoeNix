@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3806741756
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e6c7664c5903a0e314942ab68793227
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 96919ced26a667d7a26299c8820c74ed
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/cell/MiniMapSymbol.prefab
+Dependencies: []

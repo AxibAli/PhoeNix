@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 449676641
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c14acc6e975483dc2804cc0bf684654
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8ff82ff13442227a8182ba0937eb4b7d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Shadow.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/general.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/material/shadow
+  plane material.unity3d

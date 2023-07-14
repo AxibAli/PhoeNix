@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4077374088
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e3825fd6391c2fac773d9a742251377
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/MagicCatch_attack.wav
+Dependencies: []

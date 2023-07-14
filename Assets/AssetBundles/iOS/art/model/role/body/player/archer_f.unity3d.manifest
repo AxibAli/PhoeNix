@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 3453028787
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 666d66a2b54ed7397e1017b73ab4ffaf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Player/Archer_F/Archer_F.png
+- Assets/Art/Model/Role/Body/Player/Archer_F/wait.anim
+- Assets/Art/Model/Role/Body/Player/Archer_F/wait_HandIn.anim
+- Assets/Art/Model/Role/Body/Player/Archer_F/Archer_F.FBX
+- Assets/Art/Model/Role/Body/Player/Archer_F/play_clap.anim
+- Assets/Art/Model/Role/Body/Player/Archer_F/play_wave.anim
+- Assets/Art/Model/Role/Body/Player/Archer_F/AC_Archer_F.controller
+- Assets/Art/Model/Role/Body/Player/Archer_F/Archer_F_dead.mat
+- Assets/Art/Model/Role/Body/Player/Archer_F/ride_wait.anim
+- Assets/Art/Model/Role/Body/Player/Archer_F/Archer_F.mat
+- Assets/Art/Model/Role/Body/Player/Archer_F/play_sleep.anim
+- Assets/Art/Model/Role/Body/Player/Archer_F/wait_InHand.anim
+- Assets/Art/Model/Role/Body/Player/Archer_F/play_kiss.anim
+- Assets/Art/Model/Role/Body/Player/Archer_F/sit_down.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/animation/body/ranger_f.unity3d

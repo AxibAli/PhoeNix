@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 846306050
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5737b29614bd6a7f4fc195a30749bcf9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/GamePhotoUtil/HTTPRequest.bytes
+- Assets/Resources/Script2/GamePhotoUtil/GamePhoto.bytes
+- Assets/Resources/Script2/GamePhotoUtil/PhotoFileInfo.bytes
+- Assets/Resources/Script2/GamePhotoUtil/PhotoCallback.bytes
+- Assets/Resources/Script2/GamePhotoUtil/StringUtility.bytes
+- Assets/Resources/Script2/GamePhotoUtil/UpyunInfo.bytes
+- Assets/Resources/Script2/GamePhotoUtil/XDCDNInfo.bytes
+Dependencies: []

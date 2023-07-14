@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3271057323
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c2d618d3927a87cb18d8d687525d480
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a58fa785cc67b86954e3a74508928bf5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e8379242ae114a798ee942dd7233527, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d436cc15a736149a1b4b25049e7af1f9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 119
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Effect/Common/8SelectTarget.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/projector.unity3d

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 35588600
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8018371e2201133eb1d1dc39b84a3f52
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/atlas/picture/face_4.png
+Dependencies: []

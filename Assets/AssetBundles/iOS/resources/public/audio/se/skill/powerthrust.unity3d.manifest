@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1642896073
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9612fea1dfb2597ed6000b02a0a8ad0d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/PowerThrust.wav
+Dependencies: []

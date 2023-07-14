@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 3850794335
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00d55518aeb4cb15397bd8f7e51e5b72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/SoldierCat2/walk.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat2/functional_action2.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat2/SoldierCat2.png
+- Assets/Art/Model/Role/Body/NPC/SoldierCat2/wait_InHand.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat2/SoldierCat2_bingkuai.png
+- Assets/Art/Model/Role/Body/NPC/SoldierCat2/walk_InHand.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat2/attack.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat2/born.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat2/skill_ready.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat2/SoldierCat5.controller
+- Assets/Art/Model/Role/Body/NPC/SoldierCat2/use_skill.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat2/hit.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat2/SoldierCat2.mat
+- Assets/Art/Model/Role/Body/NPC/SoldierCat2/SoldierCat2_bingkuai.mat
+- Assets/Art/Model/Role/Body/NPC/SoldierCat2/wait.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat2/functional_action1.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat2/sit_down.anim
+- Assets/Art/Model/Role/Body/NPC/SoldierCat2/AC_SoldierCat2.controller
+- Assets/Art/Model/Role/Body/NPC/SoldierCat2/SoldierCat2.FBX
+- Assets/Art/Model/Role/Body/NPC/SoldierCat2/die.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/body/monster/swordfish.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

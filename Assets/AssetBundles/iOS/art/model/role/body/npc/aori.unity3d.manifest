@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 323777773
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a6547ae5ea5c83e9beb91525421bd8fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Aori/AC_Aori.controller
+- Assets/Art/Model/Role/Body/NPC/Aori/wait.anim
+- Assets/Art/Model/Role/Body/NPC/Aori/playshow.anim
+- Assets/Art/Model/Role/Body/NPC/Aori/Aori.mat
+- Assets/Art/Model/Role/Body/NPC/Aori/Aori.png
+- Assets/Art/Model/Role/Body/NPC/Aori/Aori.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/head.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

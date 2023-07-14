@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3024929074
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c12aaa3a2d5d1a66944e299427190d85
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/KFCman/KFCman.png
+- Assets/Art/Model/Role/Body/NPC/KFCman/wait.anim
+- Assets/Art/Model/Role/Body/NPC/KFCman/KFCman.FBX
+- Assets/Art/Model/Role/Body/NPC/KFCman/KFCman.mat
+- Assets/Art/Model/Role/Body/NPC/KFCman/AC_KFCman.controller
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

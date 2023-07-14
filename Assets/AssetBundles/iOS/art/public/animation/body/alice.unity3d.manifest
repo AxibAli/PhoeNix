@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3369949514
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5fb23455ff9cd478a35f97d0bcea21a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Body/Alice/die.anim
+- Assets/Art/Public/Animation/Body/Alice/use_skill.anim
+- Assets/Art/Public/Animation/Body/Alice/skill_ready.anim
+- Assets/Art/Public/Animation/Body/Alice/eat.anim
+- Assets/Art/Public/Animation/Body/Alice/wait_Inhand.anim
+- Assets/Art/Public/Animation/Body/Alice/playshow.anim
+- Assets/Art/Public/Animation/Body/Alice/be_touch.anim
+- Assets/Art/Public/Animation/Body/Alice/attack.anim
+- Assets/Art/Public/Animation/Body/Alice/wait.anim
+- Assets/Art/Public/Animation/Body/Alice/hit.anim
+- Assets/Art/Public/Animation/Body/Alice/walk.anim
+- Assets/Art/Public/Animation/Body/Alice/happy.anim
+- Assets/Art/Public/Animation/Body/Alice/reading.anim
+- Assets/Art/Public/Animation/Body/Alice/walk_Inhand.anim
+Dependencies: []

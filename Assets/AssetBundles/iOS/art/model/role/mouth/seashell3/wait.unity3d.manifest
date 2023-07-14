@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1139747016
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 109984bde4232aa8aac659aacc4625ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Mouth/Seashell3/wait.anim
+Dependencies: []

@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1501924822
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58ba728de072dfcc1ea7b1998161e53a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/Config_Skill_JiNeng/Table_Rune.bytes
+- Assets/Resources/Script2/Config_Skill_JiNeng/Table_SkillMould.bytes
+- Assets/Resources/Script2/Config_Skill_JiNeng/Table_Skill.bytes
+- Assets/Resources/Script2/Config_Skill_JiNeng/Table_Buffer.bytes
+- Assets/Resources/Script2/Config_Skill_JiNeng/Table_BuffState.bytes
+- Assets/Resources/Script2/Config_Skill_JiNeng/Table_BuffStateOdds.bytes
+- Assets/Resources/Script2/Config_Skill_JiNeng/Table_Rune_42.bytes
+- Assets/Resources/Script2/Config_Skill_JiNeng/Table_RuneSpecial.bytes
+- Assets/Resources/Script2/Config_Skill_JiNeng/Table_Rune_11.bytes
+- Assets/Resources/Script2/Config_Skill_JiNeng/Table_Rune_52.bytes
+- Assets/Resources/Script2/Config_Skill_JiNeng/Table_Rune_12.bytes
+- Assets/Resources/Script2/Config_Skill_JiNeng/Table_Rune_51.bytes
+- Assets/Resources/Script2/Config_Skill_JiNeng/Table_RuneSpecialDesc.bytes
+- Assets/Resources/Script2/Config_Skill_JiNeng/Table_Rune_21.bytes
+- Assets/Resources/Script2/Config_Skill_JiNeng/Table_Rune_22.bytes
+- Assets/Resources/Script2/Config_Skill_JiNeng/Table_SkillDesc.bytes
+- Assets/Resources/Script2/Config_Skill_JiNeng/Table_RolePartLogic.bytes
+- Assets/Resources/Script2/Config_Skill_JiNeng/Table_Rune_41.bytes
+- Assets/Resources/Script2/Config_Skill_JiNeng/Table_Rune_61.bytes
+- Assets/Resources/Script2/Config_Skill_JiNeng/Table_Rune_32.bytes
+- Assets/Resources/Script2/Config_Skill_JiNeng/Table_Rune_43.bytes
+- Assets/Resources/Script2/Config_Skill_JiNeng/Table_Rune_31.bytes
+- Assets/Resources/Script2/Config_Skill_JiNeng/Table_Rune_62.bytes
+Dependencies: []

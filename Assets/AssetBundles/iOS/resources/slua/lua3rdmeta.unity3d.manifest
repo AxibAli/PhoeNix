@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2609505239
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42c86276366bc8c7a64567c0e9551d54
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 30772b3fc3ecbb4eb743b07a17aface7
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: b51a3b5f40c08405ca2dfb572d3558c0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Slua/lua3rdmeta.asset
+Dependencies: []

@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 1301187680
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27783495dcc1dfdd9e00eb9c2ca6a5ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27e3e79efd8a310f81d9b03e1734e5fa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/DragonlronMat/state1002.anim
+- Assets/Art/Model/Role/Body/NPC/DragonlronMat/state1001.anim
+- Assets/Art/Model/Role/Body/NPC/DragonlronMat/AC_DragonLronMat.controller
+- Assets/Art/Model/Role/Body/NPC/DragonlronMat/state4002.anim
+- Assets/Art/Model/Role/Body/NPC/DragonlronMat/state3001.anim
+- Assets/Art/Model/Role/Body/NPC/DragonlronMat/state3002.anim
+- Assets/Art/Model/Role/Body/NPC/DragonlronMat/DragonlronMat2.png
+- Assets/Art/Model/Role/Body/NPC/DragonlronMat/DragonlronMat1.mat
+- Assets/Art/Model/Role/Body/NPC/DragonlronMat/state4001.anim
+- Assets/Art/Model/Role/Body/NPC/DragonlronMat/state2002.anim
+- Assets/Art/Model/Role/Body/NPC/DragonlronMat/DragonlronMat2.mat
+- Assets/Art/Model/Role/Body/NPC/DragonlronMat/DragonlronMat1.png
+- Assets/Art/Model/Role/Body/NPC/DragonlronMat/DragonlronMat _.FBX
+- Assets/Art/Model/Role/Body/NPC/DragonlronMat/state2001.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/body/npc/catmagicsew.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_a.unity3d

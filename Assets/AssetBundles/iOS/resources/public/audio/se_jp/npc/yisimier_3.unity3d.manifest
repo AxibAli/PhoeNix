@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2495852919
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dfb50ed6f8c9ac0ad5e7478ced831c5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE_JP/Npc/Yisimier_3.wav
+Dependencies: []

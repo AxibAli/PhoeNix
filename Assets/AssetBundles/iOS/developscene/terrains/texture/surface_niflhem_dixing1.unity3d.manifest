@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1939885754
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68d9c79e2a042134e003acf4c11e0658
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/DevelopScene/Terrains/Texture/surface_niflhem_dixing1.png
+Dependencies: []

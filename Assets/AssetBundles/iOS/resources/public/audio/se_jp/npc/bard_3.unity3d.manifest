@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2211544778
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a6a2871ad78b24fc652700bbe3945ccc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE_JP/Npc/Bard_3.wav
+Dependencies: []

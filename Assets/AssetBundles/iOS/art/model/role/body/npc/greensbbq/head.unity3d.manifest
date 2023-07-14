@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3634895975
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06c0e20550a7920820cb29c0fbb79bc9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/GreensBBQ/Head/wait.anim
+- Assets/Art/Model/Role/Body/NPC/GreensBBQ/Head/AC_Head.controller
+Dependencies: []

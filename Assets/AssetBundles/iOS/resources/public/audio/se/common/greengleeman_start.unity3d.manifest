@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2401319116
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d13631122a2205f697809e2377a09e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Common/GreenGleeman_start.wav
+Dependencies: []

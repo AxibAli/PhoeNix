@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 265206835
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e5a1ae7e9615fd13a3742dbf139b99a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d0a311e38bfa40d82bbcc90243690d28
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf60ad768c2f94fc8b6d1f8b7592fa49, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Engine/Refactory/ShaderManager.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

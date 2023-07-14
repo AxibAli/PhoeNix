@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3955773103
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b872ba9f0ac668d2eff4b0d06dac5480
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Npc/CommonStoreMaleY_1.wav
+Dependencies: []

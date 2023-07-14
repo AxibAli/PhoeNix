@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1937813573
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d89fc8ae8609a15f48e283886364169
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/LotteryMech/lottery_202210.png
+Dependencies: []

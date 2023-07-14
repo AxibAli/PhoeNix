@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2193741003
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e79824057037e3fa1554e7db9e3bf1c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9686f6bc7cc70e7e5dc2e922a2d409cb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29ac9fc10cdea4d93aa5094926603242, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Role/Body/10157.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/body/monster/savage_baby_pet.unity3d

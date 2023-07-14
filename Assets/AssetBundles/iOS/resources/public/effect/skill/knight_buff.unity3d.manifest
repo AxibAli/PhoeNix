@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2707808296
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65b0d05b44ca22377f11d0f92bb7b878
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc2c3370bcdfae3a908e855feabffc8c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d436cc15a736149a1b4b25049e7af1f9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Effect/Skill/Knight_buff.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/fire.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/effect.unity3d

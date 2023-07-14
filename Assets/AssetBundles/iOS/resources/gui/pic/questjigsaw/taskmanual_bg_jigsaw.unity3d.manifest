@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3983137010
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad0a155a9ed246190a12899dd56ab6f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/Questjigsaw/taskmanual_bg_jigsaw.png
+Dependencies: []

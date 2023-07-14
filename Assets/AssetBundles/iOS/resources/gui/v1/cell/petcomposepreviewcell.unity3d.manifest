@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 462479894
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9e73e8dce08a8ed8b21e81c88d8b25d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8b0074dd07e76fea8d7fa486a23bb468
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07c4de3b4b6fe9045b059ee627c100df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/cell/PetComposePreviewCell.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/gui/new/atlas/com.unity3d

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4120945489
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ccfbf57bba49a7bb7409f2fcfeb7e34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb96948b47ad6ca1df035de75994dde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/thing_prontra_shengdanshu/thing_prontra_shengdanshu.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_f.unity3d

@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 2144994439
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e6724bbd66acf30c5ae00b82a6d8b42
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Miyabi/eat.anim
+- Assets/Art/Model/Role/Body/Monster/Miyabi/walk_InHand.anim
+- Assets/Art/Model/Role/Body/Monster/Miyabi/happy.anim
+- Assets/Art/Model/Role/Body/Monster/Miyabi/die.anim
+- Assets/Art/Model/Role/Body/Monster/Miyabi/be_touch.anim
+- Assets/Art/Model/Role/Body/Monster/Miyabi/Miyabi.mat
+- Assets/Art/Model/Role/Body/Monster/Miyabi/AC_Miyabi.controller
+- Assets/Art/Model/Role/Body/Monster/Miyabi/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Miyabi/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Miyabi/Miyabi.FBX
+- Assets/Art/Model/Role/Body/Monster/Miyabi/Miyabi.png
+- Assets/Art/Model/Role/Body/Monster/Miyabi/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Miyabi/wait_InHand.anim
+- Assets/Art/Model/Role/Body/Monster/Miyabi/walk.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

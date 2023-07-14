@@ -1,0 +1,108 @@
+ManifestFileVersion: 0
+CRC: 4165141515
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53c1803d407c3fe29fbf587ccb456889
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_prontra_boli4.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_prontra_mpmotianlun2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_prontra_mpmotianlun.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_room_card_weiqiang04.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_prontra_boli1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_room_card_qizhi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_honeymoon_SCpen.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_yuno_huatan.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_amatsu_fangche.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_amatsu_cat.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_prontra_boli6.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_prontra_jinshupaizi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_lava_dun_diaoxiang.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_prontra_boli2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_yuno_chetan.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_yuno_yuedeng.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_lava_dun_diaoxiang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_yuno_jinshi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_ghjs_guanzi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_yuno_qizhu.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_ghjs_shafa.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_ghjs_penzhai1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_amatsu_yuqi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_room_card_zhuozi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_prontra_boli5.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_ghjs_gaodigui.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_prontra_boli6.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_ghjs_zhuoyi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_yuno_tuiche1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_yuno_yuedeng2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_amatsu_fangche.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_honeymoon_cat.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_yuno_zx_jgzhu_b.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_room_card_zhipai.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_prontra_jinshupaizi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_yuno_shiyi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_amatsu_huojia02.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_yuno_zx_jgzhu.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_prontra_boli5.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_ghjs_bolishafa.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_yuno_huatan.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_yuno_tuiche1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_honeymoon_SCshideng.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_prontra_mpmotianlun.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_ghjs_bolishafa.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_prontra_boli2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_prontra_penhuotong.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_honeymoon_zhutong.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_amatsu_shideng.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_yuno_kt_luoxuanjiang.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_room_card_zhipai.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_prontra_boli4.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_yuno_chetan.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_yuno_shiyi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_room_card_zhuozi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_yuno_zx_jgzhu.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_honeymoon_SCshideng.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_ghjs_shafa.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_yuno_jinshi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_amatsu_huojia01.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_amatsu_huojia01.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_room_card_weiqiang04b.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_honeymoon_cat.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_ghjs_waerjili.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_yuno_kt_luoxuanjiang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_amatsu_yuqi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/shengdanshu_02.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_ghjs_guanzi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_honeymoon_zhutong.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_amatsu_cat.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_prontra_boli1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_amatsu_rockcat.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_amatsu_huojia02.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_ghjs_penzhai1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_ghjs_waerjili.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_honeymoon_SCpen.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_prontra_boli3.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_prontra_boli3.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_yuno_yuedeng.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_room_card_qizhi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_ghjs_gaodigui.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_amatsu_shideng.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_ghjs_zhuoyi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_yuno_qizhu.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_amatsu_rockcat.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_prontra_penhuotong.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_j/thing_room_card_weiqiang04.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_i.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

@@ -1,0 +1,81 @@
+ManifestFileVersion: 0
+CRC: 446266456
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9d4d6e3dc59c0db842d78ad3237285a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6fa9ce387392089bc59dd886979cd053
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/Surface/surface_c/surface_guild_base_cedi.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_gef_kobold_Qdipan.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_end_BJyunajing.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_glt_2_dixing.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_glastham_heshui.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_glt_s.mat
+- Assets/Art/Model/Scene/Surface/surface_c/surface_org_dun_shaqiu.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_op_dibiao.mat
+- Assets/Art/Model/Scene/Surface/surface_c/surface_guild_battle3_baoshibian.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_org_village_dixing.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/thing_glt_1_tuqiu.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_glastham_dixing.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_glt_2_suishi.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/Guild_battle3.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_room_library_ditan.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_org_dun_dixing.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_org_village_shui.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_glastham_zhuan.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_org_dun_shi4.mat
+- Assets/Art/Model/Scene/Surface/surface_c/thing_glt_s_things.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_glt_outside_dixing.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_glt_h_dimian.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_gef_kobold_shuimian.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_org_dun_dongding.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_room_top_ditanB.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_gef_kobold_dixing.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_op_dixing.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_room_class_ditan.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_glastham_chishui.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_room_library_ding.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_gef_kobold_zhuan.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_glt_s_dizhuan.FBX
+- Assets/Art/Model/Scene/Surface/surface_c/surface_glt_s.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_m.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_f.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_d.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_f.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_j.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_a.unity3d

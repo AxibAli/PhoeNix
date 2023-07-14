@@ -1,0 +1,98 @@
+ManifestFileVersion: 0
+CRC: 3167006859
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0dee96525b64448289535009b3acb192
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Body/Monk_M/eat1.anim
+- Assets/Art/Public/Animation/Body/Monk_M/ride_walk.anim
+- Assets/Art/Public/Animation/Body/Monk_M/sit_down2.anim
+- Assets/Art/Public/Animation/Body/Monk_M/ride_collect.anim
+- Assets/Art/Public/Animation/Body/Monk_M/pose1.anim
+- Assets/Art/Public/Animation/Body/Monk_M/walk_HandIn.anim
+- Assets/Art/Public/Animation/Body/Monk_M/walk_Mace.anim
+- Assets/Art/Public/Animation/Body/Monk_M/pose2.anim
+- Assets/Art/Public/Animation/Body/Monk_M/play_clap.anim
+- Assets/Art/Public/Animation/Body/Monk_M/eat_end2.anim
+- Assets/Art/Public/Animation/Body/Monk_M/wait_InHand.anim
+- Assets/Art/Public/Animation/Body/Monk_M/play_bow.anim
+- Assets/Art/Public/Animation/Body/Monk_M/pose_S10.anim
+- Assets/Art/Public/Animation/Body/Monk_M/play_onekneeldown.anim
+- Assets/Art/Public/Animation/Body/Monk_M/walk.anim
+- Assets/Art/Public/Animation/Body/Monk_M/pose1_m.anim
+- Assets/Art/Public/Animation/Body/Monk_M/pose_showweapon.anim
+- Assets/Art/Public/Animation/Body/Monk_M/eat_end1.anim
+- Assets/Art/Public/Animation/Body/Monk_M/throwing.anim
+- Assets/Art/Public/Animation/Body/Monk_M/pose_S4.anim
+- Assets/Art/Public/Animation/Body/Monk_M/sit_down.anim
+- Assets/Art/Public/Animation/Body/Monk_M/touch_high.anim
+- Assets/Art/Public/Animation/Body/Monk_M/use_skill2_Mace.anim
+- Assets/Art/Public/Animation/Body/Monk_M/posejob1_Mace.anim
+- Assets/Art/Public/Animation/Body/Monk_M/feign_death_Mace.anim
+- Assets/Art/Public/Animation/Body/Monk_M/use_skill.anim
+- Assets/Art/Public/Animation/Body/Monk_M/play_handheart.anim
+- Assets/Art/Public/Animation/Body/Monk_M/skill_ready.anim
+- Assets/Art/Public/Animation/Body/Monk_M/attack_wait_Mace.anim
+- Assets/Art/Public/Animation/Body/Monk_M/pose_S7.anim
+- Assets/Art/Public/Animation/Body/Monk_M/KissEmbracen.anim
+- Assets/Art/Public/Animation/Body/Monk_M/pose_S5.anim
+- Assets/Art/Public/Animation/Body/Monk_M/collect.anim
+- Assets/Art/Public/Animation/Body/Monk_M/die_Mace.anim
+- Assets/Art/Public/Animation/Body/Monk_M/pose_S12.anim
+- Assets/Art/Public/Animation/Body/Monk_M/attack_Mace.anim
+- Assets/Art/Public/Animation/Body/Monk_M/hit_Mace.anim
+- Assets/Art/Public/Animation/Body/Monk_M/pose_S9.anim
+- Assets/Art/Public/Animation/Body/Monk_M/play_lazysleep.anim
+- Assets/Art/Public/Animation/Body/Monk_M/die.anim
+- Assets/Art/Public/Animation/Body/Monk_M/attack.anim
+- Assets/Art/Public/Animation/Body/Monk_M/playshow.anim
+- Assets/Art/Public/Animation/Body/Monk_M/wait.anim
+- Assets/Art/Public/Animation/Body/Monk_M/HeightRaise.anim
+- Assets/Art/Public/Animation/Body/Monk_M/play_kiss.anim
+- Assets/Art/Public/Animation/Body/Monk_M/play_sleep.anim
+- Assets/Art/Public/Animation/Body/Monk_M/pose_S3.anim
+- Assets/Art/Public/Animation/Body/Monk_M/touch_low.anim
+- Assets/Art/Public/Animation/Body/Monk_M/pose_S6.anim
+- Assets/Art/Public/Animation/Body/Monk_M/use_skill_Mace.anim
+- Assets/Art/Public/Animation/Body/Monk_M/walk_InHand.anim
+- Assets/Art/Public/Animation/Body/Monk_M/pose2_m.anim
+- Assets/Art/Public/Animation/Body/Monk_M/pose_S11.anim
+- Assets/Art/Public/Animation/Body/Monk_M/use_magic.anim
+- Assets/Art/Public/Animation/Body/Monk_M/reading.anim
+- Assets/Art/Public/Animation/Body/Monk_M/wait_HoldPet.anim
+- Assets/Art/Public/Animation/Body/Monk_M/walk_HoldPet.anim
+- Assets/Art/Public/Animation/Body/Monk_M/feign_death.anim
+- Assets/Art/Public/Animation/Body/Monk_M/cook_ready.anim
+- Assets/Art/Public/Animation/Body/Monk_M/eat_end3.anim
+- Assets/Art/Public/Animation/Body/Monk_M/posejob1.anim
+- Assets/Art/Public/Animation/Body/Monk_M/ride_wait.anim
+- Assets/Art/Public/Animation/Body/Monk_M/cook_ing.anim
+- Assets/Art/Public/Animation/Body/Monk_M/pose_S1.anim
+- Assets/Art/Public/Animation/Body/Monk_M/wait_HandIn.anim
+- Assets/Art/Public/Animation/Body/Monk_M/eat3.anim
+- Assets/Art/Public/Animation/Body/Monk_M/use_skill3.anim
+- Assets/Art/Public/Animation/Body/Monk_M/skill_ready_Mace.anim
+- Assets/Art/Public/Animation/Body/Monk_M/victory.anim
+- Assets/Art/Public/Animation/Body/Monk_M/hit.anim
+- Assets/Art/Public/Animation/Body/Monk_M/pose_S8.anim
+- Assets/Art/Public/Animation/Body/Monk_M/pose_3.anim
+- Assets/Art/Public/Animation/Body/Monk_M/sit_down3.anim
+- Assets/Art/Public/Animation/Body/Monk_M/pose_S2.anim
+- Assets/Art/Public/Animation/Body/Monk_M/use_skill2.anim
+- Assets/Art/Public/Animation/Body/Monk_M/play_wave.anim
+- Assets/Art/Public/Animation/Body/Monk_M/use_skill3_Mace.anim
+- Assets/Art/Public/Animation/Body/Monk_M/use_magic_Mace.anim
+- Assets/Art/Public/Animation/Body/Monk_M/shooting.anim
+- Assets/Art/Public/Animation/Body/Monk_M/eat2.anim
+- Assets/Art/Public/Animation/Body/Monk_M/cook_fail.anim
+- Assets/Art/Public/Animation/Body/Monk_M/attack_wait.anim
+- Assets/Art/Public/Animation/Body/Monk_M/reading_Mace.anim
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2998187768
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc474ab830a26b665e581f0290ac2ec2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Body/GreenGleeman/functional_action2.anim
+- Assets/Art/Public/Animation/Body/GreenGleeman/functional_action.anim
+- Assets/Art/Public/Animation/Body/GreenGleeman/wait.anim
+- Assets/Art/Public/Animation/Body/GreenGleeman/playshow.anim
+Dependencies: []

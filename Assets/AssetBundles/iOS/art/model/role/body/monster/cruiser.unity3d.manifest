@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 1302618233
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e18a8fdf54b3cb4722297d3b2a359cd8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Cruiser/wait_InHand.anim
+- Assets/Art/Model/Role/Body/Monster/Cruiser/eat.anim
+- Assets/Art/Model/Role/Body/Monster/Cruiser/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Cruiser/functional_action.anim
+- Assets/Art/Model/Role/Body/Monster/Cruiser/AC_Cruiser.controller
+- Assets/Art/Model/Role/Body/Monster/Cruiser/walk_InHand.anim
+- Assets/Art/Model/Role/Body/Monster/Cruiser/Cruiser.FBX
+- Assets/Art/Model/Role/Body/Monster/Cruiser/Cruiser.png
+- Assets/Art/Model/Role/Body/Monster/Cruiser/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Cruiser/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Cruiser/Cruiser_Pet.png
+- Assets/Art/Model/Role/Body/Monster/Cruiser/walk.anim
+- Assets/Art/Model/Role/Body/Monster/Cruiser/Cruiser_Pet.mat
+- Assets/Art/Model/Role/Body/Monster/Cruiser/Cruiser.mat
+- Assets/Art/Model/Role/Body/Monster/Cruiser/use_skill.anim
+- Assets/Art/Model/Role/Body/Monster/Cruiser/die.anim
+- Assets/Art/Model/Role/Body/Monster/Cruiser/happy.anim
+- Assets/Art/Model/Role/Body/Monster/Cruiser/be_touch.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

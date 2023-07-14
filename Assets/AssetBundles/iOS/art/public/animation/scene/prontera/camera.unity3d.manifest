@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3119339794
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44054da6ace76083dce19a74a0d95f90
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Scene/Prontera/Camera/Camera 2.anim
+- Assets/Art/Public/Animation/Scene/Prontera/Camera/Camera.controller
+- Assets/Art/Public/Animation/Scene/Prontera/Camera/Camera 4.anim
+- Assets/Art/Public/Animation/Scene/Prontera/Camera/Camera 3.anim
+- Assets/Art/Public/Animation/Scene/Prontera/Camera/Camera 1.anim
+Dependencies: []

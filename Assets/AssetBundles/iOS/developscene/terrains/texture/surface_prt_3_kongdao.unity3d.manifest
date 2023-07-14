@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3599469267
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e17297ae1497e0166d1a03f040d9dde
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/DevelopScene/Terrains/Texture/surface_prt_3_kongdao.png
+Dependencies: []

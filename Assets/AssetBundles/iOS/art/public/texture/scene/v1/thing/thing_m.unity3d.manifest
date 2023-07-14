@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 35182891
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8567e4d0d372b10eab058419f34762d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_edmund_neil_12.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_edmund_neil_04.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_niflhem_qizhi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_edmund_neil_12.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_umbala_shengti.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_niflhem_fulan.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_edmund_neil_dise.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_umbala_mogu.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_umbala_dise.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_nif_fild2_mubeipian.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_nif_fild2_mubeipian.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_niflhem_wangted.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_umbala_mogu.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_edmund_neil_14.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_niflhem_wangted.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_umbala_ditan.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_teamvs_bideng.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/hing_niflhem_mn_deng.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_niflhem_mianpian01a.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_edmund_neil_04.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_teamvs_bideng.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_iz_poring_zdxj.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_niflhem_fulan.PNG
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_umbala_shengti.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_iz_poring_zdst.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_iz_poring_zdst.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_niflhem_qizhi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_umbala_ditan.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_edmund_neil_14.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_niflhem_mn_deng.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_m/thing_iz_poring_zdxj.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_l.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 4136475860
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b7d303f8953ea914781a59438087f903
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Woman2/Woman2.mat
+- Assets/Art/Model/Role/Body/NPC/Woman2/AC_Woman2.controller
+- Assets/Art/Model/Role/Body/NPC/Woman2/Woman2_dead.mat
+- Assets/Art/Model/Role/Body/NPC/Woman2/Woman2.FBX
+- Assets/Art/Model/Role/Body/NPC/Woman2/Woman2.png
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/animation/body/assassincross_f.unity3d

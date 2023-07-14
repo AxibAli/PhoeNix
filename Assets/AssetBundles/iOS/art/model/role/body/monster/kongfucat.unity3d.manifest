@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2399238041
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b67da9a48da614e032286b0cdf829ba9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/KongfuCat/KongfuCat.mat
+- Assets/Art/Model/Role/Body/Monster/KongfuCat/use_skill.anim
+- Assets/Art/Model/Role/Body/Monster/KongfuCat/wait.anim
+- Assets/Art/Model/Role/Body/Monster/KongfuCat/hit.anim
+- Assets/Art/Model/Role/Body/Monster/KongfuCat/KongfuCat.FBX
+- Assets/Art/Model/Role/Body/Monster/KongfuCat/walk.anim
+- Assets/Art/Model/Role/Body/Monster/KongfuCat/AC_KongfuCat.controller
+- Assets/Art/Model/Role/Body/Monster/KongfuCat/KongfuCake.png
+- Assets/Art/Model/Role/Body/Monster/KongfuCat/skill_ready.anim
+- Assets/Art/Model/Role/Body/Monster/KongfuCat/KongfuCat.png
+- Assets/Art/Model/Role/Body/Monster/KongfuCat/attack.anim
+- Assets/Art/Model/Role/Body/Monster/KongfuCat/KongfuCake.mat
+- Assets/Art/Model/Role/Body/Monster/KongfuCat/use_magic.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

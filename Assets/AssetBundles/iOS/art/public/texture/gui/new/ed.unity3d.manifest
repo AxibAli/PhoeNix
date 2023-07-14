@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1503932437
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff3fabfef40eb8a86a55585923c1a180
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/GUI/New/Ed/XinDongLogo.png
+- Assets/Art/Public/Texture/GUI/New/Ed/ed_bg.png
+Dependencies: []

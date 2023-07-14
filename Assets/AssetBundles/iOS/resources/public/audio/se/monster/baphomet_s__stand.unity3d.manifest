@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3172277132
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d4d7b14d91876649d420b6a607e60f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Monster/Baphomet_S__stand.wav
+Dependencies: []

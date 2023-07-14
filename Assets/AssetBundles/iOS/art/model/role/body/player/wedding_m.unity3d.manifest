@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 3048702796
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2345c04875c4dfb7d243f9296e6bac5a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Player/Wedding_M/EmbracenKiss.anim
+- Assets/Art/Model/Role/Body/Player/Wedding_M/die.anim
+- Assets/Art/Model/Role/Body/Player/Wedding_M/feign_death.anim
+- Assets/Art/Model/Role/Body/Player/Wedding_M/Wedding_M_dead.mat
+- Assets/Art/Model/Role/Body/Player/Wedding_M/wait_InHand.anim
+- Assets/Art/Model/Role/Body/Player/Wedding_M/wait_HandIn.anim
+- Assets/Art/Model/Role/Body/Player/Wedding_M/walk.anim
+- Assets/Art/Model/Role/Body/Player/Wedding_M/Wedding_M.mat
+- Assets/Art/Model/Role/Body/Player/Wedding_M/walk_InHand.anim
+- Assets/Art/Model/Role/Body/Player/Wedding_M/Man4.mat
+- Assets/Art/Model/Role/Body/Player/Wedding_M/Wedding_M.FBX
+- Assets/Art/Model/Role/Body/Player/Wedding_M/RaiseHeight.anim
+- Assets/Art/Model/Role/Body/Player/Wedding_M/Wedding_M.png
+- Assets/Art/Model/Role/Body/Player/Wedding_M/walk_HandIn.anim
+- Assets/Art/Model/Role/Body/Player/Wedding_M/playshow.anim
+- Assets/Art/Model/Role/Body/Player/Wedding_M/AC_Wedding_M.controller
+- Assets/Art/Model/Role/Body/Player/Wedding_M/wait.anim
+- Assets/Art/Model/Role/Body/Player/Wedding_M/throwing.anim
+- Assets/Art/Model/Role/Body/Player/Wedding_M/Man4.png
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/animation/body/skin_m1.unity3d

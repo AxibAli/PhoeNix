@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2306299520
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ee7490c9ee20535b04753381bd68ffb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/Config_Resource_ZiYuan/Table_HairStyle.bytes
+- Assets/Resources/Script2/Config_Resource_ZiYuan/Table_AssesoriesDie.bytes
+- Assets/Resources/Script2/Config_Resource_ZiYuan/Table_SceneInteractionObject.bytes
+- Assets/Resources/Script2/Config_Resource_ZiYuan/Table_KeywordAnimation.bytes
+- Assets/Resources/Script2/Config_Resource_ZiYuan/Table_MusicBox.bytes
+- Assets/Resources/Script2/Config_Resource_ZiYuan/Table_SpEffect.bytes
+- Assets/Resources/Script2/Config_Resource_ZiYuan/Table_Mount.bytes
+- Assets/Resources/Script2/Config_Resource_ZiYuan/Table_ActionEffect.bytes
+- Assets/Resources/Script2/Config_Resource_ZiYuan/Table_Eye.bytes
+- Assets/Resources/Script2/Config_Resource_ZiYuan/Table_Weather.bytes
+- Assets/Resources/Script2/Config_Resource_ZiYuan/Table_Expression.bytes
+- Assets/Resources/Script2/Config_Resource_ZiYuan/Table_Body.bytes
+- Assets/Resources/Script2/Config_Resource_ZiYuan/Table_Couture.bytes
+- Assets/Resources/Script2/Config_Resource_ZiYuan/Table_GFaithUIColorConfig.bytes
+- Assets/Resources/Script2/Config_Resource_ZiYuan/Table_ActionAnime.bytes
+- Assets/Resources/Script2/Config_Resource_ZiYuan/Table_ActionEffectSetUp.bytes
+- Assets/Resources/Script2/Config_Resource_ZiYuan/Table_Video.bytes
+- Assets/Resources/Script2/Config_Resource_ZiYuan/Table_Assesories.bytes
+- Assets/Resources/Script2/Config_Resource_ZiYuan/Table_HeadImage.bytes
+- Assets/Resources/Script2/Config_Resource_ZiYuan/Table_Avatar.bytes
+- Assets/Resources/Script2/Config_Resource_ZiYuan/Table_HairColor.bytes
+- Assets/Resources/Script2/Config_Resource_ZiYuan/Table_StageParts.bytes
+Dependencies: []

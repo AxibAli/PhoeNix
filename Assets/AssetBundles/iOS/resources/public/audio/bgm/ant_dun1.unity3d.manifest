@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3416259486
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 985810e6e583dba60584cfc3dc3b169a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/BGM/ant_dun1.mp3
+Dependencies: []

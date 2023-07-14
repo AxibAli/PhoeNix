@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1126417086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1aeb22d08b5cdcb6f22d8d87166278e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/State/Chaos_begin.wav
+Dependencies: []

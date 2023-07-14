@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4146705086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8bfdfcdb27eb7e3ed4e48d0c909c0ed1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc193d49e7d16f71ac778acf3c7bfc27
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/PendulumClock_S/PendulumClock_S.mat
+- Assets/Art/Model/Role/Body/NPC/PendulumClock_S/PendulumClock_S.FBX
+- Assets/Art/Model/Role/Body/NPC/PendulumClock_S/PendulumClock_S.png
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

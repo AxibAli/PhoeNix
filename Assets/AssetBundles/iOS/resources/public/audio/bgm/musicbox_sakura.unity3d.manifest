@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3426535096
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9feecb2a255911ccf48a9c669a5550d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/BGM/MusicBox_Sakura.mp3
+Dependencies: []

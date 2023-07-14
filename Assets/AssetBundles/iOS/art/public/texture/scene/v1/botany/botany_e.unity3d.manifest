@@ -1,0 +1,105 @@
+ManifestFileVersion: 0
+CRC: 245130816
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ef0f35a0abe0d950c80d6fc34740e47
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_nif_fild2_guanmu.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_glt_outside_bajiao.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_aldebaran_zhiwu2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_prt_4_luwei2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_glt_2_huashu.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_xmas_dashu.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_gef_kobold_hua1c.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_gef_kobold_shuye.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_gef_kobold_shuye2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_aldebaran_guanmu.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_gef_kobold_nif_fild2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_gef_kobold_shu1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_hugecat_huacao2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_hugecat_huacao2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_xmas_shu.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_flowersea_shugan.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_glastham_hongye.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_xmas_guanmu.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_guildgarden_guanmu1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_iz_Poring_tree_gan.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_gef_kobold_shu1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_glastham_pashanhu3.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_xmas_guanmu.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_guildgarden_bt2_chuicao.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_nif_fild2_guanmulv.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_hugecat_huacao1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_flowersea_shuye.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_gef_kobold_citen2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_gef_kobold_hua1 b.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_guildgarden_bt2_cao.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_glt_k_zhiwu.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_glastham_pashanhu2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_glt_2_guanmu.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_gef_kobold_hua2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_iz_Poring_tree_ye.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_gef_kobold_shuye.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_hugecat_lanling1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_hugecat_huacao1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_glastham_pashanhu2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_glt_outside_bajiao.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_flowersea_shuye.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_prt_4_luwei1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_aldebaran_zhiwu1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_glt_k_zhiwu.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_gef_kobold_citen3a.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_glt_k_zhiwu_unlit.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_gef_kobold_manten.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_hugecat_huacao3.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_gef_kobold_nif_fild2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_xmas_shupian.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_nif_fild2_guanmu.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_hugecat_lanling1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_glt_k_zhiwu_unlit izporing.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_glastham_pashanhu1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_xmas_shupian.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_guildgarden_bt2_chuicao.png
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_nif_fild2_guanmulv.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_xmas_kushu.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_prt_4_luwei1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_flowersea_BJhua.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_glt_k_zhiwu2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_flowersea_BJhua.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_glt_2_huashu.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_prt_4_luwei2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_gef_kobold_hua1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_glastham_pashanhu3.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_hugecat_huacao3.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_aldebaran_zhiwu2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_guildgarden_bt2_cao.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_iz_Poring_tree_gan.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_glastham_hongye.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_flowersea_shugan.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_glt_2_guanmu.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_aldebaran_zhiwu1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_gef_kobold_shu2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_guildgarden_guanmu1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_aldebaran_guanmu.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_gef_kobold_shu2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_glastham_pashanhu1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_gef_kobold_citen2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_gef_kobold_shuye2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_gef_kobold_hua1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_iz_Poring_tree_ye.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_xmas_kushu.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_e/botany_gef_kobold_manten.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

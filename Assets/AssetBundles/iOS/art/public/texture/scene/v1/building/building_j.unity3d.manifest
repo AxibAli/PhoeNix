@@ -1,0 +1,135 @@
+ManifestFileVersion: 0
+CRC: 1817678316
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cef4cdacdc4eb874be328a6cc26f7075
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_Large
+  machinery_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/surface_iz_dun02_chengbao_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/bulding_honeyCar_track.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/newgeffen_luya.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_Large
+  machinery_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_honeyCar_room1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_yuno_fild2_dkou1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchalb_BJqiang.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_jinshuwang.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_yuno_fild2_dkou1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_shuiguan.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_yuno_fild2_dkou2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_zudang.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_qiang_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_chongwang_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/room_tower1_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_yuno_fild1_house3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchalb_BJwuding.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_yuno_fild1_bridge2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/room_tower1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_shuicao.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/newgeffen_dizhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_yuno_fild2_men1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_honeyCar_room1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_5.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/surface_geffen_huawen.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/surface_3_iz_dun_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_yuno_fild1_house2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_chongwang_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/surface_iz_dun02_chengbao.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_shuicao.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_zudang.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_yuno_fild1_wall2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/sky_FristArea_liantian.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_Large
+  machinery_5.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_shiqiang.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/bulding_honeyCar_track.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/newgeffen_dizhuan.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_6.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_lvguan.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_lvguan.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_yuno_fild2_dkou2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/bulding_honeyCar_pingtai1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/room_tower1_6.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/surface_3_iz_dun_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/bulding_honeyCar_pingtai1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_yuno_fild1_house3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchalb_neishi.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_yuno_fild1_xfz1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_jinshu.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_yuno_fild2_men1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_Large
+  machinery_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchalb_neishi.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_dizhuan2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/room_tower1_5.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_qiang_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/newgeffen_luya.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_yuno_fild1_zhuzi2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_faguang.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_Large
+  machinery_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_yuno_fild2_diji1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_Large
+  machinery_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_5.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_yuno_fild2_diji1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_Large
+  machinery_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_qiang_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/room_tower1_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_yuno_fild1_wall1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_qiang_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/bulding_honeyCar_track2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_jinshuwang.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_Large
+  machinery_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/surface_iz_dun02_chengbao.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_yuno_fild1_wall1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_shiqiang.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_dimian.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_yuno_fild1_xfz1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/sky_FristArea_liantian.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_yuno_fild1_zhuzi2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_Large
+  machinery_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_dizhuan2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_2_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_yuno_fild1_house2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_dimian.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_2_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchalb_BJwuding.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_Large
+  machinery_5.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_jinshu.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_faguang.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_6.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_yuno_fild1_bridge2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/building_yuno_fild1_wall2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchalb_BJqiang.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_researchlab_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/room_tower1_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/surface_new_geffen.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_j/buliding_prt_sewb_shuiguan.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_k.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

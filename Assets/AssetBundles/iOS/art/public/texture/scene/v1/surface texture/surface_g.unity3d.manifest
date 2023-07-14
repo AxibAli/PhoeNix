@@ -1,0 +1,226 @@
+ManifestFileVersion: 0
+CRC: 633882185
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0bf5d825d0732df6b27dac536edd72f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower_dim1_dimian2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower2_huawendizhuan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_yggdrasil_span2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_yggdrasil_caodi1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower2_dizhuan2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_hugecat_shuimian.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower_dim1_ground5.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_aldebaran_kafeiguandiban.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_door01.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_aldebaran_ground2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dizhuan4.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_hugecat_BJcaocong.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_guildgarden_bt2_zhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower_dim1_ground3.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian09.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dizhuan1D.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dizhuan5.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_liwubox03.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_room_clock1_dimian2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_box02.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/thing_glt_h_zhuo2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_aldebaran_tuan1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_darkbox02.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_glt_h_tu.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_room_prt1_ground2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_room_clock1_zhong.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_aldebaran_tuan1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_box09.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower2_zhongxin.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_box01.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_yggdrasil_shuiwen
+  nif_fild3.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_box01.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_room_clock1_ground5.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_room_clock1_ground1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian04D.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_room_prt1_louti.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_glt_s_wall.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower_dim1_shitou.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian03D.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_yggdrasil_shuiwen.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_C_Tower_1F_ground2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_Guild_battle2_pay_zhuandi.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_yggdrasil_stone1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_iz_endless_shiban.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_box07.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_box09.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_room_clock1_dimian.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_room_prt1_louti.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_aldebaran_ground2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_yggdrasil_span.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_box02.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/thing_glt_h_zhuo1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian09.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian10D.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_glastham_BJyewai.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian10.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_box08.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_room_T5_dizhuan02.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian03.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_xue1.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_yggdrasil_shuiwen.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower2_huawendizhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_C_Tower_1F_ground1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian10D.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_darkbox02.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_Guild_battle2_alb_dimian.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_flowersea_caodi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian11D.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian11D.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower_dim1_ground1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dizhuan3.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian09D.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_door01.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_prontra 0926_shitoulu.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian12.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_C_Tower_1F_ground1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_box03.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_yggdrasil_grass.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian12b.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_hugecat_BJcaocong.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower2_zhuanqiang.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower_dim1_ground4.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dizhuan3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian11.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_room_prt1_ground.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_C_Tower_1F_ground3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_flowersea_shui.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower_dim1_ground2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_glastham_BJyewai.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian03D.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_yggdrasil_qtai.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower_dim1_dimian1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower_dim1_shitou.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_C_Tower_1F_ground2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower2_luopan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_darkbox.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_xuezhuan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_endless_hongtu.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_glt_s_ground1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian12.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_room_clock1_ground8.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_yggdrasil_water1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_end2_water.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_box04.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower2_jinshudiban.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_box05.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_Guild_battle2_pay_bian.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower2_tiewang.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower2_jinshudiban.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_box05.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_room_clock1_ground3.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian10.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dizhuan1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower_dim1_qiang.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower2_dizhuan2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_C_Tower_1F_ground3.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower2_dizhuan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian07D.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_room_prt1_ground.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_aldebaran_ground.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dizhuan1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dizhuan5.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower_dim1_dimian4.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_room_clock1_ground5.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_box10.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_prt_4_caodi1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_prt_4_groundwater.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian01D.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower2_dizhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower_dim1_louti.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_yggdrasil_spl.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower2_luopan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_Guild_battle2_alb_weiqiang.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower_dim1_qiang.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_room_clock1_ground8.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_prt_4_zhaoze.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian03.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_hugecat_BJcaocong_dark.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_glt_s_ground3.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_rock.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower2_weiqiang.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower_dim1_dimian2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_yggdrasil_sg1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_glastham_chishui.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_aldebaran_groundbaobian1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_flowersea_shui.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/thing_glt_h_wuqi.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_Guild_battle2_alb_weiqiang.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_aldebaran_groundbaobian1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_end2_water.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_box03.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower2_wujian.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_darkbox.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dizhuan4.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian11.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_box08.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_yggdrasil_shuidi1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower_dim1_louti.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_aldebaran_kafeiguandiban.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower2_weiqiang.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower_dim1_ground3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_Guild_battle2_pay_bian.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_Guild_battle2_pay_zhuandi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower2_wujian.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_glastham_chishui.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower2_zhong.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_room_clock1_ground3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_glastham_shiban2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_box04.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower_dim1_dimian4.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_iz_endless_nitu.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/Guild_battle1_pay_black.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_prontra 0926_shitoulu.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_glt_s_ground3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian09D.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dizhuan1D.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_Guild_battle2_pay_mudiban.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_guildgarden_bt2_zhuan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower_dim1_ground5.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower2_tiewang.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower_dim1_dimian1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower2_zhongxin.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_room_prt1_ground2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian01D.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower2_zhuanqiang.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower_dim1_ground4.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_Guild_battle2_alb_dimian.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_Guild_battle2_pay_mudiban.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_clocktower2_zhong.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_glt_s_ground1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_room_clock1_ground1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_box10.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun02_box07.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_prt_4_zhaoze.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_xmas_dun01_dimian07D.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_glt_s_wall.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_hugecat_shuimian.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_g/surface_glastham_shiban3.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_f.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

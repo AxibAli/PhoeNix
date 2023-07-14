@@ -1,0 +1,72 @@
+ManifestFileVersion: 0
+CRC: 3344095949
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65746a70d53cb3ff93edd4e44efea5f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb96948b47ad6ca1df035de75994dde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/building/building_k/building_yuno_zuopingtai.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_rukoupingtai.FBX
+- Assets/Art/Model/Scene/building/building_k/building_room_molab_wujian02.FBX
+- Assets/Art/Model/Scene/building/building_k/building_room_molab_qiang04.FBX
+- Assets/Art/Model/Scene/building/building_k/building_room_molab_shui01.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_jianzhu1.FBX
+- Assets/Art/Model/Scene/building/building_k/thing_yuno_jinshudiaoxiang.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_jianzhu3.FBX
+- Assets/Art/Model/Scene/building/building_k/building_lava_boss_qiao.FBX
+- Assets/Art/Model/Scene/building/building_k/building_room_molab_qiguan.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_jiaotang.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_damen.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_jianzhu2.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_tiejiang.FBX
+- Assets/Art/Model/Scene/building/building_k/building_room_molab_deng.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_mk_jieti.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_lianjin.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_chengzhu.FBX
+- Assets/Art/Model/Scene/building/building_k/building_room_molab_shuidi.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_bianshizuo.FBX
+- Assets/Art/Model/Scene/building/building_k/building_room_molab_qiang02.FBX
+- Assets/Art/Model/Scene/building/building_k/building_room_molab_poboliguan.FBX
+- Assets/Art/Model/Scene/building/building_k/building_room_molab_dianxian.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_gctaijie.FBX
+- Assets/Art/Model/Scene/building/building_k/surface_room_molab_xiaozhuzi.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_jianzhu5.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_youpingtai.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_guangchang.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_daqiao.FBX
+- Assets/Art/Model/Scene/building/building_k/building_room_molab_wujian01.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_ztf_jieti.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_gy_jianzhu.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_kongting.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_zongtongfu.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_jianzhu4.FBX
+- Assets/Art/Model/Scene/building/building_k/building_lava_dun_jianzhu.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_chengbao.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_kt_jianzhu.FBX
+- Assets/Art/Model/Scene/building/building_k/building_yuno_shangpingtai.FBX
+- Assets/Art/Model/Scene/building/building_k/building_room_molab_taizi.FBX
+- Assets/Art/Model/Scene/building/building_k/building_room_molab_qiang01.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_m.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_j.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_h.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_n.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_j.unity3d

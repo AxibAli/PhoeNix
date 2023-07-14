@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3786004340
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67ee449cfe2da6aa19e2ae97ed0b9f6f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8c9f7764bdb4887a40cc19d5d062ec1d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/VPC/Butterfly/state1002.anim
+- Assets/Art/Model/Scene/VPC/Butterfly/state2001.anim
+- Assets/Art/Model/Scene/VPC/Butterfly/state1001.anim
+- Assets/Art/Model/Scene/VPC/Butterfly/Butterfly.controller
+- Assets/Art/Model/Scene/VPC/Butterfly/Butterfly.prefab
+- Assets/Art/Model/Scene/VPC/Butterfly/state2002.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/pic.unity3d

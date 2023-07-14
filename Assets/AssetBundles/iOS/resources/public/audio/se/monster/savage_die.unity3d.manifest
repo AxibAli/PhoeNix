@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 637719593
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 75f1806b1375e26f2ab58a7628ded415
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Monster/Savage_die.wav
+Dependencies: []

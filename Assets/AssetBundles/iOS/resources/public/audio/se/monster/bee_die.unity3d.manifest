@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3511025857
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b5bb6f2a06af2fd5d202c242cbb8b60e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Monster/Bee_die.wav
+Dependencies: []

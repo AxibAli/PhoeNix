@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1571289927
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b5b1bb1c916c6a5ad4876f954c5d2cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Npc/Mail_3.wav
+Dependencies: []

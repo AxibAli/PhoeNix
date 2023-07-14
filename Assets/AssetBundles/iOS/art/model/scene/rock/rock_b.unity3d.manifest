@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 274759181
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73ab706a09aa820ce4ed7afd4541400e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb96948b47ad6ca1df035de75994dde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/rock/rock_b/rock_yuno_fild2_shitou1.FBX
+- Assets/Art/Model/Scene/rock/rock_b/rock_lava_dun1_suishi.FBX
+- Assets/Art/Model/Scene/rock/rock_b/rock_ant_dun2_shanshi.FBX
+- Assets/Art/Model/Scene/rock/rock_b/rock_lava_dun1_bian.FBX
+- Assets/Art/Model/Scene/rock/rock_b/rock_yuno_fild1_big1.FBX
+- Assets/Art/Model/Scene/rock/rock_b/rock_org_village_shanshi.FBX
+- Assets/Art/Model/Scene/rock/rock_b/rock_org_village_xshi.FBX
+- Assets/Art/Model/Scene/rock/rock_b/rock_Guildgarden_bt1_suishi.FBX
+- Assets/Art/Model/Scene/rock/rock_b/rock_lava_dun1_rock.FBX
+- Assets/Art/Model/Scene/rock/rock_b/rock_prt_4_shi.FBX
+- Assets/Art/Model/Scene/rock/rock_b/rock_lava_dun1_rock2_b.FBX
+- Assets/Art/Model/Scene/rock/rock_b/rock_lava_dun1_bridge.FBX
+- Assets/Art/Model/Scene/rock/rock_b/rock_lava_dun2_shitou.FBX
+- Assets/Art/Model/Scene/rock/rock_b/rock_org_village_shidong.FBX
+- Assets/Art/Model/Scene/rock/rock_b/rock_hugecat_shitou.FBX
+- Assets/Art/Model/Scene/rock/rock_b/rock_amatsu_jiashanshi.FBX
+- Assets/Art/Model/Scene/rock/rock_b/rock_gef_kobold_shitou1.FBX
+- Assets/Art/Model/Scene/rock/rock_b/rock_C_Tower_1F_shikuai.FBX
+- Assets/Art/Model/Scene/rock/rock_b/rock_yuno_fild1_shitou2.FBX
+- Assets/Art/Model/Scene/rock/rock_b/rock_yuno_fild1_shitou1.FBX
+- Assets/Art/Model/Scene/rock/rock_b/rock_honeymoon_shi.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/rock/rock_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/rock/rock_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_j.unity3d

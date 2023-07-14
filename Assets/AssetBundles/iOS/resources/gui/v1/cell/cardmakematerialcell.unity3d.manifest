@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 726526026
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 32d52c38275ebeb3f7a99b285b3a5338
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d5692c9b313e8df8d6967f70771f2669
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f02842fa4878db54f9587ff4de7d9f2d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/cell/CardMakeMaterialCell.prefab
+Dependencies: []

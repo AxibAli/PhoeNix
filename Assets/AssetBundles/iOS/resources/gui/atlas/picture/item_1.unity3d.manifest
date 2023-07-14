@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 287379753
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 93101e32a47fbf4e85a423d3c9b844af
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/atlas/picture/Item_1.png
+Dependencies: []

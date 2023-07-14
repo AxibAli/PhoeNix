@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 1616546378
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 57141432ea5ff701fdc9d9504075edd5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/MVP/Incantation_Samurai/AC_Incantation_Samurai.controller
+- Assets/Art/Model/Role/Body/MVP/Incantation_Samurai/attack.anim
+- Assets/Art/Model/Role/Body/MVP/Incantation_Samurai/playshow.anim
+- Assets/Art/Model/Role/Body/MVP/Incantation_Samurai/skill_ready.anim
+- Assets/Art/Model/Role/Body/MVP/Incantation_Samurai/die.anim
+- Assets/Art/Model/Role/Body/MVP/Incantation_Samurai/Incantation_Samurai_Weapon.mat
+- Assets/Art/Model/Role/Body/MVP/Incantation_Samurai/use_magic.anim
+- Assets/Art/Model/Role/Body/MVP/Incantation_Samurai/Incantation_Samurai_Wing.mat
+- Assets/Art/Model/Role/Body/MVP/Incantation_Samurai/Incantation_Samurai.png
+- Assets/Art/Model/Role/Body/MVP/Incantation_Samurai/hit.anim
+- Assets/Art/Model/Role/Body/MVP/Incantation_Samurai/Incantation_Samurai_Weapon.png
+- Assets/Art/Model/Role/Body/MVP/Incantation_Samurai/Incantation_Samurai_Wing.tga
+- Assets/Art/Model/Role/Body/MVP/Incantation_Samurai/walk.anim
+- Assets/Art/Model/Role/Body/MVP/Incantation_Samurai/use_skill.anim
+- Assets/Art/Model/Role/Body/MVP/Incantation_Samurai/wait.anim
+- Assets/Art/Model/Role/Body/MVP/Incantation_Samurai/Incantation_Samurai.mat
+- Assets/Art/Model/Role/Body/MVP/Incantation_Samurai/Incantation_Samurai.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

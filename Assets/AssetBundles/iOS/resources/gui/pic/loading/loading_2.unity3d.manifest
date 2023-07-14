@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2708640404
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5610f63b91da40171c8ce34a3c3531dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/Loading/loading_2.jpg
+Dependencies: []

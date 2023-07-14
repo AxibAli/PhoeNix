@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 418824832
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 881d3531c2c3ee79e073b41a030aac61
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/PersonalPhoto/PersonalPhoto.bytes
+- Assets/Resources/Script2/PersonalPhoto/PersonalPhotoHelper.bytes
+- Assets/Resources/Script2/PersonalPhoto/LocalPersonalPhoto.bytes
+- Assets/Resources/Script2/PersonalPhoto/PersonalPhotoCallback.bytes
+- Assets/Resources/Script2/PersonalPhoto/NetIngPersonalPhoto.bytes
+Dependencies: []

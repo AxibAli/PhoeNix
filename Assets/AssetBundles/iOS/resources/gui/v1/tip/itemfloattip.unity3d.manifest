@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2963263005
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54b6ad92736e8b4bdef5b2efdbc8c059
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 96002b44c91c41047de6d898161bf7dc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07c4de3b4b6fe9045b059ee627c100df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3a5dde3bd016b4c38b6f13012401eb15, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/tip/ItemFloatTip.prefab
+Dependencies: []

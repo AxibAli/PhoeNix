@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3057839352
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 18929f744aa166795576343eab7fa669
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/BGM/baylan.mp3
+Dependencies: []

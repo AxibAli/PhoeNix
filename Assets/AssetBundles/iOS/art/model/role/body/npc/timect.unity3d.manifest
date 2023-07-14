@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 968616777
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c760573c661cd1bfab0cf1e18ecb5f73
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/TimeCt/state2001.anim
+- Assets/Art/Model/Role/Body/NPC/TimeCt/state2002.anim
+- Assets/Art/Model/Role/Body/NPC/TimeCt/state1002.anim
+- Assets/Art/Model/Role/Body/NPC/TimeCt/TimeCt_1.mat
+- Assets/Art/Model/Role/Body/NPC/TimeCt/state6001.anim
+- Assets/Art/Model/Role/Body/NPC/TimeCt/AC_TimeCt.controller
+- Assets/Art/Model/Role/Body/NPC/TimeCt/state4002.anim
+- Assets/Art/Model/Role/Body/NPC/TimeCt/state7001.anim
+- Assets/Art/Model/Role/Body/NPC/TimeCt/state7002.anim
+- Assets/Art/Model/Role/Body/NPC/TimeCt/state5002.anim
+- Assets/Art/Model/Role/Body/NPC/TimeCt/TimeCt.mat
+- Assets/Art/Model/Role/Body/NPC/TimeCt/state6002.anim
+- Assets/Art/Model/Role/Body/NPC/TimeCt/TimeCt_.FBX
+- Assets/Art/Model/Role/Body/NPC/TimeCt/state5001.anim
+- Assets/Art/Model/Role/Body/NPC/TimeCt/state4001.anim
+- Assets/Art/Model/Role/Body/NPC/TimeCt/state1001.anim
+- Assets/Art/Model/Role/Body/NPC/TimeCt/TimeCt.png
+- Assets/Art/Model/Role/Body/NPC/TimeCt/state3001.anim
+- Assets/Art/Model/Role/Body/NPC/TimeCt/state3002.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

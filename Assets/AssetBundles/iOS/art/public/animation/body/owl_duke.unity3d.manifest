@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2072991019
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00db705c93bffabb4a486facdb029e4b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Body/Owl_Duke/die.anim
+- Assets/Art/Public/Animation/Body/Owl_Duke/attack.anim
+- Assets/Art/Public/Animation/Body/Owl_Duke/hit.anim
+- Assets/Art/Public/Animation/Body/Owl_Duke/wait.anim
+- Assets/Art/Public/Animation/Body/Owl_Duke/walk.anim
+Dependencies: []

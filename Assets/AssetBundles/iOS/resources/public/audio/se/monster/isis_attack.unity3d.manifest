@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2011567601
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5585dffe04f8f318f59ff53588ac201a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Monster/Isis_attack.wav
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1517695362
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a6c4395458c0c4122a30ef40654f3e36
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/GroundDistortion_attack.wav
+Dependencies: []

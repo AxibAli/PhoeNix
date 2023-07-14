@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4180731182
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f18ffdb0de4cc3758a97a9abbd00b458
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/BigCatSkill_maobingxiang_attack.wav
+Dependencies: []

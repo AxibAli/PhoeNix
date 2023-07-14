@@ -1,0 +1,127 @@
+ManifestFileVersion: 0
+CRC: 3655073521
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf749ca87be603fb4ce63a5a6d27f760
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/prt_1_thing_found.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/thing_prt_1_enclosure.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_adv_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/thing_prt_1_xiaopao.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_adv_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_chuang.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_mjolnir_Magic house_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/thing_prt_1_tanwei1_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_pay_fild2_yiji_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/thing_prt_1_xiaopao.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_mjolnir_Magic house_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_pay_fild2_yiji_5.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_job_ding.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_adv_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_adv_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_prt_church_glass01.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_job_chuang2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_zhangpeng_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_job_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_pay_fild2_yiji_5.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_job_ding.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/thing_prt_1_zhangpeng.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_iz_dun1_arch_01.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/prt_thing_taizi.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/thing_prt_1_tanwei1_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_chuang_blue.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_iz_dun1_arch_01.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_zuoqi1_che_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_prt_church_wall01.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_prt_church_top1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_job_bgchuang.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_iz_dun1_entrance_02.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_job_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_prt_church_glass01.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/prt_1_thing_found.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_prt_church_top1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_job_bgwall.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/thing_prt_1_zhangpeng 1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_adv_5.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_iz_dun1_temple_02.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_zhangpeng_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/thing_prt_1_tanwei1_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_job_ditan.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_pay_fild2_yiji_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/thing_prt_1_zhangpeng_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_zuoqi1_che_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_job_wall.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_job_chuang2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_job_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_adv_6.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_iz_dun1_entrance_01.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_zuoqi1_che_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_prt_church_wall01.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_zuoqi1_che_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_yuanjingwujian.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_job_wall.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/thing_prt_1_enclosure.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_adv_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_pay_fild2_yiji_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/thing_prt_1_tanwei1_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_mjolnir_Magic house_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_zuoqi1_che_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_adv_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/thing_prt_1_tanwei1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_adv_5.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_job_bgwall.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_iz_dun1_entrance_02.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_adv_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_pay_fild2_yiji_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_pay_fild2_yiji_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/thing_prt_1_tanwei1_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_pay_fild2_yiji_6.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_iz_dun1_arch_02.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_pay_fild2_yiji_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_pay_fild2_yiji_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_adv_6.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_dimian.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_iz_dun1_arch_02.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_guild_base_ding.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_guild_base_ding.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_prt_church_glass01b.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_iz_dun1_entrance_01.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/thing_prt_1_zhangpeng.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/thing_prt_1_tanwei1_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_mjolnir_Wild house.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_job_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_mjolnir_Wild house.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_zuoqi1_che_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_mjolnir_Magic house_wa.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_job_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/prt_thing_taizi.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_iz_dun1_temple_02.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_lukou.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_job_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_job_chuang.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_adv_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_job_ditan.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_chuang.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_job_bgchuang.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_mjolnir_Magic house_wa.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/thing_prt_1_tanwei1_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_room_job_chuang.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_pay_fild2_yiji_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_iz_dun1_temple_01.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_mjolnir_Magic house_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_iz_dun1_temple_01.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_e/building_lukou.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

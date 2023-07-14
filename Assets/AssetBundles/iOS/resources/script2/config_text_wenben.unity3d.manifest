@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2042267666
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a28977e20434af4f5673505859ae6fd3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/Config_Text_WenBen/Table_ED_Story.bytes
+- Assets/Resources/Script2/Config_Text_WenBen/Table_xo.bytes
+- Assets/Resources/Script2/Config_Text_WenBen/Table_LoveLetter.bytes
+- Assets/Resources/Script2/Config_Text_WenBen/Table_MainStory.bytes
+- Assets/Resources/Script2/Config_Text_WenBen/Table_QuestPuzzle.bytes
+- Assets/Resources/Script2/Config_Text_WenBen/Table_Augury_Activity.bytes
+- Assets/Resources/Script2/Config_Text_WenBen/Table_ChatEmoji.bytes
+- Assets/Resources/Script2/Config_Text_WenBen/Table_MCharacteristic.bytes
+- Assets/Resources/Script2/Config_Text_WenBen/Table_Valentine.bytes
+- Assets/Resources/Script2/Config_Text_WenBen/Table_PomeStory.bytes
+- Assets/Resources/Script2/Config_Text_WenBen/Table_BubbleID.bytes
+- Assets/Resources/Script2/Config_Text_WenBen/Table_QuestVersion.bytes
+Dependencies: []

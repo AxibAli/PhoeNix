@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2311309945
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c83c64afccdfbbf7eea16bc0be605e54
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2062ea2cd7e508c0f17453662a0e183f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c5ecb5660b11414fb042fb826e03b73, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 85b028b73279649cda43ee41822a0ea0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/Model/UIMultiModelCamera.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/gui/pic/model/material/bg_beijing.unity3d

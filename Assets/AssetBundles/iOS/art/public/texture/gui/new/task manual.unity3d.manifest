@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2390403550
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 308ae252bfc1e534f8eb911a1990ed01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/GUI/New/Task manual/taskmanual_bg_bottom4.png
+Dependencies: []

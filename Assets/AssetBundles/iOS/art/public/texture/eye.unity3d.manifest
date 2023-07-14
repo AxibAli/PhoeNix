@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4137943062
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 33593153f6a04206deb15d195c08a0a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Eye/Eye_E.tga
+- Assets/Art/Public/Texture/Eye/Eye_27.tga
+- Assets/Art/Public/Texture/Eye/Eye_31.png
+- Assets/Art/Public/Texture/Eye/Eye_22.tga
+- Assets/Art/Public/Texture/Eye/Eye_25.tga
+- Assets/Art/Public/Texture/Eye/Eye_23.tga
+- Assets/Art/Public/Texture/Eye/Serpent_Eye.png
+- Assets/Art/Public/Texture/Eye/Eye_33.png
+- Assets/Art/Public/Texture/Eye/Eye_29.png
+- Assets/Art/Public/Texture/Eye/Eye_21.tga
+- Assets/Art/Public/Texture/Eye/Eye_36.png
+- Assets/Art/Public/Texture/Eye/Eye_34.png
+- Assets/Art/Public/Texture/Eye/Eye_35.png
+- Assets/Art/Public/Texture/Eye/Eye_30.png
+- Assets/Art/Public/Texture/Eye/Eye_28.png
+- Assets/Art/Public/Texture/Eye/Eye_24.tga
+- Assets/Art/Public/Texture/Eye/Eye_26.tga
+Dependencies: []

@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2160324404
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e93f5cccccd3c26d6f22ca5b797cf19
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Oldwoman/wait.anim
+- Assets/Art/Model/Role/Body/NPC/Oldwoman/Oldwoman_stick.mat
+- Assets/Art/Model/Role/Body/NPC/Oldwoman/AC_Oldwoman.controller
+- Assets/Art/Model/Role/Body/NPC/Oldwoman/Oldwoman_stick.png
+- Assets/Art/Model/Role/Body/NPC/Oldwoman/Oldwoman.png
+- Assets/Art/Model/Role/Body/NPC/Oldwoman/Hair_Oldwoman.mat
+- Assets/Art/Model/Role/Body/NPC/Oldwoman/OldWoman.FBX
+- Assets/Art/Model/Role/Body/NPC/Oldwoman/Oldwoman.mat
+- Assets/Art/Model/Role/Body/NPC/Oldwoman/Hair_Oldwoman.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

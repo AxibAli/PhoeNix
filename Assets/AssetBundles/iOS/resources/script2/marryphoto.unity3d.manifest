@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1161912684
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df6a8a7ffa1aca6b33d5b84e4608f243
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/MarryPhoto/LocalMarryPhoto.bytes
+- Assets/Resources/Script2/MarryPhoto/NetIngMarryPhoto.bytes
+- Assets/Resources/Script2/MarryPhoto/MarryPhotoCallback.bytes
+- Assets/Resources/Script2/MarryPhoto/MarryPhoto.bytes
+Dependencies: []

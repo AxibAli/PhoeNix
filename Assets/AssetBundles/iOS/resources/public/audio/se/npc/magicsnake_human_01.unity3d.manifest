@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3659719559
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d44223317668c7ca6afaf4386c1ff51
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Npc/MagicSnake_Human_01.wav
+Dependencies: []

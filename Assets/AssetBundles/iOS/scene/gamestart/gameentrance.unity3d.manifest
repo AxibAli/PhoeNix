@@ -1,0 +1,125 @@
+ManifestFileVersion: 0
+CRC: 2616652065
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 26c251a0f5ec8a2d8e797cd70eec0f82
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 893d6b08dd97d8d6bf52fd622106c0be
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10d9f3e1a2c074a5b84ead98888f6ff6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa1c2d2237ef847c08289ef4e5606f08, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57bab452724524f1499aada05649b58d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f5aa6344072a42f085c6eeac4ffdc20, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 74089fc46ec304f22a51a16aa9ee9eb8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a39acf4da727427cbe08f1c81631778, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d519a885fa63d41a980a811134ac9e4f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9fec695732b04abd8cea4fda6759041, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0c08ec5a0d8d416383fbebc2532ae82, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ece3a7d54c6e0488dbc38a20ffbac240, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf60ad768c2f94fc8b6d1f8b7592fa49, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb7a4af75767942589dd16173bdc2921, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e250fa9a7b6cc4c25a622a054d048021, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b9685caa549424f7a82798dc7c1ddd5b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e87c7c5b19b0a49d48938388a395a1bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6fd090dbe902d4980985ece67937d418, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ae4f6eba788942b8a73e9434b9b1ac5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c32cb3c8874a40b8b7ec5e991b1f540, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4915fd3c881ee4c91a9d8dff249491ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cbf62fcc4b2b141e1829f0ac15cfb0b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 428f691d8290c4eeb8695bfa64774be1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 83997c3de9e56449ea925b9c5df2f7dd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdb058cdf23ba4f8380b8ceccec47d3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 336b398e800ef4e328999466acc052b5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cbf0319ec944b41e29ab7fec196780e9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd0496be2a7764459b5d97e99e9f4e11, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 98968e4fba1554177a936ff707c6201b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56802e7f0de934137943d33f837183a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 788760cf937854022a2c9405cb283d3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8bc8ddef18aca4ec2949c2b96c8e4f09, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 79cf13ab775dc48cfaaf193eb902e22c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scene/GameStart/GameEntrance.unity
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/engine/refactory/shadermanager.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/engine/refactory/managers.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/engine/refactory/imagecrop.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/engine/refactory/resourcemanager.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/engine/refactory/nguishadermanager.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/engine/refactory/lualuauncher.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/audio/bgm/title.unity3d

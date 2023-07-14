@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1701575554
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1921c88753547bc5d98580d82d0be5dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Scene/niflhem/Camera/Camera.controller
+- Assets/Art/Public/Animation/Scene/niflhem/Camera/CameraP2.anim
+- Assets/Art/Public/Animation/Scene/niflhem/Camera/CameraP3.anim
+- Assets/Art/Public/Animation/Scene/niflhem/Camera/CameraP4.anim
+- Assets/Art/Public/Animation/Scene/niflhem/Camera/Camera4.anim
+- Assets/Art/Public/Animation/Scene/niflhem/Camera/Camera2.anim
+- Assets/Art/Public/Animation/Scene/niflhem/Camera/Camera1.anim
+- Assets/Art/Public/Animation/Scene/niflhem/Camera/CameraP1.anim
+- Assets/Art/Public/Animation/Scene/niflhem/Camera/Camera3.anim
+Dependencies: []

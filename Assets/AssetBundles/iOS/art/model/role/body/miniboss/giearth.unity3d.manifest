@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2295398398
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2235872bcd05f59f7530ec33a44257c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/MiniBoss/Giearth/wait.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Giearth/skill_ready.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Giearth/attack.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Giearth/Giearth.FBX
+- Assets/Art/Model/Role/Body/MiniBoss/Giearth/Giearth.PNG
+- Assets/Art/Model/Role/Body/MiniBoss/Giearth/Giearth.mat
+- Assets/Art/Model/Role/Body/MiniBoss/Giearth/AC_Giearth.controller
+- Assets/Art/Model/Role/Body/MiniBoss/Giearth/use_skill.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Giearth/die.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Giearth/hit.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Giearth/walk.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

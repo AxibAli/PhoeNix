@@ -1,0 +1,114 @@
+ManifestFileVersion: 0
+CRC: 524129705
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6525995a9785d5dc7875daaef79cd2b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3aa4d66b3363f05f76f0f92f18b4ba0d
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_money.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_cry.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_laughter.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_sorry.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_tongue.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_silent.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_shutup.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_kiss_left.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_kiss_right.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_looking_for.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_sinister.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_sleep.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_sos.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_money.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_correct.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_confused.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_depressed.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_god.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_hu.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_runcry.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_thanks.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_saliva.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_stone.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_stone.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_sorry.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_anthomaniac.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_hu.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_inspiration.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_en.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_peingles_delicipus.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_sos.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_shy.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_correct.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_question_mark.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_helpless.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_clap.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_exclamation_mark.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_yggdrasilberry.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_god.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_great.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_anthomaniac.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_yggdrasilberry.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_cold_sweat.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_sleep.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_thumbup.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_big_heart.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_thumbup.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_silent.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_angry.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_heart.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_sweat.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_cry.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_helpless.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_afraid.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_confused.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_depressed.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_angry.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_scissors.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_laughter.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_peingles_delicipus.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_sinister.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_clap.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_shy.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_cloth.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_exclamation_mark.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_kiss_right.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_cold_sweat.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_sweat.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_thanks.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_cloth.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_runcry.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_scissors.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_afraid.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_big_heart.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_set_out.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_touch.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_error.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_inspiration.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_saliva.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_set_out.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_en.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_touch.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_kiss_left.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_question_mark.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_heart.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_happy.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_looking_for.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_shutup.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_tongue.asset
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_error.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_happy.txt
+- Assets/Art/Public/Texture/Spine/Emoji/skeleton/Emoji_great.asset
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/spine/emoji/atlas.unity3d

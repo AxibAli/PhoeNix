@@ -1,0 +1,122 @@
+ManifestFileVersion: 0
+CRC: 1269804753
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b63023a46b02290d08f09a858cb68dbb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 86183b2585bf1dbff561aaecc73310e6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 45
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 92
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 820c1010aa822450f8bdf90de17d0a0d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c17b4f124ba67446a89bc3335eb2284d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af5425033779946eab69d01264f4c336, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f5aa6344072a42f085c6eeac4ffdc20, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad125934168584d94abd21430ddbab4c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ece3a7d54c6e0488dbc38a20ffbac240, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c5ecb5660b11414fb042fb826e03b73, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54e94ca623f4a45d7a63e92000444976, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a92b5d748695fd44aac9feef17ba415, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c25cb59a4c6141a1bd415c8576643fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 80d3c899cb02a4d13a5d4ee23a0172d4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a81568cc189a84e16aa9a7c6e7441c19, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cbf62fcc4b2b141e1829f0ac15cfb0b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a83fbddeb7c2473cbf35a16c4b5b9f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9787cd1e408f848aa98e4b4b2b638e65, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 419497de5a825427c9b00be533dc53ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d13d69af1162342a382b86963d0005b8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 238
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scene/prt_maze1/Sceneprt_maze1.unity
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/rock/rock_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/developscene/terrains/texture/surface_izprt_2.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/developscene/terrains/texture/surface_izprt_2_yuanshan.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/mplant.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/plant/farmland.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/gui/v1/scene/sceneuiroot.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/engine/refactory/sun.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/rock/rock_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/audio/bgm/izprt_2.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/thing/thing_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/botany/botany_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/building/building_c.unity3d

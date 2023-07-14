@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 693421596
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee11b6e433d54ade49ece0a5e52620f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/effect/Skill/Heal.anim
+- Assets/Art/Public/Animation/effect/Skill/Helix_1.controller
+- Assets/Art/Public/Animation/effect/Skill/Rot.controller
+- Assets/Art/Public/Animation/effect/Skill/Heal_2.anim
+Dependencies: []

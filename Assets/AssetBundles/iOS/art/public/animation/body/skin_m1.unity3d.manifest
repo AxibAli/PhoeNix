@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 930433650
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2247ef31643b4935fac7311696460982
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Body/Skin_M1/pose2_m.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/pose_S4.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/play_wave.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/eat2.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/pose_S10.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/pose_S6.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/shooting.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/pose_S1.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/play_onekneeldown.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/victory.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/play_lazysleep.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/pose_S3.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/sit_down.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/eat_end3.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/pose_S9.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/pose1.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/play_bow.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/eat1.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/pose_S7.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/cook_fail.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/eat_end1.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/pose_S5.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/be_KissEmbracen.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/pose2.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/collect.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/play_handheart.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/pose_S12.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/sit_down3.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/eat3.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/play_clap.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/pose1_m.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/pose_S2.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/play_kiss.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/KissEmbracen.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/be_HeightRaise.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/sit_down2.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/pose_S11.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/cook_ing.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/play_sleep.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/pose_3.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/cook_ready.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/pose_S8.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/eat_end2.anim
+- Assets/Art/Public/Animation/Body/Skin_M1/HeightRaise.anim
+Dependencies: []

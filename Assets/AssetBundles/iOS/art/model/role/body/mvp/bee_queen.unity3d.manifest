@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 4181076418
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b4fe1c74f6ce3c5c527b65c749b7af5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/MVP/Bee_Queen/playshow.anim
+- Assets/Art/Model/Role/Body/MVP/Bee_Queen/Bee_Queen.FBX
+- Assets/Art/Model/Role/Body/MVP/Bee_Queen/hit.anim
+- Assets/Art/Model/Role/Body/MVP/Bee_Queen/Bee_Queen.png
+- Assets/Art/Model/Role/Body/MVP/Bee_Queen/wait.anim
+- Assets/Art/Model/Role/Body/MVP/Bee_Queen/AC_Bee_Queen.controller
+- Assets/Art/Model/Role/Body/MVP/Bee_Queen/attack.anim
+- Assets/Art/Model/Role/Body/MVP/Bee_Queen/die.anim
+- Assets/Art/Model/Role/Body/MVP/Bee_Queen/walk.anim
+- Assets/Art/Model/Role/Body/MVP/Bee_Queen/skill_ready.anim
+- Assets/Art/Model/Role/Body/MVP/Bee_Queen/use_skill.anim
+- Assets/Art/Model/Role/Body/MVP/Bee_Queen/Bee_Queen.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

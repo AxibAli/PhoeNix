@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1346079539
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 23df67b60328cbd7e56596b817b12a34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/Swordman_hit.wav
+Dependencies: []

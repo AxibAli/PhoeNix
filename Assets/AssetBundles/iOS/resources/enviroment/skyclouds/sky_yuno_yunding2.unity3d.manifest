@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 502244681
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0acd97c0d3af7e38636167970f587609
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1024d6c57be65da4c28a45bd200b486
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Enviroment/skyclouds/sky_yuno_yunding2.png
+- Assets/Resources/Enviroment/skyclouds/sky_yuno_yunding2.tga
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3995414647
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e432e9103ac32dea1bf90858d72cd728
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Head/Helm_Of_Moon.PNG
+- Assets/Art/Public/Texture/Head/Helm_Of_Sun_H.png
+- Assets/Art/Public/Texture/Head/Helm_Of_Stars_H.png
+- Assets/Art/Public/Texture/Head/Helm_Of_Sun_L.png
+- Assets/Art/Public/Texture/Head/Helm_Of_Moon_H.PNG
+- Assets/Art/Public/Texture/Head/Helm_Of_Moon_L.PNG
+- Assets/Art/Public/Texture/Head/Santa_Hat.png
+- Assets/Art/Public/Texture/Head/Helm_Of_Sun.png
+- Assets/Art/Public/Texture/Head/Star_Dust.png
+- Assets/Art/Public/Texture/Head/Helm_Of_Stars_L.png
+- Assets/Art/Public/Texture/Head/Helm_Of_Stars.png
+- Assets/Art/Public/Texture/Head/Spirit_Chain.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1913846361
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 241db62cf5252b2b6870d4d6fba7b72a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/Requiem_atk.wav
+Dependencies: []

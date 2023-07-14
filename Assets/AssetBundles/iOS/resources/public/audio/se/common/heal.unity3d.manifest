@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3441174198
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9da089862035b048c85338b30c8fcd60
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Common/Heal.wav
+Dependencies: []

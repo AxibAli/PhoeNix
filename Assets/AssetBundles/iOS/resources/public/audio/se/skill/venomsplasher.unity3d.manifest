@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4286476975
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f32f69481b31003abad957e1aed2cf13
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/VenomSplasher.wav
+Dependencies: []

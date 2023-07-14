@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 521995705
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0199de18f1bc5c4dea309800ccb2e18
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE_JP/Npc/W_4_Male.wav
+Dependencies: []

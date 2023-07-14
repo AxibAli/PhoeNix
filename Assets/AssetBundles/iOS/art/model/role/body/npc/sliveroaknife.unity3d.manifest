@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 1867347072
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e6bfa2ada0f95166aa70737d64bbf9d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/SliverOaKnife/state2001.anim
+- Assets/Art/Model/Role/Body/NPC/SliverOaKnife/state2002.anim
+- Assets/Art/Model/Role/Body/NPC/SliverOaKnife/SliverOaKnife_.FBX
+- Assets/Art/Model/Role/Body/NPC/SliverOaKnife/AC_SliverOaKnife.controller
+- Assets/Art/Model/Role/Body/NPC/SliverOaKnife/state1001.anim
+- Assets/Art/Model/Role/Body/NPC/SliverOaKnife/state3002.anim
+- Assets/Art/Model/Role/Body/NPC/SliverOaKnife/state1002.anim
+- Assets/Art/Model/Role/Body/NPC/SliverOaKnife/state3001.anim
+- Assets/Art/Model/Role/Body/NPC/SliverOaKnife/SliverOaKnife2.mat
+- Assets/Art/Model/Role/Body/NPC/SliverOaKnife/SliverOaKnife_stone.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/weapon.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/weapon.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

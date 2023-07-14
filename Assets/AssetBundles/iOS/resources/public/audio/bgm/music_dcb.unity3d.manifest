@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2012143469
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 500d14d06cd73a2142b2d434cb4c093b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/BGM/Music_DCB.mp3
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3892648110
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9605637005d4d6df4f8245dc1a98cd9e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/Stage/Part5_6.png
+Dependencies: []

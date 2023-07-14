@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3153723569
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e81a33fb478ff0613bdbf6849f812ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Monster/Wraith_die.wav
+Dependencies: []

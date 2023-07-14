@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2172167896
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 24470531638974740eeecc8e50947f16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Mummy/die.anim
+- Assets/Art/Model/Role/Body/Monster/Mummy/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Mummy/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Mummy/walk.anim
+- Assets/Art/Model/Role/Body/Monster/Mummy/AC_Mummy.controller
+- Assets/Art/Model/Role/Body/Monster/Mummy/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Mummy/Mummy.FBX
+- Assets/Art/Model/Role/Body/Monster/Mummy/mummy.mat
+- Assets/Art/Model/Role/Body/Monster/Mummy/Mummy.png
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

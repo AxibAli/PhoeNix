@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 779988165
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 90a53831f737fa3947e0a445a5186383
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE_JP/Npc/kanbanmusume_03.wav
+Dependencies: []

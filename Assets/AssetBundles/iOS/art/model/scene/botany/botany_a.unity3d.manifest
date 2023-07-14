@@ -1,0 +1,113 @@
+ManifestFileVersion: 0
+CRC: 2097327577
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f1507fa24f39c76902abc7a292b847a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb96948b47ad6ca1df035de75994dde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/botany/botany_a/botany_prt_1_huasu2.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_grass_cao_1.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_guanmu4.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_mjolnir_huasu.FBX
+- Assets/Art/Model/Scene/botany/botany_a/grass_cao_4.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_Grass_04_1.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_tree_shumu_4.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_grass_cao2_1.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_pay_fild02_shu.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_shi_3.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_prt_sewb_lvwang_1.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_izlude_tree_1.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_Grass_04_2.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_pay_fild02_nangua.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_mjolnir_shuqiao.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_pay_fild02_xiaomai.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_gef_dun_kushu.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_grass_tengman.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_mogu1_4.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_flower_huayuan_2.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_Grass_05.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_izlude_tree_2.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_mjolnir_cao1.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_prt1_cao.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_mogu1_2.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_tree_2.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_moc_fild1_xrzhang.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_prt1_guanmu.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_grass_cao2_2.FBX
+- Assets/Art/Model/Scene/botany/botany_a/bush_guanmu2_2.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_Grass_04_3.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_flower_huayuan_3.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_Grass_04_4.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_morocc_zonglvshu.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_fristarea_zhiwu.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_IZpay1_caocong.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_prt_sewb_lvdan.FBX
+- Assets/Art/Model/Scene/botany/botany_a/izdun_2_zhiwu.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_prt_1_huasu1.FBX
+- Assets/Art/Model/Scene/botany/botany_a/grass_cao_3.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_fristarea_tree.FBX
+- Assets/Art/Model/Scene/botany/botany_a/bush_guanmu2.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_moc_fild1_hehua.FBX
+- Assets/Art/Model/Scene/botany/botany_a/bush_gangmu2_1.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_mogu1_1.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_mjolnir_shucong.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_prontra_huapu.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_mjolnir_huasu2.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_flower_huayuan_1.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_flower_1.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_moc_fild1_huangye.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_Grass_03.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_shu_shi_3.FBX
+- Assets/Art/Model/Scene/botany/botany_a/bush_guanmu3.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_mogu1_3.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_prt_sewb_lvwang_3.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_IZpay1_huacong.FBX
+- Assets/Art/Model/Scene/botany/botany_a/bush_guanmu1.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_IZpay1_zhusun.FBX
+- Assets/Art/Model/Scene/botany/botany_a/tree_songshu.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_mjolnir_shushen.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_mjolnir_manten.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_prt1_shuye.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_prt1_tree.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_Grass_02.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_shu_shi_4.FBX
+- Assets/Art/Model/Scene/botany/botany_a/prt_3_kongdao_shuteng.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_end_shuicao.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_IZpay1_zhuzi.FBX
+- Assets/Art/Model/Scene/botany/botany_a/bush_guanmu4.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_prt_sewb_lvwang_2.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_shuzhi1.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_pay_fild02_shenshu.FBX
+- Assets/Art/Model/Scene/botany/botany_a/botany_prt1_shugan.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_f.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/rock/rock_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_j.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_d.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/materials.unity3d

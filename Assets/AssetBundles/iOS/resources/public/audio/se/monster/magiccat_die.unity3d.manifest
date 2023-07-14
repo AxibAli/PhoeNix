@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3289114735
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e2c35578ef23a7aea0e5d1a9a864313
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Monster/MagicCat_die.wav
+Dependencies: []

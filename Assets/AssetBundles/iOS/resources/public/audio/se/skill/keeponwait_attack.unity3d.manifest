@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1076393672
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a01bf69f46f121f54ed22abfcf52a1aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/KeepOnWait_attack.wav
+Dependencies: []

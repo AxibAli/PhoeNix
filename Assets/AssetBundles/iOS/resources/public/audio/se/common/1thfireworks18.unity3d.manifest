@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3042171663
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: adf73e1230800e8ddbab0434616cd331
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Common/1thFireworks18.wav
+Dependencies: []

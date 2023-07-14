@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1905627126
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9fa04632a6865b7aa16f891b050a84a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/Spear_attack.wav
+Dependencies: []

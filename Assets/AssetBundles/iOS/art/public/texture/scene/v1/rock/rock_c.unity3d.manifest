@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 502526643
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35668863a7a91bdebf59cd8d8bd20175
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_c/rock_niflhem_stone2.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_c/rock_niflhem_stone2.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_c/rock_niflhem_stone1.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_c/rock_niflhem_stone2a.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_c/rock_niflhem_stone1a.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_c/rock_niflhem_stone2a.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_c/rock_niflhem_stone1.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_c/rock_mjolnir_stone1a.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

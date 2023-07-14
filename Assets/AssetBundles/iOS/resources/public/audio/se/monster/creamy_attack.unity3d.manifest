@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1404977485
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ea0c5708575cf1fa7d8f1064cd4045c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Monster/Creamy_attack.wav
+Dependencies: []

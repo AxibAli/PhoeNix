@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3947021819
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 738d5afc2ce92f0694d379c988262d38
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Goblin/Goblin_Archer/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Goblin/Goblin_Archer/die.anim
+- Assets/Art/Model/Role/Body/Monster/Goblin/Goblin_Archer/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Goblin/Goblin_Archer/AC_Goblin_Archer.controller
+- Assets/Art/Model/Role/Body/Monster/Goblin/Goblin_Archer/walk.anim
+- Assets/Art/Model/Role/Body/Monster/Goblin/Goblin_Archer/hit.anim
+Dependencies: []

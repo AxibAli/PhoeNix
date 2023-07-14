@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3959268590
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53736ac3c52cd96ccef9c34068eef918
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Npc/Baoya_2.wav
+Dependencies: []

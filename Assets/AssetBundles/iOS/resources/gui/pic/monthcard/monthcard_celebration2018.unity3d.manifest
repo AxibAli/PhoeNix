@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1009769807
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1310aaf10ae6f4a890584fa6d9bfe319
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/MonthCard/Monthcard_celebration2018.png
+Dependencies: []

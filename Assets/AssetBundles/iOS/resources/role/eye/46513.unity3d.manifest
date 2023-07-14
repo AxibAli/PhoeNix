@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1176656172
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88471769d1300dd7a52a1af16ef0ca9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e6c8c58c61f891f7146adcc5adfc106
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 628d4ffce76dc41e992218ed300f2dd5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Role/Eye/46513.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/eye/eye_m/eye_m.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/eye/eye_m/eye_m_22_6.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/eye/eye_m/ac_eye_m.unity3d

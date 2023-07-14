@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2709962228
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e71ecf51339cde3b0f98a250aec26ff7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/Sword_hit.wav
+Dependencies: []

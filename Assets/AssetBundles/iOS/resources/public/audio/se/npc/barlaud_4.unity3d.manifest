@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 837697125
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c94b57f5b571bfe3974c82d9acefdab0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Npc/Barlaud_4.wav
+Dependencies: []

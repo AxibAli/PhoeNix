@@ -1,0 +1,114 @@
+ManifestFileVersion: 0
+CRC: 2361642425
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e256148b176d3482041541746d142b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/thing_room_xmas3_01.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_room_xmas2_03.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_room_xmas2_04.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/thing_room_xmas3_01.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/buliding_org_village_jianzhu1_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_org_village_qlong.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_room_xmas2_02.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/thing_room_xmas3_03.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/buliding_org_village_jianzhu2_02.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/buliding_org_village_jianzhu2_03.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/thing_room_xmas3_02.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_get_fild12_shentan_6.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/room_tower1_5.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_guild_battle_shitai.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_get_fild12_shentan_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_room_xmas2_01.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_guild_battle_shitai
+  1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/room_tower1_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/room_tower1_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_guild_battle_huoba.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_guild_battle_huoba.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_get_fild12_jianzhu_01.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/buliding_org_village_jianzhu2_02.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_room_xmas2_01.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_guild_battle_zhu.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/buliding_org_village_jianzhu1_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_room_class_wujian1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_get_fild12_jianzhu_01.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_get_fild12_shentan_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_room_xmas2_02.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/room_tower1_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/buliding_org_village_wopeng_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/buliding_org_village_jianzhu2_01.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_org_village_muqiao.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_get_fild12_shentan_6.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/buliding_org_village_jianzhu2_03.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_get_fild12_shentan_5.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/buliding_org_village_jianzhu1_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/buliding_org_village_jianzhu2_01.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_room_xmas2_04.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_room_class_wujian1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_get_fild12_jianzhu_02.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_guild_battle_shitai
+  1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_guild_battle_louti.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_room_class_qiang.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/thing_room_xmas3_04.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/buliding_org_village_jianzhu1_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_room_xmas3_02.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_room_xmas3_03.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_guild_battle_zhu.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_room_xmas3_02.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/buliding_org_village_jianzhu1_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_get_fild12_shentan_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/buliding_org_village_wopeng_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_room_xmas3_03.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_get_fild12_shentan_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_get_fild12_jianzhu_02.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_get_fild12_shentan_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_guild_battle_qiangti.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_guild_battle_shizhuan.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_room_xmas3_01.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/buliding_org_village_wopeng_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_guild_battle_shizhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/buliding_org_village_jianzhu1_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_room_class_qiang.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/thing_room_xmas3_04.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_get_fild12_shentan_5.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_guild_battle_shitai.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_get_fild12_shentan_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/buliding_prontra_deng_1th.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_room_xmas2_03.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/room_tower1_6.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/buliding_org_village_wopeng_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_guild_battle_qiangti.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_org_village_muqiao.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_get_fild12_shentan_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_room_class_men.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_guild_battle_louti.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_room_class_qiang2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/buliding_org_village_jianzhu1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_room_class_men.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_room_class_qiang2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/buliding_org_village_wopeng_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/buliding_org_village_jianzhu1_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_get_fild12_shentan_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_room_xmas3_01.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/thing_room_xmas3_03.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/building_org_village_qlong.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/buliding_org_village_wopeng_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/thing_room_xmas3_02.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_k/room_tower1_2.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_n.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

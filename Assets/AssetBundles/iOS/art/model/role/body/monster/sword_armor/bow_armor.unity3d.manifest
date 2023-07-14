@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2787841551
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6580dc112f3a44e7d11d26cb18b5c17
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Sword_Armor/Bow_Armor/use_skill.anim
+- Assets/Art/Model/Role/Body/Monster/Sword_Armor/Bow_Armor/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Sword_Armor/Bow_Armor/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Sword_Armor/Bow_Armor/walk.anim
+- Assets/Art/Model/Role/Body/Monster/Sword_Armor/Bow_Armor/AC_Bow_Armor.controller
+- Assets/Art/Model/Role/Body/Monster/Sword_Armor/Bow_Armor/skill_ready.anim
+- Assets/Art/Model/Role/Body/Monster/Sword_Armor/Bow_Armor/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Sword_Armor/Bow_Armor/die.anim
+Dependencies: []

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2722363484
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dbc06d1cde48d2a5a0461a017502ff17
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc193d49e7d16f71ac778acf3c7bfc27
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/SceneObj_6/SceneObj_6.FBX
+- Assets/Art/Model/Role/Body/NPC/SceneObj_6/SceneObj_6.png
+- Assets/Art/Model/Role/Body/NPC/SceneObj_6/SceneObj_6.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

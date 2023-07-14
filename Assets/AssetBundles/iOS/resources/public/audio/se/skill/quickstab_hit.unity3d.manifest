@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 223219179
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e5ef035129b4a448c89bae454112c93
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/QuickStab_hit.wav
+Dependencies: []

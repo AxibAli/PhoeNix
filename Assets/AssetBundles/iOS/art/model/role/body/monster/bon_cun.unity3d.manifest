@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 4269225244
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f6eb196f8821da0c4fad867676617f62
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Bon_Cun/Hyegun.mat
+- Assets/Art/Model/Role/Body/Monster/Bon_Cun/walk_InHand.anim
+- Assets/Art/Model/Role/Body/Monster/Bon_Cun/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Bon_Cun/Bon_Cun.png
+- Assets/Art/Model/Role/Body/Monster/Bon_Cun/Hyegun.png
+- Assets/Art/Model/Role/Body/Monster/Bon_Cun/be_touch.anim
+- Assets/Art/Model/Role/Body/Monster/Bon_Cun/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Bon_Cun/Bon_Cun.FBX
+- Assets/Art/Model/Role/Body/Monster/Bon_Cun/walk.anim
+- Assets/Art/Model/Role/Body/Monster/Bon_Cun/happy.anim
+- Assets/Art/Model/Role/Body/Monster/Bon_Cun/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Bon_Cun/wait_InHand.anim
+- Assets/Art/Model/Role/Body/Monster/Bon_Cun/eat.anim
+- Assets/Art/Model/Role/Body/Monster/Bon_Cun/AC_Bon_cun.controller
+- Assets/Art/Model/Role/Body/Monster/Bon_Cun/Bon_cun.mat
+- Assets/Art/Model/Role/Body/Monster/Bon_Cun/die.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

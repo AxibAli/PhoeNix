@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 4037263023
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4d94c3f08297744ed5137fc2de208f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/heye2.mat
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/shuye3_1.mat
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/shuye3.mat
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/New Material.mat
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/shuye9.mat
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/shuye4.mat
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/shuye2.mat
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/shuye8_1.mat
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/shuye7_1.mat
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/shuye7.mat
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/shuye5.mat
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/shuye2_1.mat
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/shuye6_1.mat
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/qingcong.mat
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/qingcong 1.mat
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/shuye8.mat
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/shuye4_1.mat
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/shuye6.mat
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/heye1.mat
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/cao1.mat
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/shuye1.mat
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/shuye5_1.mat
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/shuye9_1.mat
+- Assets/Art/Public/Texture/Scene/v1/Dynamic map/shuye1_1.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

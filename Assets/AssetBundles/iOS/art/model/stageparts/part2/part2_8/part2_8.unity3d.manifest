@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 944340132
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3bb009ec9a5efff75ca44d043182daa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/StageParts/Part2/Part2_8/Part2_8.png
+- Assets/Art/Model/StageParts/Part2/Part2_8/Part2_8.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

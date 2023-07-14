@@ -1,0 +1,86 @@
+ManifestFileVersion: 0
+CRC: 4142446377
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b842492156f9b47b7b4870ddd2c97aef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6fa9ce387392089bc59dd886979cd053
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/building/building_h/building_glastham_chengbao.FBX
+- Assets/Art/Model/Scene/building/building_h/building_glastham_cbqiangti.FBX
+- Assets/Art/Model/Scene/building/building_h/building_guild_base_window_02.FBX
+- Assets/Art/Model/Scene/building/building_h/building_iz_endless_dizuo.FBX
+- Assets/Art/Model/Scene/building/building_h/building_glastham_pomen.FBX
+- Assets/Art/Model/Scene/building/building_h/building_iz_Poring_castle.FBX
+- Assets/Art/Model/Scene/building/building_h/building_iz_poring_shhuidao_b.FBX
+- Assets/Art/Model/Scene/building/building_h/building_guild_base_door.FBX
+- Assets/Art/Model/Scene/building/building_h/building_guildgarden_enter_zhuiti.FBX
+- Assets/Art/Model/Scene/building/building_h/building_glastham_jianshifang.FBX
+- Assets/Art/Model/Scene/building/building_h/building_Guildgarden_boss1_ground_m.FBX
+- Assets/Art/Model/Scene/building/building_h/building_Guildgarden_boss1_ground.FBX
+- Assets/Art/Model/Scene/building/building_h/building_endless_ta.FBX
+- Assets/Art/Model/Scene/building/building_h/building_iz_poring_penquan.FBX
+- Assets/Art/Model/Scene/building/building_h/building_guild_base_door_02.FBX
+- Assets/Art/Model/Scene/building/building_h/building_iz_poring_shhuidao_c.FBX
+- Assets/Art/Model/Scene/building/building_h/guildgarden_room1.FBX
+- Assets/Art/Model/Scene/building/building_h/building_glastham_jiaotang.FBX
+- Assets/Art/Model/Scene/building/building_h/building_guild_base_wall.FBX
+- Assets/Art/Model/Scene/building/building_h/building_glastham_tan.FBX
+- Assets/Art/Model/Scene/building/building_h/building_guild_base_yuantai.FBX
+- Assets/Art/Model/Scene/building/building_h/building_glastham_chengqiang.FBX
+- Assets/Art/Model/Scene/building/building_h/building_iz_poring_shhuidao_e.FBX
+- Assets/Art/Model/Scene/building/building_h/building_iz_poring_shhuidao_d.FBX
+- Assets/Art/Model/Scene/building/building_h/building_catufo.FBX
+- Assets/Art/Model/Scene/building/building_h/building_iz_poring_penquan.mat
+- Assets/Art/Model/Scene/building/building_h/building_guildgarden_enter_biankuang.FBX
+- Assets/Art/Model/Scene/building/building_h/building_iz_poring_shhuidao_a.FBX
+- Assets/Art/Model/Scene/building/building_h/building_glastham_qiao.FBX
+- Assets/Art/Model/Scene/building/building_h/building_iz_Poring_castle_shadow.FBX
+- Assets/Art/Model/Scene/building/building_h/building_Guildgarden_bt1_shizhu.FBX
+- Assets/Art/Model/Scene/building/building_h/building_glastham_pingtai.FBX
+- Assets/Art/Model/Scene/building/building_h/surface_guild_base_wall.FBX
+- Assets/Art/Model/Scene/building/building_h/building_glt_s_wall.FBX
+- Assets/Art/Model/Scene/building/building_h/building_glt_k_men.FBX
+- Assets/Art/Model/Scene/building/building_h/building_glastham_chiqiang.FBX
+- Assets/Art/Model/Scene/building/building_h/building_iz_poring_penquan_shadow.FBX
+- Assets/Art/Model/Scene/building/building_h/building_iz_Poring_castle_shadow.mat
+- Assets/Art/Model/Scene/building/building_h/building_iz_poring_penquan_shadow.mat
+- Assets/Art/Model/Scene/building/building_h/building_glastham_mushi.FBX
+- Assets/Art/Model/Scene/building/building_h/building_Guildgarden_bt1_yuanpan.FBX
+- Assets/Art/Model/Scene/building/building_h/building_glt_k.FBX
+- Assets/Art/Model/Scene/building/building_h/building_glt_s_xzqiang.FBX
+- Assets/Art/Model/Scene/building/building_h/building_Guildgarden_bt1_biankuang.FBX
+- Assets/Art/Model/Scene/building/building_h/building_glastham_PSqiang.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_m.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_h.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_i.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_f.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_d.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_f.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/rock/rock_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_l.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_a.unity3d

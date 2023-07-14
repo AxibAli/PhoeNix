@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 1830811111
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fce01cda4105d126cfd5d14d4705b49c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Marc/Marc.FBX
+- Assets/Art/Model/Role/Body/Monster/Marc/walk.anim
+- Assets/Art/Model/Role/Body/Monster/Marc/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Marc/die.anim
+- Assets/Art/Model/Role/Body/Monster/Marc/Marc.png
+- Assets/Art/Model/Role/Body/Monster/Marc/Marc.mat
+- Assets/Art/Model/Role/Body/Monster/Marc/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Marc/AC_Marc.controller
+- Assets/Art/Model/Role/Body/Monster/Marc/hit.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

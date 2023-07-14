@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 872623235
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 727afa245702da543b8e57f047cc9388
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/DiskFileHandler/DiskFileHandler.bytes
+- Assets/Resources/Script2/DiskFileHandler/BeautifulAreaPhotoHandler.bytes
+Dependencies: []

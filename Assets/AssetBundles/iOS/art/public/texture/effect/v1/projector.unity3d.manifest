@@ -1,0 +1,91 @@
+ManifestFileVersion: 0
+CRC: 1136385665
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 427617d6e116f80933cb68487a2e14b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c5855eae7bf95040a896b507074b4366
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/effect/v1/projector/glow_liumangxing03_add.mat
+- Assets/Art/Public/Texture/effect/v1/projector/fazhen_116.png
+- Assets/Art/Public/Texture/effect/v1/projector/point_01_over.mat
+- Assets/Art/Public/Texture/effect/v1/projector/fazhen_52.png
+- Assets/Art/Public/Texture/effect/v1/projector/Object060_B_add.mat
+- Assets/Art/Public/Texture/effect/v1/projector/fangkuai_01.png
+- Assets/Art/Public/Texture/effect/v1/projector/Blastwave032.png
+- Assets/Art/Public/Texture/effect/v1/projector/fazhen_009.png
+- Assets/Art/Public/Texture/effect/v1/projector/glow_liumangxing02.png
+- Assets/Art/Public/Texture/effect/v1/projector/Object060_B.png
+- Assets/Art/Public/Texture/effect/v1/projector/fangkuai_04_add.mat
+- Assets/Art/Public/Texture/effect/v1/projector/ring_00001.png
+- Assets/Art/Public/Texture/effect/v1/projector/88232a9b_add.mat
+- Assets/Art/Public/Texture/effect/v1/projector/fazhen_116_add_F.mat
+- Assets/Art/Public/Texture/effect/v1/projector/glow_liumangxing01_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/projector/fazhen_011.png
+- Assets/Art/Public/Texture/effect/v1/projector/fazhen_006_add.mat
+- Assets/Art/Public/Texture/effect/v1/projector/fazhen_001_add.mat
+- Assets/Art/Public/Texture/effect/v1/projector/Blastwave032_add.mat
+- Assets/Art/Public/Texture/effect/v1/projector/fangkuai_03.png
+- Assets/Art/Public/Texture/effect/v1/projector/fazhen_010.png
+- Assets/Art/Public/Texture/effect/v1/projector/fazhen_009_add.mat
+- Assets/Art/Public/Texture/effect/v1/projector/1228_1_add.mat
+- Assets/Art/Public/Texture/effect/v1/projector/glow_liumangxing02_over.mat
+- Assets/Art/Public/Texture/effect/v1/projector/1228_2.png
+- Assets/Art/Public/Texture/effect/v1/projector/fangkuai_03_add2.mat
+- Assets/Art/Public/Texture/effect/v1/projector/fazhen_006.png
+- Assets/Art/Public/Texture/effect/v1/projector/1228_1.png
+- Assets/Art/Public/Texture/effect/v1/projector/deathGrasp_11_add.mat
+- Assets/Art/Public/Texture/effect/v1/projector/Character 00877_add.mat
+- Assets/Art/Public/Texture/effect/v1/projector/glow_0001_over.mat
+- Assets/Art/Public/Texture/effect/v1/projector/fazheng_xing01_add.mat
+- Assets/Art/Public/Texture/effect/v1/projector/fangkuai_03_add.mat
+- Assets/Art/Public/Texture/effect/v1/projector/fazheng_xing01.png
+- Assets/Art/Public/Texture/effect/v1/projector/glow_liumangxing01_add.mat
+- Assets/Art/Public/Texture/effect/v1/projector/fangkuai_01_add.mat
+- Assets/Art/Public/Texture/effect/v1/projector/fazhen_116_add.mat
+- Assets/Art/Public/Texture/effect/v1/projector/fazhen_011_add.mat
+- Assets/Art/Public/Texture/GUI/icon/Effect/glow_0001.png
+- Assets/Art/Public/Texture/effect/v1/projector/magic_target.png
+- Assets/Art/Public/Texture/effect/v1/projector/fazhen17.png
+- Assets/Art/Public/Texture/effect/v1/projector/Character 00877.png
+- Assets/Art/Public/Texture/effect/v1/projector/point_01.png
+- Assets/Art/Public/Texture/effect/v1/projector/fazhen_007.png
+- Assets/Art/Public/Texture/effect/v1/projector/fazhen_52_add.mat
+- Assets/Art/Public/Texture/effect/v1/projector/glow_liumangxing01_over.mat
+- Assets/Art/Public/Texture/effect/v1/projector/glow_0001.png
+- Assets/Art/Public/Texture/effect/v1/projector/ring_00001_over.mat
+- Assets/Art/Public/Texture/effect/v1/projector/deathGrasp_11.png
+- Assets/Art/Public/Texture/effect/v1/projector/fangkuai_04.png
+- Assets/Art/Public/Texture/effect/v1/projector/glow_0001_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/projector/magic_target_red.png
+- Assets/Art/Public/Texture/effect/v1/projector/fazhen_001.tga
+- Assets/Art/Public/Texture/effect/v1/projector/fazhen_010_add.mat
+- Assets/Art/Public/Texture/effect/v1/projector/magic_target_red_over.mat
+- Assets/Art/Public/Texture/effect/v1/projector/point_01_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/projector/fazhen17_add.mat
+- Assets/Art/Public/Texture/effect/v1/projector/magic_target_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/projector/magic_target_red_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/projector/ring_00001_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/projector/88232a9b.png
+- Assets/Art/Public/Texture/effect/v1/projector/glow_liumangxing03.png
+- Assets/Art/Public/Texture/effect/v1/projector/1228_2_add.mat
+- Assets/Art/Public/Texture/effect/v1/projector/fazhen_007_add.mat
+- Assets/Art/Public/Texture/effect/v1/projector/glow_liumangxing01.png
+- Assets/Art/Public/Texture/effect/v1/projector/magic_target_over.mat
+- Assets/Art/Public/Texture/effect/v1/projector/glow_liumangxing02_add.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/wenli.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/general.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

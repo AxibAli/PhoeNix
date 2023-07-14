@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1522231455
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 262ad7dd0892dce1875e5455bd76019b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 85de9eb05f0f2caabc1b7517064e41dd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d436cc15a736149a1b4b25049e7af1f9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Effect/Skill/LowLockOn.prefab
+Dependencies: []

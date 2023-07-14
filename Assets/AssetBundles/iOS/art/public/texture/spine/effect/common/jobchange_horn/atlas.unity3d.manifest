@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1406264191
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8fdd2f6fae05441786aeea8585e554c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4f47b4ca7218926e7ab1219cfdd298
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Spine/effect/Common/JobChange_Horn/atlas/JobChange_Horn.png
+- Assets/Art/Public/Texture/Spine/effect/Common/JobChange_Horn/atlas/JobChange_Horn.mat
+- Assets/Art/Public/Texture/Spine/effect/Common/JobChange_Horn/atlas/JobChange_Horn_atlas.txt
+- Assets/Art/Public/Texture/Spine/effect/Common/JobChange_Horn/atlas/JobChange_Horn.asset
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader/ui.unity3d

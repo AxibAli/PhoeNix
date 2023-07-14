@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4116487588
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 90a6c728157e08752fdf3380a3f94b93
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68c6bd3ec297c9f599386c42beb8cbbf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66ca9c6e5cbd4544ab22016a27d817a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c62c18ce1ee19436c90a0bbd7b1b00ef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/cell/AdventureTipLabelCell.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/gui/new/atlas/fonts.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/gui/new/atlas/com.unity3d

@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 28909677
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c86f3e9124be54c26cdaae1a99169fed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Petit/walk.anim
+- Assets/Art/Model/Role/Body/Monster/Petit/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Petit/AC_Petit.controller
+- Assets/Art/Model/Role/Body/Monster/Petit/walk_BeHold.anim
+- Assets/Art/Model/Role/Body/Monster/Petit/happy.anim
+- Assets/Art/Model/Role/Body/Monster/Petit/Petit.FBX
+- Assets/Art/Model/Role/Body/Monster/Petit/Petit.png
+- Assets/Art/Model/Role/Body/Monster/Petit/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Petit/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Petit/be_touch.anim
+- Assets/Art/Model/Role/Body/Monster/Petit/Petit.mat
+- Assets/Art/Model/Role/Body/Monster/Petit/eat.anim
+- Assets/Art/Model/Role/Body/Monster/Petit/die.anim
+- Assets/Art/Model/Role/Body/Monster/Petit/wait_BeHold.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

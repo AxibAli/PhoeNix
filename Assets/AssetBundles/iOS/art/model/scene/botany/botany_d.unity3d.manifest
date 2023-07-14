@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2450235184
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bca0369f492e91d835d597c49a8c4d14
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7fb13fbf16d124b3dc6516fa83d3004f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/botany/botany_d/botany_umbala_luoye.FBX
+- Assets/Art/Model/Scene/botany/botany_d/botany_umbala_shu1.FBX
+- Assets/Art/Model/Scene/botany/botany_d/botany_niflhem_tengman_01.fbx
+- Assets/Art/Model/Scene/botany/botany_d/surface_niflhem_caoxianjie.FBX
+- Assets/Art/Model/Scene/botany/botany_d/botany_umbala_taixuan.FBX
+- Assets/Art/Model/Scene/botany/botany_d/botany_umbala_shu4.FBX
+- Assets/Art/Model/Scene/botany/botany_d/botany_niflhem_tengman_01.mat
+- Assets/Art/Model/Scene/botany/botany_d/botany_umbala_shu5.FBX
+- Assets/Art/Model/Scene/botany/botany_d/botany_umbala_shu2.FBX
+- Assets/Art/Model/Scene/botany/botany_d/botany_umbala_shu3.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_i.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_f.unity3d

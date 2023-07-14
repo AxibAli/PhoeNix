@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2658517911
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f26cbfac9be9cb06691e406d458c8a78
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/MorganGirl/playshow.anim
+- Assets/Art/Model/Role/Body/NPC/MorganGirl/AC_MorganGirl.controller
+- Assets/Art/Model/Role/Body/NPC/MorganGirl/wait.anim
+- Assets/Art/Model/Role/Body/NPC/MorganGirl/feign_death.anim
+- Assets/Art/Model/Role/Body/NPC/MorganGirl/MorganGirl.mat
+- Assets/Art/Model/Role/Body/NPC/MorganGirl/functional_action.anim
+- Assets/Art/Model/Role/Body/NPC/MorganGirl/MorganGirl.png
+- Assets/Art/Model/Role/Body/NPC/MorganGirl/MorganGirl.FBX
+- Assets/Art/Model/Role/Body/NPC/MorganGirl/die.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

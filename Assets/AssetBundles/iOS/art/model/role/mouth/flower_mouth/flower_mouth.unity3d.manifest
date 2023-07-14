@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2194782407
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56e2e76b08345ba8018baca91687b5e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc193d49e7d16f71ac778acf3c7bfc27
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Mouth/Flower_mouth/Flower_mouth.mat
+- Assets/Art/Model/Role/Mouth/Flower_mouth/Flower_mouth.PNG
+- Assets/Art/Model/Role/Mouth/Flower_mouth/Flower_mouth.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

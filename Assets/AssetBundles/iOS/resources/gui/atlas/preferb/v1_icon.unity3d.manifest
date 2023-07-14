@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 208611920
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04878b8926beb85aeb15e010b24d64b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 10df304355517f1b3addff786f7a0435
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/atlas/preferb/v1_icon.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/gui/atlas/material/v1_icon.unity3d

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 613286977
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73b559295d4b6821aaf236fc76733e61
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/botany/Materials/botany_mjolnir_huasu.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/Materials/bush_guanmu2_2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/Materials/botany_Grass_05.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/Materials/bush_guanmu1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/Materials/botany_grass_cao2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/Materials/botany_FristArea_shuye.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/Materials/botany_Grass_02.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

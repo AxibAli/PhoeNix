@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 2099573506
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c08bd3b8df45100da8aec500a265de03
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/MVP/Garm/use_skill.anim
+- Assets/Art/Model/Role/Body/MVP/Garm/playshow.anim
+- Assets/Art/Model/Role/Body/MVP/Garm/use_magic.anim
+- Assets/Art/Model/Role/Body/MVP/Garm/Garm.mat
+- Assets/Art/Model/Role/Body/MVP/Garm/wait.anim
+- Assets/Art/Model/Role/Body/MVP/Garm/walk.anim
+- Assets/Art/Model/Role/Body/MVP/Garm/die.anim
+- Assets/Art/Model/Role/Body/MVP/Garm/AC_Garm.controller
+- Assets/Art/Model/Role/Body/MVP/Garm/Garm.FBX
+- Assets/Art/Model/Role/Body/MVP/Garm/ride_walk.anim
+- Assets/Art/Model/Role/Body/MVP/Garm/hit.anim
+- Assets/Art/Model/Role/Body/MVP/Garm/attack.anim
+- Assets/Art/Model/Role/Body/MVP/Garm/skill_ready.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/body.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

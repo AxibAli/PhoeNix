@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1831654836
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff5caa59f463f3bcb249dfba0975f31a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb96948b47ad6ca1df035de75994dde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Mouth/IceHeart/IceHeart_.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/mouth/iceheart/iceheart.unity3d

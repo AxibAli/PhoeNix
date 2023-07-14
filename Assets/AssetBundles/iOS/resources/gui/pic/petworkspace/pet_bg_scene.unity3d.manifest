@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2510630861
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3aa56626f55877c3782ec66c80625a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/PetWorkSpace/pet_bg_scene.png
+Dependencies: []

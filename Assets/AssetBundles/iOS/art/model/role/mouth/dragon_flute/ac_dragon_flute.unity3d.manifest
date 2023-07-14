@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2742120176
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c31eec58c279a620e4bea611410b378
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Mouth/Dragon_flute/AC_Dragon_flute.controller
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/mouth/dragon_flute/wait.unity3d

@@ -1,0 +1,76 @@
+ManifestFileVersion: 0
+CRC: 4127939446
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee2f221fe9a175b1ca01eeded9c88c35
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6fa9ce387392089bc59dd886979cd053
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/building/building_b/bulding_iz_dun02_shizhu.FBX
+- Assets/Art/Model/Scene/building/building_b/ant_dun1_guancai.FBX
+- Assets/Art/Model/Scene/building/building_b/surface_byalan_brick1.FBX
+- Assets/Art/Model/Scene/building/building_b/building_baylan_rukou2.FBX
+- Assets/Art/Model/Scene/building/building_b/building_iz_dun1_dkou1.mat
+- Assets/Art/Model/Scene/building/building_b/building_izdun2_tingzi1.FBX
+- Assets/Art/Model/Scene/building/building_b/building_izdun1_tzdizuo.FBX
+- Assets/Art/Model/Scene/building/building_b/ant_dun1_stone_zhuzi.FBX
+- Assets/Art/Model/Scene/building/building_b/ant_dun1_zhu2.FBX
+- Assets/Art/Model/Scene/building/building_b/baylan_building.FBX
+- Assets/Art/Model/Scene/building/building_b/building_iz_dun1_temple.FBX
+- Assets/Art/Model/Scene/building/building_b/bulding_iz_dun02_wujian.FBX
+- Assets/Art/Model/Scene/building/building_b/building_izdun_3.FBX
+- Assets/Art/Model/Scene/building/building_b/building_iz_dun1_entrance.FBX
+- Assets/Art/Model/Scene/building/building_b/building_iz_dun1_arch.FBX
+- Assets/Art/Model/Scene/building/building_b/ant_dun1_chuansong.FBX
+- Assets/Art/Model/Scene/building/building_b/building_iz_dun1_dkou2.mat
+- Assets/Art/Model/Scene/building/building_b/ant_dun1_stone_zhuzi_2.FBX
+- Assets/Art/Model/Scene/building/building_b/bulding_iz_dun02_Obelisk.FBX
+- Assets/Art/Model/Scene/building/building_b/building_iz_dun_statue1.FBX
+- Assets/Art/Model/Scene/building/building_b/building_byalan_rukoujz1.FBX
+- Assets/Art/Model/Scene/building/building_b/building_izdun1_rukou.FBX
+- Assets/Art/Model/Scene/building/building_b/building_ant_dun1__1.FBX
+- Assets/Art/Model/Scene/building/building_b/building_izdun1_tzxiaojian.FBX
+- Assets/Art/Model/Scene/building/building_b/building_iz_dun1_diaoqiao.FBX
+- Assets/Art/Model/Scene/building/building_b/building_iz_dun1_arch002.FBX
+- Assets/Art/Model/Scene/building/building_b/ant_dun1_zhu_3.FBX
+- Assets/Art/Model/Scene/building/building_b/bulding_iz_dun02_chengbao.FBX
+- Assets/Art/Model/Scene/building/building_b/building_iz_dun1_dkou.FBX
+- Assets/Art/Model/Scene/building/building_b/ant_dun1_zhu_2.FBX
+- Assets/Art/Model/Scene/building/building_b/building_izdun_1.FBX
+- Assets/Art/Model/Scene/building/building_b/ant_dun1_zhu1.FBX
+- Assets/Art/Model/Scene/building/building_b/bulding_iz_dun02_hailuo.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_h.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_f.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/rock/rock_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_j.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_c/materials.unity3d

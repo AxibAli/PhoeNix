@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1087226917
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d27c1db71b8e8b17ad624d3a0258004
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE_JP/Npc/CommonEquipMale_4.wav
+Dependencies: []

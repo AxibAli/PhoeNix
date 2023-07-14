@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1529975200
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd5b8a625b66c5bd083ddd5796211744
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4f47b4ca7218926e7ab1219cfdd298
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Spine/ro_boli_loading/atlas/ro_boli_loading_atlas.asset
+- Assets/Art/Public/Texture/Spine/ro_boli_loading/atlas/ro_boli_loading_atlas.txt
+- Assets/Art/Public/Texture/Spine/ro_boli_loading/atlas/ro_boli_loading.png
+- Assets/Art/Public/Texture/Spine/ro_boli_loading/atlas/ro_boli_loading.mat
+Dependencies: []

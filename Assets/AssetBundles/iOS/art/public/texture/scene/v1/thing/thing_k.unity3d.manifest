@@ -1,0 +1,128 @@
+ManifestFileVersion: 0
+CRC: 3715478399
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50c1389722d8db42c68804c1936e2ab0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_jf_ship1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_court_zhishideng.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_zlj_tiezalan.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_men.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_hlshafa.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_T7_wujian2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_court_zhishideng.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_niflhem_muban_01.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_szz_changyi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_jf_chexiang2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_zlj_zaji.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_jf_newcat1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_piaobu.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_szz_zhongkachexiang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_T7_wujian1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_huaban.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_xin.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_shuijing2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_szz_tiesiwang.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_T7_wujian1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_T7_wujian3.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_jf_newcat3.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_jf_newcat1_b.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_shafa2.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_shafa2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_jf_newcat2_b.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_huaban.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_niflhem_muban_01.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_szz_tielangan.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_tyshafa.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_piaobu.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_xunxiang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_niflhem_zhalan1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_T7_wujian4.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_szz_zhongkache.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_xin.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_tyshafa.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_T8_hua.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_shafa1_b.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_lighttower_wujian2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_niflhem_zhalan1.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_jf_newcat2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_shuijing1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_T7_wujian2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_shafa1_b.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_niflhem_deng1.PNG
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_niflhem_deng1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_szz_changyi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_szz_lanqiujia.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_szz_tielangan2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_szz_tiesiwang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_jf_newcat4.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_jf_ship3.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_jf_newcat1_b.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_szz_zhongkache.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_shafa1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_T8_weilan.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_zuodian.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_jf_chexiang2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_szz_sd_paizi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_T8_weilan.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_jf_newcat2_b.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_hlshafa.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_szz_zhaopai.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_T7_wujian3.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_T8_shafa.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_diaodeng.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_szz_lanqiujia.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_shafa1.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_jf_ship2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_court_lajixiang.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_men.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_upgrade_guang2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_jf_ship1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_huapen.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_shuijing2.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_upgrade_guang.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_jf_ship3.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_szz_zhongkachexiang.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_upgrade_guang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/surface_room_T7_wall.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_court_chexiang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_niflhem_muxiang1.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_zuodian.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_szz_zhaopai.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_T8_hua.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_diaodeng.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_niflhem_muxiang1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_xunxiang.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_jf_newcat3.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_jf_newcat2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_lighttower_wujian2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_shuijing1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_zlj_tiezalan2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_T8_shafa.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_szz_sd_paizi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_jf_ship2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_court_lajixiang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_court_chexiang.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_jf_newcat1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_happy_huapen.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_zlj_zaji.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_szz_sd_paizi2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_szz_tielangan.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_jf_newcat4.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_upgrade_guang2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/surface_room_T7_wall.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_k/thing_room_T7_wujian4.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

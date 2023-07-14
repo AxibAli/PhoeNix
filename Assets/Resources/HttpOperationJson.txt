@@ -1,0 +1,1 @@
+﻿{"urls":["https://phoenix-rom.com"],"elements":{"plat":"1"}}

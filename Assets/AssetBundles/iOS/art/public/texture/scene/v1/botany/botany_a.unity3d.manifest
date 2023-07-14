@@ -1,0 +1,94 @@
+ManifestFileVersion: 0
+CRC: 3417423175
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2565fc1bc0628aa4a9658996042e3e55
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_FristArea_qian shuye.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_FristArea_shuye3.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_tree_2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_flower_1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_FristArea_caocong3b.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt1_treeG5.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt_1_huasu2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_tree_shu_4.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_FristArea_caocong2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_FristArea_shuye4.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt1_treeG.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_FristArea_shuye2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt1_treeG4.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt1_treeG4_1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_tree_shugan_1.png
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_tree_shu_1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_tree_shu_1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_shuye_1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_tree_shanshu1_2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt1_treeG2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_FristArea_shuye.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt1_tree shugan.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt1_guangmu1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt1_cao.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_flower_1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_tree_shu_3.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_FristArea_qian shuye.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_FristArea_shucong2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_tree_shu_2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt1_treeG2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_FristArea_shuye.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt1_treeG3.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_FristArea_caocong3.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt1_treeG6.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_tree_shumu_4.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_FristArea_shuye4.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_tree_2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_FristArea_shuye3.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_tree_shu_3.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt1_tree shugan.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt_1_jiashu1_1th.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_tree_shugan_1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt_1_jiashu1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt1_cao.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_tree_shu_2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_shuye_1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_tree_shumu_4.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt1_tree shugan2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_FristArea_qian caocong.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt1_treeG4.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_FristArea_shuye2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt1_treeG3.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_FristArea_qian caocong.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_FristArea_shucong.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt_1_huasu1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt_1_huasu2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_FristArea_shucong.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt1_treeG6.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_shuye.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt1_guangmu1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt_1_jiashu1.png
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_FristArea_caocong2b.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_FristArea_caocong3.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_FristArea_caocong2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_FristArea_shucong2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_shuye.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt1_treeG.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_tree_shanshu1_2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/brick_shi_3.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt_1_huasu1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt1_treeG4_1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_a/botany_prt1_guangmu2.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/rock/rock_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

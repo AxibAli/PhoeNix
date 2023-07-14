@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1562405144
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c69980c452f47367e4c72013f2bbc847
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e1e26d5e2f054468651123d67a6cdb9a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56802e7f0de934137943d33f837183a7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Engine/Refactory/RoleComplete.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/general.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/material/shadow
+  plane material.unity3d

@@ -1,0 +1,85 @@
+ManifestFileVersion: 0
+CRC: 339595939
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 769cf620df8a0957a9171eb1090e3b17
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_iz_endless_heishi2.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_clocktower_dim1_shitou.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_ant_dun2_shanshi.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_guildgarden_room1_03.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_hugecat_shitou1.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_yuno_fild1_shitou2.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_lava_dun2_shitou.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_clocktower_dim1_shitou.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_iz_Poring_pr_suishipian.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_org_dun_shikuai1_b.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_yuno_fild1_big1.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_gef_kobold_shitou.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_iz_endless_heishi2.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_iz_Poring_pr_suishipianzi.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_yuno_fild1_shitou2.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_lava_dun1_rock3.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_iz_Poring_pr_suishipian.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_lava_dun1_bridge.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_lava_dun1_rock2B.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_amatsu_jiashanshi.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_guildgarden_room1_03.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_lava_dun1_rock1.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_ant_dun2_shanshi.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_lava_dun1_shitou2.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_org_dun_shikuai2_b.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_amatsu_shizhuan.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_yuno_fild1_big1.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/brick_prt_1_menkou.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_C_Tower_1F_shikuai.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_gef_kobold_shitou2.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_lava_dun1_bridge.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_org_village_shanshi2.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_org_dun_shikuai1.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_org_village_shanshi1.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_org_dun_shikuai1_b.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_amatsu_shizhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_org_village_shanshi2.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_lava_dun1_rock1.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_lava_dun2_shitou.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_hugecat_shitou1.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_org_village_shanshi1.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_lava_dun1_bian.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_org_dun_shikuai1.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_iz_Poring_pr_suishipianzi.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_lava_dun1_rock2.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_niflhem_shikuai.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_amatsu_jiashanshi.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_gef_kobold_shitou.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_iz_endless_heishi.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_lava_dun1_rock2.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_org_dun_shikuai2.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_yuno_fild1_shitou1.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_lava_dun1_suishi.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_iz_endless_heishi.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_org_dun_shikuai2_b.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_niflhem_shikuai.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_yuno_fild1_shitou1.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_C_Tower_1F_shikuai.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_lava_dun1_bian.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_gef_kobold_shitou2.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_lava_dun1_suishi.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_org_dun_shikuai2.mat
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_lava_dun1_rock3.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_lava_dun1_shitou2.tga
+- Assets/Art/Public/Texture/Scene/v1/rock/rock_b/rock_lava_dun1_rock2B.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

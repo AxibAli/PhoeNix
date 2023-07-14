@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3729923366
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 819990f13112e2bf08a1652cd787a67d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/LordOfVermilion.wav
+Dependencies: []

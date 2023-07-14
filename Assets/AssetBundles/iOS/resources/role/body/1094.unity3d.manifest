@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2997776097
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1962f2b3dd94cfd1649254b2b6b152b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ee55c948f113fa75271503eb6f128f19
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29ac9fc10cdea4d93aa5094926603242, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 208
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Role/Body/1094.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/body/npc/obstacle.unity3d

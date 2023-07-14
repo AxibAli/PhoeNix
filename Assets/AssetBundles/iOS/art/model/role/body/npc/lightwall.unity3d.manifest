@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1641121094
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 55d248ab97e4e90e616b848b5042ef07
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/LightWall/state1001.anim
+- Assets/Art/Model/Role/Body/NPC/LightWall/state1002.anim
+- Assets/Art/Model/Role/Body/NPC/LightWall/state2002.anim
+- Assets/Art/Model/Role/Body/NPC/LightWall/AC_LightWall.controller
+- Assets/Art/Model/Role/Body/NPC/LightWall/state2001.anim
+Dependencies: []

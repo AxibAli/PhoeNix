@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 52855143
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4849e5f0797614da5faa273ca39515b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Scene/Prontera/Object/buliding_prontra_fengche/wait.anim
+- Assets/Art/Public/Animation/Scene/Prontera/Object/buliding_prontra_fengche/buliding_prontra_fengche.controller
+Dependencies: []

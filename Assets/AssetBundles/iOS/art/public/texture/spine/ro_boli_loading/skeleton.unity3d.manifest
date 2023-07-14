@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1315405593
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6297bab677c8bc0589c7cdf43a7c94c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3aa4d66b3363f05f76f0f92f18b4ba0d
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Spine/ro_boli_loading/skeleton/ro_boli_loading.asset
+- Assets/Art/Public/Texture/Spine/ro_boli_loading/skeleton/ro_boli_loading.txt
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/spine/ro_boli_loading/atlas.unity3d

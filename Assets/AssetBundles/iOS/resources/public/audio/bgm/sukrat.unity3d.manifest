@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1257166556
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 281a0338fb1c3eb00413bc5a72d49604
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/BGM/sukrat.mp3
+Dependencies: []

@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 952795631
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60834d19bb9374c4eb0ebddbbff01045
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Player/RoyalGuard_F/RoyalGuard_F.tga
+- Assets/Art/Model/Role/Body/Player/RoyalGuard_F/RoyalGuard_F_6.mat
+- Assets/Art/Model/Role/Body/Player/RoyalGuard_F/RoyalGuard_F_5.mat
+- Assets/Art/Model/Role/Body/Player/RoyalGuard_F/RoyalGuard_F_16.mat
+- Assets/Art/Model/Role/Body/Player/RoyalGuard_F/RoyalGuard_F_15.mat
+- Assets/Art/Model/Role/Body/Player/RoyalGuard_F/RoyalGuard_F_13.mat
+- Assets/Art/Model/Role/Body/Player/RoyalGuard_F/RoyalGuard_F_14.mat
+- Assets/Art/Model/Role/Body/Player/RoyalGuard_F/RoyalGuard_F_9.mat
+- Assets/Art/Model/Role/Body/Player/RoyalGuard_F/RoyalGuard_F.FBX
+- Assets/Art/Model/Role/Body/Player/RoyalGuard_F/RoyalGuard_F_3.mat
+- Assets/Art/Model/Role/Body/Player/RoyalGuard_F/RoyalGuard_F_2.mat
+- Assets/Art/Model/Role/Body/Player/RoyalGuard_F/RoyalGuard_F_4.mat
+- Assets/Art/Model/Role/Body/Player/RoyalGuard_F/RoyalGuard_F_dead.mat
+- Assets/Art/Model/Role/Body/Player/RoyalGuard_F/RoyalGuard_F_11.mat
+- Assets/Art/Model/Role/Body/Player/RoyalGuard_F/RoyalGuard_F_8.mat
+- Assets/Art/Model/Role/Body/Player/RoyalGuard_F/RoyalGuard_F_1.mat
+- Assets/Art/Model/Role/Body/Player/RoyalGuard_F/RoyalGuard_F.mat
+- Assets/Art/Model/Role/Body/Player/RoyalGuard_F/RoyalGuard_F_12.mat
+- Assets/Art/Model/Role/Body/Player/RoyalGuard_F/RoyalGuard_F_10.mat
+- Assets/Art/Model/Role/Body/Player/RoyalGuard_F/RoyalGuard_F_7.mat
+- Assets/Art/Model/Role/Body/Player/RoyalGuard_F/AC_RoyalGuard_F.controller
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/animation/body/crusader_f.unity3d

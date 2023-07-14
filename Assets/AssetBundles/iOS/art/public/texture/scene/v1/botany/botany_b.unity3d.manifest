@@ -1,0 +1,93 @@
+ManifestFileVersion: 0
+CRC: 2534477215
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c38d6229b059b729ce3b7d546aef9c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/bush_guanmu4_1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_mjolnir_dashu2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/bush_guanmu2_1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/bush_gangmu2_1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_mjolnir_huasu.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_room_prt_church_hua1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/bush_guanmu3_1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_xmas_songshu.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/bush_guanmu2_2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_Grass_02.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_aldebaran_shu.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_mjolnir_manten.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_grass_cao_4.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/izdun_2_zhiwu.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_mjolnir_cao1_an.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/bush_guanmu1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_grass_cao2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/bush_guanmu1_1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_grass_cao_1_an.png
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_Grass_04.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/tree_songshu_ye.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_grass_cao_4b.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_mjolnir_shushen.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/tree_kuye.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/bush_guanmu2_1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/bush_gangmu2_1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_mjolnir_cao1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/tree_songshu_gan.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/buliding_prt_sewb_chongwang_1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_grass_cao_3.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_geffen_1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_mjolnir_shuqiao.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_mjolnir_manten.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_grass_tengman.png
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_mjolnir_cao1_an.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_room_prt_church_hua1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/thing_huayuan_xiaohua.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_mjolnir_shuqiao.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/bush_guanmu3_1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/izdun_2_zhiwu.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_grass_cao_1.png
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_xmas_shu.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/tree_songshu_gan.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_mjolnir_huasu.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_Grass_04.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_mjolnir_dashu1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_grass_cao_4.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_grass_tengman.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/buliding_prt_sewb_chongwang_2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_geffen_12.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_mjolnir_dashu1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_xmas_dashu.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_aldebaran_shu.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/thing_xmas_shengdanshu.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_grass_cao_1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_mjolnir_shushen.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/thing_huayuan_xiaohua2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_Grass_03.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_Grass_cao_1_an.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_xmas_songshu.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/bush_guanmu4_1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_mjolnir_cao1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_geffen_12.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_Grass_02.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/bush_guanmu2_2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_grass_cao_3.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/thing_xmas_shengdanshu.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/tree_songshu_ye.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_grass_cao2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_b/botany_Grass_03.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_j.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

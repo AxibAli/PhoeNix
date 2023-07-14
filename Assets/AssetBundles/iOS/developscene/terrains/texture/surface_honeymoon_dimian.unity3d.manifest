@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 603243287
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 315d0541017385136e1f066490f7715f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/DevelopScene/Terrains/Texture/surface_honeymoon_dimian.png
+Dependencies: []

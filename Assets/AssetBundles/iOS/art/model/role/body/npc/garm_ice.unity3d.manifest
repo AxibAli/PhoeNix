@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2721279658
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf902b6a8d7b0e7736b4e8863b1c825c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Garm_Ice/die.anim
+- Assets/Art/Model/Role/Body/NPC/Garm_Ice/state1002.anim
+- Assets/Art/Model/Role/Body/NPC/Garm_Ice/state1001.anim
+- Assets/Art/Model/Role/Body/NPC/Garm_Ice/state2002.anim
+- Assets/Art/Model/Role/Body/NPC/Garm_Ice/state2001.anim
+- Assets/Art/Model/Role/Body/NPC/Garm_Ice/state3002.anim
+- Assets/Art/Model/Role/Body/NPC/Garm_Ice/AC_Garm_Ice.controller
+- Assets/Art/Model/Role/Body/NPC/Garm_Ice/state3001.anim
+Dependencies: []

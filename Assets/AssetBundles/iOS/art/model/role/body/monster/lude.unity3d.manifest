@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 141077195
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 760ca7c3ebf0e0ee2ff4542c42c8bbaa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Lude/walk.anim
+- Assets/Art/Model/Role/Body/Monster/Lude/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Lude/Lude.FBX
+- Assets/Art/Model/Role/Body/Monster/Lude/Lude.png
+- Assets/Art/Model/Role/Body/Monster/Lude/Lude.mat
+- Assets/Art/Model/Role/Body/Monster/Lude/die.anim
+- Assets/Art/Model/Role/Body/Monster/Lude/AC_Lude.controller
+- Assets/Art/Model/Role/Body/Monster/Lude/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Lude/wait.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

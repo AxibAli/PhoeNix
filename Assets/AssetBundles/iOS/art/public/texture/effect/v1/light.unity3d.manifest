@@ -1,0 +1,146 @@
+ManifestFileVersion: 0
+CRC: 91964524
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 02707fbb05411c698b55df8a49536fd4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/effect/v1/light/liuguang01_add_EE.mat
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_green.png
+- Assets/Art/Public/Texture/effect/v1/light/SpecialItem_002_add_01.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0007_add 5.mat
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_05.png
+- Assets/Art/Public/Texture/effect/v1/light/shousuoguang_add_order30.mat
+- Assets/Art/Public/Texture/effect/v1/light/trail_25_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_03_add_order19.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0009.png
+- Assets/Art/Public/Texture/effect/v1/light/Barbarian_sweep_add_EE.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_sanshe2_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/fangsheguang_00157_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_03_add_1.mat
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_white.png
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_green_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0004_add_order54.mat
+- Assets/Art/Public/Texture/effect/v1/light/SF4_dds_0109.png
+- Assets/Art/Public/Texture/effect/v1/light/pikapika2_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_02_add 1.mat
+- Assets/Art/Public/Texture/effect/v1/light/trail_34_add_order47.mat
+- Assets/Art/Public/Texture/effect/v1/light/Barbarian_sweep_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/fangsheguang_00032.png
+- Assets/Art/Public/Texture/effect/v1/light/pikapika2_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_alpha_001_add_1_order90.mat
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_07.png
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_white_add_white.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0004_add_4.mat
+- Assets/Art/Public/Texture/effect/v1/light/Barbarian_sweep.png
+- Assets/Art/Public/Texture/effect/v1/light/lord_blast_add_003.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0004_add_1.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_alpha_001.png
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_06_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/656fd368_03.png
+- Assets/Art/Public/Texture/effect/v1/light/light_0007_add 3.mat
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_05_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/liuguang01_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/fangsheguang_00090_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0004_add_6.mat
+- Assets/Art/Public/Texture/effect/v1/light/656fd368_02.png
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_02_add_EE2.mat
+- Assets/Art/Public/Texture/effect/v1/light/pikapika_1_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_white_add4.mat
+- Assets/Art/Public/Texture/effect/v1/light/fangsheguang_00157.png
+- Assets/Art/Public/Texture/effect/v1/light/light_0001_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/shandian_006.png
+- Assets/Art/Public/Texture/effect/v1/light/Barbarian_sweep2.png
+- Assets/Art/Public/Texture/effect/v1/light/E_xulie_86.png
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_01_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0008_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/light/fangsheguang_00032_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_white_add2.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0007_add 4.mat
+- Assets/Art/Public/Texture/effect/v1/light/Barbarian_sweep3_add_EE.mat
+- Assets/Art/Public/Texture/effect/v1/light/trail_34.png
+- Assets/Art/Public/Texture/effect/v1/light/light_sanshe_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/shandian.mat
+- Assets/Art/Public/Texture/effect/v1/light/SpecialItem_001.png
+- Assets/Art/Public/Texture/effect/v1/light/light_0004_add_2.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0011_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0011.png
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_blue_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0010.png
+- Assets/Art/Public/Texture/effect/v1/light/freezing_stick_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0009_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0007_add 1.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0007_add 2.mat
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_white_add 4.mat
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_white_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0006_alpha_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_04.png
+- Assets/Art/Public/Texture/effect/v1/light/light_0004_add_5.mat
+- Assets/Art/Public/Texture/effect/v1/light/Barbarian_sweep_alpha_EE3.mat
+- Assets/Art/Public/Texture/effect/v1/light/E_xulie_86_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0004.png
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_white_blend.png
+- Assets/Art/Public/Texture/effect/v1/light/light_sanshe2.png
+- Assets/Art/Public/Texture/effect/v1/light/light_0008.png
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_06.png
+- Assets/Art/Public/Texture/effect/v1/light/light_0001.png
+- Assets/Art/Public/Texture/effect/v1/light/s_sequence613a.mat
+- Assets/Art/Public/Texture/effect/v1/light/Barbarian_sweep3.png
+- Assets/Art/Public/Texture/effect/v1/light/shousuoguang.png
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_02_add_order10.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0005_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/656fd368_03_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_03_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_02_add_EE.mat
+- Assets/Art/Public/Texture/effect/v1/light/Barbarian_sweep2_add_EE2.mat
+- Assets/Art/Public/Texture/effect/v1/light/SpecialItem_001_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/trail_25.png
+- Assets/Art/Public/Texture/effect/v1/light/light_0004_add_3.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0010_add_1.mat
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_white_add3_order89.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0010_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0011_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_white_add 1.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_sanshe.png
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_01.png
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_white_1_add_F.mat
+- Assets/Art/Public/Texture/effect/v1/light/freezing_stick.png
+- Assets/Art/Public/Texture/effect/v1/light/light_0006.png
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_02.png
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_03_add_2.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0007_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0007.png
+- Assets/Art/Public/Texture/effect/v1/light/light_0004_Yellow.png
+- Assets/Art/Public/Texture/effect/v1/light/pikapika2.png
+- Assets/Art/Public/Texture/effect/v1/light/656fd368_02_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/SF4_dds_0109.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0010_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/light/liuguang01.png
+- Assets/Art/Public/Texture/effect/v1/light/fangsheguang_00090.png
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_white_1.png
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_03.png
+- Assets/Art/Public/Texture/effect/v1/light/light_0004_Yellow.mat
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_white_add 2.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_0005.png
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_07_add_order59.mat
+- Assets/Art/Public/Texture/effect/v1/light/Barbarian_sweep2_add_EE_01.mat
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_white_add_blue.mat
+- Assets/Art/Public/Texture/effect/v1/light/light_alpha_001_add_order88.mat
+- Assets/Art/Public/Texture/effect/v1/light/guangzhu_04_add.mat
+- Assets/Art/Public/Texture/effect/v1/light/pikapika_1.png
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/line.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/wenli.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/point.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

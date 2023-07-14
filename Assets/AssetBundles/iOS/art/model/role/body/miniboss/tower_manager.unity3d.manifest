@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 3864901755
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f11b72ca9d76e48b677d0be8462bc09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/MiniBoss/Tower_Manager/Tower_Manager.mat
+- Assets/Art/Model/Role/Body/MiniBoss/Tower_Manager/attack.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Tower_Manager/walk.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Tower_Manager/skill_ready.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Tower_Manager/Tower_Manager.FBX
+- Assets/Art/Model/Role/Body/MiniBoss/Tower_Manager/use_skill.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Tower_Manager/wait.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Tower_Manager/AC_Tower_Manager.controller
+- Assets/Art/Model/Role/Body/MiniBoss/Tower_Manager/hit.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Tower_Manager/die.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/weapon.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

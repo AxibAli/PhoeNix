@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3064309611
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab5b12d9ad8823095c162261d84aff66
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/GUI/New/PVP/pvp_bg_win1.png
+- Assets/Art/Public/Texture/GUI/New/PVP/pvp_bg_win_blue.png
+- Assets/Art/Public/Texture/GUI/New/PVP/pvp_bg_win_red2.png
+- Assets/Art/Public/Texture/GUI/New/PVP/pvp_bg_win_blue1.png
+- Assets/Art/Public/Texture/GUI/New/PVP/pvp_bg_win3.png
+- Assets/Art/Public/Texture/GUI/New/PVP/pvp_bg_win_red.png
+- Assets/Art/Public/Texture/GUI/New/PVP/pvp_bg_win2.png
+- Assets/Art/Public/Texture/GUI/New/PVP/pvp_bg_mvp.png
+Dependencies: []

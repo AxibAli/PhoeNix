@@ -1,0 +1,89 @@
+ManifestFileVersion: 0
+CRC: 2164019791
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36b99ec39ea995f460da9560b2ef415e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb96948b47ad6ca1df035de75994dde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/building/building_c/building_room_test_20.FBX
+- Assets/Art/Model/Scene/building/building_c/building_FerrisWheel_motianlun.FBX
+- Assets/Art/Model/Scene/building/building_c/buliding_ghostship2_qaing.FBX
+- Assets/Art/Model/Scene/building/building_c/building_guild_base_ding.FBX
+- Assets/Art/Model/Scene/building/building_c/building_mjolnir_Wild house.FBX
+- Assets/Art/Model/Scene/building/building_c/building_room_test_menkuan.FBX
+- Assets/Art/Model/Scene/building/building_c/buliding_guild_base_DTqiangti.FBX
+- Assets/Art/Model/Scene/building/building_c/buliding_guild_base_YJSqiangti.FBX
+- Assets/Art/Model/Scene/building/building_c/building_baylan_pingtai.FBX
+- Assets/Art/Model/Scene/building/building_c/building_mudiaoqiao.FBX
+- Assets/Art/Model/Scene/building/building_c/sky_FristArea_tiankong.FBX
+- Assets/Art/Model/Scene/building/building_c/buliding_mjolnir_zhuiting.FBX
+- Assets/Art/Model/Scene/building/building_c/building_room_job_bgchuang.FBX
+- Assets/Art/Model/Scene/building/building_c/bulidng_IZ_ghostship1.FBX
+- Assets/Art/Model/Scene/building/building_c/building_mjolnir_qiangzhu.FBX
+- Assets/Art/Model/Scene/building/building_c/building_FerrisWheel_fulan.FBX
+- Assets/Art/Model/Scene/building/building_c/building_room_test_huoju.FBX
+- Assets/Art/Model/Scene/building/building_c/building_guild_base_wall_02.FBX
+- Assets/Art/Model/Scene/building/building_c/buliding_xiasuidao_dijiao.FBX
+- Assets/Art/Model/Scene/building/building_c/bulidng_IZ_ghostship3.FBX
+- Assets/Art/Model/Scene/building/building_c/buliding_mjolnir_diaoqiao.FBX
+- Assets/Art/Model/Scene/building/building_c/building_room_job.FBX
+- Assets/Art/Model/Scene/building/building_c/building_FerrisWheel_lvdi.FBX
+- Assets/Art/Model/Scene/building/building_c/building_room_job_zhu.FBX
+- Assets/Art/Model/Scene/building/building_c/bus_FerrisWheel.FBX
+- Assets/Art/Model/Scene/building/building_c/buliding_ghostship2_muqiang.FBX
+- Assets/Art/Model/Scene/building/building_c/buliding_ghostship2.FBX
+- Assets/Art/Model/Scene/building/building_c/buliding_ghostship.FBX
+- Assets/Art/Model/Scene/building/building_c/prt_3_yuanjing.FBX
+- Assets/Art/Model/Scene/building/building_c/building_dizuo.FBX
+- Assets/Art/Model/Scene/building/building_c/building_room_test_2.FBX
+- Assets/Art/Model/Scene/building/building_c/surface_IZprt_ptai_011.FBX
+- Assets/Art/Model/Scene/building/building_c/buliding_ghostship_qiangpai.FBX
+- Assets/Art/Model/Scene/building/building_c/buliding_guild_base_JTqiangti.FBX
+- Assets/Art/Model/Scene/building/building_c/buliding_ghostship2_xin gai qiang.FBX
+- Assets/Art/Model/Scene/building/building_c/bulidng_IZ_ghostship2.FBX
+- Assets/Art/Model/Scene/building/building_c/surface_room_test_box.FBX
+- Assets/Art/Model/Scene/building/building_c/bulidng_IZ_ghostship_QB.FBX
+- Assets/Art/Model/Scene/building/building_c/building_mjolnir_Magic house.FBX
+- Assets/Art/Model/Scene/building/building_c/building_room_job_chuang.FBX
+- Assets/Art/Model/Scene/building/building_c/building_FerrisWheel_MTLdizuo.FBX
+- Assets/Art/Model/Scene/building/building_c/building_room_test_2men.FBX
+- Assets/Art/Model/Scene/building/building_c/buliding_mjolnir_jitan.FBX
+- Assets/Art/Model/Scene/building/building_c/building_IZmjr_1_men.FBX
+- Assets/Art/Model/Scene/building/building_c/building_FerrisWheel_deng2.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_h.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_f.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_f.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_n.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_j.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_d.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_a.unity3d

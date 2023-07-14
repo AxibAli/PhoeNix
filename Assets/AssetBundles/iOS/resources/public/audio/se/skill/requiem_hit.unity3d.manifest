@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2446135902
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5a85e59bd35f6272630b4cbe2e0e3da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/Requiem_hit.wav
+Dependencies: []

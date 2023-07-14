@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 709768168
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d22f16e0e36758ffc9fa58ba8d67edc2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- "Assets/Art/Public/Texture/GUI/New/shop/!!-\u0E29\u0E2C\u0E15\u0E4A_\u0E12\u0E36\u0E1F\u0E42.png"
+Dependencies: []

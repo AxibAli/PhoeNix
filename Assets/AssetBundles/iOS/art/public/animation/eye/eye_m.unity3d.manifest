@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3594300621
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f9a182ca54dad818992546a474a3f75
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Eye/Eye_M/pose_S6.anim
+- Assets/Art/Public/Animation/Eye/Eye_M/wait.anim
+- Assets/Art/Public/Animation/Eye/Eye_M/die.anim
+Dependencies: []

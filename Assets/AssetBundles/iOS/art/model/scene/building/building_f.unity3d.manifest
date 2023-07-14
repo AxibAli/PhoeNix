@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 54520954
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88ed66c2d4eca95d942af9170678f8cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb96948b47ad6ca1df035de75994dde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/building/building_f/building_org_village_qiulong.FBX
+- Assets/Art/Model/Scene/building/building_f/buliding_payon_shanghu.FBX
+- Assets/Art/Model/Scene/building/building_f/buliding_org_village_jianzhu1.FBX
+- Assets/Art/Model/Scene/building/building_f/building_org_village_fw.FBX
+- Assets/Art/Model/Scene/building/building_f/buliding_pay_fild_maowu.FBX
+- Assets/Art/Model/Scene/building/building_f/buliding_pay_fild_PSshenshe2.FBX
+- Assets/Art/Model/Scene/building/building_f/buliding_payon_minju.FBX
+- Assets/Art/Model/Scene/building/building_f/buliding_payon_talou.FBX
+- Assets/Art/Model/Scene/building/building_f/buliding_pay_fild_tingyuan.FBX
+- Assets/Art/Model/Scene/building/building_f/buliding_payon_qiao.FBX
+- Assets/Art/Model/Scene/building/building_f/buliding_payon_waichengqiang.FBX
+- Assets/Art/Model/Scene/building/building_f/buliding_payon_jianta.FBX
+- Assets/Art/Model/Scene/building/building_f/buliding_pay_fild_shenshe2.FBX
+- Assets/Art/Model/Scene/building/building_f/building_org_village_qiao.FBX
+- Assets/Art/Model/Scene/building/building_f/buliding_pay_fild_rukou.FBX
+- Assets/Art/Model/Scene/building/building_f/buliding_payon_dadian.FBX
+- Assets/Art/Model/Scene/building/building_f/buliding_payon_zhangpeng.FBX
+- Assets/Art/Model/Scene/building/building_f/buliding_org_village_wopeng.FBX
+- Assets/Art/Model/Scene/building/building_f/buliding_pay_fild_shenshe.FBX
+- Assets/Art/Model/Scene/building/building_f/buliding_pay_fild2_cunmen.FBX
+- Assets/Art/Model/Scene/building/building_f/buliding_pay_fild_SHmaowu.FBX
+- Assets/Art/Model/Scene/building/building_f/building_pay_fild2_yiji.FBX
+- Assets/Art/Model/Scene/building/building_f/buliding_payon_City Housing.FBX
+- Assets/Art/Model/Scene/building/building_f/building_pay_fild02_zhuqiao.FBX
+- Assets/Art/Model/Scene/building/building_f/buliding_payon_neicheng men.FBX
+- Assets/Art/Model/Scene/building/building_f/buliding_pay_fild1_PStingyuan.FBX
+- Assets/Art/Model/Scene/building/building_f/buliding_org_village_jianzhu2.FBX
+- Assets/Art/Model/Scene/building/building_f/buliding_payon_piandian.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_k.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_i.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_d.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_d.unity3d

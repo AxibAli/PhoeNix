@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3569868190
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00d18ede5d25507896a6bc4c41c089ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/PreyTrack_hit.wav
+Dependencies: []

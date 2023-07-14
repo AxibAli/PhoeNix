@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3130145882
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: edf857b9a69e505189b5462ca6ed9ab9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Weapon/Whip/use_magic2_Whip.anim
+- Assets/Art/Public/Animation/Weapon/Whip/wait.anim
+- Assets/Art/Public/Animation/Weapon/Whip/posejob1_Whip.anim
+- Assets/Art/Public/Animation/Weapon/Whip/hit_Whip.anim
+- Assets/Art/Public/Animation/Weapon/Whip/use_magic_Whip.anim
+- Assets/Art/Public/Animation/Weapon/Whip/attack_Whip.anim
+- Assets/Art/Public/Animation/Weapon/Whip/use_skill2_Whip.anim
+- Assets/Art/Public/Animation/Weapon/Whip/reading_Whip.anim
+- Assets/Art/Public/Animation/Weapon/Whip/walk_Whip.anim
+- Assets/Art/Public/Animation/Weapon/Whip/attack_wait_Whip.anim
+- Assets/Art/Public/Animation/Weapon/Whip/use_skill_Whip.anim
+- Assets/Art/Public/Animation/Weapon/Whip/skill_ready_Whip.anim
+Dependencies: []

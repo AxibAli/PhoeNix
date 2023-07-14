@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2216287542
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50fca24e174f6935e87da7bee85ec04b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/Config_Event_ShiJian/Table_ExpPool.bytes
+- Assets/Resources/Script2/Config_Event_ShiJian/Table_Camera.bytes
+- Assets/Resources/Script2/Config_Event_ShiJian/Table_DateLand.bytes
+- Assets/Resources/Script2/Config_Event_ShiJian/Table_Bus.bytes
+- Assets/Resources/Script2/Config_Event_ShiJian/Table_DeathEffect.bytes
+- Assets/Resources/Script2/Config_Event_ShiJian/Table_StudentAdventureQuest.bytes
+- Assets/Resources/Script2/Config_Event_ShiJian/Table_EquipLottery.bytes
+- Assets/Resources/Script2/Config_Event_ShiJian/Table_OperationActivity.bytes
+- Assets/Resources/Script2/Config_Event_ShiJian/Table_RandomMonster.bytes
+- Assets/Resources/Script2/Config_Event_ShiJian/Table_ActivityShortcutPower.bytes
+- Assets/Resources/Script2/Config_Event_ShiJian/Table_ScenePhotoFrame.bytes
+- Assets/Resources/Script2/Config_Event_ShiJian/Table_WantedQuest.bytes
+- Assets/Resources/Script2/Config_Event_ShiJian/Table_TutorGrowUpReward.bytes
+- Assets/Resources/Script2/Config_Event_ShiJian/Table_Viewspot.bytes
+Dependencies: []

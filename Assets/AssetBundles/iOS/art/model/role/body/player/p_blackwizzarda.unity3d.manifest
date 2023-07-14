@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 2727356682
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aef9f9b0d5240e023146c64dca5ebc15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Player/P_BlackWizzardA/P_BlackWizzardA_3.mat
+- Assets/Art/Model/Role/Body/Player/P_BlackWizzardA/AC_P_BlackWizzardA.controller
+- Assets/Art/Model/Role/Body/Player/P_BlackWizzardA/P_BlackWizzardA_5.mat
+- Assets/Art/Model/Role/Body/Player/P_BlackWizzardA/P_BlackWizzardA_6.mat
+- Assets/Art/Model/Role/Body/Player/P_BlackWizzardA/wait.anim
+- Assets/Art/Model/Role/Body/Player/P_BlackWizzardA/playshow.anim
+- Assets/Art/Model/Role/Body/Player/P_BlackWizzardA/P_BlackWizzardA.tga
+- Assets/Art/Model/Role/Body/Player/P_BlackWizzardA/P_BlackWizzardA.FBX
+- Assets/Art/Model/Role/Body/Player/P_BlackWizzardA/P_BlackWizzardA_2.mat
+- Assets/Art/Model/Role/Body/Player/P_BlackWizzardA/P_BlackWizzardA_4.mat
+- Assets/Art/Model/Role/Body/Player/P_BlackWizzardA/P_BlackWizzardA.mat
+- Assets/Art/Model/Role/Body/Player/P_BlackWizzardA/P_BlackWizzardA_7.mat
+- Assets/Art/Model/Role/Body/Player/P_BlackWizzardA/P_BlackWizzardA_8.mat
+- Assets/Art/Model/Role/Body/Player/P_BlackWizzardA/P_BlackWizzardA_1.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/animation/body/skin_m.unity3d

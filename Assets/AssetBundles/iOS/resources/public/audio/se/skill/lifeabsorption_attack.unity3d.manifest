@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 683557840
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 364308146641a2b8881da5a4f8b9bf11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/LifeAbsorption_attack.wav
+Dependencies: []

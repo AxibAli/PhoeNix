@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 143162421
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19c8cea97879fd7fded28320eb7ade04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/org/puremvc/lua/multicore/patterns/observer/Notification.bytes
+- Assets/Resources/Script2/org/puremvc/lua/multicore/core/Controller.bytes
+- Assets/Resources/Script2/org/puremvc/lua/multicore/patterns/mediator/Mediator.bytes
+- Assets/Resources/Script2/org/puremvc/lua/multicore/core/View.bytes
+- Assets/Resources/Script2/org/puremvc/lua/multicore/help/oop.bytes
+- Assets/Resources/Script2/org/puremvc/lua/multicore/patterns/observer/ObserverList.bytes
+- Assets/Resources/Script2/org/puremvc/lua/multicore/patterns/command/SimpleCommand.bytes
+- Assets/Resources/Script2/org/puremvc/lua/multicore/patterns/facade/Facade.bytes
+- Assets/Resources/Script2/org/puremvc/lua/multicore/patterns/observer/Observer.bytes
+- Assets/Resources/Script2/org/puremvc/lua/multicore/patterns/observer/Notifier.bytes
+- Assets/Resources/Script2/org/puremvc/lua/multicore/patterns/command/MacroCommand.bytes
+- Assets/Resources/Script2/org/puremvc/lua/multicore/core/Model.bytes
+- Assets/Resources/Script2/org/puremvc/lua/multicore/patterns/proxy/Proxy.bytes
+Dependencies: []

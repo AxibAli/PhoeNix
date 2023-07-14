@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 911378710
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f248985b4cd163c80853619d368fbf56
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Common/JobChange.wav
+Dependencies: []

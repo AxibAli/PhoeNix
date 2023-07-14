@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2147706661
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b39128c9502dec690932346108973262
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f321bc8bebc2f98c806369c064ee352
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29ac9fc10cdea4d93aa5094926603242, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Role/Body/1080.prefab
+Dependencies: []

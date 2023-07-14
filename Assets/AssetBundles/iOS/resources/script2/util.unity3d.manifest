@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1005605548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d45c43e6186a055b9e5a6f953d998115
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/Util/ConditionUtil.bytes
+- Assets/Resources/Script2/Util/RandomUtil.bytes
+- Assets/Resources/Script2/Util/LuaQueue.bytes
+- Assets/Resources/Script2/Util/PosUtil.bytes
+- Assets/Resources/Script2/Util/LayoutUtil.bytes
+- Assets/Resources/Script2/Util/BitUtil.bytes
+- Assets/Resources/Script2/Util/TableUtil.bytes
+- Assets/Resources/Script2/Util/UIModelUtil.bytes
+- Assets/Resources/Script2/Util/TextureScale2.bytes
+- Assets/Resources/Script2/Util/ClientTimeUtil.bytes
+- Assets/Resources/Script2/Util/json/rpcserver.bytes
+- Assets/Resources/Script2/Util/NGUIUtil.bytes
+- Assets/Resources/Script2/Util/SceneUtil.bytes
+- Assets/Resources/Script2/Util/RoleUtil.bytes
+- Assets/Resources/Script2/Util/ItemUtil.bytes
+- Assets/Resources/Script2/Util/PathUtil.bytes
+- Assets/Resources/Script2/Util/DelegateUtil.bytes
+- Assets/Resources/Script2/Util/PropUtil.bytes
+- Assets/Resources/Script2/Util/AudioUtil.bytes
+- Assets/Resources/Script2/Util/json/json.bytes
+- Assets/Resources/Script2/Util/EnchantEquipUtil.bytes
+- Assets/Resources/Script2/Util/DateUtil.bytes
+- Assets/Resources/Script2/Util/json/rpc.bytes
+- Assets/Resources/Script2/Util/UIMultiModelUtil.bytes
+- Assets/Resources/Script2/Util/CameraUtil.bytes
+- Assets/Resources/Script2/Util/StringUtil.bytes
+- Assets/Resources/Script2/Util/UIScrollVCenterOnUtil.bytes
+- Assets/Resources/Script2/Util/BackwardCompatibilityUtil.bytes
+- Assets/Resources/Script2/Util/LerpUtil.bytes
+- Assets/Resources/Script2/Util/UIUtil.bytes
+- Assets/Resources/Script2/Util/CostUtil.bytes
+Dependencies: []

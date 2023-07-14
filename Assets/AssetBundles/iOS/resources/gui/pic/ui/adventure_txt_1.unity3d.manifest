@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1315859331
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd2b7bc82e30f8d54826f86cbef15d56
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/UI/Adventure_txt_1.png
+Dependencies: []

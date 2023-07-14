@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 4145923502
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 90635ce69a5181f1bbec84d4871dd5c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Dullahan/Dullahan_.FBX
+- Assets/Art/Model/Role/Body/Monster/Dullahan/eat.anim
+- Assets/Art/Model/Role/Body/Monster/Dullahan/AC_Dullahan.controller
+- Assets/Art/Model/Role/Body/Monster/Dullahan/be_touch.anim
+- Assets/Art/Model/Role/Body/Monster/Dullahan/walk_InHand.anim
+- Assets/Art/Model/Role/Body/Monster/Dullahan/happy.anim
+- Assets/Art/Model/Role/Body/Monster/Dullahan/Dullahan.mat
+- Assets/Art/Model/Role/Body/Monster/Dullahan/walk.anim
+- Assets/Art/Model/Role/Body/Monster/Dullahan/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Dullahan/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Dullahan/Dullahan.png
+- Assets/Art/Model/Role/Body/Monster/Dullahan/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Dullahan/Dullahan.FBX
+- Assets/Art/Model/Role/Body/Monster/Dullahan/wait_InHand.anim
+- Assets/Art/Model/Role/Body/Monster/Dullahan/die.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

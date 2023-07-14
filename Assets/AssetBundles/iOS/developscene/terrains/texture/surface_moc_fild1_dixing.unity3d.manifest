@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2292758149
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b0d5edb5f22ef3f2c091cb08e8ac81a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/DevelopScene/Terrains/Texture/surface_moc_fild1_dixing.png
+Dependencies: []

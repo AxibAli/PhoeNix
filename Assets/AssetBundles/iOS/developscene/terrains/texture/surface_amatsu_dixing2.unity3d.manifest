@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1717744568
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f827fd2a3c372bc70e57059b0a1ef36
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/DevelopScene/Terrains/Texture/surface_amatsu_dixing2.png
+Dependencies: []

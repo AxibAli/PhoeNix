@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 1143298737
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcd5ebcd8696c96f975e41c8e4f1a0fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/littleWolf_Pet/hit.anim
+- Assets/Art/Model/Role/Body/Monster/littleWolf_Pet/be_touch.anim
+- Assets/Art/Model/Role/Body/Monster/littleWolf_Pet/Dog_Pet.png
+- Assets/Art/Model/Role/Body/Monster/littleWolf_Pet/littleWolf_Pet.FBX
+- Assets/Art/Model/Role/Body/Monster/littleWolf_Pet/walk.anim
+- Assets/Art/Model/Role/Body/Monster/littleWolf_Pet/attack.anim
+- Assets/Art/Model/Role/Body/Monster/littleWolf_Pet/littleWolf_Pet.mat
+- Assets/Art/Model/Role/Body/Monster/littleWolf_Pet/walk_BeHold.anim
+- Assets/Art/Model/Role/Body/Monster/littleWolf_Pet/eat.anim
+- Assets/Art/Model/Role/Body/Monster/littleWolf_Pet/happy.anim
+- Assets/Art/Model/Role/Body/Monster/littleWolf_Pet/littleWolf_Pet.png
+- Assets/Art/Model/Role/Body/Monster/littleWolf_Pet/wait.anim
+- Assets/Art/Model/Role/Body/Monster/littleWolf_Pet/Dog_Pet.mat
+- Assets/Art/Model/Role/Body/Monster/littleWolf_Pet/wait_BeHold.anim
+- Assets/Art/Model/Role/Body/Monster/littleWolf_Pet/die.anim
+- Assets/Art/Model/Role/Body/Monster/littleWolf_Pet/AC_littleWolf_Pet.controller
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

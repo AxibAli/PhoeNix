@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 193047660
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b383a03ea6468a5117f4c9dce18c7626
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/Card/card_24067.png
+Dependencies: []

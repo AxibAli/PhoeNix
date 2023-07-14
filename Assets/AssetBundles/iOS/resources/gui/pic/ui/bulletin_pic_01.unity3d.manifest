@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3669873666
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 677dce0b87267d7109b92d26e89b1117
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/UI/bulletin_pic_01.png
+- Assets/NewInstall/Texture/bulletin_pic_01.png
+Dependencies: []

@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 2549910353
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e3774fc5f1fe8e85a9e7c5fbe03e02f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Player/P_BlackWitchA/P_BlackWitchA_8.mat
+- Assets/Art/Model/Role/Body/Player/P_BlackWitchA/P_BlackWitchA_4.mat
+- Assets/Art/Model/Role/Body/Player/P_BlackWitchA/P_BlackWitchA_2.mat
+- Assets/Art/Model/Role/Body/Player/P_BlackWitchA/P_BlackWitchA.tga
+- Assets/Art/Model/Role/Body/Player/P_BlackWitchA/wait.anim
+- Assets/Art/Model/Role/Body/Player/P_BlackWitchA/P_BlackWitchA_5.mat
+- Assets/Art/Model/Role/Body/Player/P_BlackWitchA/AC_P_BlackWitchA.controller
+- Assets/Art/Model/Role/Body/Player/P_BlackWitchA/P_BlackWitchA_7.mat
+- Assets/Art/Model/Role/Body/Player/P_BlackWitchA/playshow.anim
+- Assets/Art/Model/Role/Body/Player/P_BlackWitchA/P_BlackWitchA.FBX
+- Assets/Art/Model/Role/Body/Player/P_BlackWitchA/P_BlackWitchA_6.mat
+- Assets/Art/Model/Role/Body/Player/P_BlackWitchA/P_BlackWitchA.mat
+- Assets/Art/Model/Role/Body/Player/P_BlackWitchA/P_BlackWitchA_3.mat
+- Assets/Art/Model/Role/Body/Player/P_BlackWitchA/P_BlackWitchA_1.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/animation/body/skin_f.unity3d

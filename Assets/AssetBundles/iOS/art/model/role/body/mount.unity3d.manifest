@@ -1,0 +1,259 @@
+ManifestFileVersion: 0
+CRC: 337958924
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 736906a74e403d8270fd93eea3a7c288
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon/Mount_Grypjon_1.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf_R/choose_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Pecopeco/AC_Mount_Pecopeco.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf/walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Garm/ride_hit.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf_R/die.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Pecopeco/AC_Muont_Pecopeco.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon/ride_hit.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_T_Pecopeco/ride_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Garm/ride_walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_T_Pecopeco/walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon_H/ride_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ninetail/ride_walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Poring/eat.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_T_Pecopeco/AC_Mount_T_Pecopeco.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_GhostHorse/Mount_GhostHorse.FBX
+- Assets/Art/Model/Role/Body/Mount/Mount_GhostHorse/wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Alpaca/walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_P/Mount_Ferus_P.png
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf/hit.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Cornus/Mount_Cornus.png
+- Assets/Art/Model/Role/Body/Mount/Mount_T_Pecopeco/Mount_T_Pecopeco.FBX
+- Assets/Art/Model/Role/Body/Mount/Mount_Ostrich/ride_walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_H/wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus/ride_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_SavageLord/walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_P/wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Garm/Mount_Garm.FBX
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_H/Mount_Ferus_H.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_P/Mount_Ferus_P.FBX
+- Assets/Art/Model/Role/Body/Mount/Mount_Garm/walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ostrich/Mount_Ostrich.png
+- Assets/Art/Model/Role/Body/Mount/Mount_Garm/die.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_P/ride_walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_P/Mount_Ferus_P_3.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_Alpaca/wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Poring/Mount_Poring.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus/Mount_Ferus.FBX
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf/Mount_GrandWolf.png
+- Assets/Art/Model/Role/Body/Mount/Mount_Poring/AC_Mount_Poring.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_Pecopeco/wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Grand_Peco/AC_Mount_Grand_Peco.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus/Mount_Ferus.PNG
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf_R/wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus/ride_hit.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ninetail/ride_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus/Mount_Ferus.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_Poring/wait_InHand.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon_H/AC_Mount_Grypjon_H.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon_H/wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf_R/walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Alpaca/Mount_Alpaca.png
+- Assets/Art/Model/Role/Body/Mount/Mount_Grand_Peco/wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Pecopeco/Mount_Pecopeco.FBX
+- Assets/Art/Model/Role/Body/Mount/Mount_GhostHorse/ride_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Garm/AC_Mount_Garm.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_Grand_Peco/Mount_Grand_Peco.png
+- Assets/Art/Model/Role/Body/Mount/Mount_GhostHorse/hit.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_H/ride_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_H/Mount_Ferus_H.png
+- Assets/Art/Model/Role/Body/Mount/Mount_GoldLion/AC_Mount_GoldLion.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_P/ride_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Garm/choose_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_P/Mount_Ferus_P.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_P/walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_SavageLord/wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Garm/Mount_Garm.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf_R/Mount_GrandWolf_R.FBX
+- Assets/Art/Model/Role/Body/Mount/Mount_T_Pecopeco/ride_walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon/walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_GhostHorse/Mount_GhostHorse.png
+- Assets/Art/Model/Role/Body/Mount/Mount_T_Pecopeco/AC_Muont_T_Pecopeco.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon_P/ride_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf_R/ride_walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon_P/Mount_Grypjon_P.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_GoldLion/ride_walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Crocuta/ride_walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_SavageLord/ride_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Poring/die.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Grand_Peco/ride_walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf_R/Mount_GrandWolf_R.png
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf_R/ride_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Poring/AC_Muont_Poring.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon/Mount_Grypjon.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_SavageLord/ride_hit.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_GoldLion/walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ostrich/AC_Mount_Ostrich.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_GhostHorse/walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_H/walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus/ride_walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_GoldLion/Mount_GoldLion.FBX
+- Assets/Art/Model/Role/Body/Mount/Mount_Cornus/ride_walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon_P/Mount_Grypjon_P_3.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_P/ride_hit.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Cornus/Mount_Cornus_.FBX
+- Assets/Art/Model/Role/Body/Mount/Mount_SavageLord/AC_Mount_SavageLord.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon/wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_T_Pecopeco/ride_hit.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ostrich/walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_GoldLion/Mount_GoldLion.png
+- Assets/Art/Model/Role/Body/Mount/Mount_Poring/Mount_Poring.FBX
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf/Mount_GrandWolf.FBX
+- Assets/Art/Model/Role/Body/Mount/Mount_Crocuta/ride_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Garm/choose_wait2.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_P/Mount_Ferus_P_2.png
+- Assets/Art/Model/Role/Body/Mount/Mount_Poring/hit.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Pecopeco/ride_walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ostrich/ride_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_SavageLord/Mount_SavageLord.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon_P/ride_hit.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_GhostHorse/AC_Mount_GhostHorse.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf/ride_hit.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Crocuta/Mount_Crocuta.FBX
+- Assets/Art/Model/Role/Body/Mount/Mount_T_Pecopeco/Mount_T_Pecopeco.png
+- Assets/Art/Model/Role/Body/Mount/Mount_Ninetail/wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Pecopeco/Mount_Pecopeco.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_Poring/ride_walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Crocuta/wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Crocuta/Mount_Crocuta.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_Poring/attack.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ostrich/Mount_Ostrich.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_P/Mount_Ferus_P_2.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon_H/ride_hit.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Garm/ride_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf_R/AC_Mount_GrandWolf_R.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_Alpaca/Mount_Alpaca.FBX
+- Assets/Art/Model/Role/Body/Mount/Mount_Pecopeco/walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf_R/choose_wait2.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Poring/walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon_H/Mount_Grypjon_H.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_Garm/wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf/choose_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_H/Mount_Ferus_H.FBX
+- Assets/Art/Model/Role/Body/Mount/Mount_Alpaca/Mount_Alpaca.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_GoldLion/wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf/choose_wait2.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon/Mount_Grypjon.png
+- Assets/Art/Model/Role/Body/Mount/Mount_Alpaca/AC_Muont_Alpaca.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_SavageLord/Mount_SavageLord.FBX
+- Assets/Art/Model/Role/Body/Mount/Mount_Cornus/ride_hit.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_H/ride_walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ninetail/AC_Mount_Ninetail.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_Alpaca/ride_walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_T_Pecopeco/Mount_T_Pecopeco.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf/die.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Crocuta/AC_Mount_Crocuta.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf/AC_Mount_GrandWolf.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon_H/Mount_Grypjon_H_2.png
+- Assets/Art/Model/Role/Body/Mount/Mount_Alpaca/AC_Mount_Alpaca.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon_H/Mount_Grypjon_H_2.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon_P/wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Poring/ride_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_SavageLord/ride_walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Grand_Peco/ride_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Alpaca/ride_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_GoldLion/ride_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ninetail/AC_Muont_Ninetail.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon/Mount_Grypjon.FBX
+- Assets/Art/Model/Role/Body/Mount/Mount_Ostrich/Mount_Ostrich.FBX
+- Assets/Art/Model/Role/Body/Mount/Mount_Crocuta/Mount_Crocuta.png
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf/Mount_GrandWolf.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_H/Mount_Ferus_H_2.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_Crocuta/walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_H/ride_hit.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Pecopeco/Mount_Pecopeco.png
+- Assets/Art/Model/Role/Body/Mount/Mount_Ninetail/Mount_Ninetail.FBX
+- Assets/Art/Model/Role/Body/Mount/Mount_Poring/be_touch.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon/ride_walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon_P/walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon_H/ride_walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus/walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Garm/hit.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf_R/ride_hit.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon/Mount_Grypjon_1.png
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_P/AC_Mount_Ferus_P.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf/ride_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus/AC_Mount_Ferus.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon/AC_Mount_Grypjon.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon_P/Mount_Grypjon_P.tga
+- Assets/Art/Model/Role/Body/Mount/Mount_Ninetail/Mount_Ninetail.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon_H/Mount_Grypjon_H.png
+- Assets/Art/Model/Role/Body/Mount/Mount_Poring/walk_InHand.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Grand_Peco/Mount_Grand_Peco.FBX
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon_P/AC_Mount_Grypjon_P.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf/wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus/wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon/ride_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Grand_Peco/Mount_Grand_Peco.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf_R/hit.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ninetail/walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_SavageLord/Mount_SavageLord.png
+- Assets/Art/Model/Role/Body/Mount/Mount_GoldLion/Mount_GoldLion.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_GhostHorse/ride_hit.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_H/Mount_Ferus_H_2.png
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon_H/walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Cornus/ride_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_GhostHorse/Mount_GhostHorse.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon_P/Mount_Grypjon_P.FBX
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf/sprint.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Cornus/Mount_Cornus.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon_P/Mount_Grypjon_P_2.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_T_Pecopeco/wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf_R/Mount_GrandWolf_R.mat
+- Assets/Art/Model/Role/Body/Mount/Mount_Pecopeco/ride_wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Crocuta/AC_Muont_Crocuta.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_Poring/happy.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf/ride_walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ostrich/AC_Muont_Ostrich.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_GhostHorse/ride_walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ninetail/Mount_Ninetail.PNG
+- Assets/Art/Model/Role/Body/Mount/Mount_Grand_Peco/walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Cornus/wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_GrandWolf_R/sprint.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Cornus/walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_P/Mount_Ferus_P_3.png
+- Assets/Art/Model/Role/Body/Mount/Mount_Poring/wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon_H/Mount_Grypjon_H.FBX
+- Assets/Art/Model/Role/Body/Mount/Mount_Ferus_H/AC_Mount_Ferus_H.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_Ostrich/wait.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Grypjon_P/ride_walk.anim
+- Assets/Art/Model/Role/Body/Mount/Mount_Cornus/AC_Mount_Cornus.controller
+- Assets/Art/Model/Role/Body/Mount/Mount_GoldLion/ride_hit.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/body.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

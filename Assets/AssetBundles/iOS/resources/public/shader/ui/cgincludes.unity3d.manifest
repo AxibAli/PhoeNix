@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 247750284
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d6c88e557ba3b3fdb503794e8215180
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 109
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Shader/UI/CgIncludes/RoCG.cginc
+Dependencies: []

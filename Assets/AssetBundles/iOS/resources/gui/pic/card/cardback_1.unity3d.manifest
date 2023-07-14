@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1337218150
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16a81a4651178ca0f374aa3a3ca5faca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/Card/cardback_1.png
+Dependencies: []

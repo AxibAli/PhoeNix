@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3250704396
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 55bd77c7d68071b521b0a3969fb9b623
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/GUI/New/BOSS/ui_mvp_dead7_JM.png
+Dependencies: []

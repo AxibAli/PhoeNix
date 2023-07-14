@@ -1,0 +1,324 @@
+ManifestFileVersion: 0
+CRC: 332482530
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f1da26975e45897282c69984637f9ef3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3e67fc8ff68d169ca496885cdebf4663
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Face/MarkSakura/MarkSakura.mat
+- Assets/Art/Model/Role/Face/Heart_glasses/Heart_glasses.mat
+- Assets/Art/Model/Role/Face/Bloody_eyes/Bloody_eyes.FBX
+- Assets/Art/Model/Role/Face/G_Major/G_Major.mat
+- Assets/Art/Model/Role/Face/Starfish/Starfish.mat
+- Assets/Art/Model/Role/Face/Frankenstein_face/Frankenstein_face.FBX
+- Assets/Art/Model/Role/Face/Mr_Poison_Mask/Mr_Poison_Mask.mat
+- Assets/Art/Model/Role/Face/Nut_On_Head/Nut_On_Head.FBX
+- Assets/Art/Model/Role/Face/Icey_Face/Icey_Face.FBX
+- Assets/Art/Model/Role/Face/Masquerade/Masquerade.FBX
+- Assets/Art/Model/Role/Face/Pegasus_Wing_Ears/Pegasus_Wing_Ears.FBX
+- Assets/Art/Model/Role/Face/Welding_Mask/Welding_Mask.mat
+- Assets/Art/Model/Role/Face/Adv_head2/wait.anim
+- Assets/Art/Model/Role/Face/SunGlasses/SunGlasses.mat
+- Assets/Art/Model/Role/Face/DarkParty_Mask/DarkParty_Mask.FBX
+- Assets/Art/Model/Role/Face/Observer/Observer.FBX
+- Assets/Art/Model/Role/Face/DarkParty_Mask/DarkParty_Mask.mat
+- Assets/Art/Model/Role/Face/Award_face/Award_face.png
+- Assets/Art/Model/Role/Face/Spinning_Eyes/Spinning_Eyes.png
+- Assets/Art/Model/Role/Face/Goblin_Mask1/Goblin_Mask7.png
+- Assets/Art/Model/Role/Face/Gangster_Patch/Gangster_Patch.FBX
+- Assets/Art/Model/Role/Face/TimeInsight/TimeInsight.png
+- Assets/Art/Model/Role/Face/Fiend_face/Fiend_face_.FBX
+- Assets/Art/Model/Role/Face/Seren_face/Seren_face.tga
+- Assets/Art/Model/Role/Face/Beach_glasses/Beach_glasses.tga
+- Assets/Art/Model/Role/Face/GlassesPoring/GlassesPoring.png
+- Assets/Art/Model/Role/Face/Gas_Mask/Gas_Mask.mat
+- Assets/Art/Model/Role/Face/Goblin_Mask1/Goblin_Mask3.png
+- Assets/Art/Model/Role/Face/SunGlasses/SunGlasses.png
+- Assets/Art/Model/Role/Face/Mr_Smile/Mr_Smile.png
+- Assets/Art/Model/Role/Face/Butterfly_Wing_Ear/Butterfly_Wing_Ear.mat
+- Assets/Art/Model/Role/Face/SpecialWhisper/SpecialWhisper.png
+- Assets/Art/Model/Role/Face/Frankenstein_face/Frankenstein_face.png
+- Assets/Art/Model/Role/Face/EatNt/EatNT.mat
+- Assets/Art/Model/Role/Face/Kafra_face/Kafra_face_1.mat
+- Assets/Art/Model/Role/Face/Goblin_Mask8/Goblin_Mask8.mat
+- Assets/Art/Model/Role/Face/One_Eyed_Glass/One_Eyed_Glass.png
+- Assets/Art/Model/Role/Face/JakkHead/JakkHead.tga
+- Assets/Art/Model/Role/Face/Loki_Whispers/Loki_Whispers.png
+- Assets/Art/Model/Role/Face/JakkHead/JakkHead.FBX
+- Assets/Art/Model/Role/Face/clocktower_face/clocktower_face.png
+- Assets/Art/Model/Role/Face/Award_face/Award_face.FBX
+- Assets/Art/Model/Role/Face/Black_Glasses/Black_Glasses.FBX
+- Assets/Art/Model/Role/Face/Adv_head2/AC_Adv_head2.controller
+- Assets/Art/Model/Role/Face/Floating_Elf/Floating_Elf_.FBX
+- Assets/Art/Model/Role/Face/LiarNose/LiarNose.png
+- Assets/Art/Model/Role/Face/One_Eyed_Glass/One_Eyed_Glass.FBX
+- Assets/Art/Model/Role/Face/Kafra_face/Kafra_face.FBX
+- Assets/Art/Model/Role/Face/Elven_Ears/Elven_Ears.mat
+- Assets/Art/Model/Role/Face/DragonFace/Valhalla_ThunderTexture.tga
+- Assets/Art/Model/Role/Face/MGDarmyEyepiece/MGDarmyEyepiece.mat
+- Assets/Art/Model/Role/Face/Celestial_Dark_Flame/Celestial_Dark_Flame.FBX
+- Assets/Art/Model/Role/Face/Orc_HeroHelmet/Orc_HeroHelmet.mat
+- Assets/Art/Model/Role/Face/TimeInsight/TimeInsight.FBX
+- Assets/Art/Model/Role/Face/Goblin_Mask1/Goblin_Mask2.png
+- Assets/Art/Model/Role/Face/Eye_Bandage/Eye_Bandage.mat
+- Assets/Art/Model/Role/Face/Goblin_Mask1/Goblin_Mask4.mat
+- Assets/Art/Model/Role/Face/LoveGlasses/LoveGlasses.png
+- Assets/Art/Model/Role/Face/GlassesPoring/GlassesPoring.FBX
+- Assets/Art/Model/Role/Face/Helm_Of_Darkness/Helm_Of_Darkness.png
+- Assets/Art/Model/Role/Face/MoneyEye/MoneyEye.mat
+- Assets/Art/Model/Role/Face/Dark_Blindfold/Dark_Blindfold.mat
+- Assets/Art/Model/Role/Face/Blush/Blush.FBX
+- Assets/Art/Model/Role/Face/Celestial_Dark_Flame/Celestial_Dark_Flame.png
+- Assets/Art/Model/Role/Face/Goblin_Mask_n/Goblin_Mask_n.mat
+- Assets/Art/Model/Role/Face/Seren_face/Seren_face.mat
+- Assets/Art/Model/Role/Face/yuno_face/yuno_face.FBX
+- Assets/Art/Model/Role/Face/Beach_glasses/Beach_glasses3.mat
+- Assets/Art/Model/Role/Face/Floating_Elf/Floating_Elf.png
+- Assets/Art/Model/Role/Face/JakkHead/AC_JakkHead.controller
+- Assets/Art/Model/Role/Face/Sunglasses_Man3/Sunglasses_Man3.mat
+- Assets/Art/Model/Role/Face/Gangster_Patch/Gangster_Patch.mat
+- Assets/Art/Model/Role/Face/Sacred_Masque/Sacred_Masque.FBX
+- Assets/Art/Model/Role/Face/DoDoli_Mask/DoDoli_Mask.png
+- Assets/Art/Model/Role/Face/ClownMask/ClownMask.FBX
+- Assets/Art/Model/Role/Face/Helm_Of_Darkness/Helm_Of_Darkness.mat
+- Assets/Art/Model/Role/Face/DragonFace/Valhalla_ThunderTexture.mat
+- Assets/Art/Model/Role/Face/HeartFace/HeartFace.mat
+- Assets/Art/Model/Role/Face/Elven_Ears/Elven_Ears.png
+- Assets/Art/Model/Role/Face/Cat_Ear/Cat_Ear.FBX
+- Assets/Art/Model/Role/Face/Black_Glasses/Black_Glasses.mat
+- Assets/Art/Model/Role/Face/TimeInsight/TimeInsight.mat
+- Assets/Art/Model/Role/Face/Heart_glasses/Heart_glasses.png
+- Assets/Art/Model/Role/Face/Goblin_Mask1/Goblin_Mask7.mat
+- Assets/Art/Model/Role/Face/Masquerade/Masquerade.mat
+- Assets/Art/Model/Role/Face/Orc_HeroHelmet/Orc_HeroHelmet.png
+- Assets/Art/Model/Role/Face/Hockey_Mask/Hockey_Mask.FBX
+- Assets/Art/Model/Role/Face/GhostMask/GhostMask_B.mat
+- Assets/Art/Model/Role/Face/HeartFace/HeartFace.FBX
+- Assets/Art/Model/Role/Face/Fiend_face/Fiend_face.png
+- Assets/Art/Model/Role/Face/Beach_glasses/Beach_glasses.FBX
+- Assets/Art/Model/Role/Face/Seren_face/Seren_face_1.mat
+- Assets/Art/Model/Role/Face/Goblin_Mask1/Goblin_Mask2.mat
+- Assets/Art/Model/Role/Face/ClownMask/ClownMask.png
+- Assets/Art/Model/Role/Face/clocktower_face/clocktower_face.FBX
+- Assets/Art/Model/Role/Face/Goblin_Mask1/Goblin_Mask5.mat
+- Assets/Art/Model/Role/Face/JakkHead/JakkHead.mat
+- Assets/Art/Model/Role/Face/Mask_Halloween/Mask_Halloween.mat
+- Assets/Art/Model/Role/Face/Butterfly_Wing_Ear/Butterfly_Wing_Ear.png
+- Assets/Art/Model/Role/Face/LoveGlasses/LoveGlasses.FBX
+- Assets/Art/Model/Role/Face/Dark_Blindfold/Dark_Blindfold.png
+- Assets/Art/Model/Role/Face/Sunglasses_Man3/Sunglasses_Man3.FBX
+- Assets/Art/Model/Role/Face/Blood_Mask/Blood_Mask.FBX
+- Assets/Art/Model/Role/Face/Angel_Spirit/Angel_Spirit.png
+- Assets/Art/Model/Role/Face/DragonFace/Valhalla_ThunderTexture_R.mat
+- Assets/Art/Model/Role/Face/DoDoli_Mask/DoDoli_Mask.mat
+- Assets/Art/Model/Role/Face/GhostMask/GhostMask_W.mat
+- Assets/Art/Model/Role/Face/Oxygen_Mask/Oxygen_Mask.png
+- Assets/Art/Model/Role/Face/Future_Glass/Future_Glass.mat
+- Assets/Art/Model/Role/Face/Bloody_eyes/Bloody_eyes.png
+- Assets/Art/Model/Role/Face/yuno_face/yuno_face.mat
+- Assets/Art/Model/Role/Face/Power_Of_Thor/Power_Of_Thor.mat
+- Assets/Art/Model/Role/Face/Angel_Spirit/Angel_Spirit.FBX
+- Assets/Art/Model/Role/Face/Observer/Observer.mat
+- Assets/Art/Model/Role/Face/Goblin_Lord_Mask/Goblin_Lord_Mask.mat
+- Assets/Art/Model/Role/Face/Frankenstein_face/Frankenstein_face.mat
+- Assets/Art/Model/Role/Face/Louver_mirror/Louver_mirror_.FBX
+- Assets/Art/Model/Role/Face/Mr_Smile/Mr_Scream.png
+- Assets/Art/Model/Role/Face/Nut_On_Head/GoldenMind.png
+- Assets/Art/Model/Role/Face/Nut_On_Head/Nut_On_Head.png
+- Assets/Art/Model/Role/Face/Mr_Smile/Tongue_mask.png
+- Assets/Art/Model/Role/Face/GhostMask/GhostMask.FBX
+- Assets/Art/Model/Role/Face/Black_Glasses/Black_Glasses.png
+- Assets/Art/Model/Role/Face/DragonFace/DragonFace.FBX
+- Assets/Art/Model/Role/Face/EatNt/EatNT.png
+- Assets/Art/Model/Role/Face/MoneyEye/MoneyEye.FBX
+- Assets/Art/Model/Role/Face/DragonFace/DragonFace.mat
+- Assets/Art/Model/Role/Face/Eye_Scar/Eye_Scar.mat
+- Assets/Art/Model/Role/Face/Pierrot_Nose/Pierrot_Nose.FBX
+- Assets/Art/Model/Role/Face/Eye_Scar/Eye_Scar.png
+- Assets/Art/Model/Role/Face/Future_Glass/Future_Glass_.FBX
+- Assets/Art/Model/Role/Face/Hockey_Mask/Hockey_Mask.mat
+- Assets/Art/Model/Role/Face/Loki_Whispers/Loki_Whispers.FBX
+- Assets/Art/Model/Role/Face/Louver_mirror/Louver_mirror.mat
+- Assets/Art/Model/Role/Face/Swim_Googles/Swim_Googles.mat
+- Assets/Art/Model/Role/Face/MGDarmyEyepiece/MGDarmyEyepiece.FBX
+- Assets/Art/Model/Role/Face/ClownMask/ClownMask.mat
+- Assets/Art/Model/Role/Face/Icey_Face/wait.anim
+- Assets/Art/Model/Role/Face/SunGlasses/SunGlasses.FBX
+- Assets/Art/Model/Role/Face/Heart_glasses/Heart_glasses.FBX
+- Assets/Art/Model/Role/Face/Icey_Face/Icey_Face_2.png
+- Assets/Art/Model/Role/Face/Icey_Face/Icey_Face.png
+- Assets/Art/Model/Role/Face/Elven_Ears/Elven_Ears.FBX
+- Assets/Art/Model/Role/Face/MoneyEye/MoneyEye.png
+- Assets/Art/Model/Role/Face/GhostMask/GhostMask_B.png
+- Assets/Art/Model/Role/Face/SpecialWhisper/SpecialWhisper.mat
+- Assets/Art/Model/Role/Face/Swim_Googles/Swim_Googles.FBX
+- Assets/Art/Model/Role/Face/Goblin_Mask1/Goblin_Mask1.mat
+- Assets/Art/Model/Role/Face/Dizzy_face/Dizzy_face.FBX
+- Assets/Art/Model/Role/Face/Mr_Smile/Tongue_mask.mat
+- Assets/Art/Model/Role/Face/Sacred_Masque/Sacred_Masque.mat
+- Assets/Art/Model/Role/Face/Cat_Ear/Cat_Ear.mat
+- Assets/Art/Model/Role/Face/Goblin_Mask1/Goblin_Mask4.png
+- Assets/Art/Model/Role/Face/Sunglasses_Man3/Sunglasses_Man3.PNG
+- Assets/Art/Model/Role/Face/JakkHead/playshow.anim
+- Assets/Art/Model/Role/Face/Fiend_face/Fiend_face.mat
+- Assets/Art/Model/Role/Face/Butterfly_Wing_Ear/Butterfly_Wing_Ear.FBX
+- Assets/Art/Model/Role/Face/JakkHead/walk.anim
+- Assets/Art/Model/Role/Face/Eagle_Eyes/Eagle_Eyes.mat
+- Assets/Art/Model/Role/Face/Mask_Halloween/Mask_Halloween.FBX
+- Assets/Art/Model/Role/Face/Beach_glasses/Beach_glasses4.mat
+- Assets/Art/Model/Role/Face/Starry_face/Starry_face_.FBX
+- Assets/Art/Model/Role/Face/Beach_glasses/Beach_glasses2.mat
+- Assets/Art/Model/Role/Face/Blood_Mask/Blood_Mask.mat
+- Assets/Art/Model/Role/Face/Floating_Elf/AC_Floating_Elf.controller
+- Assets/Art/Model/Role/Face/Oxygen_Mask/Oxygen_Mask.mat
+- Assets/Art/Model/Role/Face/JakkHead/wait.anim
+- Assets/Art/Model/Role/Face/Pierrot_Nose/Pierrot_Nose.png
+- Assets/Art/Model/Role/Face/Mr_Poison_Mask/Mr_Poison_Mask.tga
+- Assets/Art/Model/Role/Face/Goblin_Mask_n/Goblin_Mask_n.FBX
+- Assets/Art/Model/Role/Face/Observer/Observer.png
+- Assets/Art/Model/Role/Face/Butterflove/Butterflove.mat
+- Assets/Art/Model/Role/Face/IceBrand/IceBrand.tga
+- Assets/Art/Model/Role/Face/Butterflove/Butterflove.png
+- Assets/Art/Model/Role/Face/IceBrand/IceBrand.mat
+- Assets/Art/Model/Role/Face/Cat_Ear/Cat_Ear.png
+- Assets/Art/Model/Role/Face/One_Eyed_Glass/One_Eyed_Glass.mat
+- Assets/Art/Model/Role/Face/Fin_Helm/Fin_Helm.mat
+- Assets/Art/Model/Role/Face/Gas_Mask/Gas_Mask.FBX
+- Assets/Art/Model/Role/Face/Fin_Helm/Fin_Helm.png
+- Assets/Art/Model/Role/Face/Goblin_Lord_Mask/Goblin_Lord_Mask.FBX
+- Assets/Art/Model/Role/Face/Starry_face/Starry_face.png
+- Assets/Art/Model/Role/Face/Goblin_Mask1/Goblin_Mask1.FBX
+- Assets/Art/Model/Role/Face/Masquerade/Masquerade.png
+- Assets/Art/Model/Role/Face/GlassesPoring/GlassesPoring.mat
+- Assets/Art/Model/Role/Face/Sacred_Masque/Sacred_Masque.png
+- Assets/Art/Model/Role/Face/Blush/Blush.mat
+- Assets/Art/Model/Role/Face/Mr_Smile/Mr_Scream.mat
+- Assets/Art/Model/Role/Face/DragonFace/DragonFace.tga
+- Assets/Art/Model/Role/Face/Power_Of_Thor/Power_Of_Thor.png
+- Assets/Art/Model/Role/Face/Maya_dead_face/Maya_dead_face.mat
+- Assets/Art/Model/Role/Face/HeartFace/HeartFace.png
+- Assets/Art/Model/Role/Face/MarkSakura/MarkSakura02.png
+- Assets/Art/Model/Role/Face/Mask_Halloween/Mask_Halloween.png
+- Assets/Art/Model/Role/Face/Eye_Bandage/Eye_Bandage.png
+- Assets/Art/Model/Role/Face/Eagle_Eyes/Eagle_Eyes.png
+- Assets/Art/Model/Role/Face/Han_mask/Han_mask.png
+- Assets/Art/Model/Role/Face/DoDoli_Mask/DoDoli_Mask_.FBX
+- Assets/Art/Model/Role/Face/Angel_Spirit/Angel_Spirit.mat
+- Assets/Art/Model/Role/Face/Goblin_Mask_n/Goblin_Mask_n.png
+- Assets/Art/Model/Role/Face/Maya_dead_face/Maya_dead_face.FBX
+- Assets/Art/Model/Role/Face/MarkSakura/MarkSakura.png
+- Assets/Art/Model/Role/Face/Adv_head2/Adv_head2.mat
+- Assets/Art/Model/Role/Face/Atroce_dead_face/Atroce_dead_face.mat
+- Assets/Art/Model/Role/Face/Butterflove/Butterflove_.FBX
+- Assets/Art/Model/Role/Face/Icey_Face/AC_Icey_Face.controller
+- Assets/Art/Model/Role/Face/EatNt/EatNT.FBX
+- Assets/Art/Model/Role/Face/Han_mask/Han_mask.mat
+- Assets/Art/Model/Role/Face/DragonFace/Valhalla_ThunderTexture_R.tga
+- Assets/Art/Model/Role/Face/LoveGlasses/LoveGlasses.mat
+- Assets/Art/Model/Role/Face/Oxygen_Mask/Oxygen_Mask.FBX
+- Assets/Art/Model/Role/Face/Eye_Bandage/Eye_Bandage.FBX
+- Assets/Art/Model/Role/Face/Pegasus_Wing_Ears/Pegasus_Wing_Ears.mat
+- Assets/Art/Model/Role/Face/Maya_dead_face/Maya_dead_face.png
+- Assets/Art/Model/Role/Face/yuno_face/yuno_face.png
+- Assets/Art/Model/Role/Face/Goblin_Mask1/Goblin_mask6.mat
+- Assets/Art/Model/Role/Face/Atroce_dead_face/Atroce_dead_face.FBX
+- Assets/Art/Model/Role/Face/Power_Of_Thor/Power_Of_Thor.FBX
+- Assets/Art/Model/Role/Face/Seren_face/Seren_face_.FBX
+- Assets/Art/Model/Role/Face/Eye_Scar/Eye_Scar.FBX
+- Assets/Art/Model/Role/Face/Gangster_Patch/Gangster_Patch.png
+- Assets/Art/Model/Role/Face/Starfish/Starfish_.FBX
+- Assets/Art/Model/Role/Face/Celestial_Dark_Flame/Celestial_Dark_Flame.mat
+- Assets/Art/Model/Role/Face/Goblin_Mask8/Goblin_Mask8.FBX
+- Assets/Art/Model/Role/Face/Future_Glass/Future_Glass.png
+- Assets/Art/Model/Role/Face/Goblin_Lord_Mask/Goblin_Lord_Mask.png
+- Assets/Art/Model/Role/Face/Bloody_eyes/Bloody_eyes.mat
+- Assets/Art/Model/Role/Face/Han_mask/Han_mask.FBX
+- Assets/Art/Model/Role/Face/Adv_head2/Adv_head2.FBX
+- Assets/Art/Model/Role/Face/Fin_Helm/Fin_Helm.FBX
+- Assets/Art/Model/Role/Face/Spinning_Eyes/Spinning_Eyes.mat
+- Assets/Art/Model/Role/Face/Blood_Mask/Blood_Mask.png
+- Assets/Art/Model/Role/Face/Dark_Blindfold/Dark_Blindfold.FBX
+- Assets/Art/Model/Role/Face/Dizzy_face/Dizzy_face.mat
+- Assets/Art/Model/Role/Face/Mr_Smile/Mr_Smile.FBX
+- Assets/Art/Model/Role/Face/Starfish/Starfish.png
+- Assets/Art/Model/Role/Face/Dizzy_face/Dizzy_face.tga
+- Assets/Art/Model/Role/Face/IceBrand/IceBrand.FBX
+- Assets/Art/Model/Role/Face/clocktower_face/clocktower_face.mat
+- Assets/Art/Model/Role/Face/Floating_Elf/Floating_Elf.mat
+- Assets/Art/Model/Role/Face/Icey_Face/walk.anim
+- Assets/Art/Model/Role/Face/Pegasus_Wing_Ears/Pegasus_Wing_Ears.png
+- Assets/Art/Model/Role/Face/Eagle_Eyes/Eagle_Eyes.FBX
+- Assets/Art/Model/Role/Face/LiarNose/LiarNose.FBX
+- Assets/Art/Model/Role/Face/Gas_Mask/Gas_Mask.png
+- Assets/Art/Model/Role/Face/Floating_Elf/wait.anim
+- Assets/Art/Model/Role/Face/Louver_mirror/Louver_mirror.png
+- Assets/Art/Model/Role/Face/Atroce_dead_face/Atroce_dead_face.png
+- Assets/Art/Model/Role/Face/Welding_Mask/Welding_Mask.FBX
+- Assets/Art/Model/Role/Face/Mr_Poison_Mask/Mr_Poison_Mask.FBX
+- Assets/Art/Model/Role/Face/SpecialWhisper/SpecialWhisper.FBX
+- Assets/Art/Model/Role/Face/Mr_Smile/Mr_Smile.mat
+- Assets/Art/Model/Role/Face/Goblin_Mask1/Goblin_Mask5.png
+- Assets/Art/Model/Role/Face/Blush/Blush.tga
+- Assets/Art/Model/Role/Face/Goblin_Mask1/Goblin_Mask1.png
+- Assets/Art/Model/Role/Face/Beach_glasses/Beach_glasses1.mat
+- Assets/Art/Model/Role/Face/Beach_glasses/Beach_glasses.mat
+- Assets/Art/Model/Role/Face/Icey_Face/Icey_Face.mat
+- Assets/Art/Model/Role/Face/Adv_head2/Adv_head2.png
+- Assets/Art/Model/Role/Face/Orc_HeroHelmet/Orc_HeroHelmet.FBX
+- Assets/Art/Model/Role/Face/Nut_On_Head/Nut_On_Head.mat
+- Assets/Art/Model/Role/Face/Welding_Mask/Welding_Mask.png
+- Assets/Art/Model/Role/Face/Award_face/Award_face.mat
+- Assets/Art/Model/Role/Face/Goblin_Mask1/Goblin_Mask3.mat
+- Assets/Art/Model/Role/Face/MarkSakura/MarkSakura.FBX
+- Assets/Art/Model/Role/Face/Kafra_face/Kafra_face.mat
+- Assets/Art/Model/Role/Face/Starry_face/Starry_face.mat
+- Assets/Art/Model/Role/Face/MGDarmyEyepiece/MGDarmyEyepiece.png
+- Assets/Art/Model/Role/Face/Kafra_face/Kafra_face.tga
+- Assets/Art/Model/Role/Face/GhostMask/GhostMask_W.png
+- Assets/Art/Model/Role/Face/G_Major/G_Major.tga
+- Assets/Art/Model/Role/Face/Spinning_Eyes/Spinning_Eyes.FBX
+- Assets/Art/Model/Role/Face/Goblin_Mask1/Goblin_mask6.png
+- Assets/Art/Model/Role/Face/Pierrot_Nose/Pierrot_Nose.mat
+- Assets/Art/Model/Role/Face/DarkParty_Mask/DarkParty_Mask.png
+- Assets/Art/Model/Role/Face/Hockey_Mask/Hockey_Mask.png
+- Assets/Art/Model/Role/Face/LiarNose/LiarNose.mat
+- Assets/Art/Model/Role/Face/G_Major/G_Major.FBX
+- Assets/Art/Model/Role/Face/Loki_Whispers/Loki_Whispers.mat
+- Assets/Art/Model/Role/Face/Nut_On_Head/GoldenMind.mat
+- Assets/Art/Model/Role/Face/Helm_Of_Darkness/Helm_Of_Darkness.FBX
+- Assets/Art/Model/Role/Face/Swim_Googles/Swim_Googles.png
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/body.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/body/monster/goblin_panzer.unity3d

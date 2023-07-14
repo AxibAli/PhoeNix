@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 726494901
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c4a8fdbdd4a7b40ba82c7204cbbac73a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Monster/KongfuCat_Spawn_2.wav
+Dependencies: []

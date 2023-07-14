@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 339241107
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb6f11a1e39caad18ab594b62d3b4786
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6370d3f9de9eca57f523bce048404a46
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Shader/UI/NGUIChangeColor 1.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Transparent Masked 1.shader
+- Assets/Resources/Public/Shader/UI/Unlit - AlphaTransparent Colored 3.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Text 2.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Transparent Colored Additive.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Transparent Masked 2.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Text 1.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Premultiplied Colored (TextureClip).shader
+- Assets/Resources/Public/Shader/UI/Unlit - Transparent Colored (Packed) (TextureClip).shader
+- Assets/Resources/Public/Shader/UI/Unlit - Transparent Colored 2.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Premultiplied Colored 3.shader
+- Assets/Resources/Public/Shader/UI/Unlit - AlphaTransparent Colored.shader
+- Assets/Resources/Public/Shader/UI/Unlit - AlphaTransparent Colored 1.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Transparent Colored (TextureClip).shader
+- Assets/Resources/Public/Shader/UI/Unlit - AlphaTransparent Colored 2.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Transparent Cutout 1.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Transparent Masked 3.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Transparent Colored 1.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Transparent Colored 3.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Transparent Cutout.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Premultiplied Colored 2.shader
+- Assets/Resources/Public/Shader/UI/NGUIChangeColor 3.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Text 3.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Transparent Packed 2.shader
+- Assets/Resources/Public/Shader/UI/NGUIChangeColor 2.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Transparent Packed 1.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Premultiplied Colored 1.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Premultiplied Colored.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Transparent Colored.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Transparent Colored Additive 1.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Text.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Transparent Packed.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Transparent Packed 3.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Transparent Masked.shader
+- Assets/Resources/Public/Shader/UI/Unlit - Text (TextureClip).shader
+- Assets/Resources/Public/Shader/UI/NGUIChangeColor.shader
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 825617073
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f856c4ab3a50ac20d0224f6f7547f499
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Space_Crack/state3001.anim
+- Assets/Art/Model/Role/Body/NPC/Space_Crack/AC_Space_Crack.controller
+- Assets/Art/Model/Role/Body/NPC/Space_Crack/state4002.anim
+- Assets/Art/Model/Role/Body/NPC/Space_Crack/state2001.anim
+- Assets/Art/Model/Role/Body/NPC/Space_Crack/state1002.anim
+- Assets/Art/Model/Role/Body/NPC/Space_Crack/state1001.anim
+- Assets/Art/Model/Role/Body/NPC/Space_Crack/state4001.anim
+- Assets/Art/Model/Role/Body/NPC/Space_Crack/state3002.anim
+- Assets/Art/Model/Role/Body/NPC/Space_Crack/state5001.anim
+- Assets/Art/Model/Role/Body/NPC/Space_Crack/state5002.anim
+- Assets/Art/Model/Role/Body/NPC/Space_Crack/state2002.anim
+- Assets/Art/Model/Role/Body/NPC/Space_Crack/state6002.anim
+- Assets/Art/Model/Role/Body/NPC/Space_Crack/state6001.anim
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3195517447
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0efca46dc94a2709c261ca96ce6b79a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/UI/cuowutishi.ogg
+Dependencies: []

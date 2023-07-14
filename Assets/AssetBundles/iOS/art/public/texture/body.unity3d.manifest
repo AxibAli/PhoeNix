@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3254721838
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f38111274824844385d2c1b255631fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Body/Diabolic.png
+- Assets/Art/Public/Texture/Body/GuradShield.png
+- Assets/Art/Public/Texture/Body/jinqianmao_1.png
+- Assets/Art/Public/Texture/Body/Hugecat_N.png
+- Assets/Art/Public/Texture/Body/Poring.png
+- Assets/Art/Public/Texture/Body/thing_researchlab_zamen.tga
+- Assets/Art/Public/Texture/Body/Skeleton_Pirate.png
+- Assets/Art/Public/Texture/Body/UFOCat.tga
+- Assets/Art/Public/Texture/Body/Skeleton.png
+- Assets/Art/Public/Texture/Body/Goblin_Panzer.png
+- Assets/Art/Public/Texture/Body/Orc_HeroKnife.png
+- Assets/Art/Public/Texture/Body/Empelium.png
+- Assets/Art/Public/Texture/Body/Deviruchi.png
+- Assets/Art/Public/Texture/Body/TelAltar1.tga
+- Assets/Art/Public/Texture/Body/Raydric.png
+- Assets/Art/Public/Texture/Body/Goblin.png
+- Assets/Art/Public/Texture/Body/thing_qiandai.tga
+- Assets/Art/Public/Texture/Body/Garm.png
+- Assets/Art/Public/Texture/Body/Cookie_Gift_lv.png
+- Assets/Art/Public/Texture/Body/Guild_Door2.tga
+- Assets/Art/Public/Texture/Body/Eden_F.png
+- Assets/Art/Public/Texture/Body/Mount_Poring.png
+- Assets/Art/Public/Texture/Body/LandMine.png
+- Assets/Art/Public/Texture/Body/Orc_Ax.png
+- Assets/Art/Public/Texture/Body/BigCat.png
+- Assets/Art/Public/Texture/Body/Cookie_Gift_hong.png
+- Assets/Art/Public/Texture/Body/CATBar2.png
+- Assets/Art/Public/Texture/Body/Emily.png
+- Assets/Art/Public/Texture/Body/BigCatBox.png
+- Assets/Art/Public/Texture/Body/Raffliesia1.tga
+- Assets/Art/Public/Texture/Body/Abyssknight.png
+Dependencies: []

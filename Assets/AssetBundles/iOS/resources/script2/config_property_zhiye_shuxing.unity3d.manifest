@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 350414482
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e75d5636d4a3f31786b85f2e98124ab9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/Config_Property_ZhiYe_ShuXing/Table_BaseLevel.bytes
+- Assets/Resources/Script2/Config_Property_ZhiYe_ShuXing/Table_AttributePoint.bytes
+- Assets/Resources/Script2/Config_Property_ZhiYe_ShuXing/Table_Class.bytes
+- Assets/Resources/Script2/Config_Property_ZhiYe_ShuXing/Table_UnlockSpace.bytes
+- Assets/Resources/Script2/Config_Property_ZhiYe_ShuXing/Table_JobLevel.bytes
+- Assets/Resources/Script2/Config_Property_ZhiYe_ShuXing/Table_DeadLevel.bytes
+- Assets/Resources/Script2/Config_Property_ZhiYe_ShuXing/Table_AddPoint.bytes
+- Assets/Resources/Script2/Config_Property_ZhiYe_ShuXing/Table_RoleData.bytes
+- Assets/Resources/Script2/Config_Property_ZhiYe_ShuXing/Table_AddPointSolution.bytes
+- Assets/Resources/Script2/Config_Property_ZhiYe_ShuXing/Table_Branch.bytes
+Dependencies: []

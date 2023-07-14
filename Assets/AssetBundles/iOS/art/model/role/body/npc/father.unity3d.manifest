@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 743428396
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29d540ee334289c6bd5c6ef3b51f1876
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Father/walk.anim
+- Assets/Art/Model/Role/Body/NPC/Father/Father.mat
+- Assets/Art/Model/Role/Body/NPC/Father/Father.png
+- Assets/Art/Model/Role/Body/NPC/Father/Father.FBX
+- Assets/Art/Model/Role/Body/NPC/Father/AC_Father.controller
+- Assets/Art/Model/Role/Body/NPC/Father/wait.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

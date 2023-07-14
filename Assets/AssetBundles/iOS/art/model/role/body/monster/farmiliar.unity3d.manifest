@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 3539937633
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7b2467ebb99d97185e0f5ce99148670a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Farmiliar/walk.anim
+- Assets/Art/Model/Role/Body/Monster/Farmiliar/Drainliar.mat
+- Assets/Art/Model/Role/Body/Monster/Farmiliar/Drainliar.png
+- Assets/Art/Model/Role/Body/Monster/Farmiliar/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Farmiliar/die.anim
+- Assets/Art/Model/Role/Body/Monster/Farmiliar/Farmiliar.png
+- Assets/Art/Model/Role/Body/Monster/Farmiliar/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Farmiliar/Farmiliar.mat
+- Assets/Art/Model/Role/Body/Monster/Farmiliar/Farmiliar.FBX
+- Assets/Art/Model/Role/Body/Monster/Farmiliar/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Farmiliar/AC_Farmiliar.controller
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

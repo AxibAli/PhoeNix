@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 465658487
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35fa0d4818e2b7c2f630ce4ae100d10d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Horong/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Horong/AC_Horong.controller
+- Assets/Art/Model/Role/Body/Monster/Horong/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Horong/die.anim
+- Assets/Art/Model/Role/Body/Monster/Horong/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Horong/walk.anim
+Dependencies: []

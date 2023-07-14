@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2345830279
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c4a0bba10242cd93802840cefe8c49f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE_JP/Npc/Kapula_diboluotai_6.wav
+Dependencies: []

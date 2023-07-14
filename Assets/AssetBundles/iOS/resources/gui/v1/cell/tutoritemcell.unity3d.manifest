@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1371393812
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e7023629f66c206510857c2528bc9168
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7c398969b14d61b98b5d41e9e8062c5e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/cell/TutorItemCell.prefab
+Dependencies: []

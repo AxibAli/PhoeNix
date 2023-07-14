@@ -1,0 +1,113 @@
+ManifestFileVersion: 0
+CRC: 3860023168
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53348c6e1c6c5fffbc56c8a7051f13c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_zhonglou_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_minju3_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_minju2_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_minju3_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_zhonglou_6.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_zhonglou_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_pay_dun1_wujian.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/pay_dun_2_taizi_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_minju2_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_teamvs_ding1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/thing_pay_dun_foxiang_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_pay_dun1_wujian.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_minju1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_TeamVs_08.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_zhonglou_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_minju2_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_zhonglou_6.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_jianzhu1_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_glt_2_dizuo.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_xiaota_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_pailou_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_TeamVs_05.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/thing_pay_dun_zszhu.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/pay_dun_2_taizi_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_minju1_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_rukou.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_pay_dun_wujian.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_TeamVs_07.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_clocktower2_xingpan_03.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_pailou_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/thing_pay_dun_foxiang_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/pay_dun_2_taizi_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_TeamVs_06.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_minju1_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/pay_dun_2_taizi_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_minju3_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/thing_pay_dun_zszhu.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_pay_dun_wujian.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/thing_pay_dun_foxiang_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_catufo_bian.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_minju2_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_minju3_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_minju1_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_jianzhu1_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/pay_dun_2_taizi_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_TeamVs_08.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/pay_dun_2_taizi_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_pailou_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_xiaota_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_minju1_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_TeamVs_04.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/surface_gef_dun1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_xiaota_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_minju3_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_TeamVs_07.png
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/pay_dun_2_taizi_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_minju2_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_zhonglou_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_TeamVs_02.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_TeamVs_03.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_TeamVs_05.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_minju2_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_gef_dun1_mudia_a.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_zhonglou_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_minju3_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_xiaota_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_TeamVs_04.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/thing_pay_dun_foxiang_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_teamvs_ding1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_minju2_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_zhonglou_5.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_TeamVs_03.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_minju1_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_zhonglou_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_minju2_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_jianzhu1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_TeamVs_06.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_TeamVs_02.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_minju3_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/pay_dun_2_taizi_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_jianzhu1_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_TeamVs_01.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_pailou_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_zhonglou_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_zhonglou_5.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/building_TeamVs_01.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_minju3_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/buliding_pay_dun_zhonglou_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_l/thing_pay_dun_foxiang_2.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_m.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

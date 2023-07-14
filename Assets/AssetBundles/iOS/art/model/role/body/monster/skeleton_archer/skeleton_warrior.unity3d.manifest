@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1691101548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0aaf536f67ff79bde8a9700ffc4a509
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Skeleton_Archer/Skeleton_Warrior/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Skeleton_Archer/Skeleton_Warrior/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Skeleton_Archer/Skeleton_Warrior/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Skeleton_Archer/Skeleton_Warrior/walk.anim
+- Assets/Art/Model/Role/Body/Monster/Skeleton_Archer/Skeleton_Warrior/die.anim
+- Assets/Art/Model/Role/Body/Monster/Skeleton_Archer/Skeleton_Warrior/AC_Skeleton_Warrior.controller
+Dependencies: []

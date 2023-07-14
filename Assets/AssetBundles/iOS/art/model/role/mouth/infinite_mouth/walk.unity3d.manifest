@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 403866170
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4cc9c868d209ec454b2cddef9028440
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Mouth/Infinite_mouth/walk.anim
+Dependencies: []

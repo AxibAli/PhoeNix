@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1102966947
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4dc3ce2190441507c4105bc822cca2da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c0a6c6bdabc84c999a5713451d084c10
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d436cc15a736149a1b4b25049e7af1f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c62c18ce1ee19436c90a0bbd7b1b00ef, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Effect/Common/94PropertiesUp_1.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/gui/new/atlas/fonts.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/animation/effect/common.unity3d

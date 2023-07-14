@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 520010903
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29d08498d3fdfa02e7eb856debd12f90
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/MConfig/ItemFun.bytes
+- Assets/Resources/Script2/MConfig/Table_MapIDs.bytes
+- Assets/Resources/Script2/MConfig/Dialog/Table_Dialog_NpcTalk.bytes
+- Assets/Resources/Script2/MConfig/Dialog/Table_Dialog_Quest3.bytes
+- Assets/Resources/Script2/MConfig/Table_AdventureValue.bytes
+- Assets/Resources/Script2/MConfig/Table_MonsterEvolution.bytes
+- Assets/Resources/Script2/MConfig/CommonFun.bytes
+- Assets/Resources/Script2/MConfig/Table_MonsterOrigin.bytes
+- Assets/Resources/Script2/MConfig/Table_QuestReward.bytes
+- Assets/Resources/Script2/MConfig/DialogEventConfig.bytes
+- Assets/Resources/Script2/MConfig/Table_MapInfo.bytes
+- Assets/Resources/Script2/MConfig/Dialog/Table_Dialog_Quest2.bytes
+- Assets/Resources/Script2/MConfig/Table_ItemBeTransformedWay.bytes
+- Assets/Resources/Script2/MConfig/Dialog/Table_Dialog_Quest5.bytes
+- Assets/Resources/Script2/MConfig/ObscenceLanguage.bytes
+- Assets/Resources/Script2/MConfig/Table_PetAvatar.bytes
+- Assets/Resources/Script2/MConfig/GameConfig.bytes
+- Assets/Resources/Script2/MConfig/Dialog/Table_Dialog_Left.bytes
+- Assets/Resources/Script2/MConfig/Table_EquipComposeProduct.bytes
+- Assets/Resources/Script2/MConfig/PetFun.bytes
+- Assets/Resources/Script2/MConfig/Dialog/Table_Dialog_Quest6.bytes
+- Assets/Resources/Script2/MConfig/GuildFun.bytes
+- Assets/Resources/Script2/MConfig/UnionConfig.bytes
+- Assets/Resources/Script2/MConfig/NpcFeatures.bytes
+- Assets/Resources/Script2/MConfig/Dialog/Dialog_Index.bytes
+- Assets/Resources/Script2/MConfig/Dialog/Table_Dialog_Quest1.bytes
+- Assets/Resources/Script2/MConfig/MapTeleport.bytes
+- Assets/Resources/Script2/MConfig/UIAtlasConfig.bytes
+- Assets/Resources/Script2/MConfig/ColorUtil.bytes
+- Assets/Resources/Script2/MConfig/QuestTypeConfig.bytes
+- Assets/Resources/Script2/MConfig/LayerConfig.bytes
+- Assets/Resources/Script2/MConfig/Dialog/Table_Dialog_Quest7.bytes
+- Assets/Resources/Script2/MConfig/StageBagItemIndex.bytes
+- Assets/Resources/Script2/MConfig/Dialog/Table_Dialog_Quest11.bytes
+- Assets/Resources/Script2/MConfig/Table_ItemOrigin.bytes
+- Assets/Resources/Script2/MConfig/SkillHelperFunc.bytes
+- Assets/Resources/Script2/MConfig/Dialog/Table_Dialog_Quest8.bytes
+- Assets/Resources/Script2/MConfig/Dialog/Table_Dialog_Quest61.bytes
+- Assets/Resources/Script2/MConfig/Dialog/Table_Dialog_NpcDefault.bytes
+- Assets/Resources/Script2/MConfig/Table_AdventureItem.bytes
+- Assets/Resources/Script2/MConfig/Table_ScenesName.bytes
+- Assets/Resources/Script2/MConfig/Dialog/Table_Dialog_Quest4.bytes
+- Assets/Resources/Script2/MConfig/Dialog/Table_Dialog_Quest10.bytes
+Dependencies: []

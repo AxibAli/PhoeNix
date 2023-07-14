@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3698629380
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 668a50d04f6cc78a2d6740f1612b8c90
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ca20ac80477b14ee384697d276ec904c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 451e092b73ce1424a814883c7a2965c3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/cell/UIParticleHolder.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader/ui.unity3d

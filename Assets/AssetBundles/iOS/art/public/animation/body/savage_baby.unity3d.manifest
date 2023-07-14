@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 517530689
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9de82e72e2914ec4221bedc46f815a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Body/Savage_Baby/wait_BeHold.anim
+- Assets/Art/Public/Animation/Body/Savage_Baby/walk_BeHold.anim
+- Assets/Art/Public/Animation/Body/Savage_Baby/eat.anim
+- Assets/Art/Public/Animation/Body/Savage_Baby/die.anim
+- Assets/Art/Public/Animation/Body/Savage_Baby/happy.anim
+- Assets/Art/Public/Animation/Body/Savage_Baby/walk.anim
+- Assets/Art/Public/Animation/Body/Savage_Baby/be_touch.anim
+- Assets/Art/Public/Animation/Body/Savage_Baby/wait.anim
+Dependencies: []

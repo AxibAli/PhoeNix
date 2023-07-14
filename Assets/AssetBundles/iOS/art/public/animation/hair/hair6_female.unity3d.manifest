@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 589026144
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc0dda5320c57d40da6e1b2cedfed9b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Hair/Hair6_Female/wait_InHand.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/attack_wait.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/die.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/be_KissEmbracen.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/walk_HandIn.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/playshow.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/play_kiss.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/play_clap.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/choose_wait2.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/attack.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/use_magic.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/choose_wait.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/play_bow.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/wait_HandIn.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/hit.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/reading.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/walk.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/sit_down.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/feign_death.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/choose_turn.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/walk_HoldPet.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/choose_turn2.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/wait.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/shooting.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/be_HeightRaise.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/play_wave.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/ride_wait.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/walk_InHand.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/collect.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/pose_showweapon.anim
+- Assets/Art/Public/Animation/Hair/Hair6_Female/play_sleep.anim
+Dependencies: []

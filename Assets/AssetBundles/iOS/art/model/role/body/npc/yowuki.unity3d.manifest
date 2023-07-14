@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3452877458
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43fc233bcf640321f8f62070f8516e58
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Yowuki/wait.anim
+- Assets/Art/Model/Role/Body/NPC/Yowuki/Yowuki.FBX
+- Assets/Art/Model/Role/Body/NPC/Yowuki/AC_Yowuki.controller
+- Assets/Art/Model/Role/Body/NPC/Yowuki/Yowuki.png
+- Assets/Art/Model/Role/Body/NPC/Yowuki/playshow.anim
+- Assets/Art/Model/Role/Body/NPC/Yowuki/Yowuki.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

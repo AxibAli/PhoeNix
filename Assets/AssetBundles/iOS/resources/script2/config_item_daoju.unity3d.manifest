@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3437458699
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d24d7cf1b3efa15a2e7cea15d87867a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/Config_Item_DaoJu/Table_Growth.bytes
+- Assets/Resources/Script2/Config_Item_DaoJu/Table_Food.bytes
+- Assets/Resources/Script2/Config_Item_DaoJu/Table_UseItem.bytes
+- Assets/Resources/Script2/Config_Item_DaoJu/Table_AddWay.bytes
+- Assets/Resources/Script2/Config_Item_DaoJu/Table_TasterLevel.bytes
+- Assets/Resources/Script2/Config_Item_DaoJu/Table_Recipe.bytes
+- Assets/Resources/Script2/Config_Item_DaoJu/Table_ProduceLogic.bytes
+- Assets/Resources/Script2/Config_Item_DaoJu/Table_ItemAccess.bytes
+- Assets/Resources/Script2/Config_Item_DaoJu/Table_ServantImproveGroup.bytes
+- Assets/Resources/Script2/Config_Item_DaoJu/Table_Recommend.bytes
+- Assets/Resources/Script2/Config_Item_DaoJu/Table_ItemType.bytes
+- Assets/Resources/Script2/Config_Item_DaoJu/Table_ItemAdvManual.bytes
+- Assets/Resources/Script2/Config_Item_DaoJu/Table_Compose.bytes
+- Assets/Resources/Script2/Config_Item_DaoJu/Table_Reward.bytes
+- Assets/Resources/Script2/Config_Item_DaoJu/Table_ItemPickEffect.bytes
+- Assets/Resources/Script2/Config_Item_DaoJu/Table_ServantUnlockFunction.bytes
+- Assets/Resources/Script2/Config_Item_DaoJu/Table_Item.bytes
+- Assets/Resources/Script2/Config_Item_DaoJu/Table_ItemTypeAdventureLog.bytes
+Dependencies: []

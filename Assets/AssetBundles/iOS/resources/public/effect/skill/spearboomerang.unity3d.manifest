@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1772983033
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73e68bbd0a0e13ce0a2060adcb82bbeb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9704ef8ff6c59a787b5ff5704c828440
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d436cc15a736149a1b4b25049e7af1f9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Effect/Skill/SpearBoomerang.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/weapon.unity3d

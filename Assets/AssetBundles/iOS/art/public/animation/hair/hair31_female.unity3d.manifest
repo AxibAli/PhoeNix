@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1756920290
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b92552b8f7712ba4976ad826d94c8bc9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Hair/Hair31_Female/be_KissEmbracen.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/play_clap.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/skill_ready.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/walk.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/attack.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/use_magic.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/reading.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/play_sleep.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/die.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/be_HeightRaise.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/collect.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/walk_HandIn.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/use_skill.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/play_kiss.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/pose_showweapon.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/play_wave.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/playshow.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/shooting.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/walk_HoldPet.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/sit_down.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/ride_wait.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/wait.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/walk_InHand.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/wait_HandIn.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/hit.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/wait_InHand.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/play_bow.anim
+- Assets/Art/Public/Animation/Hair/Hair31_Female/attack_wait.anim
+Dependencies: []

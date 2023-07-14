@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 328417105
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac6a67888c5d8da7b98491d47b2a67a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/LexDivina_attack.wav
+Dependencies: []

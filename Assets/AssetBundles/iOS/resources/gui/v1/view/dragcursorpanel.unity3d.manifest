@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4088055106
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5077127dcbfd74e81d5e96e2c49407be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f59e05b03012c79bb43415ccddbddd70
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75e7459110b9666449485c40f25362a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c9aa39b8fee9494d861508b1f5411cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/view/DragCursorPanel.prefab
+Dependencies: []

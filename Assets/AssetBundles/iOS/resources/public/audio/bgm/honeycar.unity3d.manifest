@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1083370207
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35a85fdce261d3c2503e106a67704ba8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/BGM/honeyCar.mp3
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3151416606
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 677ae838fdfdd28107d023576f978d22
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/ChainCrushCombo.wav
+Dependencies: []

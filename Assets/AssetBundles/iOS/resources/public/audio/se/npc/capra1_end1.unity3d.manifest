@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3679010818
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed29e508929dc35b493e19d8ae791218
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Npc/Capra1_end1.wav
+Dependencies: []

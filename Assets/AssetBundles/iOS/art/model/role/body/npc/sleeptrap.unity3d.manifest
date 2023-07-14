@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 4249682549
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b479d6d496369165a3a9a41d1cc58232
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/SleepTrap/SleepTrap.FBX
+- Assets/Art/Model/Role/Body/NPC/SleepTrap/ExplosiveTrap.FBX
+- Assets/Art/Model/Role/Body/NPC/SleepTrap/SleepTrap.mat
+- Assets/Art/Model/Role/Body/NPC/SleepTrap/wait.anim
+- Assets/Art/Model/Role/Body/NPC/SleepTrap/AC_SleepTrap.controller
+- Assets/Art/Model/Role/Body/NPC/SleepTrap/attack.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/body.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/body/npc/landmine.unity3d

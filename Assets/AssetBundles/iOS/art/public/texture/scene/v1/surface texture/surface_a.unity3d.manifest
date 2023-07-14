@@ -1,0 +1,101 @@
+ManifestFileVersion: 0
+CRC: 1204647013
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b6630a57e82abba5803ba8a5c017fa1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_prontra_beijingcaodi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_ant_dun_1_1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_byalan_brick1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_brick_1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_brick_16.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_prontra_dizhuan1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_guild_base_dixing1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_brick_16.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/flood_baylan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_prontra_fudiao.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_iz_dunl_sjdml.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_prontra_yuanshan_1th.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_2_iz_dun_2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_prontra_beijingcaodi_1th.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/ground_izdun_1_yuanshu_2.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_guild_base_dixing1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/botany_grass_cao_4.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/end_tiankong1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_brick_13.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_prontra_dizhuan2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_brick_13.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/end_tiankong2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_prontra_yjshu.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_land_4.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_brick_8.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/louti_baylan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_prontra_fudiao.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/ground_izdun_1_yuanshu_2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_prontra_caodi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_brick_4.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_land_4b.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/end_tiankong2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/ground_taijie.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_izlude_dizhuan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_iz_dun02_chengbao_2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_byalan_brick1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_prontra_dizhuan1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_baylan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_iz_dunl_sjdml.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_prontra_yjshub.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_brick_15.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_brick_4.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_antdun_1_3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_brick_1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_prontra_dizhuan2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/end_tiankong4.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_prontra_yuanshan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_nif_fild_shibanl1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_brick_17.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_guild_base_dixing2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_prontra_yjshu.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_prontra_luoyezhu.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/end_tiankong4.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_brick_8.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_baylan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_prontra_beijingcaodi.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_nif_fild_shibanl1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_brick_11.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_brick_7.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_guild_base_dixing2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/end_tiankong3.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_izlude_shense.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_izlude_dizhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_ant_dun1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_ant_dun1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_prontra_caodi.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_prontra_yuanshan.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_brick_18.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_prontra_yjshu_1th.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_prontra_caodi_huang.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/flood_baylan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/end_tiankong1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/louti_baylan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_brick_7.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/ground_taijie.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/end_tiankong3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_brick_11b.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_brick_15.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_a/surface_ant_dun_1_2.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_j.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

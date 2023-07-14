@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 173281332
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 346eabf593e5b3b7a394b4689049de1c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Kafra5/playshow.anim
+- Assets/Art/Model/Role/Body/NPC/Kafra5/functional_action7.anim
+- Assets/Art/Model/Role/Body/NPC/Kafra5/functional_action6.anim
+- Assets/Art/Model/Role/Body/NPC/Kafra5/functional_action2.anim
+- Assets/Art/Model/Role/Body/NPC/Kafra5/Kafra5.tga
+- Assets/Art/Model/Role/Body/NPC/Kafra5/functional_action.anim
+- Assets/Art/Model/Role/Body/NPC/Kafra5/Kafra5.FBX
+- Assets/Art/Model/Role/Body/NPC/Kafra5/functional_action4.anim
+- Assets/Art/Model/Role/Body/NPC/Kafra5/functional_action3.anim
+- Assets/Art/Model/Role/Body/NPC/Kafra5/Kafra5.mat
+- Assets/Art/Model/Role/Body/NPC/Kafra5/wait.anim
+- Assets/Art/Model/Role/Body/NPC/Kafra5/AC_Kafra5.controller
+- Assets/Art/Model/Role/Body/NPC/Kafra5/sit_down.anim
+- Assets/Art/Model/Role/Body/NPC/Kafra5/functional_action5.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2930883054
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1254c4a30cb15b8e2752c83eb7a034ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Common/book_attack.wav
+Dependencies: []

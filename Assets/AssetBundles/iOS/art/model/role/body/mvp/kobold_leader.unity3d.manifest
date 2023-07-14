@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 3296113849
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b34fb31d89b9df167367e9127ad0fd20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/MVP/Kobold_Leader/attack.anim
+- Assets/Art/Model/Role/Body/MVP/Kobold_Leader/Kobold_Leader.png
+- Assets/Art/Model/Role/Body/MVP/Kobold_Leader/Kobold_Leader.mat
+- Assets/Art/Model/Role/Body/MVP/Kobold_Leader/playshow.anim
+- Assets/Art/Model/Role/Body/MVP/Kobold_Leader/AC_Kobold_Leader.controller
+- Assets/Art/Model/Role/Body/MVP/Kobold_Leader/wait.anim
+- Assets/Art/Model/Role/Body/MVP/Kobold_Leader/use_magic.anim
+- Assets/Art/Model/Role/Body/MVP/Kobold_Leader/skill_ready.anim
+- Assets/Art/Model/Role/Body/MVP/Kobold_Leader/hit.anim
+- Assets/Art/Model/Role/Body/MVP/Kobold_Leader/Kobold_Leader.FBX
+- Assets/Art/Model/Role/Body/MVP/Kobold_Leader/use_skill.anim
+- Assets/Art/Model/Role/Body/MVP/Kobold_Leader/walk.anim
+- Assets/Art/Model/Role/Body/MVP/Kobold_Leader/die.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

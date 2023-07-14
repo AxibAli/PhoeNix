@@ -1,0 +1,149 @@
+ManifestFileVersion: 0
+CRC: 1887736864
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcc4a450aa658d7e279144556af3e011
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_tiejiangpu1_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_wa.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_2_mache01.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_huangcheng1_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_mingju_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_Observatory_1a.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_pengquan_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_fengche_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_chengmen1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_wa.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_2_judian01.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_qiao.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_chengta.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_jiaotang1_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_qiao2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_pengquan_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_huangcheng1_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_1_tlqizhi.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_taijie1_1.png
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_fengche_ye_1th.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_huanggong3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_xinchengmen.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_judian1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_1_king_dizuo.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_tiejiangpu1_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_judian1_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_judian1_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_qiao.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_huanggong2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_fashitan_6.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_fashitan_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_mingju_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_jiaotang1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_2_kongdao_wanyuanjin.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_Observatory_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_jiaotang1_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_fashitan_7.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_2_judian04.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_nif_fild2_taijie1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_Observatory_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_shiti.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_2_shujia1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_fengche_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_jiaotang1_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_shangpi_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_2_judian03.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_chengta.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_judian1_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_judian1_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_fashitan_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_fashitan_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_fashitan_5.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_mingju_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_nif_fild2_taijie1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_huangcheng1_5.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_1_talou.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_huanggong1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_xinchengmen.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_Observatory_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_fashitan_6.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_2_mache03.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_fashitan_5.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_judian1_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/baylan_langgang.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_huanggong4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_jiaotang1_5.png
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_fengche_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_judian1_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_taijie1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_2_judian04.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_chengmen1_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_2_mache01.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_1_wtbj.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_1_wtbj.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_qiao3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_2_mache02.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_shangpi_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_huanggong4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_fashitan_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_huangcheng1_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_1_talou.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_huanggong1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_qiao2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_fashitan_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_2_judian01.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_jiaotang1_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_tiejiangpu1_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_huanggong3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_tiejiangpu1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_pengquan.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_2_mache03.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_shiti.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_qiao4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_jiaotang1_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/baylan_jianzhu.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_fashitan_7.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_huanggong2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_shangpi_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_1_king_dizuo.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_fengche_ye.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_fengche_ye.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_Observatory_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_2_judian02.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_fashitan_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_huangcheng1_5.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_judian1_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_jiaotang1_5.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_2_judian02.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_qiao4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_shangpi_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_pengquan.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_2_judian03.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_windows_1th.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_1_tlqizhi.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_shangpi_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_windows_1th.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_2_mache02.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_fashitan_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_qiao3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_mingju_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/building_prt_2_shujia1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_jiaotang1_4.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_huangcheng1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_shangpi_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_Observatory_1_1th.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_fashitan_4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_jiaotang1_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_a/buliding_prontra_fengche_2.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

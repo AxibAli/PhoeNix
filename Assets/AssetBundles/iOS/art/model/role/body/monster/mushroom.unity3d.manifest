@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 692763360
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f30d1bd6b82de0cbdcf1d397ed678f38
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Mushroom/Mushroom2.mat
+- Assets/Art/Model/Role/Body/Monster/Mushroom/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Mushroom/Mushroom.FBX
+- Assets/Art/Model/Role/Body/Monster/Mushroom/Mushroom2.PNG
+- Assets/Art/Model/Role/Body/Monster/Mushroom/Mushroom.mat
+- Assets/Art/Model/Role/Body/Monster/Mushroom/AC_Mushroom.controller
+- Assets/Art/Model/Role/Body/Monster/Mushroom/die.anim
+- Assets/Art/Model/Role/Body/Monster/Mushroom/Mushroom.png
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

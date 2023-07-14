@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 4044625803
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b12a7cd85ecb3b519e1f6172d5504cf2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_yggdrasil_shuicao.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_umbala_shuye.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_yggdrasil_shugan1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_umbala_lvtai.png
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_niflhem_shumu5b.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_niflhem_shumu_b.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_niflhem_shumu_a.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_niflhem_shumu2a.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_niflhem_mogu.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_nif_fild2_dashu.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_yggdrasil_altree.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_yggdrasil_shugan1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_umbala_shuye4.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_upgrade_shuye1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_yggdrasil_shugan2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_niflhem_cao1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_honeymoon_zhiwu1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_upgrade_shuye1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_umbala_lvtai.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_niflhem_shumu5b.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_honeymoon_zhiwu1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_umbala_shuye3.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_niflhem_shumu4.png
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_umbala_shuye4.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_umbala_shuye2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_mjolnir_outgrass.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_amatsu_yinghuashu.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_umbala_shuye2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_niflhem_shumu2b.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_niflhem_shuye1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_niflhem_mogu.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_amatsu_Dyinghuashu.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_umbala_shuye.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_yggdrasil_shuyeyanse.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_yggdrasil_shugan2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_niflhem_shumu5a.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_niflhem_shumu2b.png
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_niflhem_shumu5a.png
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_yggdrasil_shuyeyanse.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_yggdrasil_shuye1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_niflhem_shumu2a.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_amatsu_yinghuashu.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_yggdrasil_door.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_yggdrasil_altree.png
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_niflhem_shumu4.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_niflhem_shumu_b.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_amatsu_Dyinghuashu.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_mjolnir_outgrass.png
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_yggdrasil_door.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_amatsu_yinghuashuB.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_amatsu_yinghuashuB.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_yggdrasil_shuicao.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_umbala_shuye3.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_nif_fild2_dashu.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_yggdrasil_shuye1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_f/botany_niflhem_shumu_a.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

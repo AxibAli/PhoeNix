@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3019499470
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a01f89b3a32ab5d5e137c34e1430363e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5d0286a0357cc330063b33d0a4cbd680
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 628d4ffce76dc41e992218ed300f2dd5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Role/Weapon/62516.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/weapon.unity3d

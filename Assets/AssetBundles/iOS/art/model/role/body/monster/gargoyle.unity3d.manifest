@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3451744446
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 976a0141fc0ccee4b8e106520bee01b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Gargoyle/die.anim
+- Assets/Art/Model/Role/Body/Monster/Gargoyle/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Gargoyle/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Gargoyle/Gargoyle.FBX
+- Assets/Art/Model/Role/Body/Monster/Gargoyle/walk.anim
+- Assets/Art/Model/Role/Body/Monster/Gargoyle/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Gargoyle/Gargoyle.png
+- Assets/Art/Model/Role/Body/Monster/Gargoyle/Gargoyle.mat
+- Assets/Art/Model/Role/Body/Monster/Gargoyle/AC_Gargoyle.controller
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

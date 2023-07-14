@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 346302269
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0d1cdfae1dd1e6fa2b360abf1eb6169
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/DevelopScene/Terrains/Texture/surface_guildgarden_enter.png
+Dependencies: []

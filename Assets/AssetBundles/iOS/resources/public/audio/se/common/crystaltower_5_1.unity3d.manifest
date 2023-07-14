@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3728279081
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0de0e76f7c59ca6bf0763a1bf5c3760a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Common/CrystalTower_5_1.wav
+Dependencies: []

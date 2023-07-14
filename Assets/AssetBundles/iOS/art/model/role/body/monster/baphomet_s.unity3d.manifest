@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 735077408
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b454d66c485bfd1e426c1881ff9e552
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Baphomet_S/die.anim
+- Assets/Art/Model/Role/Body/Monster/Baphomet_S/Baphomet_S_10.mat
+- Assets/Art/Model/Role/Body/Monster/Baphomet_S/walk.anim
+- Assets/Art/Model/Role/Body/Monster/Baphomet_S/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Baphomet_S/wait_BeHold.anim
+- Assets/Art/Model/Role/Body/Monster/Baphomet_S/Baphomet_S.png
+- Assets/Art/Model/Role/Body/Monster/Baphomet_S/eat.anim
+- Assets/Art/Model/Role/Body/Monster/Baphomet_S/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Baphomet_S/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Baphomet_S/Baphomet_S_10.png
+- Assets/Art/Model/Role/Body/Monster/Baphomet_S/be_touch.anim
+- Assets/Art/Model/Role/Body/Monster/Baphomet_S/Baphomet_S.FBX
+- Assets/Art/Model/Role/Body/Monster/Baphomet_S/happy.anim
+- Assets/Art/Model/Role/Body/Monster/Baphomet_S/walk_BeHold.anim
+- Assets/Art/Model/Role/Body/Monster/Baphomet_S/AC_Baphomet_S.controller
+- Assets/Art/Model/Role/Body/Monster/Baphomet_S/Baphomet_S.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

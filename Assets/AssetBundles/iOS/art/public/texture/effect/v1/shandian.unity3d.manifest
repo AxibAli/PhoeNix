@@ -1,0 +1,102 @@
+ManifestFileVersion: 0
+CRC: 765123254
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e571f0148c0b01f5fd235b946fca712
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_2x2.png
+- Assets/Art/Public/Texture/effect/v1/shandian/xuliewaitao.png
+- Assets/Art/Public/Texture/effect/v1/shandian/thunder_plazma_blast_shandian.png
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_02.png
+- Assets/Art/Public/Texture/effect/v1/shandian/lighting_0007_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/thunder_plazma_blast_shandian_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian1x2_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/xulie_diansi_03_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian03_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/26d02478_1.png
+- Assets/Art/Public/Texture/effect/v1/shandian/lightning_blue_3_add_order44.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/xulie_diansi01_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/lightning_blue_3_a_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/Static_electricity.png
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_05.png
+- Assets/Art/Public/Texture/effect/v1/shandian/xuliewaitao_add_F.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_1_1x2_red.png
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_01_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/lightning_blue_3_a.png
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian1x4_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/sn_zxb_texiao_038_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/xuliewaitao_add_order29.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_03.png
+- Assets/Art/Public/Texture/effect/v1/shandian/lightning_ball_blue_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_2x2_add_prder29.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/26d02478_1_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/thunder_center.bmp
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_2x2_01_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/lightning_blue_3_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian04_4X4.png
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian1x2.png
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_06.png
+- Assets/Art/Public/Texture/effect/v1/shandian/Spotter_Intro_2x5.png
+- Assets/Art/Public/Texture/effect/v1/shandian/thunder_center_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian04_4X4_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/sn_zxb_texiao_038.png
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_06_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_1_1x2.png
+- Assets/Art/Public/Texture/effect/v1/shandian/xulie_diansi_03.png
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_01.png
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_03_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/thunder_plazma_blast_shandian_zi_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_02_add_order78.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/lightning_blue_2_add_EE.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/lightning_blue_2_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/yanwu010.png
+- Assets/Art/Public/Texture/effect/v1/shandian/xulie_diansi02_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/lighting_0007.png
+- Assets/Art/Public/Texture/effect/v1/shandian/skarner01.png
+- Assets/Art/Public/Texture/effect/v1/shandian/Sphere_Lightning.png
+- Assets/Art/Public/Texture/effect/v1/shandian/Static_electricity_add_order160.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_1_1x2_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/Lightning903_a_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/skarner01_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/xulie_diansi_03_add_F.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_07.png
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian1x4.png
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_007_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/yanwu010.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_007.png
+- Assets/Art/Public/Texture/effect/v1/shandian/Lightning903_a.png
+- Assets/Art/Public/Texture/effect/v1/shandian/xulie_diansi01.png
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_04_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian03.png
+- Assets/Art/Public/Texture/effect/v1/shandian/lightning_blue_3.png
+- Assets/Art/Public/Texture/effect/v1/shandian/xulie_diansi02.png
+- Assets/Art/Public/Texture/effect/v1/shandian/M_Thunder_02.png
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_04.png
+- Assets/Art/Public/Texture/effect/v1/shandian/Spotter_Intro_2x5_2_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/lightning_ball_blue_add _F.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/Spotter_Intro_2x5_2.png
+- Assets/Art/Public/Texture/effect/v1/shandian/M_Thunder_02_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/lightning_ball_blue.png
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_2x2_01.png
+- Assets/Art/Public/Texture/effect/v1/shandian/Spotter_Intro_2x5_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/lightning_blue_2.png
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_02_blend_order78.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/thunder_plazma_blast_shandian_zi.png
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_05_add.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_1_1x2_red.mat
+- Assets/Art/Public/Texture/effect/v1/shandian/shandian_07_add.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/wenli.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

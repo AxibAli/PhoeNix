@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1832582322
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e05ef1f9e2bd004d0d93e18986640dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1c5a2ed506d7a3a5b5b9d375bd225196
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/cell/ButtonMask.prefab
+Dependencies: []

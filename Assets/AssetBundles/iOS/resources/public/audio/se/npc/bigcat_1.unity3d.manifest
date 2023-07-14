@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1292838405
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8081b59d1ec12844721c4b664b52fba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Npc/BigCat_1.wav
+Dependencies: []

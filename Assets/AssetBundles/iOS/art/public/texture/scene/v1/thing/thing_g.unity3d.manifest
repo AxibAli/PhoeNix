@@ -1,0 +1,82 @@
+ManifestFileVersion: 0
+CRC: 1050949016
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a848e58ff3cccb2229536a1d8bf8aabc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_payon_duilian1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_yggdrasil_sky.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_payon_hongmen.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_posun.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_dazhuan.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_payon_zhisan.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_chuang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_wuqi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/glt_k_thing_ditan.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/glt_k_thing_ditan.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_zhutai.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_posun.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_shujia.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_payon_mensong.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/glt_k_thing_louti.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_zhuo1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_yuanpan1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_payon_duilian2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_yuanpan2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_payon_gongzhuo.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_zhuo2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_taijie2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_payon_hongmenb.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_shuijing.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_payon_denglong.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_shuijing.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_yuanpan1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/glt_k_thing_thing1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_payon_denglong2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_wuqi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_ditan.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_payon_duilian1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/glt_k_thing_thing2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_yuanpan2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_zhuo2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_yuanpan3.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_payon_zhisan.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_payon_duilian2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/glt_k_thing_ditai.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_payon_denglong.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_payon_gongzhuo.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_taijie3.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/glt_k_thing_thing1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/glt_k_thing_zhuozi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_payon_mensong.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_shujia.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_chuang.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_yggdrasil_sky.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_payon_mensong2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/glt_k_thing_zhuozi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/glt_k_thing_ditai.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_zhuo1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_payon_denglong2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_dazhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/glt_k_thing_louti.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_zhutai.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/glt_k_thing_thing2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_taijie3.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_payon_hongmen.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_payon_mensong2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_ditan.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_g/thing_glt_h_yuanpan3.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

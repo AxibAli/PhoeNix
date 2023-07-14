@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 905739790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da6f2de96930ebe24cac06dccaf89a0e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/UI/zhenglibeibao.ogg
+Dependencies: []

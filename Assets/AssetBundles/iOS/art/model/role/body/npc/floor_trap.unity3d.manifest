@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 759776715
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 672cc1eea766aedc0f985d2afad489d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Floor_trap/Floor_trap.mat
+- Assets/Art/Model/Role/Body/NPC/Floor_trap/attack.anim
+- Assets/Art/Model/Role/Body/NPC/Floor_trap/Floor_trap.FBX
+- Assets/Art/Model/Role/Body/NPC/Floor_trap/wait.anim
+- Assets/Art/Model/Role/Body/NPC/Floor_trap/AC_Floor_trap.controller
+- Assets/Art/Model/Role/Body/NPC/Floor_trap/Floor_trap.png
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

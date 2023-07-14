@@ -1,0 +1,193 @@
+ManifestFileVersion: 0
+CRC: 559967002
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1485df10296eba5fd52afa02e7b534e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c5855eae7bf95040a896b507074b4366
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/effect/v1/ui/Just_do_it_lg_1.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_gantanhao_yellow.png
+- Assets/Art/Public/Texture/effect/v1/ui/map_icon_task4.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_gantanhao_green.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_Drawing_txt_lose.png
+- Assets/Art/Public/Texture/effect/v1/ui/map_icon_task.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_toushi.png
+- Assets/Art/Public/Texture/effect/v1/ui/vr_txt_5.png
+- Assets/Art/Public/Texture/effect/v1/ui/vr_txt_7.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_Photo_green.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_diandian.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_gantanhao.png
+- Assets/Art/Public/Texture/effect/v1/ui/start_quan_add.mat
+- Assets/Art/Public/Texture/effect/v1/ui/chibang 1_add_h.mat
+- Assets/Art/Public/Texture/effect/v1/ui/pic_skill_uv2.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/map_icon_task_story.png
+- Assets/Art/Public/Texture/effect/v1/ui/Just_do_it_lg_line.png
+- Assets/Art/Public/Texture/effect/v1/ui/glow_0003.png
+- Assets/Art/Public/Texture/effect/v1/ui/vr_txt_3_blend.mat
+- Assets/Art/Public/Texture/effect/v1/ui/warning_bg_line02.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/UIhengkuang.png
+- Assets/Art/Public/Texture/effect/v1/ui/boom_02.png
+- Assets/Art/Public/Texture/effect/v1/ui/map_icon_task_phono.png
+- Assets/Art/Public/Texture/effect/v1/ui/result_01.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_diandian.png
+- Assets/Art/Public/Texture/effect/v1/ui/yiwancheng_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/ui/gonghuibao.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/UIAdventureLv_up.png
+- Assets/Art/Public/Texture/effect/v1/ui/map_icon_task_head.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/yiwancheng.png
+- Assets/Art/Public/Texture/effect/v1/ui/MapIndicates_2_add.mat
+- Assets/Art/Public/Texture/effect/v1/ui/pic_lvjing01.png
+- Assets/Art/Public/Texture/effect/v1/ui/warning_icon.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_skill_uv.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_gantanhao_violet.png
+- Assets/Art/Public/Texture/effect/v1/ui/MapIndicates_4.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_Head_blue.png
+- Assets/Art/Public/Texture/effect/v1/ui/ui_bg_mask.png
+- Assets/Art/Public/Texture/effect/v1/ui/MarineSphere.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_kuang_yellow.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_toushi.png
+- Assets/Art/Public/Texture/effect/v1/ui/glow_0003_add.mat
+- Assets/Art/Public/Texture/effect/v1/ui/vr_txt_9.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_Photo_green.png
+- Assets/Art/Public/Texture/effect/v1/ui/start_quan.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/map_icon_task_answer.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_gantanhao_jian.png
+- Assets/Art/Public/Texture/effect/v1/ui/warning_txt.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_Quest_green.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/gonghuishengji.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/UI_kuang.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_Quest_green.png
+- Assets/Art/Public/Texture/effect/v1/ui/vr_txt_8.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_Fight.png
+- Assets/Art/Public/Texture/effect/v1/ui/UIhengkuang.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/ui_bg_mask.png
+- Assets/Art/Public/Texture/effect/v1/ui/map_icon_task_blue.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_Story.png
+- Assets/Art/Public/Texture/effect/v1/ui/MapIndicates_1.png
+- Assets/Art/Public/Texture/effect/v1/ui/start_dian.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/map_icon_task_greed.png
+- Assets/Art/Public/Texture/effect/v1/ui/start_dian_add.mat
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_xiangji.png
+- Assets/Art/Public/Texture/effect/v1/ui/MapIndicates_2.png
+- Assets/Art/Public/Texture/effect/v1/ui/UI_kuang_add_1.mat
+- Assets/Art/Public/Texture/GUI/icon/Effect/map_icon_talk.png
+- Assets/Art/Public/Texture/effect/v1/ui/Just_do_it_lg_3.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_shiren.png
+- Assets/Art/Public/Texture/effect/v1/ui/Just_do_it_lg_3.mat
+- Assets/Art/Public/Texture/effect/v1/ui/map_icon_task2.png
+- Assets/Art/Public/Texture/effect/v1/ui/UI_kuang.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/map_icon_task4.png
+- Assets/Art/Public/Texture/effect/v1/ui/gonghuishengji.png
+- Assets/Art/Public/Texture/effect/v1/ui/vr_txt_3.png
+- Assets/Art/Public/Texture/effect/v1/ui/UIhengkuang_add.mat
+- Assets/Art/Public/Texture/effect/v1/ui/map_icon_task_red.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_Quest_blue.png
+- Assets/Art/Public/Texture/effect/v1/ui/zitikaishi_003.mat
+- Assets/Art/Public/Texture/effect/v1/ui/zitibiankuang_002.png
+- Assets/Art/Public/Texture/effect/v1/ui/map_icon_talk.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_skill_uv.png
+- Assets/Art/Public/Texture/effect/v1/ui/caidai_gonghui.png
+- Assets/Art/Public/Texture/effect/v1/ui/line_15.png
+- Assets/Art/Public/Texture/effect/v1/ui/win_zi.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_lvjing01_alpha.mat
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_Quest_yellow.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_gantanhao_blue.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_kuang_orange.png
+- Assets/Art/Public/Texture/effect/v1/ui/UIrenwukuang.png
+- Assets/Art/Public/Texture/effect/v1/ui/zitikaishi_001.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/map_icon_task_blue.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_Fight.png
+- Assets/Art/Public/Texture/effect/v1/ui/chibang_add_h.mat
+- Assets/Art/Public/Texture/effect/v1/ui/vr_txt_4.png
+- Assets/Art/Public/Texture/effect/v1/ui/vr_txt_6.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_gantanhao_yellow.png
+- Assets/Art/Public/Texture/effect/v1/ui/MapIndicates_1_add.mat
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_Quest_blue.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_xiangji.png
+- Assets/Art/Public/Texture/effect/v1/ui/vr_txt_4_blend.mat
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_skill_uv2.png
+- Assets/Art/Public/Texture/effect/v1/ui/Just_do_it_lg_2.png
+- Assets/Art/Public/Texture/effect/v1/ui/win_pan.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_Story.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_Quest_yellow.png
+- Assets/Art/Public/Texture/effect/v1/ui/vr_txt_1_blend.mat
+- Assets/Art/Public/Texture/effect/v1/ui/result_bg_txt.png
+- Assets/Art/Public/Texture/effect/v1/ui/UIrenwukuang_add.mat
+- Assets/Art/Public/Texture/effect/v1/ui/UIAdventureLv_up.png
+- Assets/Art/Public/Texture/effect/v1/ui/labacaidai.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_Quest_violet.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_kuang_orange.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_kuang.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_gantanhao.png
+- Assets/Art/Public/Texture/effect/v1/ui/vr_txt_1.png
+- Assets/Art/Public/Texture/effect/v1/ui/map_icon_task_answer.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/map_icon_task.png
+- Assets/Art/Public/Texture/effect/v1/ui/zitikaishi_003.tga
+- Assets/Art/Public/Texture/effect/v1/ui/pic_gantanhao_jian.png
+- Assets/Art/Public/Texture/effect/v1/ui/vr_txt_10.png
+- Assets/Art/Public/Texture/effect/v1/ui/chibang.tga
+- Assets/Art/Public/Texture/effect/v1/ui/Just_do_it_lg_1.mat
+- Assets/Art/Public/Texture/effect/v1/ui/pic_kuang_yellow.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_kuang.png
+- Assets/Art/Public/Texture/effect/v1/ui/result_bg_03.png
+- Assets/Art/Public/Texture/effect/v1/ui/chibang 1.tga
+- Assets/Art/Public/Texture/GUI/icon/Effect/map_icon_task_phono.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_kuang_green.png
+- Assets/Art/Public/Texture/effect/v1/ui/warning_bg_line.png
+- Assets/Art/Public/Texture/effect/v1/ui/map_icon_task_greed.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_shiren.png
+- Assets/Art/Public/Texture/effect/v1/ui/yiwancheng.png
+- Assets/Art/Public/Texture/effect/v1/ui/happynewyear.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/ro_expression.png
+- Assets/Art/Public/Texture/effect/v1/ui/vr_txt_5_blend.mat
+- Assets/Art/Public/Texture/effect/v1/ui/UI_kuang_add.mat
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_gantanhao_violet.png
+- Assets/Art/Public/Texture/effect/v1/ui/vr_txt_2.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/map_icon_task2.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_gantanhao_green.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_gantanhao_blue.png
+- Assets/Art/Public/Texture/effect/v1/ui/ro_expression.png
+- Assets/Art/Public/Texture/effect/v1/ui/map_icon_task_story.png
+- Assets/Art/Public/Texture/effect/v1/ui/win_pan_add.mat
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_kuang_blue.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_Quest_violet.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_kuang_green.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_face01.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/glow_0003.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_skill_uv_add.mat
+- Assets/Art/Public/Texture/effect/v1/ui/pic_kuang_blue.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/MapIndicates_3.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/map_icon_task_head.png
+- Assets/Art/Public/Texture/effect/v1/ui/boom_01.png
+- Assets/Art/Public/Texture/effect/v1/ui/result_02.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_Quest.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/MapIndicates_4.png
+- Assets/Art/Public/Texture/effect/v1/ui/MarineSphere.mat
+- Assets/Art/Public/Texture/effect/v1/ui/pic_Head_blue.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/pic_kuang_violet.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_Quest.png
+- Assets/Art/Public/Texture/effect/v1/ui/pic_kuang_violet.png
+- Assets/Art/Public/Texture/GUI/icon/Effect/map_icon_task_red.png
+- Assets/Art/Public/Texture/effect/v1/ui/zitibiankuang_001.png
+- Assets/Art/Public/Texture/effect/v1/ui/caidai_1.png
+- Assets/Art/Public/Texture/effect/v1/ui/MapIndicates_3.png
+- Assets/Art/Public/Texture/effect/v1/ui/vr_txt_2_blend.mat
+- Assets/Art/Public/Texture/effect/v1/ui/result_bg_01.png
+- Assets/Art/Public/Texture/effect/v1/ui/Just_do_it_lg_2.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/pic.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader/ui.unity3d

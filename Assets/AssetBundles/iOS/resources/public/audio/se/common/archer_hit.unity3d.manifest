@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2453329467
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 835d46659028efa31f28b8747af30b4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Common/archer_hit.wav
+Dependencies: []

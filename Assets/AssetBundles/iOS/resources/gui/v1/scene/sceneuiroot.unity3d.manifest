@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3097004613
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6a6385df2e07f696fbb588f5f992629
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 289997369a1f5a467fe56aa27b9d55af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 45
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c17b4f124ba67446a89bc3335eb2284d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c5ecb5660b11414fb042fb826e03b73, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54e94ca623f4a45d7a63e92000444976, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a92b5d748695fd44aac9feef17ba415, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c25cb59a4c6141a1bd415c8576643fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9787cd1e408f848aa98e4b4b2b638e65, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/scene/SceneUIRoot.prefab
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2465448245
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 40e1957fed965e0b571190e7dc06109c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/Config_Npc_MoWu/Table_Npc.bytes
+- Assets/Resources/Script2/Config_Npc_MoWu/Table_Monster.bytes
+- Assets/Resources/Script2/Config_Npc_MoWu/Table_Character.bytes
+- Assets/Resources/Script2/Config_Npc_MoWu/Table_Deadboss.bytes
+- Assets/Resources/Script2/Config_Npc_MoWu/Table_Boss.bytes
+- Assets/Resources/Script2/Config_Npc_MoWu/Table_RaidDeadBoss.bytes
+- Assets/Resources/Script2/Config_Npc_MoWu/Table_NpcFunction.bytes
+Dependencies: []

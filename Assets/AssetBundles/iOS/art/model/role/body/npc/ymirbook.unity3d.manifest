@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1676896172
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b3ca5c533eab27614e13ffe849a17205
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27e3e79efd8a310f81d9b03e1734e5fa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/YmirBook/use_magic.anim
+- Assets/Art/Model/Role/Body/NPC/YmirBook/2002.anim
+- Assets/Art/Model/Role/Body/NPC/YmirBook/YmirBook.tga
+- Assets/Art/Model/Role/Body/NPC/YmirBook/YmirBook.mat
+- Assets/Art/Model/Role/Body/NPC/YmirBook/AC_YmirBook.controller
+- Assets/Art/Model/Role/Body/NPC/YmirBook/1002.anim
+- Assets/Art/Model/Role/Body/NPC/YmirBook/1001.anim
+- Assets/Art/Model/Role/Body/NPC/YmirBook/YmirBook_.FBX
+- Assets/Art/Model/Role/Body/NPC/YmirBook/wait.anim
+- Assets/Art/Model/Role/Body/NPC/YmirBook/2001.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

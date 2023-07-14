@@ -1,0 +1,126 @@
+ManifestFileVersion: 0
+CRC: 494108156
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f17052b5a9db99fc1183ee5e00516c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_izlude_ludeng.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_tanpu1_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_izlude_tanwei2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/New Material.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_ludeng1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/Empelium_a.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_toushiche1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_izlude_ludeng.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_bazi1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/ting_izlude_chuang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_ant_dun1_guanzi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_izlude_tanwei2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/iz_dun1_thing_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_xmas_changyi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_beiqizi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_iz_dun1_jinbi1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_tanpu4.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_mubei1_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_mubei1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_xinxiang1_1.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_yuno_fild1_tong.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_qipeng1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_huayuan_xiaoshu.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_wujian_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_yizhi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_shuicao1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_tanpu3.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_prontra_shixiang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_tanpu1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_ant_dun1_flower.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_qipeng1_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/buliding_xiaotan2_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_beiqizi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_prontra_zhuoyi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_3_iz_dun_2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_prontra_DXdizuo.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_huatan1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_ludeng2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/building_amatsu_liangxi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_prontra_shixiang2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_shuijin1_1.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_yuno_fild1_tong.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_ludeng1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_ant_dun1_guanzi2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_tanpu2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_zhangyi1_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_huayuan_xiaohua.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_xiaochetan_1.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_wujian_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_iz_dun1_jinbi2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_ant_dun1_yachi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/ting_chezi1.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_xiaochetan_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/ting_yidongxiaotan_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_wujian_2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_ludeng2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_huayuan_xiaoshu.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_ant_dun1_zhuozi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/ting_yidongxiaotan_1.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_tanpu4.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_shuijin1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_xmas_changyi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_shixianggui_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_wujian_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_prontra_huatan.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_3_iz_dun_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_prontra_shixiang2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/ting_izlude_chuang.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_huoba.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_ant_dun1_guanzi2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_iz_dun1_jinbi2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_huoba.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_xinxiang1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_tanpu2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_mubei1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_mubei1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_room_T5_juanzong01.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_lupai1_1.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_prontra_huatan.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/iz_dun1_thing_2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_prontra_zhuoyi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_shuicao1_1.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/buliding_payon_wuqijia.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_bazi1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_ant_dun1_zhuozi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/ting_chezi1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/building_amatsu_liangxi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/buliding_xiaotan2_1.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_tanpu3.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_toushiche1_1.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_glt_k_zhuoyi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_room_T5_juanzong02.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_lupai1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_huatan1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_ant_dun1_yachi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_zhangyi1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_ant_dun1_flower.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_shixianggui_1.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/Empelium_a.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_iz_dun1_jinbi1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_prontra_DXdizuo.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_ant_dun1_guanzi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_a/thing_prontra_shixiang.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_i.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

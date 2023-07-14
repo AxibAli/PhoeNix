@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4098239315
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0beb181a8bf662343348a5a21a6d37f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/BGM/colcktower1.mp3
+Dependencies: []

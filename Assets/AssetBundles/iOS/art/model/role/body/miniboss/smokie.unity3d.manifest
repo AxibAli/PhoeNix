@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 1346611119
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11fd3afb2538d67948c02548357a7e78
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/MiniBoss/Smokie/wait_BeHold.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Smokie/Smokie.png
+- Assets/Art/Model/Role/Body/MiniBoss/Smokie/attack.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Smokie/happy.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Smokie/walk_BeHold.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Smokie/be_touch.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Smokie/Smokie.mat
+- Assets/Art/Model/Role/Body/MiniBoss/Smokie/skill_ready.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Smokie/eat.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Smokie/AC_Smokie.controller
+- Assets/Art/Model/Role/Body/MiniBoss/Smokie/die.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Smokie/hit.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Smokie/walk.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Smokie/Smokie.FBX
+- Assets/Art/Model/Role/Body/MiniBoss/Smokie/use_skill.anim
+- Assets/Art/Model/Role/Body/MiniBoss/Smokie/wait.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

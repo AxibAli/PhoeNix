@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 2542840095
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 496eeb9e8a1ab045ed40ae51fc0032ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Lunatic/Lunatic_Pet2.mat
+- Assets/Art/Model/Role/Body/Monster/Lunatic/Lunatic.png
+- Assets/Art/Model/Role/Body/Monster/Lunatic/Eclipse.png
+- Assets/Art/Model/Role/Body/Monster/Lunatic/AC_Lunatic.controller
+- Assets/Art/Model/Role/Body/Monster/Lunatic/Lunatic_Pet.mat
+- Assets/Art/Model/Role/Body/Monster/Lunatic/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Lunatic/die.anim
+- Assets/Art/Model/Role/Body/Monster/Lunatic/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Lunatic/playshow.anim
+- Assets/Art/Model/Role/Body/Monster/Lunatic/Lunatic.FBX
+- Assets/Art/Model/Role/Body/Monster/Lunatic/happy.anim
+- Assets/Art/Model/Role/Body/Monster/Lunatic/Lunatic.mat
+- Assets/Art/Model/Role/Body/Monster/Lunatic/wait_BeHold.anim
+- Assets/Art/Model/Role/Body/Monster/Lunatic/walk.anim
+- Assets/Art/Model/Role/Body/Monster/Lunatic/be_touch.anim
+- Assets/Art/Model/Role/Body/Monster/Lunatic/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Lunatic/Eclipse.mat
+- Assets/Art/Model/Role/Body/Monster/Lunatic/Lunatic_Pet.png
+- Assets/Art/Model/Role/Body/Monster/Lunatic/eat.anim
+- Assets/Art/Model/Role/Body/Monster/Lunatic/Lunatic_Pet2.png
+- Assets/Art/Model/Role/Body/Monster/Lunatic/walk_BeHold.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

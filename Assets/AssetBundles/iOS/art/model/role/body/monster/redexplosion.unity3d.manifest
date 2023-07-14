@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 933845853
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fbf4296bd4450cb9684a4acd20cdc843
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/RedExplosion/wait.anim
+- Assets/Art/Model/Role/Body/Monster/RedExplosion/RedExplosion.mat
+- Assets/Art/Model/Role/Body/Monster/RedExplosion/die.anim
+- Assets/Art/Model/Role/Body/Monster/RedExplosion/skill_ready.anim
+- Assets/Art/Model/Role/Body/Monster/RedExplosion/walk.anim
+- Assets/Art/Model/Role/Body/Monster/RedExplosion/RedExplosion.FBX
+- Assets/Art/Model/Role/Body/Monster/RedExplosion/playshow.anim
+- Assets/Art/Model/Role/Body/Monster/RedExplosion/attack.anim
+- Assets/Art/Model/Role/Body/Monster/RedExplosion/AC_RedExplosion.controller
+- Assets/Art/Model/Role/Body/Monster/RedExplosion/RedExplosion.png
+- Assets/Art/Model/Role/Body/Monster/RedExplosion/use_skill.anim
+- Assets/Art/Model/Role/Body/Monster/RedExplosion/hit.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

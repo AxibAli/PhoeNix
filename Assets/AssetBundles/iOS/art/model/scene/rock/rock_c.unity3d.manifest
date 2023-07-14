@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1659633770
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a198d56dad56aa5c30b5142de0a4cbb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb96948b47ad6ca1df035de75994dde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/rock/rock_c/rock_niflhem_stone1.FBX
+- Assets/Art/Model/Scene/rock/rock_c/rock_niflhem_stone1a.FBX
+- Assets/Art/Model/Scene/rock/rock_c/rock_niflhem_stone2.FBX
+- Assets/Art/Model/Scene/rock/rock_c/rock_niflhem_szq.FBX
+- Assets/Art/Model/Scene/rock/rock_c/rock_iz_Poring_pr_suishipian.FBX
+- Assets/Art/Model/Scene/rock/rock_c/rock_niflhem_shanti.FBX
+- Assets/Art/Model/Scene/rock/rock_c/rock_niflhem_stone2a.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/rock/rock_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/rock/rock_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/rock/rock_c.unity3d

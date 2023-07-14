@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BuildBundleConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <currentVersion>208370</currentVersion>
+  <maxDirectUpgradeVers>5</maxDirectUpgradeVers>
+  <appInstallUrl>http://www.taptap.com/app/7133</appInstallUrl>
+  <infos>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="156867" SVN_End="156922" ResVersion="156922" ServerVersion="2.0.35" ForceUpdateApp="false" />
+      <BuildBundleInfo SVN_Start="156923" SVN_End="157009" ResVersion="157009" ServerVersion="2.0.35" ForceUpdateApp="false" />
+      <BuildBundleInfo SVN_Start="157010" SVN_End="157520" ResVersion="157520" ServerVersion="2.0.35" ForceUpdateApp="false" />
+      <BuildBundleInfo SVN_Start="157521" SVN_End="158668" ResVersion="158668" ServerVersion="2.0.35" ForceUpdateApp="false" />
+      <BuildBundleInfo SVN_Start="158669" SVN_End="158853" ResVersion="158853" ServerVersion="2.0.35" ForceUpdateApp="false" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="158854" SVN_End="161430" ResVersion="161430" ServerVersion="2.0.35" ForceUpdateApp="false" />
+      <BuildBundleInfo SVN_Start="161431" SVN_End="161528" ResVersion="161528" ServerVersion="2.0.35" ForceUpdateApp="false" />
+      <BuildBundleInfo SVN_Start="161528" SVN_End="161557" ResVersion="161557" ServerVersion="2.0.35" ForceUpdateApp="false" />
+      <BuildBundleInfo SVN_Start="161558" SVN_End="163257" ResVersion="163257" ServerVersion="2.0.35" ForceUpdateApp="false" />
+      <BuildBundleInfo SVN_Start="163258" SVN_End="171111" ResVersion="171111" ServerVersion="2.0.35" ForceUpdateApp="false" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="171112" SVN_End="171500" ResVersion="171500" ServerVersion="2.0.35" ForceUpdateApp="false" />
+      <BuildBundleInfo SVN_Start="171501" SVN_End="171603" ResVersion="171603" ServerVersion="2.0.35" ForceUpdateApp="false" />
+      <BuildBundleInfo SVN_Start="171604" SVN_End="181470" ResVersion="181470" ServerVersion="2.0.35" ForceUpdateApp="false" />
+      <BuildBundleInfo SVN_Start="181471" SVN_End="186695" ResVersion="186695" ServerVersion="2.0.35" ForceUpdateApp="false" />
+      <BuildBundleInfo SVN_Start="186696" SVN_End="188024" ResVersion="188024" ServerVersion="2.0.35" ForceUpdateApp="false" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="188025" SVN_End="188234" ResVersion="188234" ServerVersion="2.0.35" ForceUpdateApp="false" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="203211" SVN_End="203211" ResVersion="203211" ServerVersion="2.0.35" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="203279" SVN_End="203279" ResVersion="203279" ServerVersion="1.0.78" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="203301" SVN_End="203301" ResVersion="203301" ServerVersion="2.0.35" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="203577" SVN_End="203577" ResVersion="203577" ServerVersion="2.0.35" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="203605" SVN_End="203605" ResVersion="203605" ServerVersion="1.0.78" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="203619" SVN_End="203619" ResVersion="203619" ServerVersion="2.0.35" ForceUpdateApp="true" />
+      <BuildBundleInfo SVN_Start="203620" SVN_End="203734" ResVersion="203734" ServerVersion="2.0.35" ForceUpdateApp="false" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="205172" SVN_End="205172" ResVersion="205172" ServerVersion="2.0.35" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="205321" SVN_End="205321" ResVersion="205321" ServerVersion="2.0.35" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="205565" SVN_End="205565" ResVersion="205565" ServerVersion="2.0.35" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="205686" SVN_End="205686" ResVersion="205686" ServerVersion="1.0.79" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="205740" SVN_End="205740" ResVersion="205740" ServerVersion="1.0.80" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="205799" SVN_End="205799" ResVersion="205799" ServerVersion="2.0.35" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="205902" SVN_End="205902" ResVersion="205902" ServerVersion="2.0.35" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="206034" SVN_End="206034" ResVersion="206034" ServerVersion="2.0.35" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="206124" SVN_End="206124" ResVersion="206124" ServerVersion="2.0.35" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="206353" SVN_End="206353" ResVersion="206353" ServerVersion="2.0.35" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="206507" SVN_End="206507" ResVersion="206507" ServerVersion="2.0.35" ForceUpdateApp="true" />
+      <BuildBundleInfo SVN_Start="206508" SVN_End="206573" ResVersion="206573" ServerVersion="2.0.35" ForceUpdateApp="false" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="206683" SVN_End="206683" ResVersion="206683" ServerVersion="2.0.35" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="206736" SVN_End="206736" ResVersion="206736" ServerVersion="2.0.35" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="206755" SVN_End="206755" ResVersion="206755" ServerVersion="1.0.80" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="206869" SVN_End="206869" ResVersion="206869" ServerVersion="1.0.80" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="206968" SVN_End="206968" ResVersion="206968" ServerVersion="2.0.35" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="207201" SVN_End="207201" ResVersion="207201" ServerVersion="2.0.35" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="207236" SVN_End="207236" ResVersion="207236" ServerVersion="2.0.35" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="207268" SVN_End="207268" ResVersion="207268" ServerVersion="2.0.35" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="207325" SVN_End="207325" ResVersion="207325" ServerVersion="2.0.35" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="207980" SVN_End="207980" ResVersion="207980" ServerVersion="2.1.2" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="208056" SVN_End="208056" ResVersion="208056" ServerVersion="1.0.81" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>∑
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="208147" SVN_End="208147" ResVersion="208147" ServerVersion="2.1.2" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="208173" SVN_End="208173" ResVersion="208173" ServerVersion="1.0.81" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="208231" SVN_End="208231" ResVersion="208231" ServerVersion="2.0.35" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="208277" SVN_End="208277" ResVersion="208277" ServerVersion="1.0.81" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+    <ArrayOfBuildBundleInfo>
+      <BuildBundleInfo SVN_Start="208370" SVN_End="208370" ResVersion="208370" ServerVersion="1.0.81" ForceUpdateApp="true" />
+    </ArrayOfBuildBundleInfo>
+  </infos>
+</BuildBundleConfig>

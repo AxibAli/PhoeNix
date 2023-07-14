@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3415203906
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 950917df13c16608e2e1fd9fbbccad23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Xmas_M/wait.anim
+- Assets/Art/Model/Role/Body/NPC/Xmas_M/AC_Xmas_M.controller
+- Assets/Art/Model/Role/Body/NPC/Xmas_M/functional_action6.anim
+- Assets/Art/Model/Role/Body/NPC/Xmas_M/Xmas_M.mat
+- Assets/Art/Model/Role/Body/NPC/Xmas_M/Xmas_M.FBX
+- Assets/Art/Model/Role/Body/NPC/Xmas_M/Xmas_M.png
+- Assets/Art/Model/Role/Body/NPC/Xmas_M/functional_action5.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

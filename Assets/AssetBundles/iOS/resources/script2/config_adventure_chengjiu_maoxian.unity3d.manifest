@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3893408300
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ecb6f83e9e60ed468a99014f0c29bcb5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/Config_Adventure_ChengJiu_MaoXian/Table_AdventureAppend.bytes
+- Assets/Resources/Script2/Config_Adventure_ChengJiu_MaoXian/Table_AchievementText.bytes
+- Assets/Resources/Script2/Config_Adventure_ChengJiu_MaoXian/Table_AdventureLevel.bytes
+- Assets/Resources/Script2/Config_Adventure_ChengJiu_MaoXian/Table_Achievement.bytes
+- Assets/Resources/Script2/Config_Adventure_ChengJiu_MaoXian/Table_Collection.bytes
+- Assets/Resources/Script2/Config_Adventure_ChengJiu_MaoXian/Table_Appellation.bytes
+- Assets/Resources/Script2/Config_Adventure_ChengJiu_MaoXian/Table_CookerLevel.bytes
+Dependencies: []

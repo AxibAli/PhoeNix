@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3431578939
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a4daf7f990e93df3cb1a982fdac251cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/DevelopScene/Terrains/Texture/surface_prt_4_shui.png
+Dependencies: []

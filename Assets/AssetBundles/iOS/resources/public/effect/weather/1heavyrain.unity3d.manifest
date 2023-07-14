@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2120384497
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed3a3bacf117f86b30ff6f081a7980bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d3ef45c1167cbd317c87eee383e9a029
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d436cc15a736149a1b4b25049e7af1f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb7d529c074ed424aa4850e5aaedaef5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8300c39f069e348169aeadbc8d8c2031, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 591ee1cf9464d415fb8e0d31fc4624db, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Effect/Weather/1HeavyRain.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/glow.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/animation/effect/weather.unity3d

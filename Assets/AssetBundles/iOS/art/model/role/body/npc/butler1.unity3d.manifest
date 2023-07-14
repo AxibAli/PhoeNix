@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 2593685778
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 096dc24e18630b134272f3b5bdb31d7c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/butler1/walk.anim
+- Assets/Art/Model/Role/Body/NPC/butler1/playshow.anim
+- Assets/Art/Model/Role/Body/NPC/butler1/wait.anim
+- Assets/Art/Model/Role/Body/NPC/butler1/butler1.png
+- Assets/Art/Model/Role/Body/NPC/butler1/roam.anim
+- Assets/Art/Model/Role/Body/NPC/butler1/Tap.anim
+- Assets/Art/Model/Role/Body/NPC/butler1/butler1.mat
+- Assets/Art/Model/Role/Body/NPC/butler1/AC_butler1.controller
+- Assets/Art/Model/Role/Body/NPC/butler1/butler1.FBX
+- Assets/Art/Model/Role/Body/NPC/butler1/Untap.anim
+- Assets/Art/Model/Role/Body/NPC/butler1/functional_action3.anim
+- Assets/Art/Model/Role/Body/NPC/butler1/functional_action2.anim
+- Assets/Art/Model/Role/Body/NPC/butler1/functional_action.anim
+- Assets/Art/Model/Role/Body/NPC/butler1/disappear.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

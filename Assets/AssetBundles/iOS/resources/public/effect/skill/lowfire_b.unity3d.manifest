@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2337256896
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e81d1ab6891ee07e08089a99a0865c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2f7f913b4485ffbcac026f54fd56e93c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d436cc15a736149a1b4b25049e7af1f9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Effect/Skill/LowFire_B.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/line.unity3d

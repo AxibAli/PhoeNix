@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 149327692
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99ce15f77a60cfa5edcd4dfc891d1777
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Varmunt/Varmunt.mat
+- Assets/Art/Model/Role/Body/NPC/Varmunt/hit.anim
+- Assets/Art/Model/Role/Body/NPC/Varmunt/wait.anim
+- Assets/Art/Model/Role/Body/NPC/Varmunt/walk.anim
+- Assets/Art/Model/Role/Body/NPC/Varmunt/AC_Varmunt.controller
+- Assets/Art/Model/Role/Body/NPC/Varmunt/functional_action6.anim
+- Assets/Art/Model/Role/Body/NPC/Varmunt/Varmunt.png
+- Assets/Art/Model/Role/Body/NPC/Varmunt/functional_action5.anim
+- Assets/Art/Model/Role/Body/NPC/Varmunt/functional_action4.anim
+- Assets/Art/Model/Role/Body/NPC/Varmunt/Varmunt.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

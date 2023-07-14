@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 2515214249
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9cb014a6c4447f3ae692ca1c65c37a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 34f9d9a41d19d7bdab61391abc54ba6e
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 109
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Shader/MADFINGER-animtexture.shader
+- Assets/Resources/Public/Shader/Projector Multiply.shader
+- Assets/Resources/Public/Shader/Effect-Transparent-AlwaysFront-Scale.shader
+- Assets/Resources/Public/Shader/Effect-Transparent.shader
+- Assets/Resources/Public/Shader/SolidColor.shader
+- Assets/Resources/Public/Shader/UI-MaskCircle.shader
+- Assets/Resources/Public/Shader/UIBlurShader.shader
+- Assets/Resources/Public/Shader/Mirror-AlphaBumpSpec.shader
+- Assets/Resources/Public/Shader/Skybox-ProceduralEx-Moble.shader
+- Assets/Resources/Public/Shader/MADFINGER-Unlit-Scroll2Layers-Mul-Sine.shader
+- Assets/Resources/Public/Shader/NormalTransparent.shader
+- Assets/Resources/Public/Shader/Mask.shader
+- Assets/Resources/Public/Shader/SceneObject-Lit-Wind.shader
+- Assets/Resources/Public/Shader/Color.shader
+- Assets/Resources/Public/Shader/MADFINGER-blinking-god-rays.shader
+- Assets/Resources/Public/Shader/Normal.shader
+- Assets/Resources/Public/Shader/MADFINGER-Unlit-Scroll2Layers-Sine-AlphaBlend.shader
+- Assets/Resources/Public/Shader/Skybox-ProceduralEx.shader
+- Assets/Resources/Public/Shader/MADFINGER-Lightmap-Unlit-Wind.shader
+- Assets/Resources/Public/Shader/SceneObject-Unlit.shader
+- Assets/Resources/Public/Shader/Effect-Transparent-AlwaysFront.shader
+- Assets/Resources/Public/Shader/Skybox-Procedural.shader
+- Assets/Resources/Public/Shader/RolePart.shader
+- Assets/Resources/Public/Shader/RolePartOutline.shader
+- Assets/Resources/Public/Shader/Mirror-BumpSpec.shader
+- Assets/Resources/Public/Shader/MADFINGER-billboarded-blinking-god-rays.shader
+- Assets/Resources/Public/Shader/BulletScreen.shader
+- Assets/Resources/Public/Shader/WaterSimpleWave.shader
+- Assets/Resources/Public/Shader/Effect-Transparent-Scale.shader
+- Assets/Resources/Public/Shader/SpriteWithFog.shader
+- Assets/Resources/Public/Shader/Projector Over.shader
+- Assets/Resources/Public/Shader/CubeMapFacula.shader
+- Assets/Resources/Public/Shader/RolePartHelper.cginc
+- Assets/Resources/Public/Shader/SceneObject-Lit.shader
+- Assets/Resources/Public/Shader/MADFINGER-god-rays.shader
+- Assets/Resources/Public/Shader/Clear.shader
+- Assets/Resources/Public/Shader/SceneObject-Unlit-Wind.shader
+- Assets/Resources/Public/Shader/SkyboxHelper.cginc
+- Assets/Resources/Public/Shader/Skybox-Cubed.shader
+- Assets/Resources/Public/Shader/Projector Single.shader
+- Assets/Resources/Public/Shader/Mirror-AlphaSpecSphere.shader
+- Assets/Resources/Public/Shader/MADFINGER-Unlit-Scroll2Layers-Mul-skybox.shader
+- Assets/Resources/Public/Shader/Mirror-BumpSpec-Wave.shader
+Dependencies: []

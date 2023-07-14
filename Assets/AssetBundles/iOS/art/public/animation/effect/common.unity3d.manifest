@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 723355316
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 46e3a180669e57ac3b47072f5f3585d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f77eea2624f7758fb2f4686f7ac7b73
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/effect/common/TeamFlag4.controller
+- Assets/Art/Public/Animation/effect/common/DamageNum_R.anim
+- Assets/Art/Public/Animation/effect/common/PropertiesUp.controller
+- Assets/Art/Public/Animation/effect/common/CreateRoleUI.anim
+- Assets/Art/Public/Animation/effect/common/PhotographColorCl.anim
+- Assets/Art/Public/Animation/effect/common/TeamFlag5.controller
+- Assets/Art/Public/Animation/effect/common/TeamFlag7.controller
+- Assets/Art/Public/Animation/effect/common/DamageNum_J.anim
+- Assets/Art/Public/Animation/effect/common/TeamFlag3.anim
+- Assets/Art/Public/Animation/effect/common/CrystalBall2.anim
+- Assets/Art/Public/Animation/effect/common/PropertiesUp_1.controller
+- Assets/Art/Public/Animation/effect/common/DivineHand_1Start.anim
+- Assets/Art/Public/Animation/effect/common/CrystalBall3.anim
+- Assets/Art/Public/Animation/effect/common/PropertiesUp_1.anim
+- Assets/Art/Public/Animation/effect/common/DivineFire.controller
+- Assets/Art/Public/Animation/effect/common/Miss.controller
+- Assets/Art/Public/Animation/effect/common/TeamFlag1.anim
+- Assets/Art/Public/Animation/effect/common/TeamFlag4.anim
+- Assets/Art/Public/Animation/effect/common/DamageNum_L.anim
+- Assets/Art/Public/Animation/effect/common/DamageNum.controller
+- Assets/Art/Public/Animation/effect/common/Miss.anim
+- Assets/Art/Public/Animation/effect/common/CreateRoleUI.controller
+- Assets/Art/Public/Animation/effect/common/CrystalBall.controller
+- Assets/Art/Public/Animation/effect/common/TeamFlag3.controller
+- Assets/Art/Public/Animation/effect/common/DivineHand_1Wait.anim
+- Assets/Art/Public/Animation/effect/common/TeamFlag2.anim
+- Assets/Art/Public/Animation/effect/common/DivineFire.anim
+- Assets/Art/Public/Animation/effect/common/TeamFlag5.anim
+- Assets/Art/Public/Animation/effect/common/PropertiesUp.anim
+- Assets/Art/Public/Animation/effect/common/TeamFlag7.anim
+- Assets/Art/Public/Animation/effect/common/PhotographColorOff.anim
+- Assets/Art/Public/Animation/effect/common/DamageNum.anim
+- Assets/Art/Public/Animation/effect/common/DivineHand_1.controller
+- Assets/Art/Public/Animation/effect/common/TeamFlag6.controller
+- Assets/Art/Public/Animation/effect/common/PhotographColorOp.anim
+- Assets/Art/Public/Animation/effect/common/TeamFlag2.controller
+- Assets/Art/Public/Animation/effect/common/TeamFlag1.controller
+- Assets/Art/Public/Animation/effect/common/CrystalBall1.anim
+- Assets/Art/Public/Animation/effect/common/TeamFlag6.anim
+- Assets/Art/Public/Animation/effect/common/DivineHand_1Exit.anim
+- Assets/Art/Public/Animation/effect/common/HealNum.anim
+- Assets/Art/Public/Animation/effect/common/PropertiesUp_1_1.anim
+- Assets/Art/Public/Animation/effect/common/PhotographColor.controller
+- Assets/Art/Public/Animation/effect/common/PhotographColorOn.anim
+Dependencies: []

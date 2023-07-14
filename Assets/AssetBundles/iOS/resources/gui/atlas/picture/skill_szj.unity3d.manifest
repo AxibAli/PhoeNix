@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1180569278
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4eb6cd0c3fea957ee5f63965fca8dd89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/atlas/picture/Skill_szj.png
+Dependencies: []

@@ -1,0 +1,96 @@
+ManifestFileVersion: 0
+CRC: 1814620670
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3931a3e43dcdbff8f3ed04794378f6fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_07.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_10.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_umbala_shuwu3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_09.png
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_15.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_07.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_iz_poring_gongmen1.png
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_16.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_08.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_umbala_shuwu2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_11.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_24.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_19.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_21.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_18.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_iz_poring_mgl.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_16.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_nif_fild2_chuanghu.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_03.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_23.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_09.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_19.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_01.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_20.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_umbala_muban1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_teamvs_jianzhutaijie.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_iz_poring_moshu1_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_umbala_shuwu1_01.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_02.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_teamvs_jianzhutaijie.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_iz_poring_cdl.png
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_22.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_dizhuan3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_17.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_21.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_20.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_iz_poring_xfz.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_dizhuan3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_dizhuan4.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_umbala_muban2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_dizhuan2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_02.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_08.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_umbala_shuwu1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_22.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_iz_poring_moshu1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_iz_poring_moshu1_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_dizhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_umbala_shuwu1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_iz_poring_mgl.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_nif_fild2_chuanghu.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_iz_poring_gongmen1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_17.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_18.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_umbala_jitan.TGA
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_03.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_iz_poring_xfz.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_iz_poring_moshu1.png
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_dizhuan2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_umbala_muban1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_umbala_muban2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_24.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_umbala_jitan.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_dizhuan5.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_10.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_11.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_iz_poring_cdl.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_umbala_shuwu2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_umbala_shuwu1_01.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_dizhuan.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_umbala_shuwu3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_23.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_01.png
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_dizhuan5.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_15.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_p/building_edmund_neil_dizhuan4.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

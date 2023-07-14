@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 15440052
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3bfb95a5ce53cf19bdbe0ca930afe30
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3e67fc8ff68d169ca496885cdebf4663
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Cookie_Gift/wait.anim
+- Assets/Art/Model/Role/Body/NPC/Cookie_Gift/wait 1.anim
+- Assets/Art/Model/Role/Body/NPC/Cookie_Gift/Giftbox.mat
+- Assets/Art/Model/Role/Body/NPC/Cookie_Gift/Giftbox.png
+- Assets/Art/Model/Role/Body/NPC/Cookie_Gift/Cookie_Gift_hong.FBX
+- Assets/Art/Model/Role/Body/NPC/Cookie_Gift/Cookie_Gift_hong.mat
+- Assets/Art/Model/Role/Body/NPC/Cookie_Gift/AC_Cookie_Gift.controller
+- Assets/Art/Model/Role/Body/NPC/Cookie_Gift/die.anim
+- Assets/Art/Model/Role/Body/NPC/Cookie_Gift/walk.anim
+- Assets/Art/Model/Role/Body/NPC/Cookie_Gift/born.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/body.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3118390446
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef743845cb31b263dad8791fce44adc1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c2bdabd68c118aabc18c59eaf5951821
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Material/MatNavMeshMap1.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

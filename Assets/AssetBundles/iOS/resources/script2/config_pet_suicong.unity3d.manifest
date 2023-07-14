@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2736971857
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a536a007127ec45706f1ca08b28ed94d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/Config_Pet_SuiCong/Table_Pet_FriendLevel.bytes
+- Assets/Resources/Script2/Config_Pet_SuiCong/Table_MercenaryCat.bytes
+- Assets/Resources/Script2/Config_Pet_SuiCong/Table_BeingBaseLevel.bytes
+- Assets/Resources/Script2/Config_Pet_SuiCong/Table_Pet.bytes
+- Assets/Resources/Script2/Config_Pet_SuiCong/Table_Pet_Capture.bytes
+- Assets/Resources/Script2/Config_Pet_SuiCong/Table_PetCompose.bytes
+- Assets/Resources/Script2/Config_Pet_SuiCong/Table_Being.bytes
+- Assets/Resources/Script2/Config_Pet_SuiCong/Table_Pet_Adventure.bytes
+- Assets/Resources/Script2/Config_Pet_SuiCong/Table_NPCFollow.bytes
+- Assets/Resources/Script2/Config_Pet_SuiCong/Table_PetBaseLevel.bytes
+- Assets/Resources/Script2/Config_Pet_SuiCong/Table_Pet_AdventureCond.bytes
+- Assets/Resources/Script2/Config_Pet_SuiCong/Table_Pet_WorkSpace.bytes
+Dependencies: []

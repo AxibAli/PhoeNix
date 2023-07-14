@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2238907296
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 043c9c14e4b01f1a7ca9dc82222308ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Common/MonsterEvolve.wav
+Dependencies: []

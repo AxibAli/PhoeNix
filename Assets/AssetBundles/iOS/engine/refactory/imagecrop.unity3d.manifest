@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3872029239
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb1ca2830f41bc4c2c091b75807cf942
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbba593f8636149c238d0c52e244076f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9fec695732b04abd8cea4fda6759041, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Engine/Refactory/ImageCrop.prefab
+Dependencies: []

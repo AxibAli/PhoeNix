@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2896271405
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 903af7d776d6806d182e3e317a08489d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f84b1edfdf1ac21393e8856b31bcead6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Board/Board.mat
+- Assets/Art/Model/Role/Body/NPC/Board/Board.png
+- Assets/Art/Model/Role/Body/NPC/Board/Board.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

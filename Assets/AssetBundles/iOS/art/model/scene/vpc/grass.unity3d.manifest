@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 976607626
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5cb02de7da0ce48d4fd3487dc66967e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b106928f160adf317d9a2477967d136b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54e94ca623f4a45d7a63e92000444976, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/VPC/Grass/Grass.prefab
+- Assets/Art/Model/Scene/VPC/Grass/Grass.controller
+- Assets/Art/Model/Scene/VPC/Grass/state1001.anim
+- Assets/Art/Model/Scene/VPC/Grass/state1002.anim
+- Assets/Art/Model/Scene/VPC/Grass/state2001.anim
+- Assets/Art/Model/Scene/VPC/Grass/state2002.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/glow.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/pic.unity3d

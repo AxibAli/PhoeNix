@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 21327738
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e514b34478485857cd5a488409cbe3e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc193d49e7d16f71ac778acf3c7bfc27
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Mouth/Snack_mouth/Snack_mouth.png
+- Assets/Art/Model/Role/Mouth/Snack_mouth/Snack_mouth.FBX
+- Assets/Art/Model/Role/Mouth/Snack_mouth/Snack_mouth.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

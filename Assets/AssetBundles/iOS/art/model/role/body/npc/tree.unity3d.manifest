@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1958524581
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0276d1c3ea2eade3e52fd25fbd9712b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e2c8a3d0f8e37a25f34437c7548dca10
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Tree/AC_Tree.controller
+- Assets/Art/Model/Role/Body/NPC/Tree/Tree.mat
+- Assets/Art/Model/Role/Body/NPC/Tree/Tree.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

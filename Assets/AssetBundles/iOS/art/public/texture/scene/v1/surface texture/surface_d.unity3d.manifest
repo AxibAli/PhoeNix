@@ -1,0 +1,94 @@
+ManifestFileVersion: 0
+CRC: 1994051854
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d8475a24b093624d5980eca304589bab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_moc_fild1_shui.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_under_dixing_roof.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_moc1_dun_dizhuan2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_under_dixing_ground01.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_moc_pyd2_tuxing2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_moc1_dun_dizhuan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_yixue_2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_caodi2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_under_dixing_ground04.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_yixue_1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_new_geffen.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_shamo.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_yixue_1b.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_dizhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_pay_fild1_jianzhong.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_payon_BJshuiche.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_dizhuan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_pay_fild1_jianzhong.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_yixue_1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_payon_shuichi2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_shamo2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_moc_pyd2_tuxing.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_pay_fild02_gendi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_payon_shuichi2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_under_dixing_wall.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_under_dixing_wall.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_under_dixing_ground03.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_moc1_dun_chuansongzhen.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_shamotudi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_under_dixing_wall2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_moc1_dun_suilie.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_moc1_dun_suishi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_moc1_dun_suishi2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_moc1_dun_chuansongzhen.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_moc1_dun_suilie.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_payon_BJhean2.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_payon_BJhean1.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_moc1_dun_BJqiang.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_under_dixing_ground02.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_duanmian.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_payon_BJhean2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_payon_BJhean1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_under_dixing_ground02.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_under_dixing_roof.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_under_dixing_ground03.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_under_dixing_ground04.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_payon_shuichi1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_payon_BJshuiche.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_moc_fild1_shitou.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_mountain_2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_duanmian.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_moc1_dun_dizhuan2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_under_dixing_ground01.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_payon_shuichi1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_yixue_2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_yixue_2b.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_moc_pyd2_tuxing.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_suishi.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_caodi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_suishi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_moc1_dun_zijiang.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_shanshi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_moc_pyd2_tuxing2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_shamo.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_BJjinzita.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_moc1_dun_suishi2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_moc1_dun_suishi.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_moc1_dun_dizhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_moc1_dun_zijiang.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_under_dixing_wall2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_pay_fild02_gendi.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_moc1_dun_BJqiang.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_d/surface_morocc_BJjinzita.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_j.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

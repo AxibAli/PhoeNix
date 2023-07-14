@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3436100441
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d6f9e9c03e61778be941ba5a1427f64
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/MagnusExorcismus.wav
+Dependencies: []

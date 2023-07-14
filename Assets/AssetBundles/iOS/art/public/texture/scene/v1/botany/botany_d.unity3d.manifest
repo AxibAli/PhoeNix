@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 3322929170
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff5ea1fdcfa08f809212fc3bd64e3616
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_op_huacao5.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_op_huacao1_an.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_op_huacao1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_mdgb_yinghua.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_op_huacao2b.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_op_huacao4.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_mdgb_yinghua.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_op_huacao1_an.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_niflhem_tengman_01.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_mdgb_yinghua3.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_op_huacao2b dong.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_op_tenmanhua.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_op_huacao2b.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_op_huacao2_s.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_op_huacao2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_op_huacao1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_op_huacao7.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_op_huacao1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_mdgb_yinghua2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_mdgb_shucong.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_mdgb_shucong.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_op_huacao2_s.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_niflhem_tengman_01.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_mdgb_yinghua gan2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_op_huacao6.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_mdgb_yinghua gan2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_op_huacao2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_d/botany_op_huacao2b dong2.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2292452998
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb32cdece685f007a158e59c98244964
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: edcc9359e1d92b0c6f9ce6aafc1817fa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/BadApple/AC_BadApple.controller
+- Assets/Art/Model/Role/Body/NPC/BadApple/wait.anim
+- Assets/Art/Model/Role/Body/NPC/BadApple/attack.anim
+- Assets/Art/Model/Role/Body/NPC/BadApple/BADAPPLE01.FBX
+Dependencies: []

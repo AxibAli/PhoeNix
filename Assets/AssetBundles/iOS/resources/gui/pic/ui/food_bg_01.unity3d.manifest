@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1119825035
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0c21cb1d0f78b8232ec7efd5250a15d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/UI/food_bg_01.png
+Dependencies: []

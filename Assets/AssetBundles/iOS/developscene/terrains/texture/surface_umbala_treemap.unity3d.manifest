@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1418166674
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d89d6dea077ac126be4593fd5b87728
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/DevelopScene/Terrains/Texture/surface_umbala_treemap.png
+Dependencies: []

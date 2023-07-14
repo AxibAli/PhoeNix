@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1645229887
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 781d2b91cf208ab58610d4b5b65ded5c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Adventurer_F/wait.anim
+- Assets/Art/Model/Role/Body/NPC/Adventurer_F/Adventurer_F.FBX
+- Assets/Art/Model/Role/Body/NPC/Adventurer_F/Adventurer_F.png
+- Assets/Art/Model/Role/Body/NPC/Adventurer_F/AC_Adventurer_F.controller
+- Assets/Art/Model/Role/Body/NPC/Adventurer_F/Adventurer_F.mat
+- Assets/Art/Model/Role/Body/NPC/Adventurer_F/die.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

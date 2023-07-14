@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1510988203
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b7de8b9cdf124f1435b01918dadd593a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d262c79a806a9b5fd41bbcbb566c39df
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Engine/Refactory/SceneGuildIcon.prefab
+- Assets/Engine/Refactory/SceneGuildIcon.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2226142728
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 650711f10e93df2b8bb9ebfe598dff6e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Scene/aldebaran/Camera/Camera.controller
+- Assets/Art/Public/Animation/Scene/aldebaran/Camera/Camera3.anim
+- Assets/Art/Public/Animation/Scene/aldebaran/Camera/Camera4.anim
+- Assets/Art/Public/Animation/Scene/aldebaran/Camera/Camera1.anim
+- Assets/Art/Public/Animation/Scene/aldebaran/Camera/Camera2.anim
+Dependencies: []

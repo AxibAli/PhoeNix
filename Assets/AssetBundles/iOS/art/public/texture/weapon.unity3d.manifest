@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 3466092985
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4e53cc3873e3e8e5f89b99b8f6058c9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Weapon/WarTerminator_stone.png
+- Assets/Art/Public/Texture/Weapon/Guilt_Book_S.png
+- Assets/Art/Public/Texture/Weapon/Guilt_Book_3.png
+- Assets/Art/Public/Texture/Weapon/Guilt_Book.png
+- Assets/Art/Public/Texture/Weapon/GodsGaze2.png
+- Assets/Art/Public/Texture/Weapon/Annihilate2.png
+- Assets/Art/Public/Texture/Weapon/SliverOaKnife2.png
+- Assets/Art/Public/Texture/Weapon/TyrSword2.png
+- Assets/Art/Public/Texture/Weapon/GoldBranch2.png
+- Assets/Art/Public/Texture/Weapon/Annihilate_stone.png
+- Assets/Art/Public/Texture/Weapon/AllThingsPeace2.png
+- Assets/Art/Public/Texture/Weapon/Guilt_Book_2.png
+- Assets/Art/Public/Texture/Weapon/Guilt_Whip_S.png
+- Assets/Art/Public/Texture/Weapon/Guilt_Mus_3.png
+- Assets/Art/Public/Texture/Weapon/61_Katar.png
+- Assets/Art/Public/Texture/Weapon/GoldBranch_stone.png
+- Assets/Art/Public/Texture/Weapon/GodsGaze.png
+- Assets/Art/Public/Texture/Weapon/ThorHammer2.png
+- Assets/Art/Public/Texture/Weapon/Baphomet_Neo.png
+- Assets/Art/Public/Texture/Weapon/GodsGaze_stone.png
+- Assets/Art/Public/Texture/Weapon/EternalSpear2.png
+- Assets/Art/Public/Texture/Weapon/Hervor_H.png
+- Assets/Art/Public/Texture/Weapon/Guilt_Whip.png
+- Assets/Art/Public/Texture/Weapon/WinterCrystal_stone.png
+- Assets/Art/Public/Texture/Weapon/AllThingsPeace_stone.png
+- Assets/Art/Public/Texture/Weapon/EternalSpear_stone.png
+- Assets/Art/Public/Texture/Weapon/ThorHammer_stone.png
+- Assets/Art/Public/Texture/Weapon/Guilt_Mus.png
+- Assets/Art/Public/Texture/Weapon/Tower_Manager.tga
+- Assets/Art/Public/Texture/Weapon/Hervor.png
+- Assets/Art/Public/Texture/Weapon/SliverOaKnife_stone.png
+- Assets/Art/Public/Texture/Weapon/Guilt_Whip_3.png
+- Assets/Art/Public/Texture/Weapon/TyrSword_stone.png
+- Assets/Art/Public/Texture/Weapon/WarTerminator2.png
+- Assets/Art/Public/Texture/Weapon/Hervor_L.png
+- Assets/Art/Public/Texture/Weapon/WinterCrystal2.png
+- Assets/Art/Public/Texture/Weapon/Guilt_Mus_S.png
+- Assets/Art/Public/Texture/Weapon/Guilt_Mus_2.png
+- Assets/Art/Public/Texture/Weapon/Guilt_Whip_2.png
+- Assets/Art/Public/Texture/Weapon/Goblin_Weapon.png
+Dependencies: []

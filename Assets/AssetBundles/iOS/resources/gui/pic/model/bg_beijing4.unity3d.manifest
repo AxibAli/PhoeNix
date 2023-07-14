@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 220050505
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c293e73f4170d1f4a1c5b61ad919b7e8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/Model/Bg_beijing4.jpg
+Dependencies: []

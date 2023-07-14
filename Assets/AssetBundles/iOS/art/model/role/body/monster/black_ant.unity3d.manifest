@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1256019205
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 85033a3c66f0f0397e1ce8c6036ae14e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Black_Ant/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Black_Ant/Black_Ant.png
+- Assets/Art/Model/Role/Body/Monster/Black_Ant/Black_Ant.FBX
+- Assets/Art/Model/Role/Body/Monster/Black_Ant/Black_Ant.mat
+- Assets/Art/Model/Role/Body/Monster/Black_Ant/walk.anim
+- Assets/Art/Model/Role/Body/Monster/Black_Ant/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Black_Ant/Black_Ant_D.FBX
+- Assets/Art/Model/Role/Body/Monster/Black_Ant/die.anim
+- Assets/Art/Model/Role/Body/Monster/Black_Ant/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Black_Ant/AC_Black_Ant.controller
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

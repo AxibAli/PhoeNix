@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 1538255748
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 17571fb80c97919104789f01d083a790
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Teddy_Bear/AC_Teddy_Bear.controller
+- Assets/Art/Model/Role/Body/Monster/Teddy_Bear/Bear_Pet.mat
+- Assets/Art/Model/Role/Body/Monster/Teddy_Bear/use_skill.anim
+- Assets/Art/Model/Role/Body/Monster/Teddy_Bear/happy.anim
+- Assets/Art/Model/Role/Body/Monster/Teddy_Bear/Teddy_Bear.FBX
+- Assets/Art/Model/Role/Body/Monster/Teddy_Bear/Bear_Pet.png
+- Assets/Art/Model/Role/Body/Monster/Teddy_Bear/eat.anim
+- Assets/Art/Model/Role/Body/Monster/Teddy_Bear/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Teddy_Bear/wait_Inhand.anim
+- Assets/Art/Model/Role/Body/Monster/Teddy_Bear/Teddy_Bear.mat
+- Assets/Art/Model/Role/Body/Monster/Teddy_Bear/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Teddy_Bear/be_touch.anim
+- Assets/Art/Model/Role/Body/Monster/Teddy_Bear/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Teddy_Bear/Teddy_Bear.png
+- Assets/Art/Model/Role/Body/Monster/Teddy_Bear/walk_Inhand.anim
+- Assets/Art/Model/Role/Body/Monster/Teddy_Bear/die.anim
+- Assets/Art/Model/Role/Body/Monster/Teddy_Bear/walk.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

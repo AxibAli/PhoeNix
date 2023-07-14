@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 3472761039
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3966dcc08ed30e9c1405a6199a05580e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Vanilmirth_Evo/Vanilmirth_Evo.FBX
+- Assets/Art/Model/Role/Body/Monster/Vanilmirth_Evo/eat.anim
+- Assets/Art/Model/Role/Body/Monster/Vanilmirth_Evo/be_touch.anim
+- Assets/Art/Model/Role/Body/Monster/Vanilmirth_Evo/wait_walk.anim
+- Assets/Art/Model/Role/Body/Monster/Vanilmirth_Evo/Vanilmirth_Evo_.FBX
+- Assets/Art/Model/Role/Body/Monster/Vanilmirth_Evo/Vanilmirth_Evo_01.mat
+- Assets/Art/Model/Role/Body/Monster/Vanilmirth_Evo/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Vanilmirth_Evo/use_skill.anim
+- Assets/Art/Model/Role/Body/Monster/Vanilmirth_Evo/happy.anim
+- Assets/Art/Model/Role/Body/Monster/Vanilmirth_Evo/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Vanilmirth_Evo/die.anim
+- Assets/Art/Model/Role/Body/Monster/Vanilmirth_Evo/AC_Vanilmirth_Evo.controller
+- Assets/Art/Model/Role/Body/Monster/Vanilmirth_Evo/skill_ready.anim
+- Assets/Art/Model/Role/Body/Monster/Vanilmirth_Evo/walk_BeHold.anim
+- Assets/Art/Model/Role/Body/Monster/Vanilmirth_Evo/Vanilmirth_Evo.tga
+- Assets/Art/Model/Role/Body/Monster/Vanilmirth_Evo/wait_BeHold.anim
+- Assets/Art/Model/Role/Body/Monster/Vanilmirth_Evo/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Vanilmirth_Evo/Vanilmirth_Evo.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

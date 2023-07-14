@@ -1,0 +1,110 @@
+ManifestFileVersion: 0
+CRC: 128434405
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 621535eaec0dda6d05e742c255409c19
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Player/Novice_M/victory.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/pose_S12.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/wait_HoldPet.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/cook_ready.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/attack.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/use_skill2.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/pose2_m.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/AC_Novice_M.controller
+- Assets/Art/Model/Role/Body/Player/Novice_M/play_clap.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/pose_S9.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/HeightRaise.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/play_handheart.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/eat1.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/Novice_M.mat
+- Assets/Art/Model/Role/Body/Player/Novice_M/pose2.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/pose_S3.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/eat2.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/shooting.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/ride_wait.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/pose_3.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/die.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/sit_down3.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/walk_InHand.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/Novice_M.png
+- Assets/Art/Model/Role/Body/Player/Novice_M/play_sleep.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/wait_HandIn.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/play_lazysleep.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/wait.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/pose1_m.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/pose_S11.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/walk.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/Novice_M.FBX
+- Assets/Art/Model/Role/Body/Player/Novice_M/pose_S8.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/posejob1.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/reading.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/eat_end3.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/use_skill.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/use_magic.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/hit.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/feign_death.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/Novice_M_dead.mat
+- Assets/Art/Model/Role/Body/Player/Novice_M/pose_showweapon.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/cook_fail.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/touch_high.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/pose_S2.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/pose_S1.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/attack_wait.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/pose1.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/play_bow.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/play_onekneeldown.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/playshow.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/pose_S7.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/play_kiss.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/KissEmbracen.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/collect.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/eat_end2.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/eat3.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/walk_HoldPet.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/skill_ready.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/play_wave.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/ride_walk.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/pose_S6.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/walk_HandIn.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/throwing.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/pose_S5.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/cook_ing.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/pose_S10.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/pose_S4.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/wait_InHand.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/sit_down.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/eat_end1.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/ride_collect.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/touch_low.anim
+- Assets/Art/Model/Role/Body/Player/Novice_M/sit_down2.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

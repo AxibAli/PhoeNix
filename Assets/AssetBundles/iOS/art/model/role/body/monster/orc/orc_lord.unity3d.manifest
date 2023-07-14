@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1839921744
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 85783127013b0df79721732e7b04fb41
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Orc/Orc_Lord/die.anim
+- Assets/Art/Model/Role/Body/Monster/Orc/Orc_Lord/playshow.anim
+- Assets/Art/Model/Role/Body/Monster/Orc/Orc_Lord/AC_Orc_Lord.controller
+- Assets/Art/Model/Role/Body/Monster/Orc/Orc_Lord/use_magic.anim
+- Assets/Art/Model/Role/Body/Monster/Orc/Orc_Lord/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Orc/Orc_Lord/walk.anim
+- Assets/Art/Model/Role/Body/Monster/Orc/Orc_Lord/skill_ready.anim
+- Assets/Art/Model/Role/Body/Monster/Orc/Orc_Lord/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Orc/Orc_Lord/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Orc/Orc_Lord/use_skill.anim
+Dependencies: []

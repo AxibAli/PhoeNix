@@ -1,0 +1,88 @@
+ManifestFileVersion: 0
+CRC: 2235191509
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dfc6dacf53ed8f751d5466218b55c6a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc193d49e7d16f71ac778acf3c7bfc27
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/Surface/surface_d/surface_Guildgarden_boss1_ground.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_bt6_duanqiao.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_bt7_taijie1.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_guildgarden_room3_z.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_guildgarden_room3.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_iz_endless_di.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_bt5_c.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_iz_endless_taijie.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_glt_k.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_aldebaran_groundbaobian1.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_C_Tower_1F_dizuo1.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_Guildgarden_bt1_ground.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_guildgarden_room1_ground.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_C_Tower_1F.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_guildgarden_room2.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_guildgarden_bt2_bian.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_end2_dimian.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_aldebaran_kafeiguandiban.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_C_Tower_1F_ground2baobian.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_guildgarden_room4_ground.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/03 - Default.mat
+- Assets/Art/Model/Scene/Surface/surface_d/surface_ant_dun2_dixing.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_hugecat_BJcaocong.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_glt_k_ground.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_aldebaran_ground.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_ant_dun2_Fdi.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/thing_clocktower1_jixiezhuanmian.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_C_Tower_1F_shandong.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_hugecat_shuimian.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/building_aldebaran_ground3.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_aldebaran_tuan1.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/guildgarden_room3_shui.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/water_iz_endless_shuimian.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_bt7_dimian.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_flowersea_dibiao.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/colcktower1_box.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_guildgarden_bt2_ground.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_hugecat_dixing.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_guildgarden_enter_ground.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_flowersea_dibiao2.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_guildgarden_bt2_louti.FBX
+- Assets/Art/Model/Scene/Surface/surface_d/surface_bt5_1.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_m.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_i.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_f.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_l.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_j.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/developscene/terrains/texture/surface_aldebaran_ground.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_a.unity3d

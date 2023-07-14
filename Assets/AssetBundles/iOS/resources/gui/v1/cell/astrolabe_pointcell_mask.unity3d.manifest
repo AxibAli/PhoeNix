@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 387403064
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b385aae59df4f4a5438fe42b7da3ae69
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: eacc8420f44415b4117ce1f52617c709
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/cell/Astrolabe_PointCell_mask.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/gui/new/atlas/ui_astrolabe.unity3d

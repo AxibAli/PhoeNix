@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2631915356
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e309d66389e54f8af1091c5e97d93245
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/MVP/LordKaho/LordKaho.FBX
+- Assets/Art/Model/Role/Body/MVP/LordKaho/playshow.anim
+- Assets/Art/Model/Role/Body/MVP/LordKaho/skill_ready.anim
+- Assets/Art/Model/Role/Body/MVP/LordKaho/LordKaho.png
+- Assets/Art/Model/Role/Body/MVP/LordKaho/attack.anim
+- Assets/Art/Model/Role/Body/MVP/LordKaho/use_skill.anim
+- Assets/Art/Model/Role/Body/MVP/LordKaho/wait.anim
+- Assets/Art/Model/Role/Body/MVP/LordKaho/use_magic.anim
+- Assets/Art/Model/Role/Body/MVP/LordKaho/die.anim
+- Assets/Art/Model/Role/Body/MVP/LordKaho/AC_LordKaho.controller
+- Assets/Art/Model/Role/Body/MVP/LordKaho/hit.anim
+- Assets/Art/Model/Role/Body/MVP/LordKaho/walk.anim
+- Assets/Art/Model/Role/Body/MVP/LordKaho/LordKaho.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

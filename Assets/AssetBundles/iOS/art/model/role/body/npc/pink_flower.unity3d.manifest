@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3960763684
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7291663455af7366b4cf1e3edefe2538
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f84b1edfdf1ac21393e8856b31bcead6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Pink_flower/Pink_flower.mat
+- Assets/Art/Model/Role/Body/NPC/Pink_flower/Pink_flower.FBX
+- Assets/Art/Model/Role/Body/NPC/Pink_flower/Pink_flower.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

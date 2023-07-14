@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 335495816
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 23d04b71d1b8a3725d8640c99e247270
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/BigCatSkill_miaoluoquan_hit.wav
+Dependencies: []

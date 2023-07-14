@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3560675887
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 177bc58a540dbe68d46f0d07430a6492
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/Config_Pay_ZhiFu/Table_MonthCard.bytes
+- Assets/Resources/Script2/Config_Pay_ZhiFu/Table_ExchangeWorth.bytes
+- Assets/Resources/Script2/Config_Pay_ZhiFu/Table_Deposit.bytes
+- Assets/Resources/Script2/Config_Pay_ZhiFu/Table_ExchangeShop.bytes
+- Assets/Resources/Script2/Config_Pay_ZhiFu/Table_DepositFunction.bytes
+Dependencies: []

@@ -1,0 +1,124 @@
+ManifestFileVersion: 0
+CRC: 330886122
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a8a11d2e05a4fb18cad0b2fa9249436
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_cao2B_4.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_cao2B.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_IZpay1_BJzhu2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_guanmuye.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_yuno_fild1_tree1_gun1_2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_cao2B_1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_end_BJshucong.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_IZpay1_BJzhu.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_cao2_a.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_iz_dun1_haicao.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_yuno_fild1_tree1_ye1.png
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_huac.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_IZpay1_zhuye1 an.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_cao2 b.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botangy_pay_fild2_lhd1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_IZpay1_zhuye2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_yggdrasil_leaf1.png
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_guanmuye2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_caodi1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_end_BJyuanshan.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_cao2 c.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_iz_dun1_caochong.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_morocc_zonglvye.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_pay_fild02_nangua2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_moc_fild1_zhiwu.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_pay_fild02_xiaomai.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_yuno_fild1_tree1_ye1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_pay_fild02_shuye3.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_end_BJshu1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_caodi1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_morocc_zonglvye.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_cao2light.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_cao2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_song4.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_end_BJyuanshan2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_yggdrasil_leaf1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_IZpay1_zhuye2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_yuno_fild2_fartree.png
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_yuno_fild1_tree1_ye1_2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_hua b.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_cao2light.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_end_BJshu1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_guanmuzhi.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_cao2_a.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_guanmuye3.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_guanmuye.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_cao2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_end2_BJyuanshan.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botangy_pay_fild2_dashu.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_pay_fild02_nangua.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_prt_2_huachong1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_IZpay1_BJzhu.png
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_IZpay1_BJzhu2.png
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_guanmuye3.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_pay_fild02_shuye1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_pay_fild02_nangua.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_cao2a.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_end_BJshucong.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_guanmuye2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botangy_pay_fild2_lhd1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_pay_fild02_xiaomai.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_end_BJyuanshan2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_pay_fild02_xiaomai an.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_yuno_fild1_tree1_gun1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_end2_BJyuanshan.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_yggdrasil_bj.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_moc_fild1_zhiwu.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_cao2 d.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_pay_fild02_shuye1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_hua.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botangy_pay_fild2_dashu2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_prt_2_huachong1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_moc_fild1_hehua.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_end_BJyuanshan.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_yuno_fild1_guanmu1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_pay_fild02_shuye3.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_IZpay1_caocong.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_iz_dun1_caochong.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_iz_dun1_haicao.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_IZpay1_caocong.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botangy_pay_fild2_dashu.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_yuno_fild1_tree1_gun1_2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_song4.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_pay_fild02_shuye2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_IZpay1_zhuye1.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_cao2B_3.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_cao2B_2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botangy_pay_fild2_dashu2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_guanmuzhi.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_cao2B.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_pay_fild02_shuye2.tga
+- Assets/Scene/CharacterChoose/DC 3.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_yuno_fild1_tree1_ye1_2.png
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_IZpay1_zhuye1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_yuno_fild2_fartree.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_guildgarden_shuzhi2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_IZpay1_zhuye2 an.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_moc_fild1_hehua.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_yuno_fild1_guanmu1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_morocc_yeshu2.tga
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_morocc_yeshu2.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_yuno_fild1_tree1_gun1.mat
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_yggdrasil_bj.png
+- Assets/Art/Public/Texture/Scene/v1/botany/botany_c/botany_org_village_hua.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

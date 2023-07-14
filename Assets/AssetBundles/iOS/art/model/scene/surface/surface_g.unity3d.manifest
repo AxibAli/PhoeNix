@@ -1,0 +1,133 @@
+ManifestFileVersion: 0
+CRC: 397942661
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 96124fa82957bc612b4c94e288d98398
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a0be4af3980ba47a91ee745c7d1d323a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/Surface/surface_g/surface_nif_fild3_taijie.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_lighttower_ground1.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_yuno_zuocaodi.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_szz_lanqiuchangdi.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_room_happy_ditan.mat
+- Assets/Art/Model/Scene/Surface/surface_g/surface_umbala_sky.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_niflhem_mdzhuanlu1.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_nif_fild3_ground.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_niflhem_shuidi.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_room_molab_dixing.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_yggdrasil_water1.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_yuno_kt_pingtai.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_nif_fild3_shuiwen.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_room_nif2_qiang02.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_zlj_caodi.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_upgrade_shanti.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_upgrade_gonglu.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_upgrade_glxiexia.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_lava_boss_rongyan.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_room_nif2_qiang01.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_yuno_tuxiangdizhuan.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_room_nif2_muzhuzi.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_yuno_sf_caodi_a.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_yuno_zxgc_xiaopan.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_iz_Poring_pr_shuiwen.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_yuno_sf_caodi_c.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_upgrade_shuimian.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_lighttower_water.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_room_happy_dizhuan2.mat
+- Assets/Art/Model/Scene/Surface/surface_g/surface_room_nif1_wuding.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_niflhem_dixing2.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_room_nif2_wuding.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_upgrade_dixing.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_niflhem_zhuanlu.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_lava_boss_ground.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_niflhem_shui.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_nif_fild2_ground2.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/nif_fild1_dixing1.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_room_happy_dizhuan1.mat
+- Assets/Art/Model/Scene/Surface/surface_g/surface_room_T7_fangjian3.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_lava_boss_dimian.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_room_nif1_zhuzi02.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_yggdrasil_ground1.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_room_happy_ditan.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_room_nif1_qiang002.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_room_T7_fangjian2.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_yuno_zxgc_yuanpan.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_room_nif1.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_niflhem_dixing3.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_room_nif2_futi.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_lava_dun1_liefeng.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_jf_baixian.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/nif_fild1_dixing2.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_upgrade_dipi.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_yggdrasil_shuiwen.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_yuno_dixing1.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_room_T7_wuding.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_niflhem_dixing1.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_room_happy_dixing.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_lighttower_ground2.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_yuno_zxgc_xiaopan2.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_yggdrasil_tree1.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_yuno_dixing2.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_nif_fild3_shuimian.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_yuno_caodi1.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_room_happy_caodi1.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_room_nif2.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/nif_fild1_dixing3.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_yuno_sf_caodi_b.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_room_molab_wuding.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_room_T7_fangjian.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_upgrade_caodikuai.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_room_nif2_muzhuzi02.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_upgrade_matou.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_nif_fild2_ground.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_umbala_treemap.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/building_room_happy_jieti1.mat
+- Assets/Art/Model/Scene/Surface/surface_g/surface_nif_fild3_fang.FBX
+- Assets/Art/Model/Scene/Surface/surface_g/surface_niflhem_linshishanti.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_m.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_h.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_o.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_i.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_k.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_h.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_n.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_i.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_l.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/mesh.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_a.unity3d

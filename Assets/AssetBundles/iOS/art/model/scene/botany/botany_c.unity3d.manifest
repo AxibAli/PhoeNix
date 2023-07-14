@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 3188798997
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76cce85641fe8a9b654acaa111fe711f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bb96948b47ad6ca1df035de75994dde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/botany/botany_c/botany_niflhem_mogu.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_niflhem_ss_tree.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_upgrade_shu.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_yggdrasil_shuyeyanse.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_niflhem_shumu1.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botangy_pay_fild2_lhd1.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_prt_2_caochong_01.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_yggdrasil_dtree.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_yuno_fild2_fartree.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_yggdrasil_vine.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_niflhem_shumu5.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_yuno_fild1_tree3.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_honeymoon_guanmB.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_iz_dun1_caochong.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_yggdrasil_shu.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_niflhem_shumu4.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_amatsu_Dyhs.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_yuno_fild1_tree1.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_yuno_fild1_luoye1.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_yggdrasil_bj1.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_prt_2_caochong_02.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_niflhem_shumen.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_amatsu_yhluoye.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_niflhem_ss_tree1.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_amatsu_yhs.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_prt_2_huachong3.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_honeymoon_guanmA.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_yuno_fild1_xzw.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_prt_2_huachong2.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_amatsu_yinghuashu.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_honeymoon_ylcaoqiu.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_iz_dun1_haicao.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_yggdrasil_leaf.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_yuno_fild1_tree2.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_prt_2_huachong1.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_yggdrasil_bj2.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_amamtsu_yhshuye.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_niflhem_shumu2.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_yggdrasil_shuicao.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_yggdrasil_altree.FBX
+- Assets/Art/Model/Scene/botany/botany_c/botany_yuno_fild1_guanmu1.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/botany/botany_f.unity3d

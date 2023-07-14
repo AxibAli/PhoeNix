@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4041267318
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: abeeec38b0f8266045e8a6fe8af81acd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/BT_Field2/AC_BT_Field2.controller
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/animation/body/bt_field1.unity3d

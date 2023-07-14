@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1455964094
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e44ec439f751e221775bae35de2b9363
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Npc/CommonStoreFemaleO_3.wav
+Dependencies: []

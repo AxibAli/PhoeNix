@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1740505775
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8621e8b4a8941d5b450bbef33027fa8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3a9c055f18ae0c8603f162d59876ad9f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65db4a24f4d594b4e9d4a6f385f02a04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scene/LoadScene/LoadScene.unity
+Dependencies: []

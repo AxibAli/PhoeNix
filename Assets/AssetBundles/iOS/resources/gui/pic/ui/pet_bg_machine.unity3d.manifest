@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1875024606
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fbe45851327a559c03ed93bb6e48664b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/UI/pet_bg_machine.png
+Dependencies: []

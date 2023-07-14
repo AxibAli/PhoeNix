@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 708957742
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce7171e9bcb8ea682af107106b3bb8b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Common/rod_hit.wav
+Dependencies: []

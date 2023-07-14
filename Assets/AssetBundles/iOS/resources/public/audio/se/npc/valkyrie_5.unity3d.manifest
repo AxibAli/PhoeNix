@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 258329541
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2b7c1365cd3c9807d0dc70c8d621566
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Npc/Valkyrie_5.wav
+Dependencies: []

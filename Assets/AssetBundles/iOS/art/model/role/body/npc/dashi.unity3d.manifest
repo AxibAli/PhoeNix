@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 547371548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04434c8d3015a833ef7815b27e752eae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Dashi/AC_Dashi.controller
+- Assets/Art/Model/Role/Body/NPC/Dashi/state4002.anim
+- Assets/Art/Model/Role/Body/NPC/Dashi/Dashi.FBX
+- Assets/Art/Model/Role/Body/NPC/Dashi/state2002.anim
+- Assets/Art/Model/Role/Body/NPC/Dashi/state6001.anim
+- Assets/Art/Model/Role/Body/NPC/Dashi/state1002.anim
+- Assets/Art/Model/Role/Body/NPC/Dashi/state5002.anim
+- Assets/Art/Model/Role/Body/NPC/Dashi/state3002.anim
+- Assets/Art/Model/Role/Body/NPC/Dashi/state5001.anim
+- Assets/Art/Model/Role/Body/NPC/Dashi/state3001.anim
+- Assets/Art/Model/Role/Body/NPC/Dashi/Dashi.png
+- Assets/Art/Model/Role/Body/NPC/Dashi/state4001.anim
+- Assets/Art/Model/Role/Body/NPC/Dashi/state1001.anim
+- Assets/Art/Model/Role/Body/NPC/Dashi/Dashi.mat
+- Assets/Art/Model/Role/Body/NPC/Dashi/state6002.anim
+- Assets/Art/Model/Role/Body/NPC/Dashi/state2001.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

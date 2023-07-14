@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2701362200
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 004c9aecaaffbf98a32d43fb0976a6ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 60bee4fe25e862adc1c48f0317a6877e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: caa3eb83596bf408f89d53b1846ed06b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/BusCarrier/7.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/bus/bus_ferriswheel.unity3d

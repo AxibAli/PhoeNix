@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 606256295
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30f8aa06631dcceb34cf02bd81f2faac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/atlas/material/Skill_ljss.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/gui/atlas/picture/skill_ljss.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader/ui.unity3d

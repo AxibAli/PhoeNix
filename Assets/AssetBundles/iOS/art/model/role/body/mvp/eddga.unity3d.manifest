@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 1286998852
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d453be16baac4f47ac4f6478cbca7885
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/MVP/Eddga/hit.anim
+- Assets/Art/Model/Role/Body/MVP/Eddga/attack.anim
+- Assets/Art/Model/Role/Body/MVP/Eddga/Eddga.mat
+- Assets/Art/Model/Role/Body/MVP/Eddga/Eddga.png
+- Assets/Art/Model/Role/Body/MVP/Eddga/playshow.anim
+- Assets/Art/Model/Role/Body/MVP/Eddga/skill_ready.anim
+- Assets/Art/Model/Role/Body/MVP/Eddga/use_skill.anim
+- Assets/Art/Model/Role/Body/MVP/Eddga/Eddga.FBX
+- Assets/Art/Model/Role/Body/MVP/Eddga/AC_Eddga.controller
+- Assets/Art/Model/Role/Body/MVP/Eddga/die.anim
+- Assets/Art/Model/Role/Body/MVP/Eddga/walk.anim
+- Assets/Art/Model/Role/Body/MVP/Eddga/use_skill2.anim
+- Assets/Art/Model/Role/Body/MVP/Eddga/wait.anim
+- Assets/Art/Model/Role/Body/MVP/Eddga/Eddga_dead.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

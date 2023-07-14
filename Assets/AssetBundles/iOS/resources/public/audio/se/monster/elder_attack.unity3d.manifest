@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3576628385
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f5f49bbc91ad9cbb4e09194dade56ef6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Monster/Elder_attack.wav
+Dependencies: []

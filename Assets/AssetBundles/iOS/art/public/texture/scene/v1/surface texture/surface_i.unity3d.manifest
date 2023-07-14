@@ -1,0 +1,114 @@
+ManifestFileVersion: 0
+CRC: 3207911231
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d41b158b11a305e87d12289c389acc9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_nif_fild1_dixing2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_szz_lushi.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_lava_boss_dimian2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_niflhem_shanshi3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_room_nif_fild2_dizhuan1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_umbala_sky1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_zlj_gonglu2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_lava_boss_dimian1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_room_happy_ditan.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_niflhem_dizhuan3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_umbala_sky4.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_room_happy_dizhuan2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_iz_Poring_pr_tukeng.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_niflhem_shanshi.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_niflhem_dizhuan3.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_szz_shuinidi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_szz_lushi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_szz_lanqiuchangdi.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_jf_paiyoulu.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_room_T8_ditan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_room_nif1_wuding.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_umbala_sky1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_iz_Poring_pr_tukeng.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_room_nif1_diban01.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_room_nif1_dizhuan02.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_lava_boss_dimian1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_yggdrasil_span2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_iz_Poring_pr_caokeng.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_lighttower_dizhuan2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_niflhem_dizhuan2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_jf_paiyoulu.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_szz_zhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_nif_fild1_dixing1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_room_nif_fild2_dizhuan1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_upgrade_malu.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/building_room_T7_ding.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_niflhem_dizhuan4.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_iz_Poring_pr_caokeng.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_iz_Poring_pr_cao.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_iz_Poring_pr_tushi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_umbala_sky4.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_room_nif1_weiqiang01.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_room_happy_dizhuan2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_niflhem_caodi2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_nif_fild1_dixing4.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_szz_zhuan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_niflhem_dizhuan4b.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_niflhem_dizhuan4.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_room_happy_dizhuan1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_niflhem_dizhuan4b.png
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_niflhem_shanshi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_jf_lubianzhuan.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_room_nif1_dizhuan01.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_room_nif1_wuding.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_iz_Poring_pr_caodi1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_room_nif1_dizhuan02.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_nif_fild1_dixing5.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_lighttower_dizhuan1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_room_happy_ditan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_jf_dizhuan7.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_niflhem_shanshi2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_zlj_caodi.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_room_T8_ground.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_umbala_sky3.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_umbala_sky2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_niflhem_dizhuan2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_umbala_sky3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_lighttower_dizhuan1.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_nif_fild1_dixing3.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_szz_shuinidi.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_room_T7_ground.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_room_nif1_weiqiang01.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_room_T8_ground.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_jf_dizhuan7.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_room_happy_dizhuan1.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_room_nif1_dizhuan01.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_jf_lubianzhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_room_nif1_diban01.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_zlj_gonglu2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_iz_Poring_pr_cao.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_room_T8_ditan.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_umbala_sky2.mat
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_lighttower_dizhuan2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_upgrade_malu.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_lava_boss_dimian2.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_szz_lanqiuchangdi.tga
+- Assets/Art/Public/Texture/Scene/v1/Surface texture/surface_i/surface_nif_fild2_ground.tga
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_o.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

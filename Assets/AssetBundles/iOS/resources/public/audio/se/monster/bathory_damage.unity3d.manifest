@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3480680688
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c23e8acd95e0d0583f6b89e3a4fd9eeb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Monster/Bathory_damage.wav
+Dependencies: []

@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3312473351
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 90b2bd7f91e26ebfde1876e5d82a453f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c972d79f254725890dd1783227f71e35
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67ae3b6f384f64cf782e020f8d4388cf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Role/Mount/25013.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/body/mount.unity3d

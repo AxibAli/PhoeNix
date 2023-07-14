@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 4276192279
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 902d39517040a5d42db1d9fd4962455c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Poring/Poring.mat
+- Assets/Art/Model/Role/Body/Monster/Poring/bombporing.mat
+- Assets/Art/Model/Role/Body/Monster/Poring/C3_Poring.png
+- Assets/Art/Model/Role/Body/Monster/Poring/AC_Poring.controller
+- Assets/Art/Model/Role/Body/Monster/Poring/Poporing.mat
+- Assets/Art/Model/Role/Body/Monster/Poring/pouring.png
+- Assets/Art/Model/Role/Body/Monster/Poring/Archangeling.png
+- Assets/Art/Model/Role/Body/Monster/Poring/C4_poring.mat
+- Assets/Art/Model/Role/Body/Monster/Poring/Archangeling.mat
+- Assets/Art/Model/Role/Body/Monster/Poring/bombporing.png
+- Assets/Art/Model/Role/Body/Monster/Poring/C4_Poring.png
+- Assets/Art/Model/Role/Body/Monster/Poring/Drops.mat
+- Assets/Art/Model/Role/Body/Monster/Poring/Marin.png
+- Assets/Art/Model/Role/Body/Monster/Poring/Drops.png
+- Assets/Art/Model/Role/Body/Monster/Poring/Poporing.png
+- Assets/Art/Model/Role/Body/Monster/Poring/Stan_Poring_Pet.png
+- Assets/Art/Model/Role/Body/Monster/Poring/Stan_Poring_Pet.mat
+- Assets/Art/Model/Role/Body/Monster/Poring/Poring.FBX
+- Assets/Art/Model/Role/Body/Monster/Poring/C3_poring.mat
+- Assets/Art/Model/Role/Body/Monster/Poring/pouring.mat
+- Assets/Art/Model/Role/Body/Monster/Poring/Marin.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/body.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/animation/body/poring.unity3d

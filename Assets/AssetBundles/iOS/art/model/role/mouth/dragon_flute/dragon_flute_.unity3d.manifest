@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 119104147
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 865b8959b11ecbe60b8be136253c08ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 964894c6c3477b577f14a63c14c1b2a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Mouth/Dragon_flute/Dragon_flute_.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/mouth/dragon_flute/dragon_flute.unity3d

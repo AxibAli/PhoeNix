@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3165182992
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 819b7635354b0edd87c5e946ba72f123
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2e685385168fc544c658c900b572767a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e8379242ae114a798ee942dd7233527, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d436cc15a736149a1b4b25049e7af1f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f094b17c9eea64e688ea846ee9c53cad, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Effect/Common/Around.prefab
+Dependencies: []

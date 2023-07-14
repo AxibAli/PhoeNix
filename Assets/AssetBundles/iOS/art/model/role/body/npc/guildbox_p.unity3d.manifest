@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3864270797
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cff1b9aecef9bf3a7a48e55f5162f679
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/GuildBox_P/state2001.anim
+- Assets/Art/Model/Role/Body/NPC/GuildBox_P/state2002.anim
+- Assets/Art/Model/Role/Body/NPC/GuildBox_P/state3002.anim
+- Assets/Art/Model/Role/Body/NPC/GuildBox_P/AC_GuildBox_P.controller
+- Assets/Art/Model/Role/Body/NPC/GuildBox_P/GuildBox_P.png
+- Assets/Art/Model/Role/Body/NPC/GuildBox_P/state3001.anim
+- Assets/Art/Model/Role/Body/NPC/GuildBox_P/GuildBox_P.mat
+- Assets/Art/Model/Role/Body/NPC/GuildBox_P/GuildBox_P_.FBX
+- Assets/Art/Model/Role/Body/NPC/GuildBox_P/state1001.anim
+- Assets/Art/Model/Role/Body/NPC/GuildBox_P/state1002.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 4031772458
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a82f53e83dba3dd98a059b13966f8a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/MVP/Deviling/Deviling.FBX
+- Assets/Art/Model/Role/Body/MVP/Deviling/AC_Deviling.controller
+- Assets/Art/Model/Role/Body/MVP/Deviling/walk.anim
+- Assets/Art/Model/Role/Body/MVP/Deviling/playshow.anim
+- Assets/Art/Model/Role/Body/MVP/Deviling/use_skill.anim
+- Assets/Art/Model/Role/Body/MVP/Deviling/die.anim
+- Assets/Art/Model/Role/Body/MVP/Deviling/skill_ready.anim
+- Assets/Art/Model/Role/Body/MVP/Deviling/attack.anim
+- Assets/Art/Model/Role/Body/MVP/Deviling/Deviling.mat
+- Assets/Art/Model/Role/Body/MVP/Deviling/wait.anim
+- Assets/Art/Model/Role/Body/MVP/Deviling/Deviling_dead.mat
+- Assets/Art/Model/Role/Body/MVP/Deviling/hit.anim
+- Assets/Art/Model/Role/Body/MVP/Deviling/Deviling.png
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

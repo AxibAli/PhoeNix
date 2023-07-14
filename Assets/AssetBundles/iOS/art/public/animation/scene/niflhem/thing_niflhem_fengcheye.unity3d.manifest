@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2220128326
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c34bf4e61488e728a32a17375c7ac7a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Scene/niflhem/thing_niflhem_fengcheye/thing_niflhem_fengche.controller
+- Assets/Art/Public/Animation/Scene/niflhem/thing_niflhem_fengcheye/wait.anim
+Dependencies: []

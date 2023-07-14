@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1646329575
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fbbb1d67221c2407ce0f18bd5f7b81b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/ThrowHelve_attack.wav
+Dependencies: []

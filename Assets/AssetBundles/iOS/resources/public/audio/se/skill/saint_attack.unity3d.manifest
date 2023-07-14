@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1967206282
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5aa631c63562a662c934e88189d761bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/Saint_attack.wav
+Dependencies: []

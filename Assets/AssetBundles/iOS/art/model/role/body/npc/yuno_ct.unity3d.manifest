@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 3227243634
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d5321cfabef1767ab66f4ef93a997fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3e67fc8ff68d169ca496885cdebf4663
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/yuno_CT/yuno_CT_.FBX
+- Assets/Art/Model/Role/Body/NPC/yuno_CT/state2001.anim
+- Assets/Art/Model/Role/Body/NPC/yuno_CT/state5001.anim
+- Assets/Art/Model/Role/Body/NPC/yuno_CT/yuno_CT.tga
+- Assets/Art/Model/Role/Body/NPC/yuno_CT/state4002.anim
+- Assets/Art/Model/Role/Body/NPC/yuno_CT/yuno_CT.mat
+- Assets/Art/Model/Role/Body/NPC/yuno_CT/state3001.anim
+- Assets/Art/Model/Role/Body/NPC/yuno_CT/state1001.anim
+- Assets/Art/Model/Role/Body/NPC/yuno_CT/state4001.anim
+- Assets/Art/Model/Role/Body/NPC/yuno_CT/AC_yuno_CT.controller
+- Assets/Art/Model/Role/Body/NPC/yuno_CT/state2002.anim
+- Assets/Art/Model/Role/Body/NPC/yuno_CT/state1002.anim
+- Assets/Art/Model/Role/Body/NPC/yuno_CT/state3002.anim
+- Assets/Art/Model/Role/Body/NPC/yuno_CT/state5002.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_a.unity3d

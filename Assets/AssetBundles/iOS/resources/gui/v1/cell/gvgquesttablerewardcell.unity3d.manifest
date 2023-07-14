@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1891975031
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe08e3f18cddf2792dae93f1aab7c258
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 91aca9701540718dee348bbf7ac627da
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/cell/GvgQuestTableRewardCell.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/gui/new/atlas/fonts.unity3d

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2185597048
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e29baaf477781065da6fdd70577fd00c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Scene/honeyCar/bus_line1/buswait.anim
+- Assets/Art/Public/Animation/Scene/honeyCar/bus_line1/bus_line1.controller
+- Assets/Art/Public/Animation/Scene/honeyCar/bus_line1/line1.anim
+Dependencies: []

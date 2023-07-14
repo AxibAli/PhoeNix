@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 1696293142
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72c85e387f857e5e01df151c353bf015
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Player/Magician_F/Magician_F.FBX
+- Assets/Art/Model/Role/Body/Player/Magician_F/Magician_F.mat
+- Assets/Art/Model/Role/Body/Player/Magician_F/AC_Magician_F.controller
+- Assets/Art/Model/Role/Body/Player/Magician_F/reading.anim
+- Assets/Art/Model/Role/Body/Player/Magician_F/play_kiss.anim
+- Assets/Art/Model/Role/Body/Player/Magician_F/play_bow.anim
+- Assets/Art/Model/Role/Body/Player/Magician_F/Magician_F_dead.mat
+- Assets/Art/Model/Role/Body/Player/Magician_F/play_sleep.anim
+- Assets/Art/Model/Role/Body/Player/Magician_F/wait.anim
+- Assets/Art/Model/Role/Body/Player/Magician_F/attack.anim
+- Assets/Art/Model/Role/Body/Player/Magician_F/collect.anim
+- Assets/Art/Model/Role/Body/Player/Magician_F/sit_down.anim
+- Assets/Art/Model/Role/Body/Player/Magician_F/Magician_F.png
+- Assets/Art/Model/Role/Body/Player/Magician_F/play_wave.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/animation/body/wizard_f.unity3d

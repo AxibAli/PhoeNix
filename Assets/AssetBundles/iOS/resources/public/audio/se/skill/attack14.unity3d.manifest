@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 780359542
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 669fbc9cb4bea819880fb118cac79c3b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/attack14.wav
+Dependencies: []

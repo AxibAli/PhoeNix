@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 974071511
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab29ee15bed7432241745034281338bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27e3e79efd8a310f81d9b03e1734e5fa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/toy_511/toy_511.mat
+- Assets/Art/Model/Role/Body/NPC/toy_511/toy_511.png
+- Assets/Art/Model/Role/Body/NPC/toy_511/AC_toy_511.controller
+- Assets/Art/Model/Role/Body/NPC/toy_511/toy_511.anim
+- Assets/Art/Model/Role/Body/NPC/toy_511/toy_511_.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

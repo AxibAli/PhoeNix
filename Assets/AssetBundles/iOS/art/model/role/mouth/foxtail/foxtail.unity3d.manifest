@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1166961130
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a18bb40be0a9adebd4d4e8c27fa9614
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc193d49e7d16f71ac778acf3c7bfc27
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Mouth/Foxtail/Foxtail.FBX
+- Assets/Art/Model/Role/Mouth/Foxtail/Foxtail.mat
+- Assets/Art/Model/Role/Mouth/Foxtail/Foxtail.png
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

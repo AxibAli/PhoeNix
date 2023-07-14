@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4255913204
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8709f908e66adccaf720d619c3f2e15b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- "Assets/Art/Public/Texture/GUI/New/photo/!!19.1\u0E35\u0E35\u0E2F\u0E40\u0E19\uF8C6\u0E13\u0E2C-1.png"
+- "Assets/Art/Public/Texture/GUI/New/photo/!!19.1\u0E35\u0E35\u0E2F\u0E40\u0E19\uF8C6\u0E13\u0E2C-2.png"
+- Assets/Art/Public/Texture/GUI/New/photo/photo_bg_focus01.png
+- Assets/Art/Public/Texture/GUI/New/photo/photo_icon_within.png
+- Assets/Art/Public/Texture/GUI/New/photo/photo_bg_focus02.png
+- Assets/Art/Public/Texture/GUI/New/photo/photo_icon_off.png
+Dependencies: []

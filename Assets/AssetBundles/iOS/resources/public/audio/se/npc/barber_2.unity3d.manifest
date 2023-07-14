@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2977257133
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 79e9f18b3cde102f1a840d949e6552d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Npc/Barber_2.wav
+Dependencies: []

@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3788990760
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31a88b30cdc717dbd8f0d2867dbc0e95
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/building/building_m/Materials/building_aldebaran_zhong.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_m/Materials/building_clocktower1_chuansongzhen3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_m/Materials/building_aldebaran_lianjin4.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_m.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

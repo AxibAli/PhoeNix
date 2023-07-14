@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3754387739
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb0f3afa18374478430c245aa454d288
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Body/BT_Field1/state2002.anim
+- Assets/Art/Public/Animation/Body/BT_Field1/state5002.anim
+- Assets/Art/Public/Animation/Body/BT_Field1/state4002.anim
+- Assets/Art/Public/Animation/Body/BT_Field1/state2001.anim
+- Assets/Art/Public/Animation/Body/BT_Field1/state3001.anim
+- Assets/Art/Public/Animation/Body/BT_Field1/state5001.anim
+- Assets/Art/Public/Animation/Body/BT_Field1/state1001.anim
+- Assets/Art/Public/Animation/Body/BT_Field1/state4001.anim
+- Assets/Art/Public/Animation/Body/BT_Field1/state3002.anim
+- Assets/Art/Public/Animation/Body/BT_Field1/state1002.anim
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2091292089
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73863383688c4797caff1b3d8ae2e91c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 538d5e4dff56c972fd9bf7b7ca89a788
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a92b5d748695fd44aac9feef17ba415, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a791c91efca2348e19b525c4d30a27da, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/view/Barrages.prefab
+Dependencies: []

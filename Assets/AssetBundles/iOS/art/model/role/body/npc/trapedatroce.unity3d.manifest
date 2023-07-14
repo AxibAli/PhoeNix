@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3407105412
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1517560494915bc64fa020967a00043b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/TrapedAtroce/AC_TrapedAtroce.controller
+- Assets/Art/Model/Role/Body/NPC/TrapedAtroce/TrapedAtroce.tga
+- Assets/Art/Model/Role/Body/NPC/TrapedAtroce/TrapedAtroce.mat
+- Assets/Art/Model/Role/Body/NPC/TrapedAtroce/wait.anim
+- Assets/Art/Model/Role/Body/NPC/TrapedAtroce/TrapedAtroce.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

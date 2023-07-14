@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1570043974
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c475bd45dfa34a3c331eb96e4fb79ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Body/Sohee/die.anim
+- Assets/Art/Public/Animation/Body/Sohee/walk.anim
+- Assets/Art/Public/Animation/Body/Sohee/happy.anim
+- Assets/Art/Public/Animation/Body/Sohee/walk_InHand.anim
+- Assets/Art/Public/Animation/Body/Sohee/wait_InHand.anim
+- Assets/Art/Public/Animation/Body/Sohee/wait.anim
+- Assets/Art/Public/Animation/Body/Sohee/eat.anim
+- Assets/Art/Public/Animation/Body/Sohee/be_touch.anim
+Dependencies: []

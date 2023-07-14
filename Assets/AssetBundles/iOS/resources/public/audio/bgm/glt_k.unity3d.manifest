@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1296657869
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9883f6bb0039e423feb41fa763d5ad16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/BGM/glt_k.mp3
+Dependencies: []

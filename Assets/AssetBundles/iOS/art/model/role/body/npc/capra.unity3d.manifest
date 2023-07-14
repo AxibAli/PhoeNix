@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 853555755
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe48981c3023256ff9a4009b5ae742d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/Capra/functional_action.anim
+- Assets/Art/Model/Role/Body/NPC/Capra/Capra_Dead.tga
+- Assets/Art/Model/Role/Body/NPC/Capra/walk.anim
+- Assets/Art/Model/Role/Body/NPC/Capra/Capra_Dead.mat
+- Assets/Art/Model/Role/Body/NPC/Capra/hit.anim
+- Assets/Art/Model/Role/Body/NPC/Capra/functional_action2.anim
+- Assets/Art/Model/Role/Body/NPC/Capra/Capra.mat
+- Assets/Art/Model/Role/Body/NPC/Capra/Capra.png
+- Assets/Art/Model/Role/Body/NPC/Capra/AC_Capra.controller
+- Assets/Art/Model/Role/Body/NPC/Capra/wait.anim
+- Assets/Art/Model/Role/Body/NPC/Capra/Capra.FBX
+- Assets/Art/Model/Role/Body/NPC/Capra/playshow.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

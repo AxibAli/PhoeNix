@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3438281820
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b67476ff6816ecc15a6251e8ca76f3d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Scene/colcktower2/building_clocktower2_xingpan_02/building_clocktower2_xingpan_02.controller
+- Assets/Art/Public/Animation/Scene/colcktower2/building_clocktower2_xingpan_02/wiat.anim
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 558693895
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22eeb5bc213db708f6bd38ddbe6a891d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Monster/Creamy_damage.wav
+Dependencies: []

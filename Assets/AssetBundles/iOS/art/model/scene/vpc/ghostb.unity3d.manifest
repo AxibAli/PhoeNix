@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3425383569
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b5d884c0fb568d9fc6782a44bc8acd0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/VPC/GhostB/state2002.anim
+- Assets/Art/Model/Scene/VPC/GhostB/state2001.anim
+- Assets/Art/Model/Scene/VPC/GhostB/GhostB.controller
+- Assets/Art/Model/Scene/VPC/GhostB/state1002.anim
+- Assets/Art/Model/Scene/VPC/GhostB/state1001.anim
+- Assets/Art/Model/Scene/VPC/GhostB/1001.anim
+- Assets/Art/Model/Scene/VPC/GhostB/1002.anim
+Dependencies: []

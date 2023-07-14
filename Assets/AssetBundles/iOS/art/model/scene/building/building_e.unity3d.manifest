@@ -1,0 +1,112 @@
+ManifestFileVersion: 0
+CRC: 3470458538
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be10c49b0f995d88dec0eab049a66259
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6fa9ce387392089bc59dd886979cd053
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/building/building_e/buliding_IZprt_qiang_04.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_researchalb_neishi.FBX
+- Assets/Art/Model/Scene/building/building_e/gef_dun_1_9.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_moc1_dun_yuanjing.FBX
+- Assets/Art/Model/Scene/building/building_e/geffen_ludeng_1.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_morocc_fangwu1.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_morocc_chengmen.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_researchalb_BJqiang.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_huangcheng1_16.mat
+- Assets/Art/Model/Scene/building/building_e/room_adv_qiang1.FBX
+- Assets/Art/Model/Scene/building/building_e/gef_dun_1_8.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_morocc_fw1_po.FBX
+- Assets/Art/Model/Scene/building/building_e/gef_dun_1_6.FBX
+- Assets/Art/Model/Scene/building/building_e/building_room_prt_church_wall01.FBX
+- Assets/Art/Model/Scene/building/building_e/room_adv_dibiao1.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_morocc_gongdian.FBX
+- Assets/Art/Model/Scene/building/building_e/gef_dun_1_7.FBX
+- Assets/Art/Model/Scene/building/building_e/room_adv_qiang3.FBX
+- Assets/Art/Model/Scene/building/building_e/building_room_adv_ding.FBX
+- Assets/Art/Model/Scene/building/building_e/room_adv_dibiao2.FBX
+- Assets/Art/Model/Scene/building/building_e/gef_dun_1_4.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_moc1_dun_zhuzuo.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_morocc_fangwu2.FBX
+- Assets/Art/Model/Scene/building/building_e/gef_dun_1_2.FBX
+- Assets/Art/Model/Scene/building/building_e/room_adv_qiang4.FBX
+- Assets/Art/Model/Scene/building/building_e/gef_dun_1_11.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_prt_sewb_qiang_1.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_researchlab_Large machinery.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_morocc_jinzita.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_morocc_pomiao.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_prt_sewb_qiang_2.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_IZprt_qiang_05.FBX
+- Assets/Art/Model/Scene/building/building_e/room_adv_qiang2.FBX
+- Assets/Art/Model/Scene/building/building_e/glt_2_fengding.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_morocc_Obelisk.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_morocc_jinzita4.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_morocc_huisuo.FBX
+- Assets/Art/Model/Scene/building/building_e/gef_dun1_zhuzi.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_prt_sewb_fengding.FBX
+- Assets/Art/Model/Scene/building/building_e/room_adv_zhu3.FBX
+- Assets/Art/Model/Scene/building/building_e/gef_dun_1_3.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_moc1_dun_houqiang.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_prt_sewb_qiang_3.FBX
+- Assets/Art/Model/Scene/building/building_e/gef_dun_1_1.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_researchlab.FBX
+- Assets/Art/Model/Scene/building/building_e/geffen_yuanshan.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_IZprt_sewb_bossfang.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_moeocc_posundamen.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_morocc_jinzita3.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_prt_sewb_kuochong.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_morocc_matou.FBX
+- Assets/Art/Model/Scene/building/building_e/gef_dun_1_5.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_morocc_qiao.FBX
+- Assets/Art/Model/Scene/building/building_e/building_room_prt_church_gate1.FBX
+- Assets/Art/Model/Scene/building/building_e/building_room_prt_church_window.FBX
+- Assets/Art/Model/Scene/building/building_e/IZprt_sewb_xinzeng.FBX
+- Assets/Art/Model/Scene/building/building_e/IZprt_sewb_dixing.FBX
+- Assets/Art/Model/Scene/building/building_e/room_adv_zhu4.FBX
+- Assets/Art/Model/Scene/building/building_e/building_room_prt_church_top1.FBX
+- Assets/Art/Model/Scene/building/building_e/room_adv_louti1.FBX
+- Assets/Art/Model/Scene/building/building_e/room_adv_zhu2.FBX
+- Assets/Art/Model/Scene/building/building_e/room_adv_ditan1.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_moc1_dun_qiang.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_morocc_jinzita2.FBX
+- Assets/Art/Model/Scene/building/building_e/room_adv_zhu1.FBX
+- Assets/Art/Model/Scene/building/building_e/buliding_morocc_shiqiang.FBX
+- Assets/Art/Model/Scene/building/building_e/yuanshan_new_geffen.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_m.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_h.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_d.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_f.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/rock/rock_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_d.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_j.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_c/materials.unity3d

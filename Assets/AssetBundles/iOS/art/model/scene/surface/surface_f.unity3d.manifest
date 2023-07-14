@@ -1,0 +1,88 @@
+ManifestFileVersion: 0
+CRC: 23657969
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 624a4832e54292dd3400786dec3f18b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6fa9ce387392089bc59dd886979cd053
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/Surface/surface_f/dfsdfsd.mat
+- Assets/Art/Model/Scene/Surface/surface_f/surface_room_card02.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_lava_dun1_ground.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_amatsu_xzdixing2.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_ghjs_shizhuan.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_room_card_xingkongqiang.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_ghjs_jieti.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_honeymoon_shuichi.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_kafrawar_dimian.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_amatsu_dixing2.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_lava_dun2_ground.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_honeymoon_shuichi2.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_amatsu_xzdixing.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/thing_room_card_zhuzi.mat
+- Assets/Art/Model/Scene/Surface/surface_f/surface_room_prt_church_floor06.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_ghjs_dixing.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_room_prt_church_ditan.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_room_prt_church_floor03.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/sky_honeyCar_yekong.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_room_prt_church_floor05.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_room_prt_church_floor04.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_room_card_yuanshitou.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_honeymoon_dimian.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_honeyCar_ZJdixing.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_ghjs_shitiaokuai.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_amatsu_dixing1.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_lava_dun1_lavalake.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_room_card.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_amatsu_shuimian2.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_room_prt_church_floor02.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/building_kafrawar_things.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_amatsu_zuoshuimian.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_amatsu_zxlumian.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_amatsu_shuimian3.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_ghjs_ditan.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_amatsu_shuimian.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_room_card_wuding.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_amatsu_ZJdikuai.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_lava_dun2_dimian.FBX
+- Assets/Art/Model/Scene/Surface/surface_f/surface_room_prt_church_floor01.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_h.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_f.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_h.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_n.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_j.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/sky.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_a.unity3d

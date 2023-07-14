@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2567388552
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13a8b60f19e0b2c172fe6c082001e879
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9d46411ba5e9f5bee13de83dad6110e0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 419497de5a825427c9b00be533dc53ea, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/plant/Farmland.prefab
+Dependencies: []

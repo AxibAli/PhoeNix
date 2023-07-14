@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 481181288
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27210f94a5600a78ae4667b29c90ac22
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 96919ced26a667d7a26299c8820c74ed
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/cell/GoldAppleTipCell.prefab
+Dependencies: []

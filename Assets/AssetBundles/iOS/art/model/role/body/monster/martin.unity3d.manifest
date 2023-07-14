@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 3046990253
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7080812ba26b878c008603b316bd5492
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Martin/happy.anim
+- Assets/Art/Model/Role/Body/Monster/Martin/eat.anim
+- Assets/Art/Model/Role/Body/Monster/Martin/use_skill.anim
+- Assets/Art/Model/Role/Body/Monster/Martin/AC_Martin.controller
+- Assets/Art/Model/Role/Body/Monster/Martin/walk_BeHold.anim
+- Assets/Art/Model/Role/Body/Monster/Martin/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Martin/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Martin/be_touch.anim
+- Assets/Art/Model/Role/Body/Monster/Martin/die.anim
+- Assets/Art/Model/Role/Body/Monster/Martin/Martin.FBX
+- Assets/Art/Model/Role/Body/Monster/Martin/wait_BeHold.anim
+- Assets/Art/Model/Role/Body/Monster/Martin/Martin.mat
+- Assets/Art/Model/Role/Body/Monster/Martin/Martin.png
+- Assets/Art/Model/Role/Body/Monster/Martin/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Martin/walk.anim
+- Assets/Art/Model/Role/Body/Monster/Martin/playshow.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

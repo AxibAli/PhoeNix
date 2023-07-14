@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 2536512396
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a44343128c2b320577133336225cfc32
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Bus/bus_whale/AC_bus_whale.controller
+- Assets/Art/Model/Bus/bus_whale/bus_whale.mat
+- Assets/Art/Model/Bus/bus_whale/bus_whale.png
+- Assets/Art/Model/Bus/bus_YoyoPlay/bus_YoyoPlay_1.controller
+- Assets/Art/Model/Bus/bus_whale/ride_walk.anim
+- Assets/Art/Model/Bus/bus_whale/bus_whale.FBX
+- Assets/Art/Model/Bus/bus_whale/wait.anim
+- Assets/Art/Model/Bus/bus_whale/walk.anim
+- Assets/Art/Model/Bus/bus_whale/ride_wait.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/bus/bus_yoyoplay.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 164958833
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f6373bcf9db08f3f320482dc439464c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f50ad36bc4ea54417b472c9a099ba0bd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d436cc15a736149a1b4b25049e7af1f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e87c7c5b19b0a49d48938388a395a1bf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/VPC/Guild_FlagZ/Guild_FlagZ.tga
+- Assets/Art/Model/Scene/VPC/Guild_FlagZ/Guild_Flag.prefab
+- Assets/Art/Model/Scene/VPC/Guild_FlagZ/Guild_FlagZ.FBX
+- Assets/Art/Model/Scene/VPC/Guild_FlagZ/Guild_FlagZ.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/ring.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/glow.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_a.unity3d

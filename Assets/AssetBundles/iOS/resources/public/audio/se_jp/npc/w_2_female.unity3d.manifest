@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2320496332
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8157bb9537ca06ba275698ea196aad0a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE_JP/Npc/W_2_Female.wav
+Dependencies: []

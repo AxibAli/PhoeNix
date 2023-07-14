@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3663964439
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2636cb3b7aabd7e5717d08bc4c620d6f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c0436eeee9eb8dce58a8562cc2c5b758
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 858a20c1b21a3f94bb5b2d3b901c9aaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/v1/cell/ChatRoomSystemCell.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/gui/new/atlas/fonts.unity3d

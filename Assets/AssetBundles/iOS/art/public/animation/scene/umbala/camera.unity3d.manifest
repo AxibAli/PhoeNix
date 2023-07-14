@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 817098400
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 696133eb53c72e6c6040909e1e1639ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Scene/umbala/Camera/Camera1.anim
+- Assets/Art/Public/Animation/Scene/umbala/Camera/Camera.controller
+Dependencies: []

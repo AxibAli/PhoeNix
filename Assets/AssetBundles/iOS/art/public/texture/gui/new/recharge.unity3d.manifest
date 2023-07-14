@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3572673360
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7c2282d714e90b517f6b5ec8cc537ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/GUI/New/recharge/bg.png
+- "Assets/Art/Public/Texture/GUI/New/recharge/\u0E13\u0E44\u0E36\u0E15_\u0E34\u0E22\u0E1F\u0E08_\u0E2B\u0E15\u0E23\u0E57.png"
+Dependencies: []

@@ -1,0 +1,111 @@
+ManifestFileVersion: 0
+CRC: 1442423075
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e729b5d8176c594b1b3b024c1f84c41
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_room_job_qizhi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_gef_dun_diaosu_3.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_FristArea_mache_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_diaoxiang1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_gef_dun_diaosu_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_mjolnir_01.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_iz_dun1_xzz1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_jianshidiaoxiang_2.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_diaosu1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_gold_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_iz_dun_2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_mjolnir_02.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_FristArea_mache_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_iz_dun1_dz1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_gold_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_researchlab_yizi_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_FristArea_mache_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_researchlab_monster jar_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_pozhangpeng.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_iz_dun1_diaoxiang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_room_job_qizhi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_diaosu1_1.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_geffen_kushu.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_researchlab_kongzhitai_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_researchlab_yiqi_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_geffen_shanshi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_iz_dun1_lanni.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_end_chuangfu.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_geffen_shanshi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_researchlab_kongzhitai_2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_upgrade_p1_zhuzi.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_iz_dun1_qiaozhu1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_glt_h_diaosu_2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_FristArea_mache_2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_prt_sewb_guizi.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_endless_shixianggui.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_jianshidiaoxiang_1.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_researchlab_yiqi_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_researchlab_monster jar_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_iz_dun1_shell.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_researchlab_yizi_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_FristArea_boli.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_geffen_kushu 1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_FristArea_boli.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_prt_sewb_guizi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_iz_dun1_dz1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_end_shizuo.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_upgrade_p1_zhuzi.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_researchlab_kongzhitai_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_iz_dun1_shell.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_mjolnir_01.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_iz_dun1_brick.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_end_shizuo.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_researchlab_yiqi_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_iz_dun_2-yabi_02.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_iz_dun_2-yabi_01.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_iz_dun1_qiaozhu1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_gold_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_gef_dun_diaosu_1.TGA
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_iz_dun1_brick.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_gold_2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_iz_dun1_xzz1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_researchlab_zhuzi_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_iz_dun1_diaoxiang.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_gef_dun_diaosu_2.TGA
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_iz_dun1_dizuo1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_geffen_kushu_2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_gold_3.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_researchlab_yiqi_2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_pozhangpeng.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_mjolnir_langan.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_jianshidiaoxiang_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_researchlab_kongzhitai_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_glt_h_diaosu_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_iz_dun1_lanni.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_pay_fild1_piaodai.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_diaoxiang1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_researchlab_zhuzi_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_endless_shixianggui.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_iz_dun1_dizuo1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_jianshidiaoxiang_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_iz_dun_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_gold_3.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_glt_h_diaosu_3.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_gef_dun_diaosu_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_geffen_kushu.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_end_chuangfu.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_mjolnir_02.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_pay_fild1_piaodai.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_gef_dun_diaosu_3.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_b/thing_mjolnir_langan.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2144130437
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 037d15b77127d1563dd47a1345613775
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Monster/NijiaCat_die.wav
+Dependencies: []

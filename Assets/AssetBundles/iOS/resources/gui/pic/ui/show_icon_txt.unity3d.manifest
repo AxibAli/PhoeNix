@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2115487892
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77ae7c667d2bed81a1f442c4de61368d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/UI/show_icon_txt.png
+Dependencies: []

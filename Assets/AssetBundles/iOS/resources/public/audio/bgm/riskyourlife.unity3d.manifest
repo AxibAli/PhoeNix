@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1166841846
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e905db098d75087c2d7ffb151812deb5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/BGM/RiskYourLife.mp3
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1561821960
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7d1b179c30d78fabc46d3a7465fb05b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/State/Stone_begin.wav
+Dependencies: []

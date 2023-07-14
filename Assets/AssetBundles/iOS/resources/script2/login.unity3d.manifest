@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2783614666
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b178ff6ee131360543c8826b380f91f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/Login/LoginRoleSelector.bytes
+- Assets/Resources/Script2/Login/RoleReadyForLogin.bytes
+- Assets/Resources/Script2/Login/CSharpObjectForLogin.bytes
+- Assets/Resources/Script2/Login/MonthlyVIPTip.bytes
+Dependencies: []

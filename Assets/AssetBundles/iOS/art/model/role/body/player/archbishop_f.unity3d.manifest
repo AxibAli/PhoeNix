@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 1179399053
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a4282faec04d0f029a0d72f02880c9fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/Archbishop_F.FBX
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/play_sleep.anim
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/Archbishop_F.tga
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/Archbishop_F_6.mat
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/Archbishop_F_8.mat
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/Archbishop_F_dead.mat
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/Archbishop_F_15.mat
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/walk_InHand.anim
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/Archbishop_F_13.mat
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/AC_Archbishop_F.controller
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/walk_HandIn.anim
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/Archbishop_F_14.mat
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/Archbishop_F_1.mat
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/walk.anim
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/Archbishop_F_7.mat
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/hit.anim
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/Archbishop_F_4.mat
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/wait.anim
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/Archbishop_F.mat
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/Archbishop_F_2.mat
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/Archbishop_F_11.mat
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/Archbishop_F_10.mat
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/Archbishop_F_12.mat
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/use_magic.anim
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/Archbishop_F_3.mat
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/Archbishop_F_16.mat
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/Archbishop_F_9.mat
+- Assets/Art/Model/Role/Body/Player/Archbishop_F/Archbishop_F_5.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/animation/body/priest_f.unity3d

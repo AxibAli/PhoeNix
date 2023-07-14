@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 462082316
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d3ea29b6e96268d5428c0d66df69651
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 370cf5916d6a9dfd96ec606e049c0f80
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d436cc15a736149a1b4b25049e7af1f9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Effect/Skill/SakuraPerfume.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/glow.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/pic.unity3d

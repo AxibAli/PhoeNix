@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3483124828
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a3a04cce5f84bfdb6574e3f65a3e1ad0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/effect/v1/fazheng/fazheng02.tga
+- Assets/Art/Public/Texture/effect/v1/fazheng/dimian_fx.png
+- Assets/Art/Public/Texture/effect/v1/fazheng/dimain_xiaoguo001.mat
+- Assets/Art/Public/Texture/effect/v1/fazheng/luomashuczi.png
+- Assets/Art/Public/Texture/effect/v1/fazheng/luomashuczi.mat
+- Assets/Art/Public/Texture/effect/v1/fazheng/fazheng_wujiaoxing.mat
+- Assets/Art/Public/Texture/effect/v1/fazheng/dimian_fx.mat
+- Assets/Art/Public/Texture/effect/v1/fazheng/dimain_xiaoguo002.png
+- Assets/Art/Public/Texture/effect/v1/fazheng/fazheng02_add.mat
+- Assets/Art/Public/Texture/effect/v1/fazheng/fazheng_wujiaoxing.png
+- Assets/Art/Public/Texture/effect/v1/fazheng/dimain_xiaoguo002.mat
+- Assets/Art/Public/Texture/effect/v1/fazheng/dimain_xiaoguo001.png
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/wenli.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

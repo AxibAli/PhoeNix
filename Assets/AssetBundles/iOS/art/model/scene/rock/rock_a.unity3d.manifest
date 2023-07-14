@@ -1,0 +1,74 @@
+ManifestFileVersion: 0
+CRC: 522321408
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9ba8f159712d070b82579c7ea273c64
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc193d49e7d16f71ac778acf3c7bfc27
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/rock/rock_a/brck_IZprt_shizhu_1.FBX
+- Assets/Art/Model/Scene/rock/rock_a/brick_shi_2_1.FBX
+- Assets/Art/Model/Scene/rock/rock_a/rock_fristarea_shitou2.FBX
+- Assets/Art/Model/Scene/rock/rock_a/brck_IZprt_shikuai_1.FBX
+- Assets/Art/Model/Scene/rock/rock_a/rock_fristarea_shitou.FBX
+- Assets/Art/Model/Scene/rock/rock_a/brck_IZprt_shikuai_2.FBX
+- Assets/Art/Model/Scene/rock/rock_a/rock_iz_dun1_stone.FBX
+- Assets/Art/Model/Scene/rock/rock_a/rock_prt_1_Bshi.FBX
+- Assets/Art/Model/Scene/rock/rock_a/rock_gef_dun1_shuishi.FBX
+- Assets/Art/Model/Scene/rock/rock_a/rock_moc_fild1_shashi.FBX
+- Assets/Art/Model/Scene/rock/rock_a/rock_iz_dun1_sj1.FBX
+- Assets/Art/Model/Scene/rock/rock_a/rock_prt_2_kongdao_stair1.FBX
+- Assets/Art/Model/Scene/rock/rock_a/brck_IZprt_shizhu_2.FBX
+- Assets/Art/Model/Scene/rock/rock_a/prt_3_kongdao_shitou.FBX
+- Assets/Art/Model/Scene/rock/rock_a/rock_iz_dun1_sjs1.FBX
+- Assets/Art/Model/Scene/rock/rock_a/izdun_2_stone_3.FBX
+- Assets/Art/Model/Scene/rock/rock_a/rock_gef_dun1_shuijing.FBX
+- Assets/Art/Model/Scene/rock/rock_a/izdun_2_stone_2.FBX
+- Assets/Art/Model/Scene/rock/rock_a/brck_morocc_shashi.FBX
+- Assets/Art/Model/Scene/rock/rock_a/brck_IZprt_shikuai_4.FBX
+- Assets/Art/Model/Scene/rock/rock_a/rock_gef_dun1.FBX
+- Assets/Art/Model/Scene/rock/rock_a/rock_iz_dun1_stone.mat
+- Assets/Art/Model/Scene/rock/rock_a/rock_IZpay1_shanshi.FBX
+- Assets/Art/Model/Scene/rock/rock_a/rock_prt_1_Cshi.FBX
+- Assets/Art/Model/Scene/rock/rock_a/prt_2_kongdao_shitou.FBX
+- Assets/Art/Model/Scene/rock/rock_a/rock_prt_2_iz_dun1_stair.FBX
+- Assets/Art/Model/Scene/rock/rock_a/brck_IZprt_shikuai_3.FBX
+- Assets/Art/Model/Scene/rock/rock_a/brick_prt_1_menkou.FBX
+- Assets/Art/Model/Scene/rock/rock_a/rock_prt_1_Ashi.FBX
+- Assets/Art/Model/Scene/rock/rock_a/brick_shi_2_2.FBX
+- Assets/Art/Model/Scene/rock/rock_a/rock_iz_dun1_sjrk1.FBX
+- Assets/Art/Model/Scene/rock/rock_a/brick_iz_dun1_1.FBX
+- Assets/Art/Model/Scene/rock/rock_a/brick_prt_2_kongdao_1.FBX
+- Assets/Art/Model/Scene/rock/rock_a/rock_IZmjr_1_shandong.FBX
+- Assets/Art/Model/Scene/rock/rock_a/prt_2_kongdao_fushi1.FBX
+- Assets/Art/Model/Scene/rock/rock_a/brick_dashi.FBX
+- Assets/Art/Model/Scene/rock/rock_a/rock_iz_dun1_shanhushi.FBX
+- Assets/Art/Model/Scene/rock/rock_a/brck_IZprt_shikuai_5.FBX
+- Assets/Art/Model/Scene/rock/rock_a/rock_iz_dun1_lsj1.FBX
+- Assets/Art/Model/Scene/rock/rock_a/iz_dun_2_stone.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/rock/rock_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_j.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_c.unity3d

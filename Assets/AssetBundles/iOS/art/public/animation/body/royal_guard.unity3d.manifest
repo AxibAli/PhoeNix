@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1515433160
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce6c11ecf0a7d6698a6042154af968ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Animation/Body/Royal_Guard/state2002.anim
+- Assets/Art/Public/Animation/Body/Royal_Guard/state2001.anim
+- Assets/Art/Public/Animation/Body/Royal_Guard/state1002.anim
+- Assets/Art/Public/Animation/Body/Royal_Guard/state1001.anim
+Dependencies: []

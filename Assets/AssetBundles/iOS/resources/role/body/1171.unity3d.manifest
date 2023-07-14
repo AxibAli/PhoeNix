@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2282051760
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a9b036f2d73854546347a29961f0ebc7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1a93a33a1e2385774dfd948fe7b17ed6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29ac9fc10cdea4d93aa5094926603242, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 208
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Role/Body/1171.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/body/npc/cameraboy.unity3d

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 75884678
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e0ec09a3096930003a9c32cc0079a46
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Script2/Config_Map_FuBen/Table_MapRaid.bytes
+- Assets/Resources/Script2/Config_Map_FuBen/Table_Map.bytes
+- Assets/Resources/Script2/Config_Map_FuBen/Table_DeathTransferMap.bytes
+- Assets/Resources/Script2/Config_Map_FuBen/Table_ActivityStepShow.bytes
+- Assets/Resources/Script2/Config_Map_FuBen/Table_RepairSeal.bytes
+- Assets/Resources/Script2/Config_Map_FuBen/Table_PveCard.bytes
+Dependencies: []

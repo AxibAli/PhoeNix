@@ -1,0 +1,180 @@
+ManifestFileVersion: 0
+CRC: 2551558306
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c2d281f27327418fa30446d5185a7a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6fa9ce387392089bc59dd886979cd053
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Scene/building/building_i/building_C_Tower_1F_zhalan.FBX
+- Assets/Art/Model/Scene/building/building_i/building_room_T5_qiangbi02.FBX
+- Assets/Art/Model/Scene/building/building_i/building_aldebaran_qiao.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_baobian09.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_ground02.FBX
+- Assets/Art/Model/Scene/building/building_i/building_xmas_dun01_louti01.FBX
+- Assets/Art/Model/Scene/building/building_i/building_xmas_dun01_louti02.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_baobian01.FBX
+- Assets/Art/Model/Scene/building/building_i/building_battle1_pay_qiangbi01.FBX
+- Assets/Art/Model/Scene/building/building_i/building_xmas_wanjudian.FBX
+- Assets/Art/Model/Scene/building/building_i/building_xmas_dun02_fangtai1.FBX
+- Assets/Art/Model/Scene/building/building_i/building_room_prt_1F.FBX
+- Assets/Art/Model/Scene/building/building_i/building_aldebaran_penquan.FBX
+- Assets/Art/Model/Scene/building/building_i/building_prt_4_qiao.FBX
+- Assets/Art/Model/Scene/building/building_i/building_prt_4_minju3.FBX
+- Assets/Art/Model/Scene/building/building_i/building_Guild_Door3.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_ground05.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_baobian15.FBX
+- Assets/Art/Model/Scene/building/building_i/building_clocktower2_zhong.FBX
+- Assets/Art/Model/Scene/building/building_i/building_xmas_minju1.FBX
+- Assets/Art/Model/Scene/building/building_i/building_prt_4_shuiche.FBX
+- Assets/Art/Model/Scene/building/building_i/building_battle1_pay_louti02.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_baobian13.FBX
+- Assets/Art/Model/Scene/building/building_i/building_room_prt_2F_1.FBX
+- Assets/Art/Model/Scene/building/building_i/building_battle1_pay_qinagbi02.FBX
+- Assets/Art/Model/Scene/building/building_i/building_room_prt_2F_tuan1.FBX
+- Assets/Art/Model/Scene/building/building_i/building_Guild_battle2_pay_weilan.FBX
+- Assets/Art/Model/Scene/building/building_i/building_guildgarden_bt7_louti2.FBX
+- Assets/Art/Model/Scene/building/building_i/building_room_T5_bangongshi1.FBX
+- Assets/Art/Model/Scene/building/building_i/building_C_Tower_1F_guandao.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_baobian05.FBX
+- Assets/Art/Model/Scene/building/building_i/buliding_prontra 0926_wujian.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_baobian12.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_baobian11.FBX
+- Assets/Art/Model/Scene/building/building_i/building_xmas_dun01_qianti.FBX
+- Assets/Art/Model/Scene/building/building_i/building_xmas_cangku.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_ground01.FBX
+- Assets/Art/Model/Scene/building/building_i/24 - Default.mat
+- Assets/Art/Model/Scene/building/building_i/building_aldebaran_lianjin.FBX
+- Assets/Art/Model/Scene/building/building_i/building_guildgarden_enter_pingtai003.FBX
+- Assets/Art/Model/Scene/building/building_i/building_xmas_bridge.FBX
+- Assets/Art/Model/Scene/building/building_i/building_room_prt_2F_wangzuo.FBX
+- Assets/Art/Model/Scene/building/building_i/building_aldebaran_bian.FBX
+- Assets/Art/Model/Scene/building/building_i/building_xmas_dun01_fangtai2.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_baobian07.FBX
+- Assets/Art/Model/Scene/building/building_i/building_room_xmas1_wuzi.FBX
+- Assets/Art/Model/Scene/building/building_i/building_aldebaran_matou.FBX
+- Assets/Art/Model/Scene/building/building_i/Guild_battle1_alb_xiaochuan.FBX
+- Assets/Art/Model/Scene/building/building_i/building_xmas_minju2.FBX
+- Assets/Art/Model/Scene/building/building_i/building_aldebaran_bridge.FBX
+- Assets/Art/Model/Scene/building/building_i/building_Guild_battle1_alb_louti.FBX
+- Assets/Art/Model/Scene/building/building_i/building_C_Tower_1F_zhonglouweiqiang.FBX
+- Assets/Art/Model/Scene/building/building_i/building_room_T5_qiangbi04.FBX
+- Assets/Art/Model/Scene/building/building_i/building_xmas_jiaotang.FBX
+- Assets/Art/Model/Scene/building/building_i/building_C_Tower_1F_jiqi.FBX
+- Assets/Art/Model/Scene/building/building_i/building_xmas_dun01_fangtai.FBX
+- Assets/Art/Model/Scene/building/building_i/building_xmas_xunluzhan.FBX
+- Assets/Art/Model/Scene/building/building_i/building_C_Tower_1F_qingbi4.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_baobian06.FBX
+- Assets/Art/Model/Scene/building/building_i/building_room_T5_bangongshi2.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_baobian03.FBX
+- Assets/Art/Model/Scene/building/building_i/building_kafrawar_wutai.FBX
+- Assets/Art/Model/Scene/building/building_i/building_C_Tower_1F_dizuo.FBX
+- Assets/Art/Model/Scene/building/building_i/building_C_Tower_1F_dimianzhong.FBX
+- Assets/Art/Model/Scene/building/building_i/building_Guild_battle2_pay_ditai.FBX
+- Assets/Art/Model/Scene/building/building_i/building_room_xmas3.FBX
+- Assets/Art/Model/Scene/building/building_i/building_xmas_rukou.FBX
+- Assets/Art/Model/Scene/building/building_i/building_C_Tower_1F_chilundong.FBX
+- Assets/Art/Model/Scene/building/building_i/building_room_xmas2.FBX
+- Assets/Art/Model/Scene/building/building_i/building_xmas_shangdian.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_baobian10.FBX
+- Assets/Art/Model/Scene/building/building_i/building_C_Tower_1F_guangchangdizhuan.FBX
+- Assets/Art/Model/Scene/building/building_i/building_aldebaran_langan.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_ground06.FBX
+- Assets/Art/Model/Scene/building/building_i/building_room_prt_2F_chuanghu.FBX
+- Assets/Art/Model/Scene/building/building_i/buliding_prontra 0926_gonghuidiaoxiang.FBX
+- Assets/Art/Model/Scene/building/building_i/building_room_T5_louti.FBX
+- Assets/Art/Model/Scene/building/building_i/building_C_Tower_1F_weilan.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_baobian17.FBX
+- Assets/Art/Model/Scene/building/building_i/building_xmas_ditai.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_baobian04.FBX
+- Assets/Art/Model/Scene/building/building_i/building_room_prt_2F_chuanghu1.FBX
+- Assets/Art/Model/Scene/building/building_i/building_aldebaran_fang01.FBX
+- Assets/Art/Model/Scene/building/building_i/building_aldebaran_kabula.FBX
+- Assets/Art/Model/Scene/building/building_i/building_guildgarden_enter_pingtai002.FBX
+- Assets/Art/Model/Scene/building/building_i/building_C_Tower_1F_guanzi.FBX
+- Assets/Art/Model/Scene/building/building_i/building_aldebaran_lianjinfang.FBX
+- Assets/Art/Model/Scene/building/building_i/building_room_T5_bangongshi3.FBX
+- Assets/Art/Model/Scene/building/building_i/building_battle1_pay_louti01.FBX
+- Assets/Art/Model/Scene/building/building_i/building_aldebaran_jingdian.FBX
+- Assets/Art/Model/Scene/building/building_i/building_aldebaran_louti.FBX
+- Assets/Art/Model/Scene/building/building_i/building_xmas_dun01_fangtai3.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_baobian02.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_baobian16.FBX
+- Assets/Art/Model/Scene/building/building_i/building_aldebaran_fengchefang.FBX
+- Assets/Art/Model/Scene/building/building_i/building_xmas_dun01_fangtai4.FBX
+- Assets/Art/Model/Scene/building/building_i/building_xmas_maxi.FBX
+- Assets/Art/Model/Scene/building/building_i/building_prt_4_minju1.FBX
+- Assets/Art/Model/Scene/building/building_i/building_prt_4_minju2.FBX
+- Assets/Art/Model/Scene/building/building_i/building_C_Tower_1F_xiaojixiezhu.FBX
+- Assets/Art/Model/Scene/building/building_i/building_aldebaran_kafeiguan.FBX
+- Assets/Art/Model/Scene/building/building_i/building_guildgarden_enter_tizi001.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_fangtai01.FBX
+- Assets/Art/Model/Scene/building/building_i/building_xmas_dun01_qiangbi2.FBX
+- Assets/Art/Model/Scene/building/building_i/building_room_T5_dizuo02.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_ground03.FBX
+- Assets/Art/Model/Scene/building/building_i/building_C_Tower_1F_damen.FBX
+- Assets/Art/Model/Scene/building/building_i/building_prt_4_minju4.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_guildgarden_bt4_pingtai.FBX
+- Assets/Art/Model/Scene/building/building_i/building_C_Tower_1F_dimianzhong2.FBX
+- Assets/Art/Model/Scene/building/building_i/building_xmas_gongmen.FBX
+- Assets/Art/Model/Scene/building/building_i/building_aldebaran_qiang.FBX
+- Assets/Art/Model/Scene/building/building_i/building_room_T5_qiangbi03.FBX
+- Assets/Art/Model/Scene/building/building_i/building_aldebaran_shuifang.FBX
+- Assets/Art/Model/Scene/building/building_i/building_room_T5_qiangbi01.FBX
+- Assets/Art/Model/Scene/building/building_i/building_room_clock1_dizuo.FBX
+- Assets/Art/Model/Scene/building/building_i/diban.mat
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_baobian14.FBX
+- Assets/Art/Model/Scene/building/building_i/building_guildgarden_enter_tizi002.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_baobian08.FBX
+- Assets/Art/Model/Scene/building/building_i/room_xmas2_fengding.FBX
+- Assets/Art/Model/Scene/building/building_i/building_room_prt_1F_ding.FBX
+- Assets/Art/Model/Scene/building/building_i/building_aldebaran_zhonglou.FBX
+- Assets/Art/Model/Scene/building/building_i/surface_battle1_pay_ground04.FBX
+- Assets/Art/Model/Scene/building/building_i/building_clocktower2_shibei.FBX
+- Assets/Art/Model/Scene/building/building_i/building_xmas_qiang.FBX
+- Assets/Art/Model/Scene/building/building_i/building_C_Tower_1F_zhong.FBX
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_m.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/thing/thing_i.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_k.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_g.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_i.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_j.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_b.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_d.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/surface_c.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/surface
+  texture/materials.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/surface/surface_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/scene/thing/thing_e.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_m/materials.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/model/role/body/npc/guild_door2.unity3d

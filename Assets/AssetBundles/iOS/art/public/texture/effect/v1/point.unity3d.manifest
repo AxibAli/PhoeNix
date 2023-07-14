@@ -1,0 +1,93 @@
+ManifestFileVersion: 0
+CRC: 685633265
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 051ecbf430ad6276fab713c0fdaadff0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/effect/v1/point/flash_0027.mat
+- Assets/Art/Public/Texture/effect/v1/point/stone001_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/point/lord_blast_d_002_add.mat
+- Assets/Art/Public/Texture/effect/v1/point/shuimo_00016_add_h.mat
+- Assets/Art/Public/Texture/effect/v1/point/lightball_01.png
+- Assets/Art/Public/Texture/effect/v1/point/stone002.png
+- Assets/Art/Public/Texture/effect/v1/point/igle_c.bmp
+- Assets/Art/Public/Texture/effect/v1/point/dust_part2.png
+- Assets/Art/Public/Texture/effect/v1/point/dust_part.bmp
+- Assets/Art/Public/Texture/effect/v1/point/lizi_00015a.png
+- Assets/Art/Public/Texture/effect/v1/point/renquan_add.mat
+- Assets/Art/Public/Texture/effect/v1/point/igle_c_add_order65.mat
+- Assets/Art/Public/Texture/effect/v1/point/renquan_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/point/lizi_00016_add_order56_h.mat
+- Assets/Art/Public/Texture/effect/v1/point/dust_part_add.mat
+- Assets/Art/Public/Texture/effect/v1/point/dust_part2_add.mat
+- Assets/Art/Public/Texture/effect/v1/point/point_02_add_order96.mat
+- Assets/Art/Public/Texture/effect/v1/point/point_03.png
+- Assets/Art/Public/Texture/effect/v1/point/dust_part2_add_mask.mat
+- Assets/Art/Public/Texture/effect/v1/point/freeze_ice_part1.png
+- Assets/Art/Public/Texture/effect/v1/point/boom_add_add_F.mat
+- Assets/Art/Public/Texture/effect/v1/point/point_04_add.mat
+- Assets/Art/Public/Texture/effect/v1/point/pokjuk_c_add.mat
+- Assets/Art/Public/Texture/effect/v1/point/freeze_ice_part_add.mat
+- Assets/Art/Public/Texture/effect/v1/point/stone002_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/point/flash_0027.png
+- Assets/Art/Public/Texture/effect/v1/point/lord_blast_d_003_add_order147.mat
+- Assets/Art/Public/Texture/effect/v1/point/pokjuk_a_add_order71.mat
+- Assets/Art/Public/Texture/effect/v1/point/lizi_00016_add_F.mat
+- Assets/Art/Public/Texture/effect/v1/point/renquan_alpha_F.mat
+- Assets/Art/Public/Texture/effect/v1/point/pokjuk_a.png
+- Assets/Art/Public/Texture/effect/v1/point/glow042_add_order123.mat
+- Assets/Art/Public/Texture/effect/v1/point/lord_blast_d_01_add.mat
+- Assets/Art/Public/Texture/effect/v1/point/lord_blast_e_add.mat
+- Assets/Art/Public/Texture/effect/v1/point/ponit_001.png
+- Assets/Art/Public/Texture/effect/v1/point/point_04.png
+- Assets/Art/Public/Texture/effect/v1/point/glow042_add_order122.mat
+- Assets/Art/Public/Texture/effect/v1/point/point_02.png
+- Assets/Art/Public/Texture/effect/v1/point/Ef_Sparkle_019_2x2_xm.mat
+- Assets/Art/Public/Texture/effect/v1/point/lizi_00016.png
+- Assets/Art/Public/Texture/effect/v1/point/glow042.png
+- Assets/Art/Public/Texture/effect/v1/point/dust_part2_add_mask_005.mat
+- Assets/Art/Public/Texture/effect/v1/point/freeze_ice_part.png
+- Assets/Art/Public/Texture/effect/v1/point/lord_blast_d_003.png
+- Assets/Art/Public/Texture/effect/v1/point/lord_blast_b_small_add.mat
+- Assets/Art/Public/Texture/effect/v1/point/Ef_Sparkle_019_2x2_xm.png
+- Assets/Art/Public/Texture/effect/v1/point/ponit_001_order72.mat
+- Assets/Art/Public/Texture/effect/v1/point/lord_blast_b_small.png
+- Assets/Art/Public/Texture/effect/v1/point/renquan.png
+- Assets/Art/Public/Texture/effect/v1/point/point_02_alpha.mat
+- Assets/Art/Public/Texture/effect/v1/point/boom_add.png
+- Assets/Art/Public/Texture/effect/v1/point/light_0002_add_f.mat
+- Assets/Art/Public/Texture/effect/v1/point/ponit_001_add.mat
+- Assets/Art/Public/Texture/effect/v1/point/lord_blast_e.bmp
+- Assets/Art/Public/Texture/effect/v1/point/light_0002.png
+- Assets/Art/Public/Texture/effect/v1/point/wuti_00033.tga
+- Assets/Art/Public/Texture/effect/v1/point/shuimo_00016.tga
+- Assets/Art/Public/Texture/effect/v1/point/lizi_00016_add_order56.mat
+- Assets/Art/Public/Texture/effect/v1/point/point_03_add.mat
+- Assets/Art/Public/Texture/effect/v1/point/lord_blast_d_01.bmp
+- Assets/Art/Public/Texture/effect/v1/point/pokjuk_c.bmp
+- Assets/Art/Public/Texture/effect/v1/point/lightball_01_add.mat
+- Assets/Art/Public/Texture/effect/v1/point/renquan_add_F.mat
+- Assets/Art/Public/Texture/effect/v1/point/lord_blast_d_002.png
+- Assets/Art/Public/Texture/effect/v1/point/freeze_ice_part1_add_order55.mat
+- Assets/Art/Public/Texture/effect/v1/point/light_0002_add.mat
+- Assets/Art/Public/Texture/effect/v1/point/point_04_add_h.mat
+- Assets/Art/Public/Texture/effect/v1/point/boom_add_add.mat
+- Assets/Art/Public/Texture/effect/v1/point/lizi_00015a_add_h.mat
+- Assets/Art/Public/Texture/effect/v1/point/lizi_00015a_add_order76.mat
+- Assets/Art/Public/Texture/effect/v1/point/stone001.png
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/glow.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/wenli.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

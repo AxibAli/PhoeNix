@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2673234707
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 159e8b9151fec1fa295a6121c8f7c874
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Common/JobChange_Horn.wav
+Dependencies: []

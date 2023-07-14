@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 328985052
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca0a43a5c331fd965fd4ba42a15b7e8e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/CEStaff/playshow.anim
+- Assets/Art/Model/Role/Body/NPC/CEStaff/idle.anim
+- Assets/Art/Model/Role/Body/NPC/CEStaff/CEStaff.FBX
+- Assets/Art/Model/Role/Body/NPC/CEStaff/CEStaff.mat
+- Assets/Art/Model/Role/Body/NPC/CEStaff/CEStaff.png
+- Assets/Art/Model/Role/Body/NPC/CEStaff/AC_CEStaff.controller
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

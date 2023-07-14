@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2153483994
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 462b91386e57c1c977b564dc3dfc49ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Npc/MiuWork_4.wav
+Dependencies: []

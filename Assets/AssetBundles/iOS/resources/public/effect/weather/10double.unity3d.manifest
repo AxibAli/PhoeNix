@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 140555625
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d040054db4a5b9bd1f566a0d93941f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 724095197eb3c21995fabd4798b19c1b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d436cc15a736149a1b4b25049e7af1f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8300c39f069e348169aeadbc8d8c2031, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Effect/Weather/10Double.prefab
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/effect/v1/pic.unity3d

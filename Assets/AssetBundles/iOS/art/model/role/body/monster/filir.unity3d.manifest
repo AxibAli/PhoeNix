@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 2547941463
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf471181cedc0a471bf392e45e49c66e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Filir/AC_Filir.controller
+- Assets/Art/Model/Role/Body/Monster/Filir/walk_BeHold.anim
+- Assets/Art/Model/Role/Body/Monster/Filir/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Filir/happy.anim
+- Assets/Art/Model/Role/Body/Monster/Filir/eat.anim
+- Assets/Art/Model/Role/Body/Monster/Filir/be_touch.anim
+- Assets/Art/Model/Role/Body/Monster/Filir/Filir.FBX
+- Assets/Art/Model/Role/Body/Monster/Filir/Filir.tga
+- Assets/Art/Model/Role/Body/Monster/Filir/wait_BeHold.anim
+- Assets/Art/Model/Role/Body/Monster/Filir/skill_ready.anim
+- Assets/Art/Model/Role/Body/Monster/Filir/walk.anim
+- Assets/Art/Model/Role/Body/Monster/Filir/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Filir/use_skill.anim
+- Assets/Art/Model/Role/Body/Monster/Filir/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Filir/Filir.mat
+- Assets/Art/Model/Role/Body/Monster/Filir/die.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

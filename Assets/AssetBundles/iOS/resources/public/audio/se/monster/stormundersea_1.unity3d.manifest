@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3105484543
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d62b8e138876eb2992956dcfedd9349
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Monster/StormUnderSea_1.wav
+Dependencies: []

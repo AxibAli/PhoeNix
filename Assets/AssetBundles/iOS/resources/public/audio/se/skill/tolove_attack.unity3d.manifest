@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1198963753
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a81c6b7a23efda3c06c1833b04e6b0f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Public/Audio/SE/Skill/ToLove_attack.wav
+Dependencies: []

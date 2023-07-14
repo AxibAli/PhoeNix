@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1010652657
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 367bf2f2fe6bff2227f49435b14747e3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1024d6c57be65da4c28a45bd200b486
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Enviroment/skysea/sky_izdun02.png
+Dependencies: []

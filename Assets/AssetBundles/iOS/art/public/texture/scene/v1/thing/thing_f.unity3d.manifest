@@ -1,0 +1,92 @@
+ManifestFileVersion: 0
+CRC: 2451223937
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 26566dd136bdfc2d32bc92aabe8daffd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_prontra_shengdanshu_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_honeyCar_yun1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_room_prt_church_shixiang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_honeyCar_dizuo.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_honeyCar_dizuo.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_gef_kobold_ditan.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_prontra_shengdanshu_1a.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_get_fild12_jitai_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_ro_xiangkuang.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_prontra_xiaoshengdanshu.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_honeyCar_light1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_ro_zhaopian1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_ro_zhaopian9.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_RO_shiwutan.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_prontra_shengdanshu_3.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_glt_s_jixie2_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_room_prt_church_podium1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_prontra_xiaoshengdanshu.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_glt_s_jixie2_2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_prontra_shengdanshu_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_glt_s_things2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_RO_shiwutan2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_glt_s_jixie1_02.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_ro_zhaopian17.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_get_fild12_jitai_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_glt_s_things.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_glt_s_jixie2_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_gef_kobold_ditan.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_gf_fumo_1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_glt_s_things2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_ro_zhaopian8.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_room_prt_church_organ.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_glt_s_jixie1_02.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_gef_kobold_ditan_b.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_gf_fumo_2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_ro_zhaopian18.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_gf_fumo_1 U.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_room_prt_church_shixiang.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_gf_fumo_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_prontra_shengdanshu_2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_yuno_fild1_penquan1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_get_fild12_jitai_2.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_honeyCar_wujian.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_prontra_shengdanshu_1b.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_glt_s_jixie1_01.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_room_prt_church_organ.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_glt_s_things.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/men.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_glt_s_jixie2_3.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_glastham_diaoxiang.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_gf_fumo_3.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_room_prt_church_shadow.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_gf_fumo_3.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_glastham_diaoxiang.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_room_prt_church_shadow.png
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_prontra_shengdanshu_2.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_gf_fumo_2 U.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_yuno_fild1_penquan1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_glt_s_jixie1_01.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_honeyCar_wujian.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_get_fild12_jitai_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_RO_shiwutan.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_honeyCar_light1.mat
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_ro_zhaopian21.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_gf_fumo_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_ro_zhaopian16.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_honeyCar_yun1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_glt_s_jixie2_3.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_room_prt_church_podium1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_glt_s_jixie2_1.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/men.tga
+- Assets/Art/Public/Texture/Scene/v1/thing/thing_f/thing_gf_fumo_3 U.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

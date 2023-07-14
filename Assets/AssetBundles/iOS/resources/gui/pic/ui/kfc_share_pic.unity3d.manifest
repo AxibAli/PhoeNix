@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4026421977
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11d8d3028086c1edb8188516af009658
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/UI/kfc_share_pic.jpg
+Dependencies: []

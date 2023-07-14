@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3529389296
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 463c2faa27066374966d617756d041a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/NPC/FreshFlower/state1002.anim
+- Assets/Art/Model/Role/Body/NPC/FreshFlower/FreshFlower.png
+- Assets/Art/Model/Role/Body/NPC/FreshFlower/AC_FreshFlower.controller
+- Assets/Art/Model/Role/Body/NPC/FreshFlower/FreshFlower.FBX
+- Assets/Art/Model/Role/Body/NPC/FreshFlower/FreshFlower.mat
+- Assets/Art/Model/Role/Body/NPC/FreshFlower/state1001.anim
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3665322454
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fee2cd9f94ead70671f23b3b0d3dccff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73412a662fd4e4f36af34cbdf078b85
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/GUI/pic/UI/pet_bg_tex.png
+Dependencies: []

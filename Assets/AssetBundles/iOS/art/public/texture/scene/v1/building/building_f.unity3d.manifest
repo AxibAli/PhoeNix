@@ -1,0 +1,86 @@
+ManifestFileVersion: 0
+CRC: 2704845060
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e4da431dcac8db44681afeb64a21414
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/bulding_iz_dun02_piandian_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/bulding_iz_dun02_Obelisk_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/geffen_ludeng_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_geffen_wa.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/izdun_2_louti.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/room_test_building_3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/room_test_building.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_end_fengche.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/building_room_test_2men.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_mjolnir_jitan_b.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/surface_room_test_box.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/room_test_building_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_ghostship_chuanban3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_FristArea_chengbao.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_mjolnir_jitan.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/bulding_iz_dun02_piandian_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_ghostship_BJmuliang.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_ghostship_BJchuanban.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_fengche caowu_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_ghostship_BJchuanban.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/bulding_iz_dun02_piandian_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_mjolnir_jitan.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_geffen_wa_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_fengche caowu_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/room_test_wall_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/room_test_building.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_ghostship_chuanban1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/room_test_wall.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/bulding_iz_dun02_Obelisk_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_mjolnir_jitan_b.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_ghostship_qiang1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/bulding_iz_dun02_piandian_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_mjolnir_jitan2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/geffen_dizhuan.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/geffen_dizhuan.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/bulding_iz_dun02_Obelisk_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/ludeng_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_geffen_wa_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_destre_shiqiang.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/room_test_wall.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_bianmen1_1.png
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/room_test_building_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/izdun_2_inwall_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/izdun_2_inwall_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_ghostship_qiang1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/bulding_iz_dun02_piandian_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/bulding_iz_dun02_Obelisk_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/izdun_2_qiang.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/izdun_2_qiang.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_ghostship_chuanban1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_destre_shiqiang.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_FristArea_chengbao.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/room_test_building_3.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_ghostship_chuanban3.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_fengche caowu_2.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/surface_room_test_box.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_mjolnir_jitan2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/izdun_2_louti.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_geffen_wa.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_bianmen1_1.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/bulding_iz_dun02_piandian_1.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_ghostship_BJmuliang.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/building_room_test_2men.mat
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/buliding_fengche caowu_2.tga
+- Assets/Art/Public/Texture/Scene/v1/building/building_f/room_test_wall_2.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/art/public/texture/scene/v1/building/building_a.unity3d
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d

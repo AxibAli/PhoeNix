@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 740613289
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ae8041b18c333ea30e0dcdda160dc27
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c15a522b14eca506c1ce16c8129c6f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Role/Body/Monster/Whisper/hit.anim
+- Assets/Art/Model/Role/Body/Monster/Whisper/walk_BeHold.anim
+- Assets/Art/Model/Role/Body/Monster/Whisper/Whisper.tga
+- Assets/Art/Model/Role/Body/Monster/Whisper/die.anim
+- Assets/Art/Model/Role/Body/Monster/Whisper/happy.anim
+- Assets/Art/Model/Role/Body/Monster/Whisper/Whisper.png
+- Assets/Art/Model/Role/Body/Monster/Whisper/eat.anim
+- Assets/Art/Model/Role/Body/Monster/Whisper/wait.anim
+- Assets/Art/Model/Role/Body/Monster/Whisper/Whisper.FBX
+- Assets/Art/Model/Role/Body/Monster/Whisper/be_touch.anim
+- Assets/Art/Model/Role/Body/Monster/Whisper/attack.anim
+- Assets/Art/Model/Role/Body/Monster/Whisper/wait_BeHold.anim
+- Assets/Art/Model/Role/Body/Monster/Whisper/AC_Whisper.controller
+- Assets/Art/Model/Role/Body/Monster/Whisper/walk.anim
+- Assets/Art/Model/Role/Body/Monster/Whisper/Whisper.mat
+Dependencies:
+- E:/ROM/rebuilt.1/Develop_IOS/Assets/AssetBundles/iOS/resources/public/shader.unity3d
