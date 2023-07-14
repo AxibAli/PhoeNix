@@ -1,0 +1,2 @@
+C:\Users\Hp\Downloads\Archive\Buildios-2\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\Archive\Buildios-2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
